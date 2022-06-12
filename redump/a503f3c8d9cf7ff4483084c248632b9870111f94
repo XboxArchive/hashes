@@ -1,0 +1,389 @@
+d5011b16ed9297939375be53de3e5e91f1d1edef  Attract/Attract1.stream
+5add5e03b6524834ed0765078ee8f7a9655cee43  Attract/Attract2.stream
+57c03af1cc4c86ff9451fa0d2630bcaf34394e5f  Attract/Attract3.stream
+2ff35b47fe9dded7804a7693761bd7a66542cef3  Attract/Attract4.stream
+750d75add90a82de92270c5395f2b81a737f3c32  Audio/Chapter1_1-HD.xwb
+5914279b0cc5a5f17c22ec8e7a9364dab95f4b22  Audio/Chapter1_2-HD.xwb
+dccb006f50992b1943d521cfd6aa3969b9cd232c  Audio/Chapter2_1-HD.xwb
+9ff5db31b9f55d6e75bf46d2f78f538e9c2485a5  Audio/Chapter2_2-HD.xwb
+e941697bc01e89139fbec51e798cd07080a7aa94  Audio/Chapter3_1-HD.xwb
+e26e453a8f59530b545d2c26c2ee99a08f535cc3  Audio/Chapter3_2-HD.xwb
+22bb2bd1f11b63c51fafaec5158d88c088ac4257  Audio/Chapter4_1-HD.xwb
+63de534493daa1e9e4cded523f18108054db8fbb  Audio/Chapter4_2-HD.xwb
+c3238af10d90e5ecd279c3b3380eb973d260c47a  Audio/Chapter5_1-HD.xwb
+2d619e66c668fe5a3b8a2cc4de55606698053cff  Audio/Chapter6_1-HD.xwb
+6daf80174fb1b02b3ddb4998a7be3db17b301510  Audio/Chapter6_2-HD.xwb
+31f020a39e6fb2d0f26cb17aa109b159c1b5a7a6  Audio/Devereux-HD.xwb
+cd083a456950ccc9c4e72d9dd3ac293714260190  Audio/General-HD.xwb
+b7ac09aed8b86ad9667e7841f685ef4a0f056226  Audio/Ingame-HD.xwb
+ffbcb2d603ebb2a4e3ba8cb5a3183a0709979b11  Audio/Mendez-HD.xwb
+0678bca7ed7fa57e7da11585feb8921a7633bb52  Audio/Music-DVD.xwb
+85c96e8361ce93ff74ccf4ae09d9b1ae276fa776  Audio/Ota-HD.xwb
+6aa6820abf36a449653a0bb066dd5f5e0ccd4198  Audio/Picoli-HD.xwb
+2e096bdb67cbc4abcf5a002cbad3397091823a1e  Audio/Shehadi-HD.xwb
+5ce2467581f1c34a40adfd08804f9134bc1f7d2d  Audio/Shimenski-HD.xwb
+06afaf4f6f311e8f2dd72a6322c63cbfe3f2f82d  Audio/Silverman-HD.xwb
+837778759eb5dc3088e0ac22af093f5035ea1e70  Audio/Williams-HD.xwb
+a968de03a86a1ea606adffc4c6934b777513888c  Audio/mapZoom-Mem.xwb
+8dbd028615a24cd69c28d73701e3c1e344bf9ae0  Audio/mapZoom.xsb
+5d516f01f61acbfed26608c5ca01f0c6cb3fb272  Audio/training1-HD.xwb
+eb4601ca003e7e205f7112838a2be359e5698196  Chapters/Chapter1_1.PAK
+c3fd107fb34fda0a0438fdec47fff239ddd083ae  Chapters/Chapter1_2.PAK
+692e693b2a9bd409f56e2088225a2ca7e7b2be92  Chapters/Chapter2_1.PAK
+a9e4c23f7c095edc98c0503c4b02bcc0d84bf0c0  Chapters/Chapter2_2.PAK
+c93c32f2bd574dc68eafd6df64be04855a7b170e  Chapters/Chapter3_1.PAK
+254b593cfb0e0302d0b593ea3c5d330b881575ba  Chapters/Chapter3_2.PAK
+5b08783951bbe31199b4c3ee01c0f0cc102eefa4  Chapters/Chapter4_1.PAK
+d1d7ded94e7dc8fb24227bb166d4abe0c5eb2556  Chapters/Chapter4_2.PAK
+b06800b56a9a68377c8033a021ba340e38a9fe02  Chapters/Chapter5_1.PAK
+ad21177b00b3625ed5a262d61a1073c778e6cd64  Chapters/Chapter6_1.PAK
+cffa067388c04361093f15d70ac7c839bab8ed30  Chapters/Chapter6_2.PAK
+221784640841484b78af4d69c6c8ea2883466a79  Chapters/Shell.pak
+992f1ce306e4ecccd6c49985f67f72a9c6dc8f98  Chapters/Training1.PAK
+2b706349494d86a3960f315d7edce3c04e21665d  Cinematics/chapter1_1.cin
+bf059650bf7b0f2b8c644f8a0e4fbc3148c92384  Cinematics/chapter1_2.cin
+6779ba9abec5f3d7b09fe0d699c3138c8a2b8ab7  Cinematics/chapter2_1.cin
+78ea464efb7890a8201d176eeeb861194e7cd140  Cinematics/chapter2_2.cin
+ed0eb3aaa731e06b79ab744a08e09eedcf7c6388  Cinematics/chapter3_1.cin
+ebe0fbba856a8344220b11bfbaf0b8c3a2fcfb1f  Cinematics/chapter3_2.cin
+4aa9fbb4c13842c6c3b8db963d7442c6fc6c2741  Cinematics/chapter4_1.cin
+08b98a3434ab47128d291b46b44e2642e5a4b3fc  Cinematics/chapter4_2.cin
+6e64bbc6302c842e9cc2d9d577b98069a1dbc504  Cinematics/chapter5_1.cin
+1e8ad2e6685e0cb06fbbd2cf07c4ec5db3e8085f  Cinematics/chapter5_2.cin
+b3d676c4056b08af367247a6982d9031bb90f09b  Cinematics/chapter6_1.cin
+87a7686845b042279006cc86aa651d3c05b6a945  Cinematics/chapter6_2.cin
+ac2e962e13a35a613ac8997776420e1b4e1a1ffe  Cinematics/common.cin
+f6a66bdc614652b2a30ef260bd3bfab8ca3534f0  Cinematics/training1.cin
+35e054a3a91471ae765135d11caaff5efaf1926b  Data/ADDON/CForceLogoSplash2.dds
+f8eda02176dd9756e8150f3645c65a9bec2468e0  Data/DATA/C-Force/Audio/Ambient.xsb
+7b60b717d18b1d71d7f21c698912160936827823  Data/DATA/C-Force/Audio/Effects.xsb
+e4a8ffb64c1cc6175d6986cdec9f78d0fd1f68c2  Data/DATA/C-Force/Audio/Ingame-HD.xwb
+77a54d111c26f6f848bccdda1ab01af5550e5a5d  Data/DATA/C-Force/Audio/Ingame-Mem.xwb
+a4fe7b15eb8225d26c4febf22044431f2b2f7820  Data/DATA/C-Force/Audio/Menu.xsb
+53b96e178d103bdab51464a90fcacbd9b6938b6a  Data/DATA/C-Force/Audio/Music.xsb
+78905b154c9b78e574bfa619b7f464cf27fefb08  Data/DATA/C-Force/Audio/Shell-DVD.xwb
+237f34bba8fd5c5c2e9c5ca6a30699a3bcccc3ff  Data/DATA/C-Force/Audio/Shell-Mem.xwb
+0e8525f33507933d67846086dea513e8d6f7f6b5  Data/DATA/C-Force/Audio/Speech.xsb
+2937ca9e48411e2d22921be866d6d8c52ffb2ea3  Data/DATA/C-Force/Audio/SpeechArmy.xsb
+087c3f2b71038369e87812e048b9777af371a30e  Data/DATA/C-Force/Audio/SpeechE3.xsb
+87e5e249000b778c15e8ff0cb0e588219e03a58a  Data/DATA/C-Force/Audio/VOAI.csv
+ffe7c0c64135a19b6a3c0f237aadb5059cce268a  Data/DATA/C-Force/Audio/dspImage1.bin
+90b201e489eeda3d1e6f4dbda5bdb796fc61b41d  Data/DATA/C-Force/Audio/dsstdfx.bin
+f89b7001db5822c426456373238ddf7468ea1454  Data/DATA/C-Force/CF Effects/AK_flash.pse
+7537bc23b874c97a25f8e623b223cb238897c13f  Data/DATA/C-Force/CF Effects/E3_truckfire.pse
+4050f55d4fb5c0da147a84fffd420125ec4dd759  Data/DATA/C-Force/CF Effects/E3_truckfire0.pse
+f71cadff57897cfcd1509e71993278a669dd1a05  Data/DATA/C-Force/CF Effects/E3_trucksmoke.pse
+2f54d5689f5cbed1a663322344207393ac32fc4d  Data/DATA/C-Force/CF Effects/bullet_hit3.pse
+677a78ee8bcb9ee62313ee39f90c3e799f88ef90  Data/DATA/C-Force/CF Effects/bullet_hitSAW.pse
+c48d9437c57b4d5001090a81332f9669bb8b8716  Data/DATA/C-Force/CF Effects/bullet_hit_carpet.pse
+c48d9437c57b4d5001090a81332f9669bb8b8716  Data/DATA/C-Force/CF Effects/bullet_hit_default.pse
+011dc1672a043bc51be0d2f67c626ee051d3d15f  Data/DATA/C-Force/CF Effects/bullet_hit_flesh.pse
+c48d9437c57b4d5001090a81332f9669bb8b8716  Data/DATA/C-Force/CF Effects/bullet_hit_fluid.pse
+c48d9437c57b4d5001090a81332f9669bb8b8716  Data/DATA/C-Force/CF Effects/bullet_hit_glass.pse
+97b1826e55d57c5567f89c1cfc87e0b984516264  Data/DATA/C-Force/CF Effects/bullet_hit_gravel.pse
+2574512610317f15fe2eac126e5bd6ab20c00611  Data/DATA/C-Force/CF Effects/bullet_hit_metal.pse
+19f47d01fe67888ad2e8bf0424908ab12f1e1505  Data/DATA/C-Force/CF Effects/bullet_hit_stone.pse
+c48d9437c57b4d5001090a81332f9669bb8b8716  Data/DATA/C-Force/CF Effects/bullet_hit_wood.pse
+116be7288be50533f4169f87ae536b4222610b9d  Data/DATA/C-Force/CF Effects/chopperdust.pse
+59960710f695c21e7df8df243ce320185038335b  Data/DATA/C-Force/CF Effects/chopperdust2.pse
+4501b771d89773bb6a5d5de8239c9574094b36d1  Data/DATA/C-Force/CF Effects/chuck_hit_wood.pse
+b01043233896cee7ba7c9b65f0e5df97dade8e70  Data/DATA/C-Force/CF Effects/chunk_hit.pse
+276cfde2d037d249e84748cba29c91c302828bbb  Data/DATA/C-Force/CF Effects/dirtwave.msh
+8040ccccf20be36584a76bed372df2cad0335e98  Data/DATA/C-Force/CF Effects/heatpattern2.bmp
+f24d1717966496172438e9f2503ba4c95e3d9d35  Data/DATA/C-Force/CF Effects/hiteffect.pse
+a892219657d10672e5b36e7cecbe4d4b80415ba8  Data/DATA/C-Force/CF Effects/hiteffectBlood.pse
+f394db930baf58b951885750fd025f4794a3b493  Data/DATA/C-Force/CF Effects/housefire.pse
+a1cfd587621c637f3b5edef81226bc4f1ac2cf37  Data/DATA/C-Force/CF Effects/leaf.msh
+19c18599ad296b19c06303f2f7953b069a8b180e  Data/DATA/C-Force/CF Effects/leaf3.msh
+ad1e960cb46cd5233885e473df1027e07b77b29b  Data/DATA/C-Force/CF Effects/leaf4.msh
+77b49fbd5967a8c0e64ed09590cabf048d3ed86c  Data/DATA/C-Force/CF Effects/leaf5.msh
+34e546277d162fa958e09ff47ccd2d093f62e587  Data/DATA/C-Force/CF Effects/leaf6.msh
+d5d2b23e09035a440f7e8ff538312e10f5a1b239  Data/DATA/C-Force/CF Effects/leaf7.msh
+a03bc0ea961fb11daf21633878b08c093236d0e5  Data/DATA/C-Force/CF Effects/leaf8.msh
+30a8a3add2043c8fd4e015ba8e3ad35acad520b5  Data/DATA/C-Force/CF Effects/m67_explosion.pse
+f12ab2a3f97f5e8a471b1151e64c2b3c1398c908  Data/DATA/C-Force/CF Effects/muzzle_flash1.pse
+16b4aea990193b12c150a24e45a05dce0ae31a39  Data/DATA/C-Force/CF Effects/muzzle_flash2.pse
+6415deb410eb5dca93f4314a8235b2a6615add63  Data/DATA/C-Force/CF Effects/muzzle_flashSAW.pse
+27e53f881043ce676401062f8facf5978238ca0b  Data/DATA/C-Force/CF Effects/muzzle_flash_ak47.pse
+63bee940330cb2fa49ed147c0d9f55899fe46bfb  Data/DATA/C-Force/CF Effects/muzzle_flash_crewserve.pse
+27e53f881043ce676401062f8facf5978238ca0b  Data/DATA/C-Force/CF Effects/muzzle_flash_m4.pse
+9df18c87c714553001f58e8207dbb7815f1d01e3  Data/DATA/C-Force/CF Effects/muzzle_flash_saw.pse
+4dfae1248d99d223a95ac64b8220129a7d37b075  Data/DATA/C-Force/CF Effects/paper.msh
+29abe8f20464b91f78258a2b6e376ca6461c6052  Data/DATA/C-Force/CF Effects/paper1.msh
+60f6b92c0265ff2bf0045345b682eece1ff88da4  Data/DATA/C-Force/CF Effects/paper2.msh
+5e54c5513603c6b37e29813435e02be617df9953  Data/DATA/C-Force/CF Effects/smoke_grenade.pse
+6c7f0c0390b9afe3c2aaee370a06fec317224d5f  Data/DATA/C-Force/CF Effects/step_dirt.pse
+401b806ac40f284f875e271eb237c192fee1255c  Data/DATA/C-Force/CSGOperands/cylinder.MSH
+b0d0a88783e5b2507683b38ae82678ca8cbf1f6a  Data/DATA/C-Force/CSGOperands/wallhole_generic.MSH
+f49511eb5b82ab95c3097b89376ce8b20c874c00  Data/DATA/C-Force/CSGOperands/walltest.MSH
+8a36641010f3f2728abf4ccfecf2deb03f5bc39e  Data/DATA/C-Force/CSGOperands/walltest2.msh
+b8184a0d052ef5493f258eab85cda282299f0519  Data/DATA/C-Force/Characters/OpForcePuppet1.msh
+ea98d653108e9de2d30749e191851b426e61c094  Data/DATA/C-Force/Characters/OpForcePuppet2.msh
+b0552fb2d384f04acc407949e6e5693a5d3119eb  Data/DATA/C-Force/Characters/animhead.msh
+ab8b25dafd57e4988f33c6525f2669f1a64b2b04  Data/DATA/C-Force/Characters/civilian.abk
+8dab10ef7eb44f8350c8f7d2376c67622cf0b489  Data/DATA/C-Force/Characters/civilianpuppet_1.msh
+419dde3813ae5f30f8c87d36a2e89cffff078fb8  Data/DATA/C-Force/Characters/civilianpuppet_2.msh
+56dfb18e8d1b5b5429588832eb08ae99b10754e7  Data/DATA/C-Force/Characters/civilianpuppet_3.msh
+55931736c71ab02c871331ee8ec1ca9a63f91798  Data/DATA/C-Force/Characters/soldier.abk
+bb5f2192995bcfc593a7a6fb763a16752f86e3b5  Data/DATA/C-Force/Characters/soldierpuppet_us1.msh
+83ffa3021b43d9a9043d29cd9218838956feebb3  Data/DATA/C-Force/Characters/soldierpuppet_us2.msh
+02d18f7fe5fc891c50ef031f1171ad6dd7d99b72  Data/DATA/C-Force/Characters/soldierpuppet_us3.msh
+f308e601626fe3933e91ea86aafbe0433315cb8e  Data/DATA/C-Force/Characters/soldierpuppet_us4.msh
+771054b2dd6618e03390d394fac61c5d58473e83  Data/DATA/C-Force/Characters/soldierpuppet_us5.msh
+72a7271e4d5e64311a4613e0012eb85ded3f2082  Data/DATA/C-Force/Characters/soldierpuppet_us6.msh
+26f6f5c80ef9e98a354649910500bbc63f032845  Data/DATA/C-Force/Characters/soldierpuppet_us7.msh
+559ce6f3a00115aad30b3b7602035b55a9751616  Data/DATA/C-Force/Characters/soldierpuppet_us8.msh
+3e3ac670ee3878033c781354f337b90766516bc3  Data/DATA/C-Force/Fonts/Ariel12.bmf
+d3e97d3e817b61c78bdbd39f44dc719b0f5eee1c  Data/DATA/C-Force/Fonts/ArielB12.bmf
+3802b4012d0f4b6b13bfad64f5bdccf3ea6abad4  Data/DATA/C-Force/Fonts/Console.fnt
+3d3f15b14393090853aa1b7b27745472c0c8d9b8  Data/DATA/C-Force/Fonts/Haett10.bmf
+ac1d8b1077e271ceb1b12fe0ca034cb0533753ed  Data/DATA/C-Force/Fonts/Haett10.fnt
+22b78659b8cdfdfc1d23b9ab886d3b1a58dab440  Data/DATA/C-Force/Fonts/Haett12.bmf
+d62278b7c3ce14893a77b392ffc49638457a94f6  Data/DATA/C-Force/Fonts/Haett12.fnt
+83b4bc53d7130f61a7a61b093c7e61824d59c7df  Data/DATA/C-Force/Fonts/Haett14.bmf
+7cd49ed48daa368490b77eb4af2e9a67d8402317  Data/DATA/C-Force/Fonts/Haett14.fnt
+b8243ee02a912afae751d2667d870a34018f838f  Data/DATA/C-Force/Fonts/Haett16.bmf
+0a1560c19d3548abb6f493c633e3560f036e5b77  Data/DATA/C-Force/Fonts/Haett16.fnt
+ed20085c18a16c68588722d4b48bd211adac00ed  Data/DATA/C-Force/Fonts/Haett18.bmf
+a49469f171ab4cf8eac53f52c394f056995df54f  Data/DATA/C-Force/Fonts/Haett18.fnt
+50613f960a86a031243519d2da7ae5271003b747  Data/DATA/C-Force/Fonts/HaettB16.bmf
+5d1cb2350529e51bcbe7bc5675dc7448b79e04b0  Data/DATA/C-Force/Fonts/Impact12.bmf
+fa6736d8b14c199c9f114152ad9b0c1a3cb0c5b7  Data/DATA/C-Force/Fonts/Impact14.bmf
+ada13f31b92c2e293ade14294e5bd3acc9d80648  Data/DATA/C-Force/Fonts/Impact14.fnt
+b8243ee02a912afae751d2667d870a34018f838f  Data/DATA/C-Force/Fonts/Impact16.bmf
+117ebe44ca2a44bf77e426821024727887c99240  Data/DATA/C-Force/Fonts/Impact20.bmf
+4470b7d445f133f527779bb4dc80c376441c4b4e  Data/DATA/C-Force/Fonts/Impact20.fnt
+cbcd01db39340ec2de4d69cbb0f092c0f4fc260b  Data/DATA/C-Force/Fonts/Impact24.bmf
+3802b4012d0f4b6b13bfad64f5bdccf3ea6abad4  Data/DATA/C-Force/Fonts/Lucida10.fnt
+a159bcbf0af5ae604ecf12ed95bd2fb0513b6806  Data/DATA/C-Force/Fonts/Lucida12.fnt
+288b16c97ed9f56df28ab65af5805b61d3f654dd  Data/DATA/C-Force/Fonts/Lucida14.fnt
+3e9ab6b006a5ad31ff95946d0106526c87f35391  Data/DATA/C-Force/Fonts/Lucida16.fnt
+dfcc1f9feb786f55708e21289dfcc5638670683e  Data/DATA/C-Force/Fonts/Lucida18.fnt
+5e98366447722e188f9cb455772887b5b7426d83  Data/DATA/C-Force/Fonts/stencil.bmf
+9d37978312733a7a11058006971b550f44913806  Data/DATA/C-Force/Fonts/stencil12.bmf
+747edf7d03b8c1262a92015a348fc6b8bd12840e  Data/DATA/C-Force/Fonts/stencil14.bmf
+ec4729c181def4bd3e8b39db27ebc123f2b166c8  Data/DATA/C-Force/HUD/HUDConfig.csv
+1cf972a242add6173759ae8ec5e4c865cbd02d2b  Data/DATA/C-Force/HUD/action_icon.msh
+b7fee03095e67d435c313f82db839e12a50bffe2  Data/DATA/C-Force/HUD/aidAI_icon.msh
+003d36512434f4bcc8eecdfed36396f646383491  Data/DATA/C-Force/HUD/alpha_icon.msh
+0b8ad96e473c6d8291fe8687faa882085b4d5975  Data/DATA/C-Force/HUD/alpha_text_icon.msh
+86ef3452476b6201d9fa9ce6586ab3c985b3d70b  Data/DATA/C-Force/HUD/bravo_icon.msh
+829f0ac6a98afc64a38e89012c3506b1cbca7dd6  Data/DATA/C-Force/HUD/bravo_text_icon.msh
+d84a823be5ff0fdbe75b02722793f177b33a88c9  Data/DATA/C-Force/HUD/breach.msh
+963cd742f59ffd2a30c50e62c970001f866b5192  Data/DATA/C-Force/HUD/busy.msh
+14d719931488d0e714e91c632895d01e9013fef0  Data/DATA/C-Force/HUD/climbstairs.msh
+57f7a0b8edc58fed74b4071c44f64a676cbd9c42  Data/DATA/C-Force/HUD/cornerAI_icon.msh
+b70e49cf993c1110ff04d7aa14b8fa9d0444e1ec  Data/DATA/C-Force/HUD/cover_icon.msh
+d055e656a077c791d457b1f3d89af146d633173e  Data/DATA/C-Force/HUD/cursor_amber.msh
+1bbaa622728e84b35f476b1684b076861c18fc0f  Data/DATA/C-Force/HUD/cursor_red.msh
+312e31ddb2437806062dc5710d7d8f617ae618af  Data/DATA/C-Force/HUD/cursor_yellow.msh
+8b022c72c5cb7cccd28667a1bef3911528ebd561  Data/DATA/C-Force/HUD/d_pad_AR_highlight.msh
+d77309eccca6c92d02990b1a2678c43be5bff943  Data/DATA/C-Force/HUD/d_pad_G_highlight.msh
+1348af4ea43471ee267ec9e7197e6d48015b5e99  Data/DATA/C-Force/HUD/d_pad_R_highlight.msh
+3677a033aac69ff6193f4dbf355bfa4608e68731  Data/DATA/C-Force/HUD/d_pad_TL_highlight.msh
+7bb491bee2dcfc193e17d967c3e19292e2d63842  Data/DATA/C-Force/HUD/doorAI_icon.msh
+1a14aa5a1f7aea22f6aed6b01fb589c47c29f969  Data/DATA/C-Force/HUD/dpad_icon.msh
+7dfda65a2177f19462be62296852faf240f8a366  Data/DATA/C-Force/HUD/dpad_text_icon.msh
+d7edca099a24f83ce20f783c3c1dbf9b79d83b8c  Data/DATA/C-Force/HUD/secure_ai.msh
+eebe6d0a7170514eb5863e8b071f32bdb8fc0788  Data/DATA/C-Force/HUD/stairsAI_icon.msh
+2fae2962ec80b362abbf2477322de1f7b89ea905  Data/DATA/C-Force/HUD/wallAI_icon.msh
+305d216d3615190b28e00cf3f31275133771da06  Data/DATA/C-Force/Menus/AARCivilianMenu.csv
+9faa39fc86c97ad3c2590166a43d86f841e36af4  Data/DATA/C-Force/Menus/AARMainMenu.csv
+a9dd9011d0c28df3bea91125b23223f657465df5  Data/DATA/C-Force/Menus/AARMapMenu.csv
+e526dbee99907d0a054f2d3e67e417592c992358  Data/DATA/C-Force/Menus/AAROpforMenu.csv
+a5eb4129e5d2124cc14e462060abe5c95d73c888  Data/DATA/C-Force/Menus/AARReportsMenu.csv
+2de796b2977cb6e3de8149d1604999c7977d9f1d  Data/DATA/C-Force/Menus/AARSquadMenu.csv
+5d438ad9192796109dc6439b893163b582f25e24  Data/DATA/C-Force/Menus/ControlsMenu.csv
+018940ca4ab4fe00894ed2e6727ec6ec42f76358  Data/DATA/C-Force/Menus/ControlsMenua.csv
+04240ef262056c2b479f1cbcf3137022a6680655  Data/DATA/C-Force/Menus/ControlsMenun.csv
+4dcbbd1d308023d654998a2d3961eb26a96ffafc  Data/DATA/C-Force/Menus/ControlsMenut.csv
+aa6af68864f72f44d1f3c280db1e3906657ad9b3  Data/DATA/C-Force/Menus/Disclaimer.txt
+d1a293e756a3f52f4c66f4d13fb60a375f3af9a0  Data/DATA/C-Force/Menus/DisclaimerLoginMenu.csv
+774511b8b1b04faf5a1121ffe4896b254b74cfb0  Data/DATA/C-Force/Menus/DisclaimerMenu.csv
+d16f93e33c1b3c2c69fa0316b010971106050310  Data/DATA/C-Force/Menus/EditorMenu.csv
+4e77211d75ffccd7b6a92c4c5f6b851d88b1a9e8  Data/DATA/C-Force/Menus/ExitConfirm.csv
+ba306d835118f5559ac22a1897fd1b9bf3a687f7  Data/DATA/C-Force/Menus/FirstLoginMenu.csv
+8a2f25d00db2a2adee44082a0bfb330d1c93544c  Data/DATA/C-Force/Menus/HUDMenus/HUDMapMenu.csv
+49432911a7f34b19ea48fc8b1221b0ccc06d7e1e  Data/DATA/C-Force/Menus/HUDMenus/HUDMenu.csv
+79cf11f6d974f9f73f7011cf58e214f8d7e2843b  Data/DATA/C-Force/Menus/HUDMenus/HUDReportingMenu.csv
+162e4f2928226dd0982ea20aaf52400a1137aada  Data/DATA/C-Force/Menus/INVENTORYMENU/InventoryMenu.csv
+a006ce11cb0421d85469be342b9ed47449742eaf  Data/DATA/C-Force/Menus/INVENTORYMENU/OutfittingMenu.csv
+aa8faa42c8c1b37bb433f015778724324b19ea78  Data/DATA/C-Force/Menus/InstructorMenu.csv
+82cd05b330b706e7350ec8147b8a1554911da1a5  Data/DATA/C-Force/Menus/LoginMenu.csv
+ed1abbcc3f9346383f4f8172d8e3724c94e9c9bc  Data/DATA/C-Force/Menus/MainMenu.csv
+f0312d50213ed1115d628599ceb5522cc0d363c1  Data/DATA/C-Force/Menus/MissionBriefingMenu1.csv
+1dd29e7869e19a4091f3230f7788538982f55e18  Data/DATA/C-Force/Menus/MissionSelectMenu.csv
+773a6a8389b836742b3ecb63c38d3dd9bdf9274a  Data/DATA/C-Force/Menus/PauseControlsMenu.csv
+198512a3264294a9b619e5878d00764f8e94e731  Data/DATA/C-Force/Menus/PauseControlsMenua.csv
+69a4f9a908732878097d246db4c72ad5c6fbe4b8  Data/DATA/C-Force/Menus/PauseControlsMenun.csv
+c4a09e2a925696cea21d7cd72bbc66c8e14eadf1  Data/DATA/C-Force/Menus/PauseControlsMenut.csv
+9f18a026ec3c6b73c28e2a2eeb92e504e24afe95  Data/DATA/C-Force/Menus/PauseEditorMenu.csv
+b0e610d59544f2b07a00889e3e9246aadae16396  Data/DATA/C-Force/Menus/PauseExitConfirm.csv
+0d377d2a4076d8ad66b8a799aa990d0473db6bf0  Data/DATA/C-Force/Menus/PauseExitConfirm.txt
+3a9fe2b6e7de39f9851425683688feccbfa5d9de  Data/DATA/C-Force/Menus/PauseMapMenu.csv
+5f1739c5f8774d1caa53d2d96f761d48251eb2f9  Data/DATA/C-Force/Menus/PauseMenu.csv
+d0b77288c226e5c956b0c81e15d09dc25eac716a  Data/DATA/C-Force/Menus/PauseObjectiveMenu.csv
+74bb619778864474b04c174d636f2cdc7d6e9234  Data/DATA/C-Force/Menus/PauseSquadMenu.csv
+bdd1f40af9a94ce38e4cd54bea3aebbe25c6be82  Data/DATA/C-Force/Menus/SampleUIControlPrototype.csv
+d9c39e67e7e575e8f04a3efe5bbd8e07c9f1b9f5  Data/DATA/C-Force/Menus/mission1/BriefMenu.csv
+3071a8091b937dd232850fc55f9edbd70a4df92e  Data/DATA/C-Force/Menus/mission1/MapMenu.csv
+f9e2c8481195fbd3eba0884be8f395a837d79ca5  Data/DATA/C-Force/Menus/mission1/Mission01Briefing.txt
+835beeb636de68fa9dc1f5e6303d5f67e3431c57  Data/DATA/C-Force/Menus/mission1/MissionBriefingMenu.csv
+3a13bf69735e99595cebf3eb372456a547eb9e85  Data/DATA/C-Force/Menus/mission1/ROEMenu.csv
+90a611d0cdf31b88d73e5d3fdf7526fee0dbbd07  Data/DATA/C-Force/Menus/mission1/SquadMenu.csv
+081811079a8c9925126f4208c982b6453d33b7cf  Data/DATA/C-Force/Menus/mission2/BriefMenu2.csv
+dee3a5549e1c95412722a97b72c76d6d58a6530a  Data/DATA/C-Force/Menus/mission2/Mission02Briefing.txt
+0ad4e98cbdf2c3c259b9e85910a5dc260e12139d  Data/DATA/C-Force/Menus/mission2/MissionBriefingMenu2.csv
+7e9eb89bf16f05ec91bd2569c8f64975dd57699b  Data/DATA/C-Force/Menus/mission3/BriefMenu3.csv
+0eaab3a20f89bda547095094c4a243d06f38f853  Data/DATA/C-Force/Menus/mission3/Mission03Briefing.txt
+85e4770684d98b233dbd49c7a7703cfba81b3dff  Data/DATA/C-Force/Menus/mission3/MissionBMenu3.csv
+f35499c408880cb1e139281974b8da735d6acd2a  Data/DATA/C-Force/Menus/mission4/BriefMenu4.csv
+9214d57cef050d64431ecc2d910346c4516491c6  Data/DATA/C-Force/Menus/mission4/Mission04Briefing.txt
+8ab8a3572d89279cfb67d565d7c93ac72a2de43c  Data/DATA/C-Force/Menus/mission4/MissionBMenu4.csv
+2549fc870b4020601ff0d2b93ce01cfaa1d01291  Data/DATA/C-Force/Menus/mission5/BriefMenu5.csv
+2d7ab6aaa5b31cd1f947f3a6314a43294838d026  Data/DATA/C-Force/Menus/mission5/Mission05Briefing.txt
+15d11b25b03395f6cc9b93308c7c79ec18a4645a  Data/DATA/C-Force/Menus/mission5/MissionBMenu5.csv
+e7cbb31d4cf49602d526496d5d8401381399c7f5  Data/DATA/C-Force/Menus/mission6/BriefMenu6.csv
+1f46bcf7747dc4485326f80be25323e0a96264af  Data/DATA/C-Force/Menus/mission6/Mission06Briefing.txt
+c019467c4ebc4b7d48905673eb1aa35d1790305f  Data/DATA/C-Force/Menus/mission6/MissionBMenu6.csv
+b00c0ec2500c3960678ae15432dfe01f2e3ad91c  Data/DATA/C-Force/Props/GB_prop_ chunk_03.msh
+2b31931ff70b662d5190d2d1db681fb798a8b9ad  Data/DATA/C-Force/Props/GB_prop_ chunk_04.msh
+99838997e0b90eda60a84770b0ab39dece16983d  Data/DATA/C-Force/Props/GB_prop_ chunk_05.msh
+76840cc625399d67a984fc13203f76797cc2a101  Data/DATA/C-Force/Props/GB_prop_ chunk_06.msh
+be54b4332a3196b3ccf87c4f8cada5f870f03e71  Data/DATA/C-Force/Props/GB_prop_chunk_01.msh
+98b5ceb5607a75d70379cf417223d424e4194ac9  Data/DATA/C-Force/Props/GB_prop_chunk_02.msh
+06e1306963337f0bc2048d16c775fbfcc77eb6e4  Data/DATA/C-Force/Props/GB_prp_amch_01.msh
+ca2d5d097efcdfe1c4eab0d0695e069a75100ff3  Data/DATA/C-Force/Props/Truck.msh
+c14d9ec021df5f9ecabffec21af2ae4b8e42197c  Data/DATA/C-Force/Props/alt_windows.msh
+c89c8279b190f754fe1289395b515ad145074c60  Data/DATA/C-Force/Props/bush01.msh
+6f4a5e51f622cc8dcfd829d8d440fb9d64af4a0c  Data/DATA/C-Force/Props/bush02.msh
+72d82533b016943658be110f143dd2f6248f2a9f  Data/DATA/C-Force/Props/bush03.msh
+202d4f850499527aca72c34392172d064474429f  Data/DATA/C-Force/Props/chalkmark.msh
+29863176fb58628d9d13894e62d4f68a14aca0c0  Data/DATA/C-Force/Props/chandelier.msh
+5db9f8aa5c40955353f2382bd3155bddbcc1f6a2  Data/DATA/C-Force/Props/chandelier_a.msh
+a9f8b2578213c090e504b3e5e37261216beee566  Data/DATA/C-Force/Props/chandelierlit.msh
+2190d57c21f04beb67217701982942f218b578b9  Data/DATA/C-Force/Props/chandelierlrg.msh
+656263b8654431fc24c2a9355dbc1c73219fd379  Data/DATA/C-Force/Props/doors.msh
+f9668cf66eec6acf9a43e9529a0d6bf45d3f1c02  Data/DATA/C-Force/Props/helicopter.msh
+a3b1aca8de9627de23a10c3cebe1b69d9ead8e71  Data/DATA/C-Force/Props/palmtree01.msh
+07f0b500ca98c3c45a514ed27fc44546d216dd05  Data/DATA/C-Force/Props/palmtree01b.msh
+af07e93e564a168e4cf14a746e179d83fc072b49  Data/DATA/C-Force/Props/shell_case.msh
+bdb92e63596fc67ee0750e9f753fafa0d2c964d7  Data/DATA/C-Force/Props/sign01.msh
+65784bff10530c321fa083631f7a3d95fb285ef9  Data/DATA/C-Force/Props/tree.msh
+e3935cf8f2d2fb62cb14997f5e27bf0f9c324367  Data/DATA/C-Force/Props/tree01.msh
+00df2b6988d71d07d4a99ad09b09fb8605d42294  Data/DATA/C-Force/Props/tree01b.msh
+1eb7ce9f2fdd7cffa66e079de5f92ca560c5f381  Data/DATA/C-Force/Props/tree02.msh
+774b72794815211087e33368dfda545ad6bd926e  Data/DATA/C-Force/Props/tree02b.msh
+a23e5d2121efa9f80541610f6ad0cc5db608b4dc  Data/DATA/C-Force/Props/tree03.msh
+d829b9e634074ee237f11ed4dc9b5fdbcdc92467  Data/DATA/C-Force/Props/tree03b.msh
+b25ccc47efd63adf57b77c3550744f66ebc8434b  Data/DATA/C-Force/Props/tree04.msh
+c4cceb07718bfbe079650f39ae94b7334246d963  Data/DATA/C-Force/Props/tree04b.msh
+80ad36a551a6313ec6b99b79aa44e26186f1a72e  Data/DATA/C-Force/Vehicles/helicopter.abk
+aaedb3601fba855fed5619722d52986acc4e9b3e  Data/DATA/C-Force/Vehicles/helicopterpuppet1.msh
+91aca303d0a0a27d6f103d2698e145863dcab5b4  Data/DATA/C-Force/Weapons/CrewServe.msh
+8cc803e96be9bc9cd6a0f3fd45c81b2c31f7f661  Data/DATA/C-Force/Weapons/M4Grenade.msh
+409ff9da12c3e2a36e9398790d0accc5733a4c07  Data/DATA/C-Force/Weapons/US_SAW.msh
+e599fa9c010c55f557b24b197daac4a8895273a0  Data/DATA/C-Force/Weapons/ak47.msh
+b77dc30c26734df8886846f8648524f736986c52  Data/DATA/C-Force/Weapons/flash_grenade01.msh
+b77dc30c26734df8886846f8648524f736986c52  Data/DATA/C-Force/Weapons/hand_grenade01.msh
+e1a647557a44828094ecca3f289689d4845ca099  Data/DATA/C-Force/Weapons/m4.msh
+af9ec6e97c1df6a76179a3bad0a2c0c7232802ed  Data/DATA/C-Force/Worlds/SUBurban/Mission4/msn4.wld
+39fa0781b88da5fa91158cc2c0fab4afdae7ebe6  Data/DATA/C-Force/Worlds/SUBurban/Mission4/suburban1.SKY
+84ab395cb23d11822c2f94333caec5257b1e6c50  Data/DATA/C-Force/Worlds/SUBurban/Mission4/suburban1.cameras
+16b50ed0fee25eab0d582c3c3c9ebcd5b707a9f8  Data/DATA/C-Force/Worlds/SUBurban/Mission4/suburban1.cell
+841fe68e4c36c688f216fe4963a6b4e737f5fd23  Data/DATA/C-Force/Worlds/SUBurban/Mission4/suburban1.doors
+a2ed4809f831d6bd3fe4740a32e915af0433364d  Data/DATA/C-Force/Worlds/SUBurban/Mission4/suburban1.kd
+7aaf5be599887f23c43cc7806136a67bab261605  Data/DATA/C-Force/Worlds/SUBurban/Mission4/suburban1.msh
+da39a3ee5e6b4b0d3255bfef95601890afd80709  Data/DATA/C-Force/Worlds/SUBurban/Mission4/suburban1.occ
+81d62943de0d082ea01ca9b574197c5283a025a5  Data/DATA/C-Force/Worlds/SUBurban/Mission5/msn5.wld
+e71969001ed25bd1da28fa66e79606c285d8e075  Data/DATA/C-Force/Worlds/SUBurban/Mission6/msn6.wld
+e1a830696ecfb58b9bee2463b800173b140d4f56  Data/DATA/C-Force/Worlds/Urban/Mission1/msn1.wld
+3af2b85763c808359d16e2a068ef319e362c5a3a  Data/DATA/C-Force/Worlds/Urban/Mission1/urban1.SKY
+5c707f1ee6043533fd37c7afe0cbddede7c7edba  Data/DATA/C-Force/Worlds/Urban/Mission1/urban1.cameras
+8a9d124abb3fc78f7243f7e4050bbc62a92e71f8  Data/DATA/C-Force/Worlds/Urban/Mission1/urban1.cell
+f67d2fa85e037baa5da494d694d25cf8d7ed5b31  Data/DATA/C-Force/Worlds/Urban/Mission1/urban1.doors
+c23ff3ac3b99c6dad3b9b82ae2155b8bc15da502  Data/DATA/C-Force/Worlds/Urban/Mission1/urban1.kd
+53b4ab6b3905c113c7638643bd7ed6cbccf3cdea  Data/DATA/C-Force/Worlds/Urban/Mission1/urban1.msh
+c0e12f2c1db31fb16cc895ffd267d5f56799b6eb  Data/DATA/C-Force/Worlds/Urban/Mission1/urban1.occ
+3ebb3dcf9f44d9cc227b7624ecc7e94e1b975504  Data/DATA/C-Force/Worlds/Urban/Mission1/windows.csv
+7e654ef2a5d71bf9fdb7217793fc447a7f06c1ab  Data/DATA/C-Force/Worlds/Urban/Mission2/msn2.wld
+5c707f1ee6043533fd37c7afe0cbddede7c7edba  Data/DATA/C-Force/Worlds/Urban/Mission2/urban2.cameras
+972eca2232baa3c087435600b351101ca6ed123a  Data/DATA/C-Force/Worlds/Urban/Mission2/urban2.cell
+2c553277a121789a0a4b4750dabb4370bf1c9b9d  Data/DATA/C-Force/Worlds/Urban/Mission2/urban2.doors
+9fcb9de0d3c9d6e4c8dd7f176e7e21c977c03f00  Data/DATA/C-Force/Worlds/Urban/Mission2/urban2.kd
+ca491bde663c0b1b14dbbd238cf4f98b04b924a1  Data/DATA/C-Force/Worlds/Urban/Mission2/urban2.msh
+a411dff687e07d521a65d10ab57c37194dc3fc67  Data/DATA/C-Force/Worlds/Urban/Mission2/urban2.occ
+4752dea24ec3c425147af8796967a8e51bd1bcca  Data/DATA/C-Force/Worlds/Urban/Mission3/msn3.wld
+5c707f1ee6043533fd37c7afe0cbddede7c7edba  Data/DATA/C-Force/Worlds/Urban/Mission3/urban3.cameras
+28e5c47bb58c778ecc2d7a772a25ad97d2061ea4  Data/DATA/C-Force/Worlds/Urban/Mission3/urban3.cell
+70452e38e653ca702dd10bfd6d1669ada5bd6142  Data/DATA/C-Force/Worlds/Urban/Mission3/urban3.doors
+a411dff687e07d521a65d10ab57c37194dc3fc67  Data/DATA/C-Force/Worlds/Urban/Mission3/urban3.occ
+8723a8774e0f75a18d30b14165de7e82fefd8b85  Data/DATA/Sky/Smedis.SKY
+bb5ebbe3ca30967294dc1eb00d24dc03003d711a  Data/DATA/TEX/fonts.tex
+7b4e94930ae0bfe9f39af8af656a20a56af9aa60  Data/DATA/TEX/shell.tex
+5eb0a0d1598dbb382b9b457444c0e1ba22877c61  Data/DATA/TEX/suburban.tex
+1a71b9d79b4ef105520440c55aa7fb885c3e921b  Data/DATA/TEX/urban.tex
+93b0e9f6fab2a5aa2ff2347d91ca647c1439eda3  Data/DATA/TEX/urban2.tex
+00d1d5dfd8d41bd63750fba1e9026dd156eb5ea6  Data/DATA/effects/SMOKE.ps2_palette
+948592a4031108135e21ae077fd08577aad89bcd  Data/DATA/effects/SMOKE.ps2_texture
+6c1823f633f863cc1eb727a4127ae6a3771d7758  Data/DATA/effects/beamEnd.pse
+435b958c483fb446141925f2c297cc9652e8f43a  Data/DATA/effects/beamStart.pse
+bef84a0645034c9d0da34288b09b06c7a3fb955c  Data/DATA/effects/cforce_truckfire_1.pse
+5bc0ab8f05b97488694c5b05bb132eccab2c354a  Data/DATA/effects/cforce_truckfire_2.pse
+f51e5eae953629b1b31f3ea7497940dd1961d28f  Data/DATA/effects/cforce_truckfire_3.pse
+651f18f9d0ab52020e1b932ea847a1a9715eb891  Data/DATA/effects/cforce_truckfire_4.pse
+f51e5eae953629b1b31f3ea7497940dd1961d28f  Data/DATA/effects/cforce_truckfire_5.pse
+b5e47c8e2a7501245a595a3a92223d4833854b3c  Data/DATA/effects/chunkExplosion.pse
+cb122649bcbddb0413ed42a0e630ed72bf53f987  Data/DATA/effects/crashSmokeTrail.pse
+38f969bd473c53b3e3028ffc40af43a534d863fc  Data/DATA/effects/crashStartBoom.pse
+7be3a00a5b80696a33c7fa8896aaa648f513af12  Data/DATA/effects/explosion5.pse
+0758fdec26cf350c718db21c030e8aa9fc873bf3  Data/DATA/effects/tumbleGroundHit.pse
+610753a7d3c0d729bc625195cf73d47dda26ab20  Data/DATA/effects/tumbleSmokeTrail.pse
+38f969bd473c53b3e3028ffc40af43a534d863fc  Data/DATA/effects/tumbleStartBoom.pse
+83237e87eb79845513928324b03a67a790f96f72  Data/DATA/gzeroconfig/game_init.cfg
+0739fe8070ea9886371ce978d35964e56eb24a87  Data/DATA/gzeroconfig/game_keys.cfg
+b0c6549fd7db653d8f635188bed003d7b69c10d2  Data/DATA/gzeroconfig/input_common.cfg
+f16287be9d91698dec4146b16195fb2d7c0594d2  Data/DATA/gzeroconfig/input_mouse.cfg
+b7ad911ed1cd53a2ea5ead8b3c1cd2bce5e4abd3  Data/DATA/gzeroconfig/inputnames.cfg
+2a17ae50292a657f124e28f4121b1a9d0d02e5eb  Data/DATA/gzeroconfig/keynames.cfg
+1932b11846ab69bc05beb48bce8968f4580c3a34  Data/DATA/gzeroconfig/pathing.ini
+4bd2e42c968fdf3c8f786581cb9c50d288d16862  Data/DATA/gzeroconfig/remap.cfg
+7f483cffbe92ad2070ae79b9467295bd6b39dcd8  Data/DATA/interface/SYSTEM.BMF
+f81379f2855eeee2020967edc76dbcd98589557c  Data/DATA/interface/bg08.bmf
+7f483cffbe92ad2070ae79b9467295bd6b39dcd8  Data/DATA/interface/bg10.bmf
+6099526d2b3da5495c8bc34879ae223f0018f22b  Data/DATA/interface/bg12.bmf
+3c64949098a1d8df0e475c8321bb8ca429e541ee  Data/DATA/interface/bg14.bmf
+81d0fbf84f11259e58198263e65f07de7db91f6f  Data/DATA/interface/console.bmf
+4b75ebd805cb3c983ef34b6ee936bd42428dac5a  Data/DATA/interface/small.bmf
+2a004f60fd0eea0abe4817481d295a270d087faf  Data/DATA/interface/sprite.pl
+7e3184aa1e60c7e2b794e398c37cdf6ac9a9f2cf  Data/DATA/interface/sprite.stb
+5b417dad5746b43d2db281aaa56021af3fd73f43  Data/DATA/interface/sprite.txt
+f4454a35e6a51e052f536ed5390dee47eaf2f71c  Data/ai.ini
+5d4f10554dc209d86443a34f09eb4b3583613480  Data/camera.ini
+201a73e6741ea00925903f4d94357514ad35708c  Data/config.ini
+bba3850fced8460cf53cef697753506d468e126a  Data/fonts.ini
+8fda99645e61dfde1089f0ecd211ae79f846f749  Data/target.ini
+cd870a957fe47f8ece6e6df86122cf7d45960a5b  Data/ui.ini
+5222a30e7e985b5fa98ff2438d331478b57cadf8  Language/Japanese.font
+948c415a6f59a96830f14ba38ae16ab19b69a25f  Language/Korean.font
+314dc3b2405445ee4c1ac2d54b63f6a6d8577490  Language/Text_English.lng
+2b69f2f25e8f26ff8c3d7e1e20da946200376b2f  Language/Text_Japanese.lng
+7b8c650c0f68c60e52e4f3d96319cdaf2974ca12  Language/Text_Korean.lng
+576ca0de54de9602ef70820f479b2dcfc3be7b97  Movies/Training1.stream
+c69646338ced9bf14892c2f8bece11d3331a8e6b  Movies/Training2.stream
+a6def62fad230335305d87909ff46cd1b060497e  Movies/Training3.stream
+38158b1993fdaae2923bc4615273f425563c4d78  Movies/Training4.stream
+e6e5828e2d182b651e63c2270b6453a2d287b691  Movies/Training5.stream
+012e61fa27c9a6de562c8976499602c2bfec9210  Movies/fswconcept.stream
+9ff88fa7c30b412ac47d6ffb827088836bbdd084  Movies/fswintro.stream
+a810fea6c8724a4682e3d4f6abb641c7e1eed46c  Movies/fswoutro.stream
+e967fedbdc8b8d89e94396399db413eec40c9430  army.xbe
+797248aedfaf199294a34d1908e8a9726cba08b9  dashupdate.xbe
+dc5650ffe691824896e582f2dc93bc113ab2797b  default.xbe
+feaa94084816315c2e5815d21d9fa393a996d727  downloader.xbe
+d9a78e55980c6db61d46edbbfb4fd3589c1089c6  media/ArialUni.Ttf
+026fc8656e31a60ad55e1273c26245396998c893  media/Sound.xsb
+ffdf72d1aae5c28f80d02665981fb540e8a1b998  media/Wave.xwb
+9a4f7c053731a3c1509b606444a47aae71907556  media/dlcustom.xpr
+50bdbe8007017ce653787632534054dd8322d487  media/dlres.xpr
+71b6fe6c487064170d609f3f73632542d12f3139  update.xbe

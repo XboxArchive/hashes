@@ -1,0 +1,777 @@
+5b26a4e3b2912ef8bb12516c36aea4f0459106c9  Billboard/GFTrialersmall.xmv
+f66e19764fc3cfd19405a5b3f1014a7aebb76f2a  Billboard/GR2small.xmv
+14e359f8f9b31ab7979fa1b2de4110fab83f0f55  Billboard/NFLStreet2small.xmv
+7853e507d4b68cad460263f893865b782cec134c  Billboard/NapoleanSmall.xmv
+698d1b5d0b463d3eb7276657f8f280ae20c72cfa  Billboard/SCMultismall.xmv
+c518df52b6109158e9897b835d68d7fe76f20be1  Billboard/SCTrailersmall.xmv
+a0908f64adc22fee160fdae9582f4c15d9ce98fd  Billboard/UC2Small.xmv
+75d06fb9ad4e01fa096a155f9fbf8920d321b2bf  Build_OXM/BB/bb01.HIP
+0035de75f37612752e3fcf3d5ac960a7764289ba  Build_OXM/BB/bb01.HOP
+fe8c77b35965ec776250d6251db3a22dca976d20  Build_OXM/BB/bb01_UK.hip
+9009529c2adc6ef9855d0e8caec97e78ecfa003d  Build_OXM/BB/bb01_US.hip
+4a39d99b640efa65137fc5118f7c8c8377e4666b  Build_OXM/DE/de01.HIP
+bca97a6a4836c9fb4eb44b50df1f0d8ce11a314e  Build_OXM/DE/de01.HOP
+cc54964c34b452ea2dad4d8ebd12525b8b4a0a21  Build_OXM/DE/de01_UK.hip
+5ac1fdfe97d547ad3bf5a52ee9bc16156abb67a4  Build_OXM/DE/de01_US.hip
+f597e4fa2f03f32625d905e1dcd22b2aed45aef3  Build_OXM/FB/fb01.HIP
+40f054bbc0f3bd803bb26b37c1026e83c180e79d  Build_OXM/FB/fb01.HOP
+5db379d7124730b6dc4f82f2b53e8980c750ad76  Build_OXM/FB/fb01_UK.hip
+1834cf8a77f193034f8f39fa56e7951bb73e313f  Build_OXM/FB/fb01_US.hip
+5fd10ca65630e3c9e89cd469e9405266b7a31517  Build_OXM/FMV/ESRB.bik
+2032d9284b98b66f33191c8d31260bb23964c1ef  Build_OXM/FMV/ESRB.bip
+3feea4682464b28dafdead3d9a70d5fc6493fcac  Build_OXM/FMV/LogoHI.bik
+eff04bf1d23108e0221134d14f54dbb65e0b8eb6  Build_OXM/FMV/LogoHI.bip
+b8812cb80da6ab89c761fa8929302280617307dc  Build_OXM/FMV/LogoNicG.bik
+35b3a0c84eb9cc2462b277df10cfd49a1adda1f4  Build_OXM/FMV/LogoNicG.bip
+03185bb4431550ebaace82c558dfcc6bbb4ad859  Build_OXM/FMV/LogoNicM.bik
+0f64be718a999518a5a3d41812f7202c5af6b90e  Build_OXM/FMV/LogoNicM.bip
+81503188bf3ac82e0a9d23fb205e2e10f37fd0e5  Build_OXM/FMV/LogoTHQ.bik
+db4a3ab18e9914941a35b59778600366db1704dd  Build_OXM/FMV/LogoTHQ.bip
+377452f3a3e6483c627788dab126972d8b93ae22  Build_OXM/FMV/SBAttr.bik
+eed15f94715fab88a4b5ebcf19f3a9d889af10c6  Build_OXM/FMV/SBAttr.bip
+4e46181aaa8f30d46e5f8a37f8b41fd84b68e6a5  Build_OXM/FMV/ps_bash1.bik
+f30adccbf6f791014636ad563cef0033277b3d74  Build_OXM/FMV/ps_bash1.bip
+ec776651d817c6517a24f85bb6567e0a6376a6c5  Build_OXM/FMV/ps_bash2.bik
+212224ad03738022ba22c87b1adc0e3936e03cda  Build_OXM/FMV/ps_bash2.bip
+a9db8b41992fa7153558dbbd36ca284232a412bb  Build_OXM/FMV/ps_hlth4.bik
+e57202f4ef0449bcd6da4011fa69205346f52086  Build_OXM/FMV/ps_hlth4.bip
+dc90f0152329e45d7c800c55b9bad72b5df5ddd3  Build_OXM/FMV/ps_hlth5.bik
+0a42ef577f1eae044ad0cbd5d22b1c5b0e4f0728  Build_OXM/FMV/ps_hlth5.bip
+8078df5f4284c4a378562c79e338e4c1ba760f18  Build_OXM/FMV/ps_hlth6.bik
+9031a00b5c3543b582ff83b15b69c565591637bf  Build_OXM/FMV/ps_hlth6.bip
+6e47a3b677e858de1469c4e1fea40c6a2209be60  Build_OXM/FMV/ps_krat2.bik
+76be15dec040b0206793d9e0e78b4f9d52094154  Build_OXM/FMV/ps_krat2.bip
+fa33c739b390b503a9a84a14138c2354fe7716d1  Build_OXM/MN/mnuc.HIP
+a89acc2dd9cb8cbce040ee22ff86207d97fe5a27  Build_OXM/MN/mnuc_UK.hip
+7473834decfc26926217bd0e962478399484b109  Build_OXM/MN/mnuc_US.hip
+bd77a8ec14413417374ac3973ccbdf3bfab1af85  Build_OXM/MN/mnui.HIP
+381ad158f038200667f79811e6737a2facf4a9d4  Build_OXM/MN/mnui_UK.hip
+e4ef5df0096af35478349f45b890c61cac708b99  Build_OXM/MN/mnui_US.hip
+7f213ba12463afce35e194f601ec3d4c3343ddec  Build_OXM/MN/mnus.HIP
+0500593640bfa1552212c8fb5f1951b9e4b35317  Build_OXM/MN/mnus.HOP
+ca7458d170c37d316f8ede54eb6752ab29f8b3c7  Build_OXM/MN/mnus_UK.hip
+ac3da94c833494ded907bf42937aa1ef3e6c2de3  Build_OXM/MN/mnus_US.hip
+f7c25abb9e24541153bdf00567130efe1b2f6d29  Build_OXM/PL/PLP3.HIP
+d71978dc161e39b9e6f7bd2c187b5661831eebac  Build_OXM/PL/PLPX.HIP
+f05389fb7cdd267381049bd0b28158fb80b790d9  Build_OXM/PL/PLS3.HIP
+abf81d9a3155d89d6925a951f2c9b61731746de0  Build_OXM/PL/PLSX.HIP
+7c58d7dd8fbb00db6e18ed77d7d5f9dd3150d1cd  Build_OXM/PL/PLY2.HIP
+b29d1caa1b63885ee351ab3639f88eefca5b234e  Build_OXM/SBMovie.png
+2246507aab79757ee051b12588d7d80a2c27e53a  Build_OXM/SBMovie.xbe
+f02bbea8483969d20c5f06eb27f80b5db18e824a  Build_OXM/boot.HIP
+be8cb313cfc934bb7e8fb2b9928d6d2c4fd6f39a  Build_OXM/boot_UK.hip
+8ddf65c19195f3c4217e3371ad77ad0d3e231503  Build_OXM/boot_US.hip
+e3f702dfaca7a03fb682d65f46a40c470ce7d102  Build_OXM/explode.ini
+5b654a3d87906bd01ee326c8349c259a53b0aefe  Build_OXM/font.HIP
+2bc9de78c22ed9d7d036b42c163086cd8c10d1e7  Build_OXM/font_UK.hip
+134a100d72a76735ac1060d923785f8c0400a550  Build_OXM/font_US.hip
+8cb4451335d6690b9dbc627fb11cb08610ddda4b  Build_OXM/plat.HIP
+3132600d36cf64ebfb4c755fa51a22e356b23a87  Build_OXM/sb04.ini
+cb34a9d3962492d3d2f1502e4a47250329c7fae9  Build_OXM/water.ini
+e45d76a5553e02fe3f0619d1950daba286398ed8  LiveDemos/PreviewImages/Burnout3.bmp
+a9fdcebb6a6516d652fbc2f38b297350a92435ec  LiveDemos/cdx.xbe
+cb2910df7bf940e8f13d6491b8a345a783e555d5  LiveDemos/cdxmedia/abutton.dds
+ef6c6504d776d8b833955c8f2fcec7dc93801d43  LiveDemos/cdxmedia/bbutton.dds
+6e95b1021b5bb5f20fa6967ef5ac530a54b9cce5  LiveDemos/cdxmedia/cdx.inx
+e6692ae7fd880b19ccac965e2f84e372882e58d7  LiveDemos/cdxmedia/cdx.xpr
+abf95345cc375b8498f4741b9c44655bfb9b39d8  LiveDemos/cdxmedia/cdx.xsb
+860696736579ae936845b81e728b780ad6b1fb10  LiveDemos/cdxmedia/cdx.xwb
+5a4245d9d8e1274219c0cb39d20338640fcef778  LiveDemos/cdxmedia/trade.TTF
+d9a78e55980c6db61d46edbbfb4fd3589c1089c6  Media/ArialUni.ttf
+dfb96766eefb6049305cc49c55060a062f944586  Media/Audio/dsstdfx.bin
+f9bf13ec5bc12e32596aebf4237251b6d250869a  Media/Audio/interface.xsb
+756c0f66e22ebeb7b128e20e0c06fc604275712e  Media/Audio/music.xwb
+95e14552b12fd2123043f3de04e6cd07c7b99b8c  Media/Audio/sfx.xwb
+7c91e9f43161a46727b6a14481cd02e5fb5e3bd3  Media/Font.xpr
+89b1de62f490aa3861596b9ad494e4915f8f3eb1  Media/Fonts/Arial_Narrow_14.abc
+617bcba4301b1b0f53b83b43cbaac43026319254  Media/Fonts/Arial_Narrow_14.tga
+72288fffeebd4e0c916ddfaaba84323b497b4b86  Media/Fonts/xboxtit.3df
+bb9f22557d8f5d529aafd60be35afe87fea1ef3c  Media/Resource.xpr
+026fc8656e31a60ad55e1273c26245396998c893  Media/Sound.xsb
+ffdf72d1aae5c28f80d02665981fb540e8a1b998  Media/Wave.xwb
+6256847d0685d78825283148bb25d7580db95dcb  Media/dlcustom.xpr
+b27e258f1f1f4c080f9e1f6551b63189b8395dbb  Media/dlres.xpr
+c476d95caf0ae40800f665835be91e72cbb389e5  Media/dspimage.bin
+2927b15a56659799dc0d754e7183b0e7f405eecd  Media/loadingscreen.bmp
+91ca77d8dd4c7810ba6635ff28388a61631cec27  Media/oxm.xbg
+1b41e1fd683514c375831c3c7e7c1fe0a9ea4184  Movies/Credits.xmv
+8a65201423a280f91de70f04dcc185531d479d6f  Movies/GR2mpfly.xmv
+09e5ac251949b1b0d154390cded2f712c059e1b8  Movies/GameFlyFullTrailer.xmv
+416d25a4138274499c935c976afd0cd587a9faed  Movies/GameFly_ForceRun.xmv
+07a5cd2d2ae89ee76845f1bc2ba07a6bd0059c13  Movies/MA2.xmv
+bb490fe20572235c11d9870e30e954ea0122f861  Movies/NFLStreet2.xmv
+dc2d6844b0af4c1849f87a5068044c8cbe7f9ba7  Movies/NapGall.xmv
+1ce9e171cb4a0f898b4c63a919daf9d3226d5268  Movies/NapoleanDeleted.xmv
+4fd293a6624d3074594316e34080b8bd9ad1846a  Movies/NapoleanSweeps.xmv
+e2c0f83880ee7e98602182e8e94f68f46aa99991  Movies/NapoleanTrailer.xmv
+3affa6e952c7018dcf25d75366068a609baccc3a  Movies/SCMulti.xmv
+e20c7c5a6c1ab83384b07839fcdb60e5471e1458  Movies/SCTrailer.xmv
+be86dde772b1d0260a92658f785ed626944a5c75  Movies/UC2.xmv
+ead9c53513923b60984654cb9edc5aab9a305f0b  Movies/ghost_recon2.xmv
+a18f46ce92e129d172322717eb478d6df13829d1  Movies/oddworld.xmv
+88342e939a1c550a4d2d3e18b9ba48e4702ab6c9  Movies/weeview.xmv
+6fe818d9572c410de65b73fe268c2cfe30156dac  Sponsors/gamefly.dds
+3f614555ccdd66f2070633df2bde1e5e315ad806  burnout3/Burnout3.xbe
+b1aa52c2a4313d14a26400d69f7b28a378b80421  burnout3/Data/After.kfs
+427b11017e68a996b8171f00d82cac22f033be7d  burnout3/Data/EALogin.ico
+65b805aa26210f61dbc98277afeb65d226b241a9  burnout3/Data/Frontend.txd
+bb1b33ac23127b555fa273d15ba050ca67950e98  burnout3/Data/Global.txd
+f2167855bbe1d2e7b7830ca210b4d9d0aef06d77  burnout3/Data/Globaldu.bin
+5febf3b89aa2e2d9c6f2cee0f66fc8640e823a40  burnout3/Data/Globalen.bin
+4bcb086009caf2041750332ea58cb734eeb6817c  burnout3/Data/Globalfr.bin
+bcec91a4c6d32807d292405c0ed3af8ae4f35eb1  burnout3/Data/Globalge.bin
+5682d8bed03cd0c2ab093d4d76bd2040c338f7b3  burnout3/Data/Globalit.bin
+2604a6105135c698fe0ec30c30b5a3bc18aa2cb8  burnout3/Data/Globalja.bin
+63281e90b234a9205ca1c58061454b8ef03a7226  burnout3/Data/Globalsp.bin
+e8795e493ef213b2a9ceae2588f48cb2f3f92b68  burnout3/Data/Globalsw.bin
+cb078893ce80bbc396721c03b7bbff87f166af0a  burnout3/Data/Globalus.bin
+4052530756bdb7152b1a9b1f6291847280318518  burnout3/Data/Headdu.bin
+37210b8835356b77809a2a5ee833eae2e7901f8c  burnout3/Data/Headen.bin
+680f100785021c062bfd96ad8abcda0a5c5fad56  burnout3/Data/Headfr.bin
+705adb7fc8c4611957c517383414e1c58e25178d  burnout3/Data/Headge.bin
+b973ccb8d795a52e1074585698407911d6ecd115  burnout3/Data/Headit.bin
+2712350d8733902f2cb4746dd873bdada74e3f42  burnout3/Data/Headja.bin
+0302b31b7d036341f4f19e648d0d95561ff2dbf0  burnout3/Data/Headsp.bin
+a5a247b346583350f0c6eed60725e1d2bf28e66d  burnout3/Data/Headsw.bin
+37210b8835356b77809a2a5ee833eae2e7901f8c  burnout3/Data/Headus.bin
+7a5e6a0af2d92a61ee17f69b846cecafa2a511f8  burnout3/Data/Intro.kfs
+c181f86fad532fe41c952aaad9a914da569d9af2  burnout3/Data/Intro2.m2v
+bdb1d4d7d1effb0a66b05d11728f4a32c519838b  burnout3/Data/Intro2EU.m2v
+269a64ccb2ada60933c9e8b38e66971063b0b6ad  burnout3/Data/Intro2JP.m2v
+c6e376fdb3355128c7fea55e004449ffb60e4d20  burnout3/Data/Intro2KO.m2v
+ded170fc5d2c51c3fa41f7bd8b3698d449b34edd  burnout3/Data/Intro2US.m2v
+ba676ab4696b16710c157864abc202bbef12fa27  burnout3/Data/LoadScrn.bin
+e39bd2e68f98fa8273c4e8793508b6d5d64927fe  burnout3/Data/PrgData.bin
+10218d68254dd81a19c699ebaecbac7d5adb9253  burnout3/Data/stagehed.bin
+d6511a2f363bd23b546cb6ce41770f4eb34251fe  burnout3/Data/vdb.xml
+f8ff84d45f24309de9ae959204b7c0bcbabe409b  burnout3/Graphics/0.bum
+43237da7619809a3ddb22fc48508d9d612347906  burnout3/Graphics/1.bum
+8f6b481bae8ffa71826227b909fffaaa4598e175  burnout3/Graphics/10.bum
+0b5e0e775d04d8d6bbaf20b0b37a03ef436c5b84  burnout3/Graphics/11.bum
+2796e8eb2c8b4f08dbcdd34c70b427e1512cd9fd  burnout3/Graphics/12.bum
+4c3c39ab874e9cf249ac29ca13739e959d5fa64a  burnout3/Graphics/13.bum
+f6eee83639b0ed5c020a0951905fcd476b812c53  burnout3/Graphics/14.bum
+f09ab4706ede7ce05286a95bcdc2d6b97f613026  burnout3/Graphics/15.bum
+45488d43361d3b563de4623623d251fca2ce6248  burnout3/Graphics/16.bum
+60cb67154f6f633f3bd3c8ec7e963ef15a034a2d  burnout3/Graphics/2.bum
+c491308c71f6768b3b74378f09652d337b663d31  burnout3/Graphics/3.bum
+86ca32aa5e1fd98fee9283e3470afc8cc7dd778a  burnout3/Graphics/4.bum
+95e10d675fe76669c268fdf6349ccf32d8b68a2b  burnout3/Graphics/5.bum
+b2c44e67aae208ebc766262f89da1b571b1e0302  burnout3/Graphics/6.bum
+0e874ecdfdd9452fc469def1cea95b14d91da451  burnout3/Graphics/7.bum
+9c7f9b0329dff0b0696eb461cdb63aa1512916d4  burnout3/Graphics/8.bum
+e9b1c989facaa1a8742f0b6bba9463a8972365e9  burnout3/Graphics/9.bum
+26caf92ac9a2ab155f87e658e5bb292a0b6d23b7  burnout3/Graphics/CarSelectCubeMap.dds
+94738581302cf7d817ce068eb5a56a1d398ffd76  burnout3/Tracks/Downtow1.xmv
+3acd18613de2f04d167816bdfed51f9f843d21ef  burnout3/Tracks/Downtow2.xmv
+8f9d6e86eb3dbee0120274c348825b5ce546d8cb  burnout3/Tracks/Downtow3.xmv
+59320badbb5b8b0e90d67bbe67817627145e324b  burnout3/Tracks/Static.xmv
+5a188173acb03f6fea4386787ad204b527cf0b56  burnout3/Tracks/US/C2_V1/CRASH1.RWS
+13d39f579ce7d388a6e2eaaf2c87ed0163b5ee81  burnout3/Tracks/US/C2_V1/CRASH2.RWS
+515a0e820622b492fcb617341db7c2ee2f8da2d7  burnout3/Tracks/US/C2_V1/CRASH3.RWS
+6bd30c542b081b28245f19b5fd63406ba7147577  burnout3/Tracks/US/C2_V1/DJRACE.RWS
+db605a26bb22129ecd97238fe70d57127b1c8332  burnout3/Tracks/US/C2_V1/Gamedata.bgd
+41fd69a5a9ee7986e3b4120c48e3fb1a57533f37  burnout3/Tracks/US/C2_V1/MUSIC.RWS
+8fbbecf7d9d11c40b85bdf3a652ce57553546d43  burnout3/Tracks/US/C2_V1/SOUND.AWD
+892bb4ec2cec3b403bbb2a384092c058b576f220  burnout3/Tracks/US/C2_V1/enviro.dat
+87254912373cfcbd32ee1eaed255a5b857c3c5c2  burnout3/Tracks/US/C2_V1/static.dat
+04a99d5c5567ab7496fff06d39443790e95e1dfa  burnout3/Tracks/US/C2_V1/streamed.dat
+bf67d9b530b95a244f5819322526dbc3f0d2ebd8  burnout3/Tracks/US/C5_V1/enviro.dat
+a9c1a943e152ce1b97c820bc4308a0ea78cdfb2d  burnout3/Tracks/US/C5_V1/static.dat
+da39a3ee5e6b4b0d3255bfef95601890afd80709  burnout3/Tracks/US/C5_V1/streamed.dat
+a6a150109238a01a29312f42b27fae6ab63276da  burnout3/Tracks/_FEMain.xmv
+c486bd5e06a698d730d98274efdf56ff96a13e57  burnout3/Tracks/_femain.rws
+4ce0ba8836798f547767f31d4cc6d5217833f557  burnout3/Tracks/crash1.rws
+7dcce1c0b05b8865e93bd597d17a3d78cd6d1c9f  burnout3/Tracks/crash10.rws
+25d5181c8d470454f8bb2b6c55c31233a5e7ce17  burnout3/Tracks/crash11.rws
+42cc7a52b22b32d202899c65983e40c113683a09  burnout3/Tracks/crash12.rws
+9bd3a61e69a70faf036a358d37301fca79dc0817  burnout3/Tracks/crash13.rws
+1756e62e7d3d84e63ac387a50cff99db2d44ad7e  burnout3/Tracks/crash14.rws
+fea118d488d1b9a545866ba0f753e6ba95c6cf71  burnout3/Tracks/crash15.rws
+6bf880c4eb8ad26ea1cba76673eaca1eea597679  burnout3/Tracks/crash16.rws
+bb1a900c06885c391ad1e72ce5a31d3e90ab584f  burnout3/Tracks/crash17.rws
+87a644beca0924813fc8358c270c6f5a9410db8c  burnout3/Tracks/crash18.rws
+191c98c7e1885148f24421adf2f4ccc4e0ff2134  burnout3/Tracks/crash19.rws
+a67add3545a80d2f8284e168be9c203c2fd9c962  burnout3/Tracks/crash2.rws
+e2db81b8f58d9e37f200f523db1b3d54256915e0  burnout3/Tracks/crash20.rws
+483714836d9f4bf96ca55d17a334b7af2cc7cad2  burnout3/Tracks/crash3.rws
+83a3c9be8367c9ff3abbb3b3324b55450e866977  burnout3/Tracks/crash4.rws
+b6093fc6976c04cd2f9fdecd3e96f3ac6fc41023  burnout3/Tracks/crash5.rws
+1646c40db7dbb67f8e70bb58e9da34ef350f7a06  burnout3/Tracks/crash6.rws
+497aae1971037a03cfe5b455ee30fd7d7f342f36  burnout3/Tracks/crash7.rws
+02af5c9b2d595e9c5c5f3fcbffb80ed8dab73110  burnout3/Tracks/crash8.rws
+fe936b62ef1d6821d4699342502ccf03012c1ae0  burnout3/Tracks/crash9.rws
+c17a62fd5e18eb7976d920e30fc1bbaed431ae59  burnout3/Tracks/first.rws
+0e179aec243f360fbe8ecb4c8d8c6ab7298b3ec4  burnout3/Tracks/tlist.bin
+1bd4b20cf1aa96ee520824328cd63b6437cf58e7  burnout3/burnout3.jpg
+44736428233138c9e52ffab23ad9a49e6715a549  burnout3/ovid/Titles25.xmv
+9406de8e85dd7fdf9165eeb4a99c78ec73ddce7b  burnout3/ovid/Titles30.xmv
+c755dc9d36c63095141566fef6da1d6bf3b635a5  burnout3/ovid/cri_rw30.xmv
+59c18889c075303741cd63092e6da16a05be9f06  burnout3/ovid/englis30.xmv
+dfa68bfc8e6345fadf975e73d5c08618ee64817c  burnout3/ovid/esrb.xmv
+72a7c920bc1ed6f68a26e6b71dc01ddd084ffd21  burnout3/ovid/movie.xwb
+e04f1474c2e9f92d746a0932e8c78da1faf905b8  burnout3/ovid/pegi.xmv
+415ea4e39ea5550e2924d524d32b2d928b368ae6  burnout3/pveh/COMP/Car11.btv
+0438687a8b527d0ff78117315eba606a50de1d61  burnout3/pveh/COMP/Car15.btv
+846baba4a2e8e15564ce6699f976b957799ead0f  burnout3/pveh/COMP/Car19.btv
+65ac0308c6bae0ebe15ae5ec0996c4e8d7a201ed  burnout3/pveh/HEVY/Car13.btv
+e60798a864db16131e0f049e381d9e5c6f6ae2bc  burnout3/pveh/HEVY/Car16.btv
+59d880e6598270a2e9d91d2ead9b3e557e790007  burnout3/pveh/HEVY/Car17.btv
+cb98dc12862158eb0d0f46fa14e8ad8957340ecf  burnout3/pveh/HEVY/Car18.btv
+2b8a18787c8165d2a2463fdaec84b7b56eea588a  burnout3/pveh/HEVY/Car19.btv
+6824c14e2bc42c0f81657f66a12c28cc2cf82c45  burnout3/pveh/HEVY/Car23.btv
+53945d3e0938e919b2d5a93f19c6d23d138b3c39  burnout3/pveh/HEVY/Car27.btv
+4a33c7f0f0b7930a53b0af3a3e43a1aa6adb8dc1  burnout3/pveh/HEVY/Car29.btv
+4c13334d18990986cc9b28702188dacae618f7e5  burnout3/pveh/HEVY/Car8.bgv
+7c5f7e45307402eb5b69ff5c438b2319711578fc  burnout3/pveh/HEVY/Car8.hwd
+e04f4d9a29e1a23854c172617236f5db8133ed08  burnout3/pveh/HEVY/Car8.lwd
+e8573f92a0186d4ce5481ff49fe5d18f2fb42582  burnout3/pveh/MSCL/Car1.bgv
+652f13fc672b1ba1a7acf50ed49b2beb47478360  burnout3/pveh/MSCL/Car1.hwd
+cc6ec9950892aac6bf1c8c233f0d3b7f0f8dd7c5  burnout3/pveh/MSCL/Car1.lwd
+7405d0f8f451728a727f4f58f4466725a84f2f7b  burnout3/pveh/TSPC/Car1.btv
+e06b31ca1fd098d1a631063243733df61d9d30c1  burnout3/pveh/vlist.bin
+efbf877b8548cff9f780de996757e1a7bafe0d04  burnout3/sound/DSP/B3XboxFx.bin
+df4bc8c9526384a422d7a31bdc8c960413a7547a  burnout3/sound/DSP/dsstdfx.bin
+104559f55b96d0cef081f8bec93a1bc95596d34d  burnout3/sound/Fe.awd
+583801c8ea0309190a7a348900e86f610c2690ea  burnout3/sound/Generic.awd
+4f3765b13f2cfd16f95a91d22783cafe5a6623ba  burnout3/sound/Ident0.awd
+22681a51942c88605a18cd80f1b403c46897cca6  burnout3/sound/Ident1.awd
+416035bb2867b155c0990d51f83d343a5141e8d6  burnout3/sound/Ident2.awd
+33d628a83e7dbd32b5b5c0e4f29c8d367147e538  burnout3/sound/Ident3.awd
+96cc0dc5330f99d585ee60590e8d4b5932f892bc  burnout3/sound/Ident4.awd
+9dbaf55bed93177c3222c026f59bcc9231e1b923  burnout3/sound/Ident5.awd
+647756a163153f86bd482e1524471b9704a66ed3  burnout3/sound/Ident6.awd
+d59248d244f3f40fa002cbee98bb396f7f3dd594  burnout3/sound/Ident7.awd
+45fe93ca853a0e0d48a0f224387c75269929e08a  burnout3/sound/Ident8.awd
+f10e80d31062b51ea0f20857c20507e84aee3495  burnout3/sound/Ident9.awd
+4ef9483af08e683c51de601de07be72b44374322  burnout3/sound/Single.awd
+281d6ff523f0147172f92a60185a711f64ff6c43  burnout3/sound/crash.awd
+6e1406fcfd6ec7d13ee237b2b48d2b690b588fde  burnout3/sound/crashmod.awd
+04451af631bb6173cacab48d0f14a2d40f14ee96  burnout3/sound/elim.awd
+334f0dd8fef9d4e7aa9da5131afb44fee9856493  burnout3/sound/g_crsh04.awd
+e2780427ffe30be2f50a899f8d629f7a83695ddc  burnout3/sound/g_crsh14.awd
+1de4ed7464999c1baa665f175b267e9191dbeba9  burnout3/sound/g_crsh24.awd
+6f2e87cbd7b93862ff58d54e65ef63014af86ddc  burnout3/sound/g_crsh34.awd
+d6961d000eefb8c4859e15883a7662d25d53da9a  burnout3/sound/g_crsh44.awd
+7102aeebd703cd944840524144be92f845b7e04d  burnout3/sound/roadrage.awd
+da39a3ee5e6b4b0d3255bfef95601890afd80709  cdx/DL/FSW1/Epilogue 1 US and PAL.txt
+d2736fae8f1b5bfcded870976ca346d8c9e7956d  cdx/DL/FSW1/cdx.inx
+1d2a81263d91986187d64eb067a6bb64036b13dc  cdx/DL/FSW1/files/ContentImage.xbx
+fe643cfa420ccdc31c93a21bb4ccac9b3fd5a705  cdx/DL/FSW1/files/Epilogue1-HD.xwb
+1151efd13dba07f8a77d39c12f9e6bb93ec28db6  cdx/DL/FSW1/files/Epilogue1.PAK
+42b84a0857c7caae076854dbd8d14e46bc020a47  cdx/DL/FSW1/files/Epilogue1.cin
+a21c2bebefbd9a8d0d665ff1266f32347c4f15aa  cdx/DL/FSW1/files/contentmeta.xbx
+da39a3ee5e6b4b0d3255bfef95601890afd80709  cdx/DL/FSW2/Epilogue 2 US and PAL.txt
+c53b01b2bd003ae230b17cea294a12e4ee038c4d  cdx/DL/FSW2/cdx.inx
+c0b9f5d299a58ffffc4c9538f879c79f3d961ebd  cdx/DL/FSW2/files/ContentImage.xbx
+c59c6415139d69f5723095d8c5827928dbdf07cd  cdx/DL/FSW2/files/Epilogue2-HD.xwb
+7d3be6d542d30465e7bab5c976b885cb0fe327a3  cdx/DL/FSW2/files/Epilogue2.PAK
+ebbef5465faa011603d9f0bf8cfb32af6d60e7e4  cdx/DL/FSW2/files/Epilogue2.cin
+3e1cc6c9050b88155a050da4fad41ae648dca64c  cdx/DL/FSW2/files/contentmeta.xbx
+7e0ede175093052136903c3f556e925c2df4854a  cdx/PreviewImages/FSW.bmp
+ba89c44b4efc493b5834779c3619ab433e61c20d  cdx/Saves/56550026/000000000041/01.Escape
+7ba13ff12a1d1e360f71ef211290140902f5b96e  cdx/Saves/56550026/000000000041/02.The Arrival
+1b4d08db5b7ad4135aa392c0a7b8922c4562ba5d  cdx/Saves/56550026/000000000041/03.Prison Yard
+7822e0ddeda0d9653a63e2803ff93ef438101718  cdx/Saves/56550026/000000000041/04.Aquila Territory
+04bc29c17dc337a51c3fb1c4ee344f20e0545c5b  cdx/Saves/56550026/000000000041/05.Infirmary
+0cf4ea530e95ad9575b742a89799f9cc51389cad  cdx/Saves/56550026/000000000041/06.Mainframe
+67a76f1cece03d4d5101e3c256cfd327847d20e6  cdx/Saves/56550026/000000000041/07.Prison Yard Riot
+9230755fbb9478cbafca9a9b2758450ecb21d8e1  cdx/Saves/56550026/000000000041/08.The Pit
+fdf4d7c8aec3ddffb8588cc35c5aab5c4a9bfbda  cdx/Saves/56550026/000000000041/09.Pope Joe's Den
+ab763a7d5745375ac12a7e1dd01f314efd1a82e2  cdx/Saves/56550026/000000000041/10.Dark Tunnels
+20d1d37c77c598196c48e7de2db1ffc9bc89e6be  cdx/Saves/56550026/000000000041/11.Showers
+330d0e13e38331b2d944d8e247da6312e4fcfbb3  cdx/Saves/56550026/000000000041/12.Guard Quarters
+a1a6bc3fb30064701eddc76892eb24aa8953716f  cdx/Saves/56550026/000000000041/13.Abbott
+1235ef2d9a7d30519c1c8d962978131ec4ce7016  cdx/Saves/56550026/000000000041/14.Tower 17
+fd56b7da5f30e7de2488f96bcf312648ef765746  cdx/Saves/56550026/000000000041/15.Tower 17 Base
+09d6c1c51f7c575a87cea2dbc5e0a8312c36df3d  cdx/Saves/56550026/000000000041/16.Recreation Area
+14cea9e74708d709d98e4af774dd473498c41a6a  cdx/Saves/56550026/000000000041/17.Feed Ward
+f578807f5ec21e1d681d03dba2c615b4921c6219  cdx/Saves/56550026/000000000041/18.Work Pass
+ed5e0d354e8bd6925e4b6e9b5f4e00e2b03407c5  cdx/Saves/56550026/000000000041/19.Mine Entrance
+00ed19ff6384c47881ae22fa533f12d0b68898ef  cdx/Saves/56550026/000000000041/20.Security Checkpoint
+9cda8838b30d7e5e1898bcf13ca61f9ff40449e4  cdx/Saves/56550026/000000000041/21.Upper Mines
+4f7693a43cffe84043e1409ba22b294ceef6c9be  cdx/Saves/56550026/000000000041/22.Cargo Transport
+9cd168d963374d39aac7a1f89c3c4ca8b99d72b9  cdx/Saves/56550026/000000000041/23.Mining Core
+959178a74b1ed25fb5d5b5102931e3463a3b0dc2  cdx/Saves/56550026/000000000041/24.Tower 19
+dfeaafee91c029b8ab9f7ae51b8739d97877cc7a  cdx/Saves/56550026/000000000041/25.Container Router
+52c7c7724a98691fd48ae2cb3a5e9f8bb97c90ce  cdx/Saves/56550026/000000000041/26.Crash Site
+da2aeb1e2b141a42e3cfa848f21981c45cb6761f  cdx/Saves/56550026/000000000041/27.Abandoned Equipment Center
+5d41f5fa995b14b31eda52854c8aafef9fd81d5f  cdx/Saves/56550026/000000000041/28.Central Storage
+6146653e908a74a4e79fbe0a2a2b2a74aed7891c  cdx/Saves/56550026/000000000041/29.Loading Docks
+58a3438525d121b0a6449bf451380b031126848f  cdx/Saves/56550026/000000000041/30.Fuel Transport
+19cc13f24807d30326f5a0e7346e7eba9e57770a  cdx/Saves/56550026/000000000041/31.Hangar
+61fc5a700ecb985c34899959e5ff7dacdb144cc5  cdx/Saves/56550026/000000000041/32.Exercise Area
+c8d15ebc3573c777e9878a26391b0aecf0b62671  cdx/Saves/56550026/000000000041/33.Cryo Pyramids
+02c5e6b61f9b7f2e99368f56890431b809b77bd2  cdx/Saves/56550026/000000000041/34.Facility Control
+39aa355da8c1dafefe931a883ebf7a9f156b3593  cdx/Saves/56550026/000000000041/35.Corporate Office
+80bf0bcd4a8956f024bae1db817a4738823fd58a  cdx/Saves/56550026/000000000041/36.Take Off Platform
+0245d24139ba26f1cab129398cdb699dd48785f4  cdx/Saves/56550026/000000000041/Checkpoint
+03cc7a4fbd4a82afd090319e54fa7ff91a8d6978  cdx/Saves/56550026/000000000041/SaveMeta.xbx
+3916afa8d5ec7bc54e556d282a0c95c8be132121  cdx/Saves/56550026/000000000041/_filler000
+08f8f579388b0d1fed7731fab5ce2d64e88a06f2  cdx/Saves/56550026/000000000041/_profile
+560a6cf36ea316ba14e02d52110cdc71040f4a70  cdx/Saves/56550026/000000000041/saveimage.xbx
+81073be867952399096e489ec36d3745d0afeffa  cdx/Saves/56550026/TitleImage.xbx
+c1d03e038516a5930f6ca5fba33bfd69aa901001  cdx/Saves/56550026/TitleMeta.xbx
+a23f37f289a4088134dd61a0390f0b433bac7766  cdx/cdx.xbe
+cb2910df7bf940e8f13d6491b8a345a783e555d5  cdx/cdxmedia/abutton.dds
+ef6c6504d776d8b833955c8f2fcec7dc93801d43  cdx/cdxmedia/bbutton.dds
+4ee54d0bda5f20906675862957740696e759c6c6  cdx/cdxmedia/cdx.inx
+e6692ae7fd880b19ccac965e2f84e372882e58d7  cdx/cdxmedia/cdx.xpr
+abf95345cc375b8498f4741b9c44655bfb9b39d8  cdx/cdxmedia/cdx.xsb
+860696736579ae936845b81e728b780ad6b1fb10  cdx/cdxmedia/cdx.xwb
+5a4245d9d8e1274219c0cb39d20338640fcef778  cdx/cdxmedia/trade.TTF
+85924179912a5c2ed3f8c0a20a7c45d90309ed52  dashupdate.xbe
+6d92128f63e446518eec6400f44986a15c25d5e5  default.xbe
+042c4b4fb6434f21b6ffc7a08715555def989e4e  menu.jmx
+a8db0901e5903a7ae97d5af07d7660647a678b21  menu.txt
+29c412bc9afe39d9fb9ff565c8e106168aa8693a  mercs/DATAxbox/CDDNW/CDDN.ini
+0342b96e3de15a25eb0359a716e7a7792b8f8971  mercs/DATAxbox/CDDNW/CDDN_xbox.ini
+7763eddaad3c6ca8827a4afca53f2d2ea7c9119b  mercs/DATAxbox/CharStat.ini
+40aa3c6a3c6d7322763f89242598581b40a37eb8  mercs/DATAxbox/Controlr.tga
+005606741e2c6aa38f9a84de48eca5a69ce38ba9  mercs/DATAxbox/DATAPOD/emails.ini
+146923c244b4892b1eaf378dcf4d8228b392597a  mercs/DATAxbox/DATAPOD/itemshop.ini
+7cf68b76d7f4b079c2439d36649961e5f99e1bd9  mercs/DATAxbox/HUD/Hud.ini
+61fa483ac984414980718eb112c2aa9d745a8e08  mercs/DATAxbox/HUD/RadioMsg.ini
+e493f2ba2e7f044210698287fe25bd0bfae63151  mercs/DATAxbox/MOVIES/trailer.xmv
+c14a3f95a766c403c51ab6f1d9e7e649cdb58ebd  mercs/DATAxbox/MercLogo.tga
+d827243ccba005907e731194aaddce6b68f54e8b  mercs/DATAxbox/assets.dsk
+ecbb916206c558ef50a1891b461b48e1e1964948  mercs/DATAxbox/english.dsk
+679b39807f65093519d37ddafddee29058c0a58a  mercs/DATAxbox/levels.ini
+903122a69e27b1d3533c4b37a47e8c401849a5f1  mercs/DATAxbox/mission.ini
+b391aed93c1df101896e8f45e6b907643ae2b05f  mercs/DATAxbox/options.ini
+530315ee4eba80bd2ea7095545ce5c8875f1e1b9  mercs/DATAxbox/screens.ini
+c6ec25c6c80938e4ac23d67d7da561bf1d65f712  mercs/DATAxbox/sound/ambient/ambient.xsb
+eef8308bf1b704f85350e417dbddd02840af369b  mercs/DATAxbox/sound/ambient/ambient.xwb
+df4bc8c9526384a422d7a31bdc8c960413a7547a  mercs/DATAxbox/sound/dsstdfx.bin
+0db22a229e0fba7a0f2dfee282cca941f1f04544  mercs/DATAxbox/sound/music/music.xsb
+d54633e7e02576a292d872f309af0d24e323dbd9  mercs/DATAxbox/sound/music/music.xwb
+ff52f188ee7857b58b66ef083ab7be77619dee1d  mercs/DATAxbox/sound/sfx/as/a_strike.xsb
+cf53999545446914d09424954833c9a4106189f1  mercs/DATAxbox/sound/sfx/as/as_airs.xwb
+ef2afbb6b0d1467eed2f2636e3fe45ed0f03b5f1  mercs/DATAxbox/sound/sfx/as/as_art.xwb
+ff8fb1e07a7436c0e6833bedbf0e2358d8d9896b  mercs/DATAxbox/sound/sfx/as/as_bb.xwb
+395662c16a7236b91d7997f4afda878b80e04900  mercs/DATAxbox/sound/sfx/as/as_cb.xwb
+23426fcaf98735373ba1b95c24a153e477eace3e  mercs/DATAxbox/sound/sfx/as/as_crpt.xwb
+ace66a4a9f0197b0c60d8620fda322e1aef53b20  mercs/DATAxbox/sound/sfx/as/as_fae.xwb
+5113c558cdb15626507a1da3051a5a2c2aa806d0  mercs/DATAxbox/sound/sfx/as/as_hsb.xwb
+16a2032b9a9d935a5bfaab5df13d1ec96fc6e139  mercs/DATAxbox/sound/sfx/as/as_msle.xwb
+0e914ae09376b43174eaa81adf2ddffcc4e1a105  mercs/DATAxbox/sound/sfx/as/as_sb.xwb
+da791ea23b727997d9218d88236455bdb794b026  mercs/DATAxbox/sound/sfx/as/as_spook.xwb
+f8a05d5ba3d555a5ccdf62ddc8850e8ac82e461d  mercs/DATAxbox/sound/sfx/as/as_surg.xwb
+3a01402e71702d0245cfedef2fde82084a13abe2  mercs/DATAxbox/sound/sfx/building/b_alarm.xwb
+91e2f396dd781cf3abc0adf322f3c70e6eccf00c  mercs/DATAxbox/sound/sfx/building/b_crane.xsb
+5102924d74ac9b7ec6f6fafcc716d6a4e1054b62  mercs/DATAxbox/sound/sfx/building/b_crane.xwb
+5cfdb0ccfdea384187723e71687e5e17026213fe  mercs/DATAxbox/sound/sfx/building/b_fence.xsb
+e8ae9f93224062076828aa83f3672cf0e26f6162  mercs/DATAxbox/sound/sfx/building/b_fence.xwb
+0897a55c0aeb7e202b82acd1e30d689402513ba9  mercs/DATAxbox/sound/sfx/building/b_kmon.xsb
+18fdfa65f68a432d028944ed5ac50720fd9efa5a  mercs/DATAxbox/sound/sfx/building/b_kmon.xwb
+84ae600860cc9dd753590480d2d0b54afa9b97b0  mercs/DATAxbox/sound/sfx/building/b_tunnel.xsb
+8c92e5edc79ab1968454b8d32cf2d8a72f613116  mercs/DATAxbox/sound/sfx/building/b_tunnel.xwb
+d588482ea2e206a368707be438271fe3c4d0a9a4  mercs/DATAxbox/sound/sfx/building/b_wtrfal.xsb
+2f191d5ec8fc2b6f0828825b7dddac3e8ac21e8f  mercs/DATAxbox/sound/sfx/building/b_wtrfal.xwb
+9b1cbac0534475afe5afb6bcc75d467b588d53ba  mercs/DATAxbox/sound/sfx/main/base.xsb
+5a5fc7a437dfa7705368e13dcda14138e4853e87  mercs/DATAxbox/sound/sfx/main/base.xwb
+f37f6aad0c47d7fe88cfbfe93cdbf119896a5f6a  mercs/DATAxbox/sound/sfx/main/brief_ch.xsb
+00516e7ceaf699e9848cec7b9fa52ef5da154f60  mercs/DATAxbox/sound/sfx/main/brief_ch.xwb
+80461581bd3f2f14a5c01887dcd353e22c4a3018  mercs/DATAxbox/sound/sfx/main/brief_ru.xsb
+b0807cf5ef825a308ff66e06934c66d93ddcdc9d  mercs/DATAxbox/sound/sfx/main/brief_ru.xwb
+46e72a816dc7be87d487344ec443b14836c4e67e  mercs/DATAxbox/sound/sfx/main/brief_sk.xsb
+ba91d4fc61e097d3675ebd5a7fb58e310cbb87f6  mercs/DATAxbox/sound/sfx/main/brief_sk.xwb
+83d8d6796efcf1bddbd6eeeb33cc07040a8dbfd6  mercs/DATAxbox/sound/sfx/main/brief_un.xsb
+1fecb69a69e75c4193f05ded4c2e60a6e85fb32f  mercs/DATAxbox/sound/sfx/main/brief_un.xwb
+4954ae3a1a806e1b7625dc1824bc7877a848354b  mercs/DATAxbox/sound/sfx/main/c17.xsb
+a6f38a6918eda28f2c785868b956f93c0b28d19c  mercs/DATAxbox/sound/sfx/main/c17.xwb
+88b18940d0d97d81607c7a2561d29cf5595c8d28  mercs/DATAxbox/sound/sfx/main/combat.xwb
+e3c0cf738fbbd55e9895318931a70a28f054de4c  mercs/DATAxbox/sound/sfx/main/hud.xsb
+653f82fe376a4a30f7c1ba8ce9f0c832cbeb8831  mercs/DATAxbox/sound/sfx/main/hud.xwb
+475255df19698899490d0beceb4018b8122e3089  mercs/DATAxbox/sound/sfx/main/pod.xsb
+8c0e23fd9dbeaa50f6d7942ff6f85bb8bcbd6c8f  mercs/DATAxbox/sound/sfx/main/pod.xwb
+72f77771737a5a14f95e6d168b55848a189faecc  mercs/DATAxbox/sound/sfx/shell/shell.xsb
+3c97f0b4a3149b3c26a88c15cbbc407babd839c2  mercs/DATAxbox/sound/sfx/shell/shell.xwb
+3abfab0922f465e63283b9b54fa7e77888654ca3  mercs/DATAxbox/sound/sfx/shell/shell_mu.xwb
+e0e5c18a44ca1f752a1ced2286859440c43c5adb  mercs/DATAxbox/sound/sfx/support/su_h2.xsb
+335baaca2e949a5b115123bb4920def2c3ce0b3b  mercs/DATAxbox/sound/sfx/support/su_h2.xwb
+2f1dd0596b7b0727d55d86c86fb5342faba4af02  mercs/DATAxbox/sound/sfx/vh_air/vh_heli1.xsb
+ce015d386aa8e3c9057308a7e7e24b076f881b68  mercs/DATAxbox/sound/sfx/vh_air/vh_heli1.xwb
+d8c31ef800bcbd4be033a8fe478c8c47d6f11b2c  mercs/DATAxbox/sound/sfx/vh_air/vh_heli2.xsb
+c6de8a2f89ce8854b9b37f431dd17b1ed88ebd17  mercs/DATAxbox/sound/sfx/vh_air/vh_heli2.xwb
+6da8297e3b5d46079189d69ab09f059834e00908  mercs/DATAxbox/sound/sfx/vh_air/vh_lbird.xsb
+76e41d66c590d4c439f40116239bedbabf988129  mercs/DATAxbox/sound/sfx/vh_air/vh_lbird.xwb
+69661d7e377e82ee070c24e50d4b39db192c4667  mercs/DATAxbox/sound/sfx/vh_grou/vh_bus.xsb
+9f706a0bfab853e58cea58b22ecdf27a2ab17337  mercs/DATAxbox/sound/sfx/vh_grou/vh_bus.xwb
+683c4e9cfa5e0499beb238e6b2c784f3b6484f7f  mercs/DATAxbox/sound/sfx/vh_grou/vh_gasbg.xsb
+40132d6aebf8eb67659e8313150cc5c364dbe628  mercs/DATAxbox/sound/sfx/vh_grou/vh_gasbg.xwb
+8638ce3d144d9d5253dbea20ca062443bc418696  mercs/DATAxbox/sound/sfx/vh_grou/vh_gassm.xsb
+7d6b674ec80db858ae0510968105c7f29f42e966  mercs/DATAxbox/sound/sfx/vh_grou/vh_gassm.xwb
+21376a27b05f93cd845c003b0f8b169acab142d8  mercs/DATAxbox/sound/sfx/vh_grou/vh_h1.xsb
+fa17014cbcd1c8067efc62beb0ef5f27b6cc42d2  mercs/DATAxbox/sound/sfx/vh_grou/vh_h1.xwb
+67dc17fc8ce49c3ca803ca309598ad86e2d43515  mercs/DATAxbox/sound/sfx/vh_grou/vh_h2.xsb
+aca085a8bf33f357d4839b214fab34eb98c71a27  mercs/DATAxbox/sound/sfx/vh_grou/vh_h2.xwb
+9594b9f8efdeeb65801299176b8a5991fa24acfc  mercs/DATAxbox/sound/sfx/vh_grou/vh_hotrd.xsb
+b7edc03be90cda026abcbdac75398e645ecbcaf7  mercs/DATAxbox/sound/sfx/vh_grou/vh_hotrd.xwb
+17c6d651fccf0b97f3568cdfe76e5cc6e0c9c873  mercs/DATAxbox/sound/sfx/vh_grou/vh_hvyd.xsb
+37fc2a7d02978cecc46960625dbd2c0a19a38173  mercs/DATAxbox/sound/sfx/vh_grou/vh_hvyd.xwb
+c047f070edfdc7bab13f8c3172b071cfa43cb1bc  mercs/DATAxbox/sound/sfx/vh_grou/vh_jeep.xsb
+c74aaa79091dd9af13e73df6ed6519a000d420f5  mercs/DATAxbox/sound/sfx/vh_grou/vh_jeep.xwb
+7ec8a691a462b810ac912239dd81aa091ccf4b8d  mercs/DATAxbox/sound/sfx/vh_grou/vh_tankd.xsb
+64f126c6465f2e24c158a6edc7e3b5d5308ca310  mercs/DATAxbox/sound/sfx/vh_grou/vh_tankd.xwb
+8a73cab7619c2d13974e3adb3b8cbbc2b1160677  mercs/DATAxbox/sound/sfx/vh_grou/vh_truck.xsb
+6981e856e97c332ef3184eb7d88ad470a4439a6e  mercs/DATAxbox/sound/sfx/vh_grou/vh_truck.xwb
+5f81b6c668955da5664ec3773e798713518e0ac6  mercs/DATAxbox/sound/sfx/w/c4/w_c4.xsb
+542c1e413e576c9efa1cbe1fe9fb4fa84b27d61b  mercs/DATAxbox/sound/sfx/w/c4/w_c4.xwb
+be8815c90af444447912ccdf4a3e2ad215066e19  mercs/DATAxbox/sound/sfx/w/cannon/w_20cann.xsb
+a7294b3692f33b13f783bab660abea1c276dc25a  mercs/DATAxbox/sound/sfx/w/cannon/w_20cann.xwb
+d0229aa6943ba31f1b45f233eff858dfb2d1c0aa  mercs/DATAxbox/sound/sfx/w/cannon/w_40cann.xsb
+43a5c972420149354e3f62fe94257f6555516879  mercs/DATAxbox/sound/sfx/w/cannon/w_40cann.xwb
+50c95882e22171ec3a5c0cafc01f84b7621928a2  mercs/DATAxbox/sound/sfx/w/cannon/w_autoca.xsb
+f1e3fb2b0b78bb515eee894d38244410e5dda768  mercs/DATAxbox/sound/sfx/w/cannon/w_autoca.xwb
+66ead445d294c3d6a21399b3cf57f55e796a9b54  mercs/DATAxbox/sound/sfx/w/cannon/w_recoil.xsb
+79b4703f896533cdec0cbb9b5dac4788c30d5f8b  mercs/DATAxbox/sound/sfx/w/cannon/w_recoil.xwb
+c803c939c4e305c38f8fb1ac1ff879b6ea199afc  mercs/DATAxbox/sound/sfx/w/grenade/w_m67.xsb
+faefbb0405c9ee935ee55f2e848412207a201f0b  mercs/DATAxbox/sound/sfx/w/grenade/w_m67.xwb
+b6517430d1a6e423ac69efa99c327328f99766c6  mercs/DATAxbox/sound/sfx/w/grenade/w_smoke.xwb
+9ed9050a04e74cb4679c910c2b921023c74329fc  mercs/DATAxbox/sound/sfx/w/hmg/w_hmg.xsb
+e9f287547e9027bc05ea5e07ada5794959811151  mercs/DATAxbox/sound/sfx/w/hmg/w_hmg.xwb
+7ba7de081bc603125537feba157368a922bc5d81  mercs/DATAxbox/sound/sfx/w/hmg/w_m60.xsb
+abed1b4f2abeb0452f2a9e09259682ce06b9d016  mercs/DATAxbox/sound/sfx/w/hmg/w_m60.xwb
+77e7eb381915b41d7fe72c895a9c3e1ac6566583  mercs/DATAxbox/sound/sfx/w/lmg/w_minign.xsb
+0ac1272bb43eb93134f7c46481e637bb617212c4  mercs/DATAxbox/sound/sfx/w/lmg/w_minign.xwb
+198e14ff59b4376f6e4f029d19c574f1cd3d7158  mercs/DATAxbox/sound/sfx/w/lmg/w_rpd.xsb
+129edd5a2cb7b75e8f0ba11d54b6ac79970a5341  mercs/DATAxbox/sound/sfx/w/lmg/w_rpd.xwb
+17c9da4f679fd8cd69c140535a331e7e62221d0f  mercs/DATAxbox/sound/sfx/w/mortar/w_mortar.xsb
+3b36aef1062362ae75daa55c6e1725e24987a16d  mercs/DATAxbox/sound/sfx/w/mortar/w_mortar.xwb
+f7f2e4ab50b625debf47b0473ba4af60b1bdcd91  mercs/DATAxbox/sound/sfx/w/rifle/w_ak47.xsb
+b371ef1b1651bc8040220d4243609f38c49019c8  mercs/DATAxbox/sound/sfx/w/rifle/w_ak47.xwb
+78cf4bfcb520db976fbf37d58c325f6004d94c15  mercs/DATAxbox/sound/sfx/w/rifle/w_dragun.xsb
+fb24b5d57c9b20ef854998f56313b88c3d8f6b10  mercs/DATAxbox/sound/sfx/w/rifle/w_dragun.xwb
+eec3202e9913dd2fefa07254c6088f6047eafd60  mercs/DATAxbox/sound/sfx/w/rifle/w_ksvk.xsb
+2555997165b0b8199a2ec974a735d439acb9eab8  mercs/DATAxbox/sound/sfx/w/rifle/w_ksvk.xwb
+27c2bcc54536819fba956de478de794775dbc7c1  mercs/DATAxbox/sound/sfx/w/rifle/w_m4a1.xsb
+9204ca8950703d73b910b7f6bc8d78eed3f55d6e  mercs/DATAxbox/sound/sfx/w/rifle/w_m4a1.xwb
+b18f64808360c2f3e4adb9ff38c7a61be00c4056  mercs/DATAxbox/sound/sfx/w/rifle/w_sl96.xsb
+e3407ea4ff4de84905de24ec5cd5b812953f49d5  mercs/DATAxbox/sound/sfx/w/rifle/w_sl96.xwb
+6ef38df62fe7a5182b9d2ab3a58ed8f40841422f  mercs/DATAxbox/sound/sfx/w/rifle/w_toz194.xsb
+65d8d8d154c4a31818fe875e5da4c826fab1ca0d  mercs/DATAxbox/sound/sfx/w/rifle/w_toz194.xwb
+2e6f2f44997e4036f9696b916731c7ff3768538a  mercs/DATAxbox/sound/sfx/w/rocket/w_h_stng.xsb
+865a0c72a5ca3029495e766093b042d94b2747a6  mercs/DATAxbox/sound/sfx/w/rocket/w_h_stng.xwb
+46dbbcdaf32fb8d8aad813de2088c6b3648a4bde  mercs/DATAxbox/sound/sfx/w/rocket/w_rktpod.xsb
+bb8b19706651e6ab401a8bf58105fec75b26ebf0  mercs/DATAxbox/sound/sfx/w/rocket/w_rktpod.xwb
+571da6eddb762fab751319de643af924c75276e9  mercs/DATAxbox/sound/sfx/w/rocket/w_rpg.xsb
+95d3fd0836dc7bb1772757db2d2a9a060cf735c8  mercs/DATAxbox/sound/sfx/w/rocket/w_rpg.xwb
+d8c2cb31b5d367f9e7743079ab0ebed14b32cbdc  mercs/DATAxbox/sound/sfx/w/rocket/w_stingr.xsb
+855c709c6b68135161f1606310260d88714f0009  mercs/DATAxbox/sound/sfx/w/rocket/w_stingr.xwb
+77158a9a315337f28543a0146d68ea47e44cfdf6  mercs/DATAxbox/sound/sfx/w/smg/w_mp5sd.xsb
+6878241cf74dde801692bc84e9e834ae37b7c3c3  mercs/DATAxbox/sound/sfx/w/smg/w_mp5sd.xwb
+28a59b3a76f657de121a49bf12a2b1c272a18208  mercs/DATAxbox/sound/sfx/w/smg/w_type85.xsb
+277515b08560758c1596851a65d703807485fa50  mercs/DATAxbox/sound/sfx/w/smg/w_type85.xwb
+0893e7df6eeb86699b15587dc8b341ac1cc2b3bc  mercs/DATAxbox/sound/sfx/w/tank/w_tank.xsb
+5cc0024b249d16ca05e46973f3360cbdf0999492  mercs/DATAxbox/sound/sfx/w/tank/w_tank.xwb
+d50dc63fac08172bbbbeb3eb94071fe46c2a8aa3  mercs/DATAxbox/sound/vo/adr/adr.xsb
+e509d58491fad029827c1ac35cd76a76034663ea  mercs/DATAxbox/sound/vo/adr/adr.xwb
+f4be35641be043e482d474823952a95b619b164c  mercs/DATAxbox/sound/vo/ald/ap/ap1.xsb
+a7c49bc19deace2507d0b6b7ae77da0cb21500b1  mercs/DATAxbox/sound/vo/ald/ap/ap1.xwb
+d201e14410462329e63137c4be6c736a886558ff  mercs/DATAxbox/sound/vo/ald/ap/ap2.xsb
+64a4a8557032dd9252fd4faf26ee333c2b208548  mercs/DATAxbox/sound/vo/ald/ap/ap2.xwb
+ac7527f558ce0db6d6b3b34af43c1be4e33607b3  mercs/DATAxbox/sound/vo/ald/ap/ap3.xsb
+edc8ffe030aa94b622eaf5367a152f5bd0ff6158  mercs/DATAxbox/sound/vo/ald/ap/ap3.xwb
+ccbddffdc078caef71f659b3ef09ab08dc6a035c  mercs/DATAxbox/sound/vo/ald/aso/aso.xsb
+42c809390b1fb6e54129965a1f431baae2251267  mercs/DATAxbox/sound/vo/ald/aso/aso.xwb
+d3db46a5bccc37d0c8b25bf74a2c6db0de09d7f0  mercs/DATAxbox/sound/vo/ald/awi/awi.xsb
+de2bf8f71b759a704004c05c6277780bc4dea989  mercs/DATAxbox/sound/vo/ald/awi/awi.xwb
+fa4d2555088ccb86491be884c74e4f16f73e737d  mercs/DATAxbox/sound/vo/buf/buf.xsb
+e84a3feef7e2cf809a129b6594f65a7300aa6889  mercs/DATAxbox/sound/vo/buf/buf.xwb
+fe19b22f90ade7754d7f33e4c8ae165faaa18efe  mercs/DATAxbox/sound/vo/ch3/ch3.xsb
+4ad7c3e8585cd7c2bfd6a6c70ff5a40f4eece99e  mercs/DATAxbox/sound/vo/ch3/ch3.xwb
+ad2d6d2343cbd9c66ce57edbb085120f12213c2d  mercs/DATAxbox/sound/vo/chi/cof/cof.xsb
+0eb1419b935dd5177830906dc2605089a649b1ac  mercs/DATAxbox/sound/vo/chi/cof/cof.xwb
+bbad07e525e02ca514fa507330ca13d4f0201f35  mercs/DATAxbox/sound/vo/chi/cp/cp1.xsb
+2ab0344495af3faff04f5a801115767a261f717d  mercs/DATAxbox/sound/vo/chi/cp/cp1.xwb
+8b9ed97302a9087e5c3e598941f05d8b232a997f  mercs/DATAxbox/sound/vo/chi/cp/cp2.xsb
+9b13816986cc175336d748060d4223f479f24cee  mercs/DATAxbox/sound/vo/chi/cp/cp2.xwb
+a7447eb13ff851010460a2b1dbaef85ee7858383  mercs/DATAxbox/sound/vo/chi/cso/cso.xsb
+db629bead85fdafd1cbe296dc7e0f17c2b646b83  mercs/DATAxbox/sound/vo/chi/cso/cso.xwb
+fccf91a2e7a4019ab9c0441713833966841f332c  mercs/DATAxbox/sound/vo/chi/pen/pen.xsb
+630311ed735427e8c580da0c6b71413194638125  mercs/DATAxbox/sound/vo/chi/pen/pen.xwb
+86d971fc7b2584fc00f38984571eb0440c4af59d  mercs/DATAxbox/sound/vo/chi/spy/spy.xsb
+7c3476a42cc6f99200f10abf0b97429606c91411  mercs/DATAxbox/sound/vo/chi/spy/spy.xwb
+6d40d979e8601ceddfcc77987f9e47db30de592e  mercs/DATAxbox/sound/vo/chr/chr.xsb
+c20068d27d97b56b69c6d844f33e17b8b6a3f32f  mercs/DATAxbox/sound/vo/chr/chr.xwb
+caa7986ef7601146c3a1f1649f3c1724a02eb4e8  mercs/DATAxbox/sound/vo/civ/civ.xsb
+f32cb83a853352b8ad2360a562158b1838b95e58  mercs/DATAxbox/sound/vo/civ/civ.xwb
+eb1a0436ff5e17a3670c10bf2c806659207f7834  mercs/DATAxbox/sound/vo/fio/fio.xsb
+ec512a2b4d30b21caaefc383a83d82df9aa62f2e  mercs/DATAxbox/sound/vo/fio/fio.xwb
+a191cb2a5822fc876832ef283b7f053b2982e68b  mercs/DATAxbox/sound/vo/gar/gar.xsb
+7a55b2fc110f97884273e2bf9e43753184589573  mercs/DATAxbox/sound/vo/gar/gar.xwb
+e0225cbea91a00f008f6d66cf7328da955dd4a84  mercs/DATAxbox/sound/vo/jen/jen.xsb
+1e77e88afe12613425101daa1a66d0359fec8bd4  mercs/DATAxbox/sound/vo/jen/jen.xwb
+29b1cba12f128121456af179ae69e5106d116637  mercs/DATAxbox/sound/vo/jos/jos.xsb
+aad2425051d3ac71d5219ca6704acf6a5f06588e  mercs/DATAxbox/sound/vo/jos/jos.xwb
+999e55d91a7fbf5572979d578ce0c7f19a1cc3c9  mercs/DATAxbox/sound/vo/jou/jou.xsb
+364163e0b2b3d2c50c8afbd8a09f72826e48a800  mercs/DATAxbox/sound/vo/jou/jou.xwb
+5cafe0de21dd2c6232b2e4254d9ce6548c733a22  mercs/DATAxbox/sound/vo/jsp/jsp.xsb
+a0ab19a14a5bc86a8e2067ae33310ec3054a8a4b  mercs/DATAxbox/sound/vo/jsp/jsp.xwb
+8a326d66270e03efbd7d590d3a66ebcf64852c96  mercs/DATAxbox/sound/vo/kan/kan.xsb
+5c78b4c7ffb842521007519b9ac72a58c1038848  mercs/DATAxbox/sound/vo/kan/kan.xwb
+d46f9d93c7a158a2bdfc868683702b9755cdae40  mercs/DATAxbox/sound/vo/kill/kill.xsb
+d44493596828d087727721983280528b9a918fd3  mercs/DATAxbox/sound/vo/kill/kill.xwb
+3eb17fba5ba647c6e714f3d358e5f0b1b402785e  mercs/DATAxbox/sound/vo/kim/kim.xsb
+99347146dafcf55451a875e3e59346d808b19afa  mercs/DATAxbox/sound/vo/kim/kim.xwb
+2561251d03be3482b4e7de6efe2e107d93124801  mercs/DATAxbox/sound/vo/leu/leu.xsb
+8b182d970a944c2d8808c59a4aa7c141235ceac7  mercs/DATAxbox/sound/vo/leu/leu.xwb
+e20ce5ea34dba557a79d1852f663930075d05180  mercs/DATAxbox/sound/vo/maf/min/min.xsb
+ca7870787dad80f4057bfcae3d1b994e8b7de8f7  mercs/DATAxbox/sound/vo/maf/min/min.xwb
+9256d6805e3568fad1581b163f26661be4666a58  mercs/DATAxbox/sound/vo/maf/mp1/mp1.xsb
+09e088bf7cd27d441a7bfaaf8538213f3e34eab8  mercs/DATAxbox/sound/vo/maf/mp1/mp1.xwb
+1463ba05df19c29cf57dc4f18014ad8b630c4299  mercs/DATAxbox/sound/vo/maf/mso/mso.xsb
+a17b843bf37cd7c8a1e5e88dfd1c05caa4e912d6  mercs/DATAxbox/sound/vo/maf/mso/mso.xwb
+9999fb76cd13d68bbee5d5dc6dfa0d70ad05dbce  mercs/DATAxbox/sound/vo/mat/mat.xsb
+c33d45d5419190cfb0e8a9774de848e8773ad42f  mercs/DATAxbox/sound/vo/mat/mat.xwb
+ee6eb5b10d3a7114284bd4e8146cbcf59f195439  mercs/DATAxbox/sound/vo/nc/nc1.xsb
+a3e8c6e2260390bd10cc5afe19d4e2db521f5995  mercs/DATAxbox/sound/vo/nc/nc1.xwb
+403d0dd0fa11871f612e6822e0a2a4699cef92d0  mercs/DATAxbox/sound/vo/nc/nc2.xsb
+f121fdb6a7145a839388605d7ca77675326e1378  mercs/DATAxbox/sound/vo/nc/nc2.xwb
+a98c3c129bd19f3bd1ca358c35eebc667e83de6a  mercs/DATAxbox/sound/vo/nc/nc3.xsb
+bfce9559f40e57977134321aadfd0cf1cee9ecef  mercs/DATAxbox/sound/vo/nc/nc3.xwb
+297f3329a1addaae3bc973782fc90c8159b6e9a9  mercs/DATAxbox/sound/vo/nks/nks.xsb
+c7c6fffd7f0eb60eeafd65fec717b704c36a6054  mercs/DATAxbox/sound/vo/nks/nks.xwb
+6b640c1bf55a0ec12240798f64e7caf4175f2872  mercs/DATAxbox/sound/vo/pro/pro.xsb
+9352d859b41a273fdc320afcdcdea484257bc43f  mercs/DATAxbox/sound/vo/pro/pro.xwb
+b397d74d87731df690d17584d1fa94d483d7fe38  mercs/DATAxbox/sound/vo/pu1/pu1.xsb
+b70f379146dbd9a9c6a44ca92325b7b818c51183  mercs/DATAxbox/sound/vo/pu1/pu1.xwb
+9cb7c76a0e337748c58791e06a7add8f300bb44c  mercs/DATAxbox/sound/vo/pu2/pu2.xsb
+4a41bbf7af35e9a54978822cb7f411e32692931a  mercs/DATAxbox/sound/vo/pu2/pu2.xwb
+4332b13f02af07db2a13173993d0f2fe6f31af83  mercs/DATAxbox/sound/vo/qd1/qd1.xsb
+6626e7e5b6a2947b490287812fe9cf1d8fbf523f  mercs/DATAxbox/sound/vo/qd1/qd1.xwb
+bb725f4e23980abce75fe04cde806632551439ea  mercs/DATAxbox/sound/vo/qdi/qdi.xsb
+7a79b5fa1d937ec3a63339a4f1ad3f594dad05a9  mercs/DATAxbox/sound/vo/qdi/qdi.xwb
+e75ba58bf98581638b6129a95cb80ec13074e8b8  mercs/DATAxbox/sound/vo/ser/ser.xsb
+5cafa91cdeb03fa3fbeca19e12c62a399c134624  mercs/DATAxbox/sound/vo/ser/ser.xwb
+7e8d0205dea5763e416a76b66bc8191214cec9aa  mercs/DATAxbox/sound/vo/sk/ske/ske.xsb
+84776b37915fae6bc5a38a76d0d85f6b1e2e7306  mercs/DATAxbox/sound/vo/sk/ske/ske.xwb
+07091183f35da1a2647e2c92cf5cbb71a6998d6d  mercs/DATAxbox/sound/vo/sk/sko/sko.xsb
+54e426ef23e81e9d19579df2f80024ab01e640b4  mercs/DATAxbox/sound/vo/sk/sko/sko.xwb
+7f913a21ce6c9f594c6495316ecf50737352d632  mercs/DATAxbox/sound/vo/sk/skp/sp1.xsb
+055bd4a1b60d724497d230081b810a4fe2a73ae2  mercs/DATAxbox/sound/vo/sk/skp/sp1.xwb
+50881e43451cf938724f30dc89fe9da45692db60  mercs/DATAxbox/sound/vo/sk/skp/sp2.xsb
+1c2eb016b89303a902e6d07a5e34a7a3eff7c2eb  mercs/DATAxbox/sound/vo/sk/skp/sp2.xwb
+00353f3cb7432500ba3bf42329ed903f772eb430  mercs/DATAxbox/sound/vo/sk/skp/sp3.xsb
+ca9f20267698fd1048d0938022f44fb62e9132c4  mercs/DATAxbox/sound/vo/sk/skp/sp3.xwb
+a4405ff03f36ee849fd444231aaaec434de75f51  mercs/DATAxbox/sound/vo/sk/sks/sks.xsb
+e7b8b422a7375275352af1f386df4e36342a6aec  mercs/DATAxbox/sound/vo/sk/sks/sks.xwb
+7fa3ab4f134b0c6064b2e67235526ca0fd1e6f6a  mercs/DATAxbox/sound/vo/son/son.xsb
+7b2d9664a14345b2fb660988afefc3c836e234c8  mercs/DATAxbox/sound/vo/son/son.xwb
+403862194e411af7bffd2d3738e93b54b8fd6783  mercs/DATAxbox/sound/vo/vo.xwb
+c93394b7da36daf83d678c02a30e308ffac8cc95  mercs/DATAxbox/sound/vo/xp1/xp1.xsb
+68e60b389f411792f58bdab006b1dce5b39466c4  mercs/DATAxbox/sound/vo/xp1/xp1.xwb
+52adc8bf75ae3eee7c50fc8409f1035f9f4646ea  mercs/DATAxbox/sound/vo/yun/yun.xsb
+fcba8403e1e2a8d915eee4af954e2692cc2a344b  mercs/DATAxbox/sound/vo/yun/yun.xwb
+eecdd2cd16e13635f33f90709ece01931e0abe31  mercs/DATAxbox/streamed.dsk
+4f8896432c0302963bce77af8bf92af39fea456c  mercs/credits.txt
+24c28a96e1f4d7a07b73f5803b13724be3762157  mercs/default.xbe
+0788b5d8460b4a6ff0059370e6278a815496f835  mercs/mercs.png
+8fb72d71b790b624e02fc94536bb093e78af0d9e  mercs/msh2temp.ini
+6bb4530cf79c8e18c07669fc0b41837ed0971af9  mercs/rs.ini
+d2f07d3e096ae357a4cc16076bdb87adb99dcd77  mercs/rsm_xbox.ini
+290c41647cfbc2d1e72bd984eddfb65552278c90  mercs/shaders/xboxBNSknL.xvu
+b3a613e68adfd039ea60398536a302ee88f1a28b  mercs/shaders/xboxBNSknL1O.xvu
+31f79f2479d0e770d34df2940d7f742a0d9867fd  mercs/shaders/xboxBSpecNSknL.xvu
+cb72c2f2fe97df484f5c350c53ee9d06c141d6fd  mercs/shaders/xboxBr2D.xvu
+a96ee94f76915c1d58c247571f79442238b747bb  mercs/shaders/xboxBr3D.xvu
+bfff2809268a3c0df329409bcdd03419d2ef6976  mercs/shaders/xboxDistortion.xvu
+f3558c95532bd592f3ca01aecd1371037c9c7ad3  mercs/shaders/xboxFlare.xvu
+2b862c1214500a2486cf78a01f6cdb07bb66b970  mercs/shaders/xboxGlowFilter.xvu
+9d7536a1078ba2f15f16f075b63bc14d322409f8  mercs/shaders/xboxNSknL.xvu
+614432f5e0316632c7b6dd0caf5f5b2cd264ac12  mercs/shaders/xboxNSknL1O.xvu
+f3e7eb88462015075cad84029549d365999ee60a  mercs/shaders/xboxNSknL1OTGt.xvu
+9ad565879e5689e51e1f6b115beda57c3a1a5244  mercs/shaders/xboxNSknL2O.xvu
+0db9c7f2def5df6b8e037bd7ed7c71fe41b42f44  mercs/shaders/xboxNSknL2OTGt.xvu
+83d97ee66d2537f9042e9deb82dac5feb1b51df6  mercs/shaders/xboxNSknL4O.xvu
+d5e7add4d654761a775d447141732f9539fa1b3a  mercs/shaders/xboxNSknL4OTGt.xvu
+d39970f33f81e7407a45bb324891888ecbfb643c  mercs/shaders/xboxNSknLTGt.xvu
+7842edb700d179205b30eafd82df5399ae8ef03b  mercs/shaders/xboxNSknNL.xvu
+e190414395b32933183bb0e65fb49a7c3da1b5bf  mercs/shaders/xboxNSknNLTGnw.xvu
+836b124fa601c041e29322d373a1d54f51e92092  mercs/shaders/xboxNSknNLTGt.xvu
+7f15e876e662411cc8ae097d1f663d22e076615e  mercs/shaders/xboxPart.xvu
+93349be9162666b7cdd388a2a49f6ba616b47876  mercs/shaders/xboxSknL.xvu
+d82817bd7914f97a632e60402c9821bb57a89c49  mercs/shaders/xboxSknL1O.xvu
+c5161ff90c4659f3de17b01c6d3d7d95dc7ed709  mercs/shaders/xboxSknL2O.xvu
+61d718ab14eee8e57b9a21a458f29a82599bba1c  mercs/shaders/xboxSknL4O.xvu
+9c4189a898ae621951c1dab0d6ed92ed6be8b3d2  mercs/shaders/xboxSky.xvu
+3af67181ccabb1819710502e233d80d1d13f8a95  mercs/shaders/xboxSnow.xvu
+fccb198fda07ddf5f4c34124d08b25d05c960a37  mercs/shaders/xboxSnowRotated.xvu
+fe615e8e13a74fabe0fef49e727b451c85ee6552  mercs/shaders/xboxStencil.xvu
+73c8f9e7727fb3f41500594563b9572c4d8c43a6  mercs/shaders/xboxTerr.xvu
+2810b43a21de69dfd29af3e4504e835dae2d0f1b  mercs/shaders/xboxTerr4Tex.xvu
+70422b0d91387a794638d78fa6e1800a3f7b157b  mercs/shaders/xboxTerrClouds.xvu
+bd18180e600dd4c292ba75468dd215f7e39e5df2  mercs/shaders/xboxTerrDetail.xvu
+4c19ee628b050c10a6cb0a72d9c8663b1caedba0  mercs/shaders/xboxTerrPuddles.xvu
+ca4546341bb58e97e37c3a57e4ae550c0883dde5  mercs/shaders/xboxWater.xvu
+da61e485852799761811553545d3155044d0363f  mercs/shaders/xboxWaterTGplr.xvu
+d47c64bc064162a0f5247c295c7411173759cec6  mercs/shellscr.txt
+eb0f4706cc5330845838cc7aaad80ea004dde65c  mercs/vehicles.ini
+a784d550aa5b7d472e208c9911c93b11ab574264  mercs/xbox.ini
+ae7d31679cdce253a96de7e3abf7a58cf94cfb6c  punisher/data/anims/pun_10.vpp
+ec8fea68016219a0bfed7399de221c3059cfad38  punisher/data/anims/pun_15.vpp
+9056cb435b2e9aef7cd57c6d0344dc61c847bd4a  punisher/data/anims/pun_16.vpp
+9ca8d43b8206b345c1625089c56edabd697cb34c  punisher/data/anims/pun_17.vpp
+b4f4e218c67f60069b12867b0a36595bef675298  punisher/data/anims/pun_18.vpp
+1a396d4510e2bba90222a31ab7eadb684f4e2ebb  punisher/data/anims/pun_19.vpp
+b2edae58083ac426fd8e7136afe5e9dcab7225ee  punisher/data/anims/pun_2.vpp
+dc253529b2e48eeda11e49d815c14457eb489264  punisher/data/anims/pun_20.vpp
+3a0e3ffbecc7ffa68d666bdabb6ba6c2d0a96e0c  punisher/data/anims/pun_21.vpp
+cd696ae773833ed288e650deed4f85c7eff64b54  punisher/data/anims/pun_22.vpp
+49ddd405088e596f5a2751e8051315caa1391a43  punisher/data/anims/pun_23.vpp
+f3fbfd8cdd5bcb4566eb6c0909032ca18817e7a7  punisher/data/anims/pun_24.vpp
+f991931fb0fa288932ed69de7abc6cdb62b928ee  punisher/data/anims/pun_25.vpp
+5f265e28d00615c64c86f1075239f22867bc7723  punisher/data/anims/pun_26.vpp
+20f9b614ea95c861580a0202133287d70134730c  punisher/data/anims/pun_27.vpp
+9c62ffd50f8f656e8b1fef6fd4c2a3194ea43642  punisher/data/anims/pun_8.vpp
+407081c74a4123fe9bf4e4c8aef4977ecafc4d48  punisher/data/audio/Ambient.xsb
+e271b94b8ef1f0197acf4bf1eabc0414e5a934cc  punisher/data/audio/Ambient.xwb
+4c6292b8a4b8148eb34acbf158d8c5b17256c9c1  punisher/data/audio/General.xsb
+96abe959528329e3138aff9bfc882dafefaaf865  punisher/data/audio/General.xwb
+d702435fb4c7f61e70ab232642c15372e57ecc16  punisher/data/audio/Impacts.xsb
+40a421ebe347a780a99cdb5c9013e8b5403088e1  punisher/data/audio/Impacts.xwb
+880a2318454b548ccfd4de62e075cdf3d62b5d8b  punisher/data/audio/Movement.xsb
+a84728a98dbced31f6cff54a3e352c34ba9aee5f  punisher/data/audio/Movement.xwb
+c9800ea5b7e4f50a1f67e94cb900a9700c40918b  punisher/data/audio/Music.xsb
+acae8f694c01d7d777ce62821b97fcdb22d0df7e  punisher/data/audio/Music.xwb
+5b8b2cb8877838dd36abe15779c11d8aa0c31d3e  punisher/data/audio/SFX.xsb
+1d2d8c36dff3738f33d23e8d791055efcae97317  punisher/data/audio/SFX.xwb
+712abbcb682dc9487ae2dab33b0a8a8905541276  punisher/data/audio/SYS.xsb
+25de39cd4536315467d554b3ed7d2928449d10ff  punisher/data/audio/SYS.xwb
+1991b60e79afc4d8c9178e6020401b4fd2117a5c  punisher/data/audio/VOC/CIN APARTMENT.xsb
+c9c4b32bd97899c01ab955860ad6841438dd3e71  punisher/data/audio/VOC/CIN APARTMENT.xwb
+30f5ce55d8270f1bbc69de390b771f3dae8d3d08  punisher/data/audio/VOC/CIN BAR.xsb
+54e4edf3a9befb2da1e2a28b7fbe1aecf2e3f098  punisher/data/audio/VOC/CIN BAR.xwb
+e436095ddc1f438b44bdfc6fb1620033d1aa2f68  punisher/data/audio/VOC/CIN CHOP.xsb
+6bed0de003487cedf40dc2778a33cc014d7ab470  punisher/data/audio/VOC/CIN CHOP.xwb
+b66d6d43cd144d808c8e85b36987b3f31416c75d  punisher/data/audio/VOC/CIN DCLUB.xsb
+281fc93699ba63ad83b8da854d3eb87d2f4dad24  punisher/data/audio/VOC/CIN DCLUB.xwb
+69afff533209dbd6460b5c82245f2a0b05397897  punisher/data/audio/VOC/CIN DRUGBOAT.xsb
+98ec51c3adaea3f4557f464bb253f0f2b30d7adf  punisher/data/audio/VOC/CIN DRUGBOAT.xwb
+2e81ba9acbf3434e83a6251e61af64137c9d4dd4  punisher/data/audio/VOC/CIN FISK.xsb
+0b573c4b2f4e3090a5150f98a6dce2011ed98252  punisher/data/audio/VOC/CIN FISK.xwb
+86577c1e483ab0aedc97846f34ea24a44c5d0be1  punisher/data/audio/VOC/CIN HARBOR1.xsb
+512a6e6a71316449103c0548d460540e14b88c40  punisher/data/audio/VOC/CIN HARBOR1.xwb
+aea963a6f5fd9c326a2aa699648efd26a8bc5b54  punisher/data/audio/VOC/CIN HARBOR2.xsb
+da486e4b7704b1a103c418d3a6461ec0e182d695  punisher/data/audio/VOC/CIN HARBOR2.xwb
+d1b13085a4911b89bebc38f97d604e2b32f0d588  punisher/data/audio/VOC/CIN JUNGLE.xsb
+5406189ea7446c4aef31706eaf1143588c3ec694  punisher/data/audio/VOC/CIN JUNGLE.xwb
+e75458d583e1836626f48c2052fbf94b947aff78  punisher/data/audio/VOC/CIN MANSION.xsb
+5fa136d0df5d9b5a7e196b9dec8376977da6605b  punisher/data/audio/VOC/CIN MANSION.xwb
+32ed6cff15cbe1b6bf374b9d445fe379895c87cc  punisher/data/audio/VOC/CIN MEAT.xsb
+6ffde2c645071cadb97de9ae337ab641aab2e857  punisher/data/audio/VOC/CIN MEAT.xwb
+64b4954e9712cdf2b87ef74a36ba15e46a76e95d  punisher/data/audio/VOC/CIN MORTUARY.xsb
+b2234e80b135bc0cd502c353776d4d314c34a66d  punisher/data/audio/VOC/CIN MORTUARY.xwb
+53bd8caaff89d114818168034b57fa8fe6ff36d4  punisher/data/audio/VOC/CIN NYCRACK.xsb
+e0a8a108dbd66c2a37a3cb3e5f7d404d5a102ed2  punisher/data/audio/VOC/CIN NYCRACK.xwb
+24655b72572df29d397b95fdebab0bef4bb4d6c1  punisher/data/audio/VOC/CIN PENTHOUSE.xsb
+76047dc2baa1abc43d327f01e466d94461e8d1d1  punisher/data/audio/VOC/CIN PENTHOUSE.xwb
+bedbdc38afa234e13fcf3e5cf4a180ba2d96816e  punisher/data/audio/VOC/CIN PRISON.xsb
+b87d54b2978b9f680e98056b3c77635a007daecb  punisher/data/audio/VOC/CIN PRISON.xwb
+1fe5624c9163d20daa38277d3119329730f3341b  punisher/data/audio/VOC/CIN STARK.xsb
+c0647c26ba9caffdab9011270c242ed84f486bd4  punisher/data/audio/VOC/CIN STARK.xwb
+f862b45014543af272bb3e1cdf713f3465cef4b0  punisher/data/audio/VOC/CIN ZOO.xsb
+32909cf218937d86b19748c190c6932754c1ec9d  punisher/data/audio/VOC/CIN ZOO.xwb
+b90b9b0d8e8c0df07c7d9a2c8f9bc40c5c43e303  punisher/data/audio/VOC/OTH FLASHBACKS.xsb
+8403e55411fcbbbbb68e244d9dc449c843735c94  punisher/data/audio/VOC/OTH FLASHBACKS.xwb
+d7457c71a563e07ed830f1ebbb4f727d01397b91  punisher/data/audio/VOC/PER Ally Pain.xsb
+d75e1645478eea24adf72cd954035eeff3705680  punisher/data/audio/VOC/PER Ally Pain.xwb
+82484e52f356370e65296c83a17920fa949e8601  punisher/data/audio/VOC/PER Ally Sit.xsb
+264495f03f17f91abb60fbc139231480a6ef0ba0  punisher/data/audio/VOC/PER Ally Sit.xwb
+b0e9dad78fd335c5ff37222ce8a4391b1e72a455  punisher/data/audio/VOC/PER Armed Pain.xsb
+3f8c20c01539a4afd001840e2a2a57305a97543f  punisher/data/audio/VOC/PER Armed Pain.xwb
+3e4245c9fc75b6c0306a9beedffc6eb7016d53ad  punisher/data/audio/VOC/PER Armed Sit.xsb
+298527be7b9f0e68b45b89cfc365307878967eac  punisher/data/audio/VOC/PER Armed Sit.xwb
+2b302d39cb76831325a8e276964138fbb5caab01  punisher/data/audio/VOC/VOC APARTMENT.xsb
+a96a21be9c25ac2e3f149e7fcbb837bf05316616  punisher/data/audio/VOC/VOC APARTMENT.xwb
+e55e0783178ba28fda2825df82df55890c0a735b  punisher/data/audio/VOC/VOC BAR.xsb
+3ce0995cb43d162167f1b9fd0dce3ade145d421c  punisher/data/audio/VOC/VOC BAR.xwb
+0bd4db91e1d8fceea5a00e9ec423920cc7ae0671  punisher/data/audio/VOC/VOC CHOP.xsb
+09e3bb9591c21236569da2e393b1dce627042543  punisher/data/audio/VOC/VOC CHOP.xwb
+153d91e860f653936056e04e67921511e8b0bda0  punisher/data/audio/VOC/VOC DCLUB.xsb
+015307ddaa48a6f7d91e09312095d0b1b6375197  punisher/data/audio/VOC/VOC DCLUB.xwb
+0f97e30e862eed42a0b6b4d4d83fc61d5e158e81  punisher/data/audio/VOC/VOC DRUGBOAT.xsb
+69a6b21f73501c6f56243cbf71801cb061797b55  punisher/data/audio/VOC/VOC DRUGBOAT.xwb
+6a2809442d76b5afe7a6532cb1eedc0b96ece5cb  punisher/data/audio/VOC/VOC FISK.xsb
+a06e0289d7a743ed8f706902912eb48bc94cee5d  punisher/data/audio/VOC/VOC FISK.xwb
+be577e746917f981d3a37f1620498e93e9fc86da  punisher/data/audio/VOC/VOC HARBOR1.xsb
+5f42313baf0fbcf243f8e365b6b0b647f8e33b86  punisher/data/audio/VOC/VOC HARBOR1.xwb
+bf0af2c22f1133216b3921897be6c8daad72e73c  punisher/data/audio/VOC/VOC HARBOR2.xsb
+b2a90aa2316950163e14d4978c71978756a78628  punisher/data/audio/VOC/VOC HARBOR2.xwb
+65d457b6e5c3ea5b2b0aa9e427ac1cd04feaecfd  punisher/data/audio/VOC/VOC INTERFACE.xsb
+75ddb993e20ba8648613e652c59be4d0b029a626  punisher/data/audio/VOC/VOC INTERFACE.xwb
+05f33924f4ebeb08e5a33b950fa4240e81f3119c  punisher/data/audio/VOC/VOC JUNGLE.xsb
+2b97996f48f26abe5b1536b31eb43dca57f0cce1  punisher/data/audio/VOC/VOC JUNGLE.xwb
+ed7830dcfd2da39d2b59b45b664a5e7f67cceb9a  punisher/data/audio/VOC/VOC MANSION.xsb
+ef9293d1d1e7ad8d6aea14d2430c9182d5890c44  punisher/data/audio/VOC/VOC MANSION.xwb
+7362834c5d4fac80828770aed6abfe87ae383834  punisher/data/audio/VOC/VOC MEAT.xsb
+6a6fc2653058f416d308f0010b6c3f9354d3cb37  punisher/data/audio/VOC/VOC MEAT.xwb
+810840ff99000d262be30a352325dc8212b73ae7  punisher/data/audio/VOC/VOC MORTUARY.xsb
+84ce3da81ffe8e270afcc1886b6bdfaa30347029  punisher/data/audio/VOC/VOC MORTUARY.xwb
+2be84149e0c26787bde7fb78904831187d37fbda  punisher/data/audio/VOC/VOC NYCRACK.xsb
+59ec31d38cbee032154030130af6137b85ba3bfe  punisher/data/audio/VOC/VOC NYCRACK.xwb
+913daa98c29a1e9e771e48778a0fc910d936425c  punisher/data/audio/VOC/VOC PENTHOUSE.xsb
+1c8b7b533d5cec93bf7eb6a002f306688e2b126b  punisher/data/audio/VOC/VOC PENTHOUSE.xwb
+04e51923d8a99735b69c57aaac9c5aff6fdf5101  punisher/data/audio/VOC/VOC PRISON.xsb
+ab96a2389b0f1b18bb80d448d80f6269d0696951  punisher/data/audio/VOC/VOC PRISON.xwb
+4523fd4615efa0d5e9445adf2272fb3863d76b78  punisher/data/audio/VOC/VOC STARK.xsb
+85de236d2f632019b21ac3c4dc4c1e01f3fc027b  punisher/data/audio/VOC/VOC STARK.xwb
+cb03b71764776e07e28b94dfca92d9517f1a5b7a  punisher/data/audio/VOC/VOC ZOO.xsb
+7d165d30d4f6b46d0c6ae76f615f944fe0b836d6  punisher/data/audio/VOC/VOC ZOO.xwb
+9da3fdf878518af7f88d07c8620131e54dc22f15  punisher/data/audio/VOC/vssver.scc
+b543ec757c388888c8d9bc3abf4ddefd0bba0cb5  punisher/data/audio/Weapons.xsb
+bd5d2fd4e6dabf88cb4ae2d3833069900093012e  punisher/data/audio/Weapons.xwb
+bcb2b205dc7b3580ddbb3fdd7b132b1ba7004a4a  punisher/data/audio/pun_dspfx.bin
+b489f4927876ceaba8acb59b3f2490c7f1e384a7  punisher/data/audio/vssver.scc
+21c71fe42a47bef8e3d50cd5650b303f6604fcee  punisher/data/extras/comic/comic1.vpp
+9c7844bedff2981cef9ea5c866da07e0e656eb70  punisher/data/extras/comic/comic2.vpp
+c55ec4d64066ec90de1c1b0839e8a397f0ce2591  punisher/data/extras/flash/flash1.vpp
+4196fd4b938683074967e35b1b2f8b8846179a93  punisher/data/extras/flash/flash2.vpp
+ba8fd1c060a9c6fa6a866ee5f1dc9783c26a04d0  punisher/data/mini.vpp
+52d195d2012279020b21f921b0cb7f9799d00a43  punisher/data/misc.vpp
+031e2693ca6a8d915303e2487420284cb8f9151c  punisher/data/movies/PAL/attract.bik
+3e5a99375c279dcba6c1d5708821d11498d70426  punisher/data/movies/PAL/intro.bik
+e65ef369b43651608a8f1ca35f7f3bc473ab31d9  punisher/data/movies/attract.bik
+2d46ad981f05a0fceff97b81c989bb394de9b534  punisher/data/movies/intro.bik
+9e5751465845d00f39ce00bcd743b7f3cff73c13  punisher/data/multi.vpp
+d772b3f04e8bfa492da74c845b56f5bcfcbc8bcb  punisher/data/perm_mot.vpp
+c26bda10793334e8a19105cb7d8003b402279e92  punisher/data/shaders.vpp
+fa5433175a647460c7f44ae1e9c661a597414355  punisher/data/shipping/zoo/zoo3.vpp
+040d2515154e564e6e1a06351a0feb18c962867b  punisher/data/shipping/zoo/zooa.vpp
+b4c5d38ad95a9f9e7986f2e5ba1c4d4f6d46b907  punisher/data/tables.vpp
+06f16e0ca1c60218cfc4baed2a18d7621022da29  punisher/data/thp_guns.vpp
+1837d4d6310d8bb9e1677cd865f85b89fbf08dfd  punisher/default.xbe
+92136d3f6b6867d34a840307da1fdb64156c43c3  punisher/punisher.png
+51b18d3e5a546ff057fd4621ef1a80213688f6b1  srs/Data/CDFILES.DAT
+c8380ee61cef69ac4fbcd81c87a3da66dfea6d0a  srs/Data/HDFILES.DAT
+e56bff85a7884f7c25c08e5159c0590a9d2e854c  srs/Data/archive0.ar
+1bdf84dee17e8bc92e21d623358c21065ebf7f1f  srs/Data/archive1.ar
+4f6efaeb106027759cfa33c21e26d5fecd8e06cf  srs/Data/archive2.ar
+be42f836c522ff45343bbda44365d926086717da  srs/Data/archive3.ar
+6a4e45b1ba34b0a30f48fb3be3dfcebe3abfe737  srs/HDD/LOSETRACK.WMA
+6a80a7b7665b12b016b080f2a76b4acade5320e5  srs/HDD/MUSIC1.WMA
+0a53095bcfc6a2cf13a8254b494d8c7375a19b06  srs/HDD/MUSIC10.WMA
+bc0cb57eb4cdba86bd6eebea5655a62ac9451096  srs/HDD/MUSIC11.WMA
+2ccf60d53e807d329fe417251814b4c2237a7703  srs/HDD/MUSIC12.WMA
+2320e9da642116485a1ea845d953de195c23f784  srs/HDD/MUSIC13.WMA
+90e995c216b7c176be7496a64eaafb479171302b  srs/HDD/MUSIC14.WMA
+6dc82ac0eaba4c009e4496ddd45cb7db55207f6e  srs/HDD/MUSIC15.WMA
+9a85fe1f8c76e214484d72ae59d3a3c5331cad1f  srs/HDD/MUSIC16.WMA
+206c533b6444c8d24c4ac0b87fca793a1f6b5dd6  srs/HDD/MUSIC17.WMA
+e47971f94d3a708452d5019e0115cfa0a5a79588  srs/HDD/MUSIC18.WMA
+60211fd9a3c5a5ace41dce58069dc2ea0252f6c5  srs/HDD/MUSIC19.WMA
+2cec3c1307f8093cc27cdbd14d23ae415a37e225  srs/HDD/MUSIC2.WMA
+c856d8227facab0f36a4b889340f1b695df9d611  srs/HDD/MUSIC20.WMA
+21931e638d3db571de8df32d50f833cb988dac57  srs/HDD/MUSIC3.WMA
+394fda5c7b16cdae2a25a722e224956958e9cd6c  srs/HDD/MUSIC5.WMA
+0d8ef72f73465e727d8ae60597e325d6cbc82d53  srs/HDD/MUSIC6.WMA
+876d55483f095fd958b00a7181eee1f2e99d0d5a  srs/HDD/MUSIC7.WMA
+07dcc2da4a5b4bbddbc2ca1cdbff7ab6c5ffbec1  srs/HDD/MUSIC8.WMA
+c33273f5f669bd493c9f9d985fbc63260fe37bad  srs/HDD/MUSIC9.WMA
+16a54f84fa41a97edc180b9fac09737589846631  srs/HDD/POLSPEECH.SPD
+32a14ed85144e6fca5532a8d65a4e84de88e9706  srs/HDD/WINTRACK.WMA
+d319c08422a0f67e7850d8a47391aa3784f568e1  srs/Sting_NTSC.xmv
+ada794576203caf0ff4616146c3da1c25cd06a48  srs/intro_ntsc.xmv
+1604cbbce289fbce70e2e0dd3feac5aa5f2b4228  srs/srs.xbe
+30f17ab06064506e33d72a96b1d736a8d0cf0cac  update.xbe

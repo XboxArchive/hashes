@@ -1,0 +1,1475 @@
+3ed40fbc2e82ef6d1d9a733bb49460ebc1cb5229  Config/settings.cfg
+af4187de4a4e8fe0d67ac8c40760d8c7311e90ee  Data/Menu/Click.wav
+45a96b0c9562eabf3574b5b20c43cf570a5852e4  Data/Menu/Font12.xpr
+10fd325f316e86a4c0c7655427b1e61c553b48d5  Data/Menu/Font16.xpr
+2814e9741fabf2d732787ab9910c4fc6f8b1921c  Data/Menu/Font9.xpr
+b3b34e86f19fae08794baa73e1259f5551a20b45  Data/Menu/PP_logo.dds
+3cbde9e8ec302433c41a331b9c84f055bf32e075  Data/Menu/XBox_16.xpr
+01359b2535cd3348de7acb4c93810ab987e4739c  Data/Menu/a_mouse01.tga
+01359b2535cd3348de7acb4c93810ab987e4739c  Data/Menu/a_mouse02.tga
+45ef02e19776eb863e059f100619ed1d27c0cd96  Data/Menu/audio01.tga
+0f1826d309e6c6d490687fa592f1659ad9fb0364  Data/Menu/audio02.tga
+8a41f77df9f4107d572764cb143a86c7995fecb9  Data/Menu/audio_3d_off.tga
+bb2fdb1e6bbeb9629a443bda89da382501567950  Data/Menu/audio_3d_on.tga
+a3188516f37b34366e555903ce8cc3dbfee36710  Data/Menu/audio_box.tga
+1b67f88f6b65464f9b916ce2001c661ce0efcdcc  Data/Menu/back_off.tga
+1b67f88f6b65464f9b916ce2001c661ce0efcdcc  Data/Menu/back_on.tga
+34b4e799493854dc358365a8ce8bbaf0aa19858d  Data/Menu/background01.tga
+a088252c6a7b1ebb13269e47ec357ac4214937e9  Data/Menu/background02.tga
+7d1bf6d0d9b253e300b636f53269b081967b8532  Data/Menu/background03.tga
+fc9ce19bc803eeb8ce660bb5d13b77672bb3215f  Data/Menu/background04.tga
+5a3fb8114b56732fb0131934436d15e651891022  Data/Menu/background05.tga
+ad40d1fb2ccc5c5ef08f9056783cb3e390a3fde7  Data/Menu/background06.tga
+c8561f31da798a7dba4628f39b9c3179b58be481  Data/Menu/box.tga
+a6e8e75ac9aa50d8a1b2af5922a21088f1b128c0  Data/Menu/char_0.tga
+3e4bdbeb4d5e141cf8fbf270afb97c73479f5686  Data/Menu/char_1.tga
+b4d9be9b8ba32e81c02be56258c4bb207e203374  Data/Menu/char_2.tga
+8cad7c767477f59204846690be7aaa3a9ca697cf  Data/Menu/char_3.tga
+f50456c477643fe12934f84e2ba3715d7962b89b  Data/Menu/char_4.tga
+2e9e744afb148d74b610ef8027cde5561294a129  Data/Menu/char_5.tga
+29d7cdebf7f1c268e891c76a2cfdde719e577ad5  Data/Menu/char_6.tga
+730893d0241dc3689c06293b3bcb70af877ad996  Data/Menu/char_7.tga
+7b07ebeb4d7f75cb0712fb3def3fd6335542e12c  Data/Menu/char_8.tga
+e26d4ccdf6be57ac986cb66c09e7308a7c197fe4  Data/Menu/char_9.tga
+6cb37dc93dd420151192d9fe0620f6c1767bf8dd  Data/Menu/char_a.tga
+591c2880baaf5074d3e0df85e56e0b5b7eba6d41  Data/Menu/char_b.tga
+2a3699aa40425e57095528047d6447ed1d399be4  Data/Menu/char_c.tga
+55099814119984245a5b8082b0e995e59ab40e4c  Data/Menu/char_d.tga
+645dd21f041d2a82b4e00024923a4d2d2ed5957e  Data/Menu/char_e.tga
+a72a1fae7be77419a2c83a6f01077c622c0fe729  Data/Menu/char_f.tga
+8e93b6f9a24b9b6d59a171319466fef40fdae11f  Data/Menu/char_g.tga
+f28cc1e618c8f1b07bf940dfda47f6a6a8722dbb  Data/Menu/char_h.tga
+19f3b39b5b387521c6b48763651bcfb1b84332bb  Data/Menu/char_i.tga
+f0e44188f823b405b07372097b67e55ac6940e4a  Data/Menu/char_j.tga
+ca910f38fa811e091fedf310d2ecf1c9d9641eb1  Data/Menu/char_k.tga
+22fbaad09cf6cf1cab997b444c847290cb806f18  Data/Menu/char_l.tga
+7944c2b89dc7fbff8e7635656ceaffe723ad7d65  Data/Menu/char_line.tga
+88cf4e8efbfcbcb350f123ba3d1c7a6443f3f9e6  Data/Menu/char_m.tga
+8bb3e3235831e67d7ddb7dfcccb7e2e9da0a991b  Data/Menu/char_n.tga
+a3a8a7c4c07ba74a38d9205f07f6d9b8aec7e057  Data/Menu/char_o.tga
+19f8a14066779dd48f0d48952a8247354a4a977b  Data/Menu/char_p.tga
+9ee9afda4743f7947a40d60501e3e78b891be448  Data/Menu/char_point.tga
+bfcf3ccebd4b46defb9a521ba4142bae6b379fd5  Data/Menu/char_q.tga
+4ceaf5c8598802b14f842b41bd36d693db5a380d  Data/Menu/char_r.tga
+8949290437b9782304a9beeaa0e0967eea802800  Data/Menu/char_s.tga
+9a772cab406ee8b1890f1c97a6b9076efd00a77e  Data/Menu/char_t.tga
+bafb04c447f5a358cd4a8223d0ba3dce6645d853  Data/Menu/char_u.tga
+a6cf3fe2e8ceb7107a929952a25c382958857fb5  Data/Menu/char_v.tga
+4c2053c223d4d6658257f5e69e57e823ad298769  Data/Menu/char_w.tga
+681c945b17162128e45b1dd49693200fb8f2dfb9  Data/Menu/char_x.tga
+59540f7e153aa2ff053067960b6b588a458653d4  Data/Menu/char_y.tga
+b2f5b20d92d23c04b535d6772e06393581e6a201  Data/Menu/char_z.tga
+b228c2f0b599d4f6b17fab26d48647204536fbf8  Data/Menu/controls.tga
+b228c2f0b599d4f6b17fab26d48647204536fbf8  Data/Menu/controlsb.tga
+ebf3df883b0913b6690c0d4be145fb29ab98d3ea  Data/Menu/credits01.tga
+09ff569f23972b6c7b0973861e6b3df2dd870904  Data/Menu/credits02.tga
+2d20a6c07ca425058544b9808bc85699c4aa8de3  Data/Menu/credits03.tga
+54282d5bad01a938e48e82b810b525ee771a674d  Data/Menu/credits04.tga
+dd03268a73b475c22118cef0616579e6d8187863  Data/Menu/ctrl01.tga
+4736bd81197495d6fc7f360aad74ab6195856602  Data/Menu/ctrl02.tga
+4736bd81197495d6fc7f360aad74ab6195856602  Data/Menu/ctrl03.tga
+b0410d9a8f86a7de17ca33d817c519d0bf9dbf86  Data/Menu/ctrl_nyil_off.tga
+f3034cfb50f1315d76a0e9feaad0af2d1501dedd  Data/Menu/ctrl_nyil_on_b.tga
+fdaace76c70918c050e666d2e82de6c6578bf191  Data/Menu/ctrl_nyil_on_j.tga
+a03d8fcb0816a6bd2b97e23b44d3040197c856af  Data/Menu/down.wav
+61c49f7346e43a546cb1447a1ed31c82cb394b0c  Data/Menu/exit_off.tga
+61c49f7346e43a546cb1447a1ed31c82cb394b0c  Data/Menu/exit_on.tga
+c2f30fe17325a0be5ffa04dfe44c16c24a9c741a  Data/Menu/game_sett01.tga
+c2f30fe17325a0be5ffa04dfe44c16c24a9c741a  Data/Menu/game_sett01b.tga
+34b9f0af6b83362d1b8ae011fe258afb1fed57a2  Data/Menu/game_sett02.tga
+1caf4748d564b30fb08ccb91a0abfbd6f3cb1561  Data/Menu/game_sett02_off.tga
+dd3e2ed54df365de35af53d06e2766c06a2cc63d  Data/Menu/game_sett03_off.tga
+0e54596b652cf4b75555168c89f9bae99a7b56dd  Data/Menu/game_sett03_on.tga
+093c67502c5792283cd5728ea28efed5cf29386b  Data/Menu/game_sett04.tga
+c479706e758c239cebdf224cb7ea7d217697121f  Data/Menu/game_sett04_01.tga
+debac95ccd7ce42acf911b503caf53dc9c2e05f3  Data/Menu/game_sett04_02.tga
+0652dd77aa52cee2f52045821232853dc1796750  Data/Menu/game_sett04_03.tga
+126e867c4446452d7cfc5915009028ea63b58f38  Data/Menu/game_sett04_off.tga
+813f4ef75eb7b45f4651ce3fd998039a389ab71a  Data/Menu/grs_add01_off.tga
+19d586bcbe2a4c73d382a1db6da922b1adbbad2d  Data/Menu/grs_add01_on.tga
+d47801af72023a1c64e00db64a917474d3aba8c5  Data/Menu/grs_add02_off.tga
+e955a03b830a46f8ce785ee3f3c5b422c4a4bc58  Data/Menu/grs_add02_on.tga
+86f0a629d00fbf2bb2743d8b30c93544ea66cd54  Data/Menu/grs_add03_off.tga
+85c05f1ab0dfaf150ac7071bb10181a43e80cb45  Data/Menu/grs_add03_on.tga
+208918688695539ec6180a653ca35354e64e7c62  Data/Menu/grs_add04_off.tga
+c29a31afb04e39e5fb2d31f443be3016046a546c  Data/Menu/grs_add04_off2.tga
+b7ef04791478dee3ca3bdd529a7b8ad489933727  Data/Menu/grs_add04_on.tga
+de9f8b1a2e999497fffe5957d42dfaca87308715  Data/Menu/grs_additional.tga
+b844dfdf442bc1c766802d4bd6c14bb1bccb46aa  Data/Menu/grs_box.tga
+8b2deb1092072b473ce166385065929a8141dca8  Data/Menu/grs_custom_off.tga
+2a75a46fda59c63ed34f09690bc600b1c01c7934  Data/Menu/grs_custom_on.tga
+b2bb1feb03997a1cb6e3534c778c6156a1b4a3a4  Data/Menu/grs_det01.tga
+a621d0ed98e7ce16bec6aa16d535caec5f8e1e65  Data/Menu/grs_det01_off.tga
+b2bb1feb03997a1cb6e3534c778c6156a1b4a3a4  Data/Menu/grs_det01_on.tga
+ecca4ddf76af44c18545721b711cdd3edb213a28  Data/Menu/grs_det02_off.tga
+05aa80de7c2c5fcd40f8b548a11381f0e714fbdc  Data/Menu/grs_det02_on.tga
+dbd54039ee08db18805ac0260b3269dad6507764  Data/Menu/grs_det03_off.tga
+ef2ca872f4291804fadd6ecf3f0b34589485654c  Data/Menu/grs_det03_on.tga
+6e763c155e4a9aabaad2e5b766789d49bb83763b  Data/Menu/grs_detail.tga
+cb0811227b40572fcc9b3b96cd6722aaf491aa8a  Data/Menu/grs_high_off.tga
+303f196946cb0b2c085c72ba2272c9cce2cbf774  Data/Menu/grs_high_on.tga
+ebbdc4590856934121efe211a0509946eda0b0c7  Data/Menu/grs_low_off.tga
+f279b131b6fe7237f0a0a8c5b20fb2c670f1316c  Data/Menu/grs_low_on.tga
+699a25ecbb8583e3c6a7c1b3c2764ce177421910  Data/Menu/grs_med_off.tga
+efc120de77c01051061508c02e153b32f5a6405c  Data/Menu/grs_med_on.tga
+ada160ab00c531b7ebe74e9c21c5e66f7b5fe344  Data/Menu/grs_res01_off.tga
+4424e7d87fab6f78bff048098741d96a4a7dd50d  Data/Menu/grs_res01_on.tga
+d0d3959221758fe381f7311a6289739a791fabd2  Data/Menu/grs_res02_off.tga
+53f4cf1b239f8cd1e1236fa1bd5a2bdd2726ac22  Data/Menu/grs_res02_on.tga
+3f32cc1fae39c68bf31c918ea163ab8f00a9aa96  Data/Menu/grs_res03_off.tga
+3acae7a12ee8c431f3c7308259718d07153aa48d  Data/Menu/grs_res03_on.tga
+b940af498cdf8f105b2615c91591f35a74f676a1  Data/Menu/grs_res04_off.tga
+ac6b50e18fdb8191166f43a4a292dea25963b4ca  Data/Menu/grs_res04_on.tga
+6f770299d4532319fabc20fc929c75307b4a13af  Data/Menu/grs_res05_off.tga
+3384880f9856470b5fdec08781a903338cd29d71  Data/Menu/grs_res05_on.tga
+379ed2347806d184e80c3343e1e87e5e76cd9631  Data/Menu/grs_res06_off.tga
+ca22db3a1dbbce1a6277d9b11ecb0e61b62b1480  Data/Menu/grs_res06_on.tga
+32d1102b9d87b7af4fa382490ad5c422aaf2e411  Data/Menu/grs_res07_off.tga
+c78abd7c3cd9644ab0340bfeaff935d1b581b329  Data/Menu/grs_res07_on.tga
+2f50b4acfeeae509e0d7bc840f3de254c5d82ccc  Data/Menu/grs_res08_off.tga
+0056571f96a68597377b070afb3416c3e72fb138  Data/Menu/grs_res08_on.tga
+cb1e5a3b33e85d4e2f92066f1541229f0379994e  Data/Menu/grs_res09_off.tga
+244034c417ee7e2c02a41ac306311d022f554f35  Data/Menu/grs_res09_on.tga
+9f423dddd6d92821ea87b3b24839946603c83aae  Data/Menu/grs_res10_off.tga
+90579f242ef2999ad726bb23a8f84db8cd408628  Data/Menu/grs_res10_on.tga
+563a3014f81b985cb72df9dde1f53bd7162d87e0  Data/Menu/grs_reset_hit.tga
+5d63b17d38a8e307bbba8ee8dec2352401e6459a  Data/Menu/grs_reset_off.tga
+0384a33a868005191f0f63d5d88cdc6c6a409191  Data/Menu/grs_reset_on.tga
+01554845507dea714a718fa887ea92a30f70455c  Data/Menu/grs_save_hit.tga
+6d512ec0392b462ae53cedff99098e9cba4678b5  Data/Menu/grs_save_off.tga
+5dc5663e0d0d4a1fabd16785fd7e485da3d6d0e7  Data/Menu/grs_save_on.tga
+b48b6cb89af2b4bdef4581f69d28495d8d04858e  Data/Menu/gt_back.tga
+cf4ae7cac8bd40d7f6e7017bbdfb60e07f2da19a  Data/Menu/gt_line.tga
+9f3489340cb60f5735b9fc3645c619c48a428dd8  Data/Menu/hs_back.tga
+045734317537378fc8497a047e94777de31e0777  Data/Menu/hs_downarrow.tga
+c5f195cb4394278c96ffd400500d48eebcf85859  Data/Menu/hs_leftarrow.tga
+4cafb5e3f3fa60f3aa31753e66bd948f6517a763  Data/Menu/hs_line.tga
+ffe3835244c72d7bf5a7dbebe647b6054484e87c  Data/Menu/hs_rightarrow.tga
+74207cfb9d941479a2ad88d499695ce6aa52e8a2  Data/Menu/hs_tb01.tga
+75a49005a67b6d4a0ee47242938c24a2b25319ce  Data/Menu/hs_tb02.tga
+7fea2e8062b91d9cb725e24f2ce4ae6eda7dd489  Data/Menu/hs_tb03.tga
+0d8e7fa42ad28fc998a6ce8e7918b12df87f4dee  Data/Menu/hs_tb04.tga
+d94efef3bb07f36b36f028d1bc2fae8ee60bdc4d  Data/Menu/hs_uparrow.tga
+bb98beffc3f7e942e5f8f0cd8b1c49cd70193f07  Data/Menu/ingame_b01.tga
+2d77b2bb6a830ca7f5b0f93c99ab630c09ce9fab  Data/Menu/ingame_b01_off.tga
+46392cd0bc1b3fc09d23c777e50cbc21ed76fb06  Data/Menu/ingame_b01_on.tga
+f39611a793dbc8863467e0f3e3f0e134d589b2d8  Data/Menu/ingame_b02.tga
+f5a2580660f24371842fac847f447cac18e22868  Data/Menu/ingame_b02_off.tga
+f3a36e0c84744718f6029c3cab3a879fa11a5a95  Data/Menu/ingame_b02_on.tga
+b659cca762ef73078e9417822ace56aabc1e4476  Data/Menu/ingame_b03.tga
+a643baec93a05d27dcffa6cfb387e58de0da21a7  Data/Menu/ingame_b03_off.tga
+547440d34be0ab9b3ac8e3bbbe78f24e35436c86  Data/Menu/ingame_b03_on.tga
+cc97b44572c27f6b783220596efc08b8d6d9551b  Data/Menu/ingame_hints01.tga
+e4e98b758435867f65199849ed6591f39e9522f8  Data/Menu/ingame_hints02.tga
+31a0bbdd499f3d5ce2dbf50e7036ab0a0d7d481d  Data/Menu/ingame_hints03.tga
+6074ad1fe99967f1044251bb670e4b5c410272ae  Data/Menu/ingame_hints04.tga
+5050ba8f95be0e98ca98ed9b076c78247bcb3c3a  Data/Menu/ingame_line.tga
+263f5f2491905cce30da5333b4fb5c80aed8d716  Data/Menu/ingame_panel.tga
+d43e4e24dcd83e37c4d2f5db3c0a5feb2b8e018e  Data/Menu/iridon.xmv
+7311eaf8a538f3f92c5023adf815489499921182  Data/Menu/line_bottom.tga
+81ef57b7a2d9ba7123961369b2c5087eec465751  Data/Menu/line_bottom_live.tga
+e3a30b9cc66d31a1271c9bf75a1a80a639e0744f  Data/Menu/line_bottom_pro.tga
+60926d17dccae6f28363e16f1ead1d10bfbe1275  Data/Menu/line_top.tga
+6f44158b7ea77818750d752f3695a5cec359c16a  Data/Menu/live_back.tga
+1c627710449a071945d8ed8666e547a122081660  Data/Menu/live_line.tga
+427f5dc76570ddcd0815d69b55d5e5f4fade40c4  Data/Menu/loading.dds
+3ff7d0d26770bbf8a0e9bae8bc59e661dbf35e7f  Data/Menu/loading_01.dds
+33845fc35b455abf0f7aef625beb012186eb5363  Data/Menu/loading_02.dds
+c51c821194797e48a96afcaab3fcc71baf3226ea  Data/Menu/loading_03.dds
+74be8c52c3ab10b92b7ac63d58d4ceb12eb5c008  Data/Menu/loading_04.dds
+6d20f87ae913a104f99bd98ceffc610475e8d784  Data/Menu/loading_05.dds
+81d3c196d2df5f0e80044ed45d8a681858bdb9f0  Data/Menu/loading_06.dds
+f416ddcda9eefe316118a5398d21b739dad61e3f  Data/Menu/loading_07.dds
+c876112c64620b188bce570df2824abcc714fd46  Data/Menu/loading_08.dds
+df9c517c58f3fdad762ae9f1135f28f04f2d0e05  Data/Menu/loading_start.dds
+1c5c866ff45aa75da20c2b4a26d2cc108ee07e6b  Data/Menu/loading_text.tga
+81c0e7fcf1c7fd169eeeaf62b757591ac1e506b2  Data/Menu/logo_ask.jpg
+bcfc1ff884ed0738ddfb5ad0a657742a91d5bb81  Data/Menu/logo_iridon.jpg
+3503659446060aa7f492312912de327fcae75697  Data/Menu/logo_menu.jpg
+03da17f09eb40b3fbe87bd7461992cdb32d43c33  Data/Menu/main01.tga
+29d4ffd1d2c56f9727fdc68eae2775291f8f1fc3  Data/Menu/main02.tga
+3a436c511a12b60ca740122998baa73afe0dbedf  Data/Menu/main03.tga
+6f628eeaa697ce9c8ba534d656054d5a1868f168  Data/Menu/main04.tga
+667d216737e6791797ee21fff782ad5272de2cab  Data/Menu/main05.tga
+379ecf0b7222a118f90ef3c78b49584ae575aa62  Data/Menu/menu_1.tga
+662145ceceb7ad02ab82f3951bba4f09a213e8dd  Data/Menu/menu_1_off.tga
+8c9061b395fcd1e120467e2ec87fb6c7bdea824a  Data/Menu/menu_2.tga
+96d08648d3b595cd628b6996a8d4e9192dba60eb  Data/Menu/menu_2_off.tga
+954d9a1c8d8fdacd93586e524308803f36f488f3  Data/Menu/menu_3.tga
+b5634fe33d91d993065516851a6f17e1cfb2ee5d  Data/Menu/menu_30sec.tga
+a4a065ee4eb22504c42b9bc5c027dfbd4d3520f2  Data/Menu/menu_30sec_off.tga
+757bae068dc9aa89b99ca4b18380dca4a4b7d4f2  Data/Menu/menu_3_off.tga
+3fdda4ef7d41635fe25f86040f43781e6f30f914  Data/Menu/menu_4.tga
+3d9d7b3c5aa7a79180b022bf4c7a729b15156b57  Data/Menu/menu_40sec.tga
+11d36d8da4608415613ce4eab9f4c9ec03e41ca0  Data/Menu/menu_40sec_off.tga
+9f189fff403d65d6338bd32dc997c04e0fe088ec  Data/Menu/menu_4_off.tga
+39c11c02099dd563071552c10a80b18c0c777592  Data/Menu/menu_5.tga
+b28c715dce35592cd7e1ab8d754aec52f2bec73a  Data/Menu/menu_50sec.tga
+da16e511409948ca705b48502b3b3119f21e7e48  Data/Menu/menu_50sec_off.tga
+eda2233fad6262b4e38e79f88b48fa39f2ed3cc7  Data/Menu/menu_5_off.tga
+7947bbb3d5d5749ee7ff94d07f0618708ba6d00f  Data/Menu/menu_60sec.tga
+92339b3a568811be66c3a51d8e45e2f0dd6c1086  Data/Menu/menu_60sec_off.tga
+51c8a9732825ff9b64026f6a9b28030e22615a8e  Data/Menu/menu_7.tga
+6e6054d28ef174e1961e33fb4dbb3eabaa6b9a9f  Data/Menu/menu_7_off.tga
+60a2439d28ba62b08d80e13853ed8d6dddde50d3  Data/Menu/menu_line01.tga
+ca7b125b80364c6819bac180ff5790c242317119  Data/Menu/menu_line02.tga
+df63793156acb383c39705b3c625c3dcfa1a690d  Data/Menu/menu_line03.tga
+3f5abacf650fbb9955aa7b6bf035ac7495e87541  Data/Menu/menu_off.tga
+78af50ac744d6dd48eb37518b9f475ba067d25fc  Data/Menu/menu_off01.tga
+9319e3db2bf3175e8fd2ac2ead1e4c639f03a1f2  Data/Menu/menu_on.tga
+b78209679dd70caadf127652e46df6b686d81d42  Data/Menu/menu_reset.tga
+8d4330b1406674c1b689198749d38bbe6dc2ae1f  Data/Menu/menu_save.tga
+58a4a0827de81bda947e8cabcd6b83329bdd371c  Data/Menu/menuselect_down.tga
+58a4a0827de81bda947e8cabcd6b83329bdd371c  Data/Menu/menuselect_down_on.tga
+8534a1e38612c8dd5775aa7d38018931e450f7db  Data/Menu/menuselect_off.tga
+3239c5bc555bc1ce9ad16ae0c9b689ed95f4732c  Data/Menu/menuselect_up.tga
+3239c5bc555bc1ce9ad16ae0c9b689ed95f4732c  Data/Menu/menuselect_up_on.tga
+49cd9563486f8fd405d98a0b5d200044854e5f61  Data/Menu/panel_grsettings.tga
+56b931b8b4007fb8ad7797f6abbce65cd2e9778e  Data/Menu/panel_profile.tga
+e3a0a39dcf018af43f67362e34991e69fa58e4e1  Data/Menu/panel_question.tga
+1f346c8d121a30c63a0c2726fcd1c5c2f8735afb  Data/Menu/panel_question01.tga
+c343d0d332f9a85895719fa2869b8051b7711074  Data/Menu/panel_question02.tga
+2ceb3180e5be6bc6d4fa31208b59cd106b8416be  Data/Menu/panel_question03.tga
+f602fb967a93237d0082421e3ad0d643c2f437d7  Data/Menu/panel_star.tga
+f54b2c799362b30a5047d62eb2d1c5e01d9f4b80  Data/Menu/pointer.tga
+4424e7d87fab6f78bff048098741d96a4a7dd50d  Data/Menu/poti01.tga
+53f4cf1b239f8cd1e1236fa1bd5a2bdd2726ac22  Data/Menu/poti02.tga
+3acae7a12ee8c431f3c7308259718d07153aa48d  Data/Menu/poti03.tga
+ac6b50e18fdb8191166f43a4a292dea25963b4ca  Data/Menu/poti04.tga
+3384880f9856470b5fdec08781a903338cd29d71  Data/Menu/poti05.tga
+ca22db3a1dbbce1a6277d9b11ecb0e61b62b1480  Data/Menu/poti06.tga
+c78abd7c3cd9644ab0340bfeaff935d1b581b329  Data/Menu/poti07.tga
+0056571f96a68597377b070afb3416c3e72fb138  Data/Menu/poti08.tga
+244034c417ee7e2c02a41ac306311d022f554f35  Data/Menu/poti09.tga
+90579f242ef2999ad726bb23a8f84db8cd408628  Data/Menu/poti10.tga
+83f4e2fe24380284cb8987f4970c27c6fa197b6b  Data/Menu/profile.tga
+425f53191b5e7a8dce7f0e2720f13347e1da079a  Data/Menu/profileselect_off.tga
+a8476460b03cc22ba48eb45069262a3c09be0df3  Data/Menu/res01.tga
+785a1f6610ace226e4bb77a145cce709bb437e48  Data/Menu/res02.tga
+665de9ff6719e1b2732a89c48f3c368c70f931c0  Data/Menu/res03.tga
+636f241df60bddf476451ea73ca80cff56a7ff5e  Data/Menu/res04.tga
+13b03b97bf424e11c89283ec1db072238aca9d96  Data/Menu/res05.tga
+f98c7aaa711fd3ee66418f68de5f1aec0e7bc82c  Data/Menu/res06.tga
+b004803833f905a3180fea096c20e4913da7db73  Data/Menu/res07.tga
+0c4d75e6f3d6c9e092c76c6f83bef7898a7584c5  Data/Menu/res08.tga
+d79bfe6452eebc2a5eb8b539a777e776759ff55a  Data/Menu/res09.tga
+ea1fe56557143320bd632e8263f90ac4424f3980  Data/Menu/res10.tga
+1cd1c7c68bda3958761effc99c33b1a356451986  Data/Menu/save_alap.tga
+4ed19e241c7d6177c24f5642e36a0bd459678f21  Data/Menu/save_kartya.tga
+b3d159beca404cb571ed20c2dc823a40af2f798e  Data/Menu/save_sel01.tga
+c8618d7f3c12d5fc7214262f9c01765ee5a86cdc  Data/Menu/save_sel02.tga
+177fa0b1537636c4342e048ae5ad9f3d0b729e00  Data/Menu/save_sel03.tga
+7f485e0779c85f845ad6e308b249007d054f33a5  Data/Menu/selected_box.tga
+cd090547f018fc0a8f795993d477dba74f4246f4  Data/Menu/settings01.tga
+023b7281db249afe6fcb42a92b7180bf57e74a02  Data/Menu/settings02.tga
+b9c996d73c7c386e5c548d97671a9435c26b206a  Data/Menu/settings03.tga
+1f0949550521200dd7db4058596acbb2d2576fb9  Data/Menu/settings04.tga
+b5a88c623dd0d0a2cd4addf3b55d7013e49dd800  Data/Menu/settings05.tga
+9f476c2951afc902785c8b4c7a9df0f942684c4f  Data/Menu/sound_options.tga
+9f476c2951afc902785c8b4c7a9df0f942684c4f  Data/Menu/sound_optionsb.tga
+4c820c140c9eef0f45e2725a323df6fa4bc103ad  Data/Menu/sound_poticsik.tga
+18cb0dbfd76cfc7d6d95397b84eec240f9265548  Data/Menu/start01.tga
+12618dbdad165211ce0f41dae727bc8247fad25a  Data/Menu/start02.tga
+b3e91be632a5ef159ab7ec5bcd08b5641f332f6a  Data/Menu/start03.tga
+050ca986c2bbffc00d82b750b0f73b9bebb1c88c  Data/Menu/start04.tga
+2776557f6fc066299409124bf4e6db62959e3010  Data/Menu/start_screen.dds
+5f1f27a6bb85364b5f629e8a88d3d75ecace4606  Data/Menu/start_screen.tga
+b362c546e0c48455ac8e1a0e018c514015066165  Data/Menu/table01.tga
+2c57973e9399a9603d0a90890b34868f6fade566  Data/Menu/table02.tga
+e946b4351740e15ca9b4685be723cd4fd9831b7d  Data/Menu/table03.tga
+71763da500fd9afe82b2e8d3122eeef2bcb434bd  Data/Menu/table04.tga
+2a412b8e641de74a74b783ba739afe1245af2e0d  Data/Menu/text_menu01.tga
+2a412b8e641de74a74b783ba739afe1245af2e0d  Data/Menu/text_menu02.tga
+2a412b8e641de74a74b783ba739afe1245af2e0d  Data/Menu/text_menu03.tga
+2a412b8e641de74a74b783ba739afe1245af2e0d  Data/Menu/text_sett01.tga
+2a412b8e641de74a74b783ba739afe1245af2e0d  Data/Menu/text_sett02.tga
+2a412b8e641de74a74b783ba739afe1245af2e0d  Data/Menu/text_sett03.tga
+2a412b8e641de74a74b783ba739afe1245af2e0d  Data/Menu/text_sg01.tga
+2a412b8e641de74a74b783ba739afe1245af2e0d  Data/Menu/text_sg02.tga
+2a412b8e641de74a74b783ba739afe1245af2e0d  Data/Menu/text_sg03.tga
+2a412b8e641de74a74b783ba739afe1245af2e0d  Data/Menu/text_sg04.tga
+024d93c9dcde746038318ce8243a31a8747fa127  Data/Menu/up.wav
+88a479363cb85ae6f46bed8867f1f12b3a816b5e  Data/Menu/white_line.dds
+13fb9ae7465d1300091fa92d9e4d0487532b27f7  Data/Menu/white_line.tga
+75614fb1362e5d872d53f0d04787f177b4d54f46  Data/Menu/xbox.dds
+b37f3306cf271621995c277dcea556810412c842  Data/Menu/xs.xmv
+386f44d6b660f2fda8f48e6ec96e55c5bf0c0625  Data/Music/Main_Menu.wma
+c39f22f21d95468ee960fdbcaec7a85113333ca3  Data/Music/Table02_Main.wma
+edfd5d42f02f474f92f4f6ecb7e9960783155694  Data/Music/Table02_Mode01.wma
+b2e8b8f336fbf590390a65848698fc58d3bf1893  Data/Music/Table02_Mode02.wma
+6d8aefeb780ef547a2eee544eddf74aa60f0c967  Data/Music/Table02_Mode03.wma
+2a391df126e557eeab6abeae3a70621a3343a174  Data/Music/Table02_Mode04.wma
+dfc550f638a0dd1062add3546496d366cce96002  Data/Music/Table02_Mode05.wma
+37cfe59387918e501ab6c3b7274de58c668910ce  Data/Music/Table02_Multiball.wma
+572f4b714c1240cf807de0cc602b2f89207c4153  Data/Music/table01_balldrain.wma
+9818970737e3965847ab60e5b093d9a02fc2a391  Data/Music/table01_idle.wma
+572f4b714c1240cf807de0cc602b2f89207c4153  Data/Music/table01_loss.wma
+bcd40058902598482b533574735555a667f629ab  Data/Music/table01_main.wma
+3e9d3475d82d921dbe458a0c0b7f122b3982f2cd  Data/Music/table01_mode01.wma
+10815382b2e237f50065ff543ab282d50a5478e2  Data/Music/table01_mode02.wma
+a280902c7583654b3995a0d5ec59b35b369fde0a  Data/Music/table01_mode03.wma
+bfc155e3164da0aab9644238b4bb12eff9272373  Data/Music/table01_mode04.wma
+02af6baaf787db532d73417f314bf7dd47a513ca  Data/Music/table01_multiball.wma
+5275a6cabff173e7a90240481159e57fce77af92  Data/Music/table02_balldrain.wma
+2cb7a6e5b3d6a0d9ebc45d887c653d22731166cd  Data/Music/table02_idle.wma
+5275a6cabff173e7a90240481159e57fce77af92  Data/Music/table02_loss.wma
+ec15e711d0c7d4e6689077bd4e7d430efddaeeac  Data/Music/table03_balldrain.wma
+0ddde1316d61ca8574f0e77a74686f9703f1f622  Data/Music/table03_frenzy.wma
+d6e805fd82b50d19baf2768515acdf86909f9d99  Data/Music/table03_idle.wma
+ec15e711d0c7d4e6689077bd4e7d430efddaeeac  Data/Music/table03_loss.wma
+2e5cbde1780f5a24fe4fcc811a1cf27ebef595c4  Data/Music/table03_main.wma
+29a6237c7bddc6235d26bf993a428d1b74366b61  Data/Music/table03_mode01.wma
+d294d20724825e49dbcd341cd0a916dcc87ea22b  Data/Music/table03_mode02.wma
+45d73aef1934c12ec9f7c2f007600746a4f0b9eb  Data/Music/table03_mode03.wma
+35200081a1bd29b410ec298d1957891996e459af  Data/Music/table03_mode04.wma
+8971f87360f54b61cd80546d2c111da75b268fea  Data/Music/table03_mode05.wma
+f5c96378c166fe280b5276511c02ff2b992e9ef8  Data/Music/table03_mode06.wma
+0771ce9c5ff3f834e2894b57dbeafb3915e1d35f  Data/Music/table03_multiball.wma
+dc918a0a74f1d713ce4dad1b25c73ee3623365e8  Data/Music/table04_balldrain.wma
+3f796b24f45942aa6b5a05230df5708929af660f  Data/Music/table04_idle.wma
+dc918a0a74f1d713ce4dad1b25c73ee3623365e8  Data/Music/table04_loss.wma
+351ca86534efd3df4a3ab3b72f20cb10a9585615  Data/Music/table04_main.wma
+507792a3fe58dc1e644cac5188cc491bc77512a1  Data/Music/table04_mode01.wma
+40900abbd63adc572c21565006d2ec5cd21a9e64  Data/Music/table04_mode02.wma
+562a27880c8497a1d2fb29bb0a21c12ffb4ad5a3  Data/Music/table04_mode03.wma
+360f23956c09cd2357f34be780f8503d2b13fc12  Data/Music/table04_mode04.wma
+d8a4f62927361e4c18ebf4070d8d6af471ad5ba1  Data/Music/table04_mode05.wma
+af4cfa2a08c70d3eb074566c8b09b6001a31215f  Data/Music/table04_multiball.wma
+cd629dc09e0e62da2952b6937f4025a1e68ad9b4  Data/Music/table04_space.wma
+52740a06505e4c8e3df5f6978ab71f5074ad9af5  Data/Sounds/ambbase.wma
+0cac788719281cadd32c92b9abcb469278cd1e2b  Data/Sounds/bonus1.wav
+0b9832869c7b0a8ed633a0319dd1424805ad91e3  Data/Sounds/bonus2.wav
+8c31c05bed81e180963b7c32a9c64fa19bf9fbbd  Data/Sounds/bonus3.wav
+b74bfcb0fea316675fa22cf8509f26a2b554d2a1  Data/Sounds/fekezes 1.wav
+5fffa67b56fb13f49834055edfa9a0efabd77a9e  Data/Sounds/fekezes 2.wav
+62192e9d09dc50ac4a5a691fe47e76bc12ca404f  Data/Sounds/femkopp.wav
+a1ea8f57de0d7f4c9e70999be48c59276068d215  Data/Sounds/femkopp2.wav
+9daafd6e37cabafb505ce103ea6e7689d4e17ccc  Data/Sounds/golyobeules.wav
+7d7cb7ee149bf2760b18822ffaa3bc5abd15c46d  Data/Sounds/golyokiloves.wav
+64ab6fc1d5cfa609f215db1d9bb5084e77fd4745  Data/Sounds/golyokocc1.wav
+e5905d0d6873ea98350b65ae2b0615dad5b28d80  Data/Sounds/golyokocc2.wav
+92ffe33bc19efd5dbfa24ac5656563b3e33f728b  Data/Sounds/golyolemegy.wav
+9ba3af76df6abc17b731202bdda4723fb41664c7  Data/Sounds/golyopatt.wav
+545486b0683b074b6d8a576608be4bed4fc89a62  Data/Sounds/gomba1.wav
+69a5c156ab1f2478d34bc819eb756ed7336732b9  Data/Sounds/gomba2.wav
+87ea31b337bd78a54384a429ca6d9ff295a5844f  Data/Sounds/gomba3.wav
+04c957c7105c85a86ea39bde329eed80ee74230e  Data/Sounds/gumikopp.wav
+d63ce372542babba4ec64e5b7668d6030d7dc7ec  Data/Sounds/gurulas1.wav
+31f8678f07968eac8f1078d09801efbd243c81f1  Data/Sounds/kar1.wav
+98aeb87f398e0e59aa58c94f6085920fd446245c  Data/Sounds/kar1v.wav
+2f030499cdb96e91cb46a563cc3878fdca6f1e1a  Data/Sounds/kar2.wav
+d5761062cee78d373721282d8f3e5644f4532403  Data/Sounds/kar2v.wav
+47dc6743c5ac98bf7b05c11a50b7e89a4adcca4a  Data/Sounds/kiloves 1.wav
+09c6a54ac1c07918c71ecb4a8a7fecc7e6bc618c  Data/Sounds/kiloves1.wav
+686fed82069db4205409d7e050f3b9ebfd56f6b2  Data/Sounds/kiloves2.wav
+6d2b52c5f4b5ad8b50c8beeba6035a36c46bc317  Data/Sounds/lengo1.wav
+8b1c686c2c57dec334ae6eb4ea0f813d5f31a4d7  Data/Sounds/lengo2.wav
+b232568ee7f8f9e0f41aa24231fa5c73ccd2b2f2  Data/Sounds/lengo3.wav
+2da0d4c016b136ac29a95de2f6408f6664100138  Data/Sounds/lokes1.wav
+39b7ad40105f2d616c29a7187bcf72bed89b0988  Data/Sounds/lokes2.wav
+51e82e2f64686bdd6de590d87f669d789dc0efa1  Data/Sounds/lokes3.wav
+959f19502681431472ca1a002451e043b9f29054  Data/Sounds/multifellovo.wav
+2bae4e48c20f10bcfd96998c2f8174e4a68b498a  Data/Sounds/oldaltfel.wav
+541c2641465c559963d757b2f36eeb3fdae9ebe2  Data/Sounds/plexikopp.wav
+9c1c1bac51c8758820203881a28555d0bc9db805  Data/Sounds/pofozo1.wav
+61fa39efa2e3eb31213379d77c994340741e4328  Data/Sounds/pofozo2.wav
+a098dd84cc1a93ee961c4c34669aca7f8ae3aba1  Data/Sounds/senzor.wav
+03ca6aa235f99eb70a12d631e003c97fca0df03c  Data/Sounds/vasgurulas.wav
+19764e845dfafb25c648887ab40cfdf6ac91539f  Data/Tables/Table01/Anim/1 million.xmv
+268595c376e205e57e5f8a4b0e3956c195ba1c50  Data/Tables/Table01/Anim/1 player.xmv
+bf94d5d0618ea9e4e87de441d4d398d655af9736  Data/Tables/Table01/Anim/10 million.xmv
+d0ee40b6ea7d5736ccc83019c3c4dde3f28f113a  Data/Tables/Table01/Anim/100 million.xmv
+3567a3ed7e6181bc203b62b44a6ee6cde281c36e  Data/Tables/Table01/Anim/2 million.xmv
+edefb26a4bd974cf14de2df960f89b5284320243  Data/Tables/Table01/Anim/2 players.xmv
+1ca0e6cec066f0be5f85300b78b4f1e115123f34  Data/Tables/Table01/Anim/20 million.xmv
+50e92bd1c5c8ea13b93fcc8bdec24f78e293baee  Data/Tables/Table01/Anim/3 players.xmv
+e14a0d61f5c4b9a451e67cef08a564c934e5e30b  Data/Tables/Table01/Anim/4 players.xmv
+6cdb0ee09b081d48f120baf55d64d154aa7a615b  Data/Tables/Table01/Anim/5 million.xmv
+ef3fb6b457a274a81d80e964c71755a76f60a549  Data/Tables/Table01/Anim/50 million.xmv
+5156989c7a5cdd1326bd5c1e36575a43d3be7e95  Data/Tables/Table01/Anim/Main.xmv
+c9419ba75c47514538076a86b11a0d8b1bcf4f24  Data/Tables/Table01/Anim/advanced.xmv
+fda565399257e0c0348d2baa51f0876ef1f0fda0  Data/Tables/Table01/Anim/ball 1 locked.xmv
+e45eb21f80af277f0e2b304bb9aa5bcb998571b0  Data/Tables/Table01/Anim/ball 2 locked.xmv
+739db631afabd4bf151ffa92c922ce5be2d665a0  Data/Tables/Table01/Anim/ball 3 locked.xmv
+574fa13b4a9a5c3bf3560202fb90088336cbe50c  Data/Tables/Table01/Anim/ball 4 locked.xmv
+85cacc025ba3e25fcd8511559a4fdfba1d73a80c  Data/Tables/Table01/Anim/begin.xmv
+f214f24e6205637deb06154c417177afdf8eb2ed  Data/Tables/Table01/Anim/bonus times 10.xmv
+387cf609f933bc224366052c0cd0352b14edb2fc  Data/Tables/Table01/Anim/bonus times 2.xmv
+04fb59f83e7d92d47476453746c943c6fe27c908  Data/Tables/Table01/Anim/bonus times 4.xmv
+fd9a859da32d8a49e76c5e69fa4f6cbc0194c280  Data/Tables/Table01/Anim/bonus times 6.xmv
+0f9d99279b5bcae5b7d52386b1f98ac2521ad47b  Data/Tables/Table01/Anim/bonus times 8.xmv
+e590bb1f596cba56317915906a99eb36dfd2cf42  Data/Tables/Table01/Anim/combo.xmv
+9130fe77b4223bd62e62923eb6f5f36394dd7bfb  Data/Tables/Table01/Anim/don't move.xmv
+bb4aec9c1389dedaee39e38f6a398e7cbc959287  Data/Tables/Table01/Anim/double combo.xmv
+ad4b303c438a8ffc3d10be4b9366b76d240a47eb  Data/Tables/Table01/Anim/end.xmv
+8d877cc5031f87c33190956da217e6f6d40cb915  Data/Tables/Table01/Anim/expert.xmv
+14c091589ef19b22923a3ef4ac0ae68dcafe5b7d  Data/Tables/Table01/Anim/extra ball is lit.xmv
+b665edc2160d178345625eac321c26d865c6a24f  Data/Tables/Table01/Anim/extra ball.xmv
+933e5752536eef23aa8718fcbbf209b87a4014bc  Data/Tables/Table01/Anim/game over.xmv
+d72d917bed94fb0648a14b3e1d493a64801d5482  Data/Tables/Table01/Anim/gear millions.xmv
+def034c17a478e3dcede3c77c2d79f0ebb9986ff  Data/Tables/Table01/Anim/go for multiball.xmv
+c217216a651318732ed8ee5378e67e13a55fee81  Data/Tables/Table01/Anim/go.xmv
+173d9a89eb94bab5a3b45a720e862572cbc4c14e  Data/Tables/Table01/Anim/jackpot.xmv
+51dfaf66b8ed03d9c5e5b130da5c6cc521a91329  Data/Tables/Table01/Anim/multiball.xmv
+8b64fe2df134df566dc6b1b59ff354605efe347b  Data/Tables/Table01/Anim/novice.xmv
+9a1c7c611898d5a27ee363de5791fa43e312b414  Data/Tables/Table01/Anim/player 1 is up.xmv
+86d4c67f16f8b4609961cc29be1f7300280c17be  Data/Tables/Table01/Anim/player 2 is up.xmv
+3aa5e3ae1332ffa12b36388cd7f67aff30fe83f6  Data/Tables/Table01/Anim/player 3 is up.xmv
+4a2647910d0f608dfea1654a92d97aff4a1f4607  Data/Tables/Table01/Anim/player 4 is up.xmv
+5c0dd7a88b2839a3c4aa87d16c750ad24b2fe780  Data/Tables/Table01/Anim/race again is activated.xmv
+db7e6b22c8c88d995912fc7eb54cca55c19259c9  Data/Tables/Table01/Anim/race again.xmv
+636313908464de981d519eb47050c362bae4d972  Data/Tables/Table01/Anim/ready.xmv
+5a7f0677ed2fced146b3fab64bd886659530c374  Data/Tables/Table01/Anim/set.xmv
+9de9eafeb1ade48f626a401391bbbf4851e11fb4  Data/Tables/Table01/Anim/shoot again.xmv
+9916057109b0a0146d0d1717a044cc0d3fb6fa1a  Data/Tables/Table01/Anim/special.xmv
+b8916681a724f93f781afb25830e76590c45e02b  Data/Tables/Table01/Anim/start mode is lit.xmv
+9ce09814dc41c0f1069901234f79806591fb78a2  Data/Tables/Table01/Anim/super combo.xmv
+21dc33f410b2ae531aef0a596ab1ef614fef1654  Data/Tables/Table01/Anim/super jackpot.xmv
+e9d6a542fb8c7fed7bec538a900193874ef32cee  Data/Tables/Table01/Anim/tilt.xmv
+2519b3410fcdec7ca0a6ecf3a5f3396b565fe1a1  Data/Tables/Table01/Anim/triple combo.xmv
+3ab37ddd1c5b55715ddd4dc0da4c9a5717688b4a  Data/Tables/Table01/Anim/veteran.xmv
+41560a453d67333f7420406f39251d0c327bba5d  Data/Tables/Table01/Anim/you won.xmv
+40c29a56728dac358bba043870a59636436d72a8  Data/Tables/Table01/Low Object/car.dat
+fd6c37c105e55fa18125e5352889eb652b538dbe  Data/Tables/Table01/Low Object/enviro.dat
+e2889839408dcbe08df41fbc8d2aad07231f20d2  Data/Tables/Table01/Low Object/ramps.dat
+fddb0156b3cf0f18687912b0b9003e74921863bd  Data/Tables/Table01/Low Object/tukor.dat
+a922f5ac84214cd7e1466089de8fc1e4e1d882ed  Data/Tables/Table01/Low Texture/DisplayMask.jpg
+efbf3d8684f16d5beb28667b52b5e2847cc8d95d  Data/Tables/Table01/Low Texture/DisplayMask2.jpg
+ae23913a6540b828264efb2b4fe80440e2835fbb  Data/Tables/Table01/Low Texture/DisplayMask2_low.jpg
+9c9d692c6e160a0e30151cc8d34a2610d70d3e8b  Data/Tables/Table01/Low Texture/DisplayMask2_med.jpg
+1a669db4e3524f9ddb1b22333b00aee271e4b397  Data/Tables/Table01/Low Texture/DisplayMask_low.jpg
+f77b6daa1b58fa9ba71608fc43a1e0f84b4ce046  Data/Tables/Table01/Low Texture/DisplayMask_med.jpg
+cfdb28fcef5ed578a3ffc5a41aa62280082e7a0e  Data/Tables/Table01/Low Texture/a_DisplayFeliratok.tga
+44775987f37bd5fe96c20667fa0f2a0d28230a77  Data/Tables/Table01/Low Texture/a_DisplayFeliratok01.tga
+74a735c86cbd89abfc398b7c7c1343c66ded77c5  Data/Tables/Table01/Low Texture/a_DisplayHighScore.tga
+72fc16c426fc908851f23063f42457fb4b8536c6  Data/Tables/Table01/Low Texture/a_alja_map.dds
+44193eae3564ba24496fae39a22c74a761b3c76e  Data/Tables/Table01/Low Texture/a_cubex1.dds
+f8945c58dffa69339140e0bac435be6ba00ae059  Data/Tables/Table01/Low Texture/a_cubex2.dds
+2f652ea23171695ecdc8f971b4739a9407df10c5  Data/Tables/Table01/Low Texture/a_cubey1.dds
+fe346b6f2b2dfab098f868c10b77718ba883ed1f  Data/Tables/Table01/Low Texture/a_cubey2.dds
+f6a28c24f837e8dce5f11029ef0f1f69bd23b2ce  Data/Tables/Table01/Low Texture/a_cubez1.dds
+5a1558122887ed8c3f20df170de8bda3d91f7574  Data/Tables/Table01/Low Texture/a_cubez2.dds
+87f2dfaea83a4591fbbfffec111eae479cc7b72d  Data/Tables/Table01/Low Texture/a_disp.tga
+332d447046140d935cd60b271d4dc0f9b490d331  Data/Tables/Table01/Low Texture/a_displaySzamok.tga
+0296c5dc0b4e8612a9b4bc330a49d4610cf21e5a  Data/Tables/Table01/Low Texture/a_lampa.dds
+40a73f302a798054567ad100994e85e35b1283e5  Data/Tables/Table01/Low Texture/a_levezeto.dds
+22bd0bb124e69a9d24f16ab8b0371e869d1684e8  Data/Tables/Table01/Low Texture/a_levezeto_villog.dds
+ff8bb214815790469e0b50a6a85ab414fb5d546a  Data/Tables/Table01/Low Texture/a_oldaltablajobbkicsi.dds
+8a4612811cb1d863c458cc56808ccf254e083721  Data/Tables/Table01/Low Texture/a_oldaltablajobbnagy.dds
+43edfa3f18e6e5d1376c2f026caef7cbb33ecd5e  Data/Tables/Table01/Low Texture/a_pofozo_map.dds
+effe2f94ae9d13d977dffb4c0cd1fc44dc24a61b  Data/Tables/Table01/Low Texture/a_ramp.dds
+effe2f94ae9d13d977dffb4c0cd1fc44dc24a61b  Data/Tables/Table01/Low Texture/a_ramp2.dds
+effe2f94ae9d13d977dffb4c0cd1fc44dc24a61b  Data/Tables/Table01/Low Texture/a_ramp3.dds
+bdf049fee85147eba5da0313e984ddb23a10d419  Data/Tables/Table01/Low Texture/a_rampafelmeno.dds
+92bb508bb8598dc9dfb6744eab78e4633af74314  Data/Tables/Table01/Low Texture/a_ramps_map.dds
+ad78cc8e77db06c1e7286013d2150ae11fd3be89  Data/Tables/Table01/Low Texture/a_start_game.tga
+24fe11e7bd7c37a764f75f668993e1cd59025813  Data/Tables/Table01/Low Texture/a_tabla01.dds
+01aa8584eac737e0eccaefa5bf57a28be3a55fdf  Data/Tables/Table01/Low Texture/a_tabla02.dds
+a01d13352d985dc091c743104c7c44b61ee0d276  Data/Tables/Table01/Low Texture/a_tabla03.dds
+ece060b1e0adcd12bc4b2577653844c73abbb0a4  Data/Tables/Table01/Low Texture/a_tabla04.dds
+13cb36ae2b808a9fb6c209ee9c56c78ab85b8964  Data/Tables/Table01/Low Texture/a_tabla05.dds
+2f9a8fe1bf0720fd6fe0653e1e9b86495d7c1d87  Data/Tables/Table01/Low Texture/a_tabla06.dds
+218725bd6a201f282d73abaa90c6b6ff36084bc9  Data/Tables/Table01/Low Texture/a_vill1.dds
+e7f89e1f86b7eabddb6ddd98be6ff92b07a69ff7  Data/Tables/Table01/Low Texture/a_vill2.dds
+102f643587c5a5e3470be60797bc22ab3c75dd04  Data/Tables/Table01/Low Texture/a_vill3.dds
+fcc07194d05bf65ce97050501184ef86cfea7b8f  Data/Tables/Table01/Low Texture/a_vill4.dds
+2f009f5f846ff053d0e11ce6adc1c34905bb3291  Data/Tables/Table01/Low Texture/ablak.dds
+d39fdb9cfc0f5cc4603cd80be600ef4a601850be  Data/Tables/Table01/Low Texture/ajto.dds
+9f0cee09dcd74172ff2f8bf6a27bf2eb70fc30d0  Data/Tables/Table01/Low Texture/asztal.dds
+a4f7ca6051c212f81e1156c03192abc86732e1e3  Data/Tables/Table01/Low Texture/ballshadow.jpg
+1787ad1c234fb5e46153c7d396098a0ad17f9230  Data/Tables/Table01/Low Texture/car_lamp.dds
+876d5985f89415f5bcc4b3b5cee9c450c7159fb7  Data/Tables/Table01/Low Texture/display_map.dds
+37ecb1279a143e04435c51a6289e3d9a5290e7d7  Data/Tables/Table01/Low Texture/envir.dds
+ab19325c344d6e7798fc686249b67d25522eac8b  Data/Tables/Table01/Low Texture/felso.dds
+620ad5ca9e5d53b53bd8634421080cb1175c2722  Data/Tables/Table01/Low Texture/felsolapok.dds
+b314c448766b234725d6ae9a708478d7d95c96e9  Data/Tables/Table01/Low Texture/glow feher.jpg
+f8429c54817179dc8295198e271800aa6a5fb4b8  Data/Tables/Table01/Low Texture/glow.jpg
+6299d63031f5656887c273481138942ae22f260b  Data/Tables/Table01/Low Texture/gumi.dds
+dfd6d8d409afed4a776473ef2c546e1c9b25fa98  Data/Tables/Table01/Low Texture/gumi1_map.dds
+b3ec72d2532fa5265ce0dc865f8acd301fee379a  Data/Tables/Table01/Low Texture/gumit1_map.dds
+f6190d15b0f8690b5257319fedd7575cc9f16c3a  Data/Tables/Table01/Low Texture/gumt1_map.dds
+edc0d4aaae1d3f56453735ae1aa33e974dfd7128  Data/Tables/Table01/Low Texture/hatsofal1.dds
+6a48ec94279420cb25e71698e44e3bdd113cc074  Data/Tables/Table01/Low Texture/kar_map.dds
+22568e9e3d86591eac8d0c671b61f47e208d42f1  Data/Tables/Table01/Low Texture/lampa1_map.dds
+487bd95e7f87a1b5ab669e32986fd4802082dab3  Data/Tables/Table01/Low Texture/lampa22.dds
+9475c45aad6ece69c2d0e75fc33a213495cb7d32  Data/Tables/Table01/Low Texture/lens.dds
+02702f1179c306a84d7f0ddc5a1f96ae9d9f8502  Data/Tables/Table01/Low Texture/marvany.dds
+1414132e736de5f4aa135041724b33272ed27ce0  Data/Tables/Table01/Low Texture/nagylampa_map.dds
+92a8e6c9e623d278d7ef9d2c391b70a517ff3e55  Data/Tables/Table01/Low Texture/oldaltablajobbkicsi.dds
+207b0c71538abee6e46123f5aa82b0446f6fbeb3  Data/Tables/Table01/Low Texture/oldaltablajobbnagy.dds
+b3817a160d7bfe48b8af165608a1dcf051adcd43  Data/Tables/Table01/Low Texture/padlo.dds
+66b638aa5937ba9b016245c8c3ba5305715a175a  Data/Tables/Table01/Low Texture/refmap.dds
+d6ba0e228bed29e795ce8e488976900487cf8ad4  Data/Tables/Table01/Low Texture/refmap2.dds
+f146b4ba4963bb035a49b163d13588786e77d039  Data/Tables/Table01/Low Texture/ujsag.dds
+b76016cdbe45ddeb35dd4a946531d5912597427b  Data/Tables/Table01/Low Texture/uveg.dds
+f9bef2eb2ff11fd11769ce0ebb91b9a7e2065516  Data/Tables/Table01/Sound/beinditas 1.wav
+057401b4c2e8bbd40a9e59376f4492d164214421  Data/Tables/Table01/Sound/beinditas 2.wav
+641be35aa4b7642a439caf78f688000112716e72  Data/Tables/Table01/Sound/beinditas 3.wav
+61984baa190b43aab7dedf19db2c65a078f96fa2  Data/Tables/Table01/Sound/beinditas 4.wav
+fad5bdbd9290eb88334c72404fcc295f7346c1e2  Data/Tables/Table01/Sound/elindulas 1.wav
+cb5587fd0f2f38d28d74fa572a156360853dcceb  Data/Tables/Table01/Sound/elindulas 2.wav
+ac3eb2d354092f36b27ded0cccd38f761fac0eca  Data/Tables/Table01/Sound/fek 1.wav
+221eac45f7de3e7b0a073f6157abbe834d06f664  Data/Tables/Table01/Sound/fek 2.wav
+8a8f4d08a85ed00b12d2046cfe020f7782649316  Data/Tables/Table01/Sound/fekezes 1.wav
+ec2848a16c2f2b813180016b35373a4fdcc49cc0  Data/Tables/Table01/Sound/fekezes 2.wav
+f3c63bb5d78cf2bb685c03d64ad4a7e4b6449a39  Data/Tables/Table01/Sound/karambol 1.wav
+9a772654d11e17d3e718c07b50927c000106756d  Data/Tables/Table01/Sound/karambol 1u.wav
+5916c9bcaff159178ab01d2f5e59cecf31c55b57  Data/Tables/Table01/Sound/karambol 2.wav
+cee35d38139d45e61a598127785bc64cd49fa5aa  Data/Tables/Table01/Sound/karambol 2u.wav
+d392023585176441d828432c59c77174fb240438  Data/Tables/Table01/Sound/karambol 3.wav
+5b78a69b71e63fa974298b918c4aad47b80fc7ba  Data/Tables/Table01/Sound/karambol 3u.wav
+6ffb0f79967406d33c1fd968bb51aceea0e38f3e  Data/Tables/Table01/Sound/kiloves 1.wav
+b3004b6d92562c45a2dcab82f6c19482e81c23f6  Data/Tables/Table01/Sound/lassitas 1.wav
+12645af0c3193115139d0caf91f6001ce66c3e56  Data/Tables/Table01/Sound/lassitas 2.wav
+617ae87e5c8726e2991b8fd89cc38e881e06cd7f  Data/Tables/Table01/Sound/lassitas 3.wav
+a27049b4b3545c28b861966ddda634edfc702480  Data/Tables/Table01/Sound/start fx left.wav
+a27049b4b3545c28b861966ddda634edfc702480  Data/Tables/Table01/Sound/start fx right.wav
+ac652cb8e291ab724ef536456e0898be1ecd6f82  Data/Tables/Table01/Sound/start gomb.wav
+9b45d33a450f1c8843fb52602b183636a8281e2b  Data/Tables/Table01/Sound/szereles 1.wav
+df21592addd45dd44b1b2f1745b91f081b149378  Data/Tables/Table01/Sound/szereles 2.wav
+81f6bfdfc94ebca86b0e3bdae1a1cfddc7cbe24f  Data/Tables/Table01/Sound/szereles 3.wav
+bd5d36845c42c5405ba1a43c04e88c5b01dbc647  Data/Tables/Table01/Sound/tomeg 4.wav
+717f73cec46b33721da3172c88ca7b3cfee76b1f  Data/Tables/Table01/Sound/turbo 1.wav
+7de9946fc5e356a6ee6bb21aef4d42f307ecfb59  Data/Tables/Table01/Sound/turbo 2.wav
+bbfcdbbc9fb888344e52a6d5ae9d69a39962e7a4  Data/Tables/Table01/Sound/turbo 3.wav
+8c184dbf5cc88fd38a7d70d53c2b4b6ffb6815ab  Data/Tables/Table01/Vocal/1 Million.wav
+41c892a451de1a21176dc945e0cbee596e776fe7  Data/Tables/Table01/Vocal/1 player.wav
+8dff1f50a946307ccf50daa00850fc54e5c2c0df  Data/Tables/Table01/Vocal/10 Million.wav
+093ebfaa54d15523f0492efa638db1552564ca98  Data/Tables/Table01/Vocal/100 Million.wav
+bd97cb337a3351299d59c8838d4e939dd6e06d10  Data/Tables/Table01/Vocal/2 Million.wav
+9341b08db62e62e480f664a7a879a5c5baa62429  Data/Tables/Table01/Vocal/2 Players.wav
+634c352f9e77e897e231be01961217d01059ea2a  Data/Tables/Table01/Vocal/20 Million.wav
+e9b2d7b0c278e47f79ef98fc03f40ca0d99801d3  Data/Tables/Table01/Vocal/3 Players.wav
+1eaee331c8fdcd9df671cec1ebd85da0cc97992e  Data/Tables/Table01/Vocal/4 Players.wav
+1aa3957b94278c0eb7957e67fac059d83d8e63b4  Data/Tables/Table01/Vocal/5 Million.wav
+45a291e42acb9ab02706d31ea08161e6d967c7f8  Data/Tables/Table01/Vocal/50 Million.wav
+3b900a78f6bb83b32c8ebc32d9a218faca9a08fb  Data/Tables/Table01/Vocal/Advanced.wav
+2f52a3bdc499b2f4e42fcf581a02e5d5c7f3b533  Data/Tables/Table01/Vocal/Ball 1 Locked.wav
+12c3aceb6832c3def23da9a3560367118d7194d4  Data/Tables/Table01/Vocal/Ball 2 Locked.wav
+7f922b182f734bd2a7bdc444d3db1c5ab1795a5a  Data/Tables/Table01/Vocal/Ball 3 Locked.wav
+96fde3f7a44f6232e66e5c8d393e574edbc6aaa2  Data/Tables/Table01/Vocal/Ball 4 Locked.wav
+55c5b4000a02f44bff9ca74d81fd682a88c6ac87  Data/Tables/Table01/Vocal/Bonus Times 10.wav
+c364aafe185cc6d87bc8b88106fae63fdb169a10  Data/Tables/Table01/Vocal/Bonus Times 2.wav
+b7878ace85769b483db649be7d99d9100bcdf58f  Data/Tables/Table01/Vocal/Bonus Times 4.wav
+bd721b6e9990c87c7608566268b123f2a9550841  Data/Tables/Table01/Vocal/Bonus Times 6.wav
+4e7be7b79bc0af91397f098f8000e5aea4508220  Data/Tables/Table01/Vocal/Bonus Times 8.wav
+0711169c84d4c809b99823315bc3664155feaa00  Data/Tables/Table01/Vocal/Combo.wav
+ed63c1146207f461857ee5109eb81402a5325469  Data/Tables/Table01/Vocal/Don't Move.wav
+98af0d861ce2cbe16565a9c42ac8fdf9d7e2b6ff  Data/Tables/Table01/Vocal/Double Combo.wav
+ed30a11585ae5aae4cf014556339109f740b76f5  Data/Tables/Table01/Vocal/Expert.wav
+364f1187c6e63b154be7b63ad6f880457a696e26  Data/Tables/Table01/Vocal/Extra Ball Is Lit.wav
+f924d6915e08c508bc1c98bea4589604b831595b  Data/Tables/Table01/Vocal/Extra Ball.wav
+eb3bf5b91d07b2c020292c539db2ff83a4e93e15  Data/Tables/Table01/Vocal/Gear Millions.wav
+4bb129d1d54eb83d8377a3e5e3b2e8be4350af2c  Data/Tables/Table01/Vocal/Go For Multiball.wav
+86923f6897020c36578890af4520de97e1c391f3  Data/Tables/Table01/Vocal/Go.wav
+1b0c751bad67a8b3213520a90af90e13888caf01  Data/Tables/Table01/Vocal/Jackpot.wav
+ed63c1146207f461857ee5109eb81402a5325469  Data/Tables/Table01/Vocal/Kickback is Activated.wav
+ed63c1146207f461857ee5109eb81402a5325469  Data/Tables/Table01/Vocal/Kickback.wav
+39dd341948cbf5991b5658a0dfb95b4f68885f3c  Data/Tables/Table01/Vocal/Multiball.wav
+7bc031d45e9351559b63b0f01c15988b51b48095  Data/Tables/Table01/Vocal/Novice.wav
+81448c824f4c69906c89d8dec0d40651c4bc6ced  Data/Tables/Table01/Vocal/Player 1 Is Up.wav
+ed63c1146207f461857ee5109eb81402a5325469  Data/Tables/Table01/Vocal/Player 1.wav
+e1aa161eb5b7ce721270373f0fc0afb60cbf6092  Data/Tables/Table01/Vocal/Player 2 Is Up.wav
+ed63c1146207f461857ee5109eb81402a5325469  Data/Tables/Table01/Vocal/Player 2.wav
+3c5190e0fdfd87380a66550bf4c18868623a5342  Data/Tables/Table01/Vocal/Player 3 Is Up.wav
+ed63c1146207f461857ee5109eb81402a5325469  Data/Tables/Table01/Vocal/Player 3.wav
+a3ace4510b23be7ded45febc084294a34292b4c5  Data/Tables/Table01/Vocal/Player 4 Is Up.wav
+ed63c1146207f461857ee5109eb81402a5325469  Data/Tables/Table01/Vocal/Player 4.wav
+f77ebfa36e6aa6fac7358e8c05a323adac1b43cc  Data/Tables/Table01/Vocal/Race Again Is Activated.wav
+16de251aa1615ac16a19febf9a12c70be2ced4f2  Data/Tables/Table01/Vocal/Race Again.wav
+8ab10b5d46a485c694189cf887db25e8f7fcac7c  Data/Tables/Table01/Vocal/Ready.wav
+dfd85d06f3f76268c9dc5c6b75f31ce58025b34a  Data/Tables/Table01/Vocal/Set.wav
+4a6397ff3cb992bf01ba2b1fe88c23ed2657c4a6  Data/Tables/Table01/Vocal/Shoot Again.wav
+af25cf27894e7a2dbf7accedcdd0633b1a749be3  Data/Tables/Table01/Vocal/Start Mode Is Lit.wav
+edd916ad8b60bc8aac7b675f8af71445054fedbc  Data/Tables/Table01/Vocal/Super Combo.wav
+3146e6bfe9061010f9a0065686987d3939fd3ed8  Data/Tables/Table01/Vocal/Super Jackpot.wav
+c03064cdc31bd0905c6dc79310bd47108c2820d2  Data/Tables/Table01/Vocal/Triple Combo.wav
+4d1e9043e26d6977760d35cd37326cca018aa96a  Data/Tables/Table01/Vocal/Veteran.wav
+ed63c1146207f461857ee5109eb81402a5325469  Data/Tables/Table01/Vocal/Video Mode Is Lit.wav
+dd88f09fe7c1d76c02b8bd054877bab20a287962  Data/Tables/Table01/Vocal/You Won.wav
+5c5d5cab01a06d45733553bbcd4e10287a349f4e  Data/Tables/Table01/alja.dat
+9a7f54666bd42890c907644dee773bf3c2d7dc71  Data/Tables/Table01/ballshadow.dat
+af0c2dc84cbbc1e464336d4dc5097a77f7faa3a3  Data/Tables/Table01/betuk.dat
+02cbf823d45e66124b412bff1489005c51f5e99c  Data/Tables/Table01/cam.ASE
+fafd0898bb7cf2e0b1210785379c9dd3f630cc84  Data/Tables/Table01/control.con
+677fa2dcc45030b2cc622216130026950070b0e4  Data/Tables/Table01/disp.dat
+68580943524e85e5fcce8a7263ab6a1b352edd0e  Data/Tables/Table01/disp2.dat
+203eab64eee3955d8d6a791f21ea186a6d51b25a  Data/Tables/Table01/dispmir.dat
+cdcd2302c47690f4ba481e65879fe1336165964d  Data/Tables/Table01/envir2.dat
+bed29c40a9b8be1863962d8c87248408c5d7f4c9  Data/Tables/Table01/glow.dat
+ad0884c983ffc444043c8b6dd49e5b22f3fa1f2c  Data/Tables/Table01/golyo1.dat
+e731e12c52cd72ed6f573ba1a98e71715412b0fb  Data/Tables/Table01/golyo2.dat
+377214b6d9cc81087d90eff2f8d90fee59292c8f  Data/Tables/Table01/gumik.dat
+045240f9a463d2ed771acdb322205234bd3e1deb  Data/Tables/Table01/karakter.dat
+5f829eb4ec243bd1d760eabba8e32f3c6bf43bc8  Data/Tables/Table01/kararnyek.dat
+d13a4a255a1ba80bba17c1035d530984f1ec69cb  Data/Tables/Table01/lampa22.ASE
+56e996489d9b5bd3c14c50f5547007b6c850186c  Data/Tables/Table01/lampa22.dat
+9398d6138df50fe455578cead743a82adbbf9401  Data/Tables/Table01/lampak.dat
+172a2e1b7493198a29f915506be886ce560247c0  Data/Tables/Table01/lens.dat
+ab40eff7513a4b7204ea44735fc3175f3e1f0603  Data/Tables/Table01/multispline.ASE
+a7c00da8e6d226ed5f9458a5ad2241ff3dc841a8  Data/Tables/Table01/nyil.ASE
+c50b2f599a6e4c36a085df8218fba34b6835e7d7  Data/Tables/Table01/nyil.dat
+f3c19465a57cccf5e45da18a8b2aa77b403bf37c  Data/Tables/Table01/pofozov.dat
+9c802a4801ec4846f23f738223d9588152a8c87f  Data/Tables/Table01/press.dat
+2de8447a37ed38737b09fc216fd1779fa25c0f57  Data/Tables/Table01/process.vsh
+15f236c3bab33c504ba8a9d34805768afad9441d  Data/Tables/Table01/process.vso
+388e36a271255e1667a5a7ce6662fff5f307c4d4  Data/Tables/Table01/process.xvu
+9c722885ea5b91358f52d15e6e35e722ea285cf7  Data/Tables/Table01/rampak.dat
+69e58867e973eebb12838a324e562d3674ad577c  Data/Tables/Table01/score.dat
+978d48915559a22aecf33d9c037d4ac6d48dc67a  Data/Tables/Table01/shadow.bmp
+9c5e263f44fee4e9b3afe2fc82f1e24f416415ee  Data/Tables/Table01/spline2.ASE
+826683eeb632c0d61b9de4779f96ddf3c717ec4d  Data/Tables/Table01/symul.con
+64e60c93cf9d536f1a0568cbb654b8409d51164d  Data/Tables/Table01/table.dat
+eb44d0cb6d52f0307e14b0b4a81e86141f5c67f6  Data/Tables/Table01/trace.vsh
+5e0a94a979fead0b57d4beb36770bcca3ad24caf  Data/Tables/Table01/trace.vso
+bccd7433709d4eca240aa88b0100f86020676319  Data/Tables/Table01/trace.xvu
+2019879a978b205a2da1c09f7836470a326d8fe4  Data/Tables/Table01/trace2.vsh
+b25c184088160abb85a3267705bbdfa0ece0aee4  Data/Tables/Table01/trace2.vso
+00bf5715cef43750130ec86e3325382ed183a592  Data/Tables/Table01/trace2.xvu
+2fedd622c729c2de8f7091d6a8d9d2aa75f1a80d  Data/Tables/Table01/uveg.dat
+48269f79e2dd4455d0073a8a8c56eb4827c92c47  Data/Tables/Table01/villogas.dat
+e2851294053dff10be7d84322608bb1954f31f17  Data/Tables/Table02/Anim/1 million.xmv
+615566c775f8ed3fbe809a077365211e766d35f8  Data/Tables/Table02/Anim/1 player.xmv
+021474c004455767ae14ec9a3a2756fe9a1c8df9  Data/Tables/Table02/Anim/10 million.xmv
+2bfee83f3b1adb1a8c8ad004aa20e16bd58bc98a  Data/Tables/Table02/Anim/100 million.xmv
+89bbfa9de3243a6c39179f9d221f6bca50f0e344  Data/Tables/Table02/Anim/2 million.xmv
+0d8d5762ee208bba2c716f0bba38fafde16a8f0b  Data/Tables/Table02/Anim/2 players.xmv
+2886d026a0a165bf5689bf8f6e6408b5f6ecc704  Data/Tables/Table02/Anim/20 million.xmv
+fd82889fa1e719427966342dbcc39beda83629ba  Data/Tables/Table02/Anim/3 players.xmv
+4532685b4c7ae5473c29ad4199bcd0e039c23238  Data/Tables/Table02/Anim/4 players.xmv
+ef758943a0dfc59b96bb35adb6da213eab0d78ff  Data/Tables/Table02/Anim/5 million.xmv
+365f9199fe3f5f77ef87c58b90a04d32c90c8278  Data/Tables/Table02/Anim/50 Million.xmv
+769cb36ef2c302093f5ef6cedc421e553d0695de  Data/Tables/Table02/Anim/assault.xmv
+a212a3b11fd6f3785b0c658c065475fa66b63443  Data/Tables/Table02/Anim/ball 1 locked.xmv
+64aa44280316148c3e7fbe88c79d1afd705f6227  Data/Tables/Table02/Anim/ball 2 locked.xmv
+a4b89a69514ba64282515d91ef62e0b73baa5501  Data/Tables/Table02/Anim/ball 3 locked.xmv
+e735a4e66d839eed36381019aa53de06e4e0c9e9  Data/Tables/Table02/Anim/ball 4 locked.xmv
+4f5cd261955201260bb7ef025adb606d5e6d6234  Data/Tables/Table02/Anim/begin.xmv
+c62a984d0799b824e734b00917f954379684bdd9  Data/Tables/Table02/Anim/bonus times 10.xmv
+5c309fe20e639802ba37d0b8046c8292a24d857a  Data/Tables/Table02/Anim/bonus times 2.xmv
+e563c0facaa2b3ca72840fbd3082814f9016358d  Data/Tables/Table02/Anim/bonus times 4.xmv
+ec2558e1860bf10a24fc40b214cbdd8c151ed85d  Data/Tables/Table02/Anim/bonus times 6.xmv
+acc553d0b2ace9d5cbbc1d936541d015a3ede597  Data/Tables/Table02/Anim/bonus times 8.xmv
+9a77991b7adc534292effab7fef3d609ce605eeb  Data/Tables/Table02/Anim/capture.xmv
+7da1fc3ffb4f8efdac1983d3cc6b4fba4f2f4201  Data/Tables/Table02/Anim/choose a pathway.xmv
+61f73a08da59949fbbaa36dacf72ace1c18ade97  Data/Tables/Table02/Anim/combo.xmv
+b16ac353b3fc4cb7260d6f7b0940b1e88bdd7c1e  Data/Tables/Table02/Anim/defend.xmv
+90701f31ff6db688b9fa2358693b70fc56793670  Data/Tables/Table02/Anim/destroy.xmv
+6f1561f5e0b19597d8ed7471e863c7c564f8be19  Data/Tables/Table02/Anim/don't move.xmv
+2ef9c46caba6d52cac2eb541d972d140211c72ec  Data/Tables/Table02/Anim/double combo.xmv
+5505a643562237f564346fbf61facec77c6bf001  Data/Tables/Table02/Anim/double power is activated.xmv
+79babcff064d1bfb8cebf37a3354fd626d6486c7  Data/Tables/Table02/Anim/double power is lit.xmv
+1da990ad7ca58e436e9f78769b2e679608a5d138  Data/Tables/Table02/Anim/end.xmv
+1825d826ff835db324a478655cb6a3bf8d0352f4  Data/Tables/Table02/Anim/extra ball is lit.xmv
+fb3099e3fffb2d8285b9386e4a0dc1d50105a9f9  Data/Tables/Table02/Anim/extra ball.xmv
+6382c7b89744051d085ad321629056a5f13b2169  Data/Tables/Table02/Anim/game over.xmv
+46cfdfcc797133e9d7af87b3b69f501bdbcb4ff8  Data/Tables/Table02/Anim/go for multiball.xmv
+ebd85ae81172f460ea8b4feb67561ff977b32e15  Data/Tables/Table02/Anim/jackpot boosters are activated.xmv
+142a7165085cee545b1c8c532405dde84b359cc9  Data/Tables/Table02/Anim/jackpot.xmv
+955d27c40be2f06f8eb2c650d0e476085daa5443  Data/Tables/Table02/Anim/kickback is activated.xmv
+aa825c36665b69ac4652f753ebf5d7a84459f500  Data/Tables/Table02/Anim/kickback.xmv
+db57b5c8997b0838285511d2d146c43cd2b5229f  Data/Tables/Table02/Anim/lane changer is lit.xmv
+a9f81b7019b033d59021dca58159e9ea56b38029  Data/Tables/Table02/Anim/main.xmv
+77e020f0f5e52587b1d574ad934126ee66a81004  Data/Tables/Table02/Anim/multiball.xmv
+7a653f93eb126a961e9a750dbf90bbb8464a1b6c  Data/Tables/Table02/Anim/player 1 is up.xmv
+048f8883b4c8b40999569bbd92be6eafd9fc4124  Data/Tables/Table02/Anim/player 2 is up.xmv
+7d07d266a9b8f4e6f6adf66bf9b442a6f3fc799e  Data/Tables/Table02/Anim/player 3 is up.xmv
+0a9f98dc04991625bd51bee4a3706648195b146c  Data/Tables/Table02/Anim/player 4 is up.xmv
+66d17f576437e8bf6b7bb8418a2884e47af04b0d  Data/Tables/Table02/Anim/reload is activated.xmv
+18ecece6e10a9e808606811efde20d0bad7db0aa  Data/Tables/Table02/Anim/rescue.xmv
+2c6301fa908c54cd0194a8bc06d0d2e61e89c9dc  Data/Tables/Table02/Anim/shoot again.xmv
+569de47b8ae7b4795b33af9047016cd7b9e42551  Data/Tables/Table02/Anim/special is lit.xmv
+11ea5d8a8b2f573300206022ef1c1be89deb8cdf  Data/Tables/Table02/Anim/start mode is lit.xmv
+9de8535ab87280fc9c74ae7294e1820ddeb34d3c  Data/Tables/Table02/Anim/stay on target.xmv
+0797f0dcabe0a22a830d790211fe79a2596e91ac  Data/Tables/Table02/Anim/super combo.xmv
+649f6626828a2c9d107df69d3fee720d11c0179c  Data/Tables/Table02/Anim/super jackpot.xmv
+2a57d01114b2aab081e279cacb4f0e0d08f97209  Data/Tables/Table02/Anim/the gate is opened.xmv
+2864b0b4d84670ff95b959df668b5f1fd9a296f0  Data/Tables/Table02/Anim/the tank is armed.xmv
+5a3f27428cf62ffb72b2acafe3c983b95d45ca76  Data/Tables/Table02/Anim/tilt.xmv
+1b2a7909b8a37674d13c92219477335d0a4755f8  Data/Tables/Table02/Anim/triple combo.xmv
+ecc684cce36ff47dca4fbdf8152731aecc4b5803  Data/Tables/Table02/Low Object/enviro.dat
+97a9f740b64246d157f113bf129e9c0e78223e25  Data/Tables/Table02/Low Object/ramps.dat
+4abee4f64013bb2ce4c54c8f665774232612ad0a  Data/Tables/Table02/Low Object/tukor.dat
+a922f5ac84214cd7e1466089de8fc1e4e1d882ed  Data/Tables/Table02/Low Texture/DisplayMask.jpg
+efbf3d8684f16d5beb28667b52b5e2847cc8d95d  Data/Tables/Table02/Low Texture/DisplayMask2.jpg
+ae23913a6540b828264efb2b4fe80440e2835fbb  Data/Tables/Table02/Low Texture/DisplayMask2_low.jpg
+9c9d692c6e160a0e30151cc8d34a2610d70d3e8b  Data/Tables/Table02/Low Texture/DisplayMask2_med.jpg
+1a669db4e3524f9ddb1b22333b00aee271e4b397  Data/Tables/Table02/Low Texture/DisplayMask_low.jpg
+f77b6daa1b58fa9ba71608fc43a1e0f84b4ce046  Data/Tables/Table02/Low Texture/DisplayMask_med.jpg
+92abbbb4b08fcf598e2f582fff2ee0c4876ecdee  Data/Tables/Table02/Low Texture/TankMap01.dds
+83b87edb4164d5431883571bccb8ce85d72f3847  Data/Tables/Table02/Low Texture/a_DisplayFeliratok.tga
+f1a66fcc95369ef76c23a2c73192aee4a3102bce  Data/Tables/Table02/Low Texture/a_DisplayFeliratok01.tga
+dbbef7aef1947a6e42a8e8a40644485f7416bf1d  Data/Tables/Table02/Low Texture/a_DisplayFeliratok02.tga
+50cae726ad00b87253079162ea68aae3894e82a7  Data/Tables/Table02/Low Texture/a_DisplayHighScore.tga
+152a13076862289314b4fa061c87b65c800400ed  Data/Tables/Table02/Low Texture/a_alja_map.dds
+44193eae3564ba24496fae39a22c74a761b3c76e  Data/Tables/Table02/Low Texture/a_cubex1.dds
+f8945c58dffa69339140e0bac435be6ba00ae059  Data/Tables/Table02/Low Texture/a_cubex2.dds
+efee92750dff51d08d7af7ead337218ca8491dab  Data/Tables/Table02/Low Texture/a_cubey1.dds
+fe346b6f2b2dfab098f868c10b77718ba883ed1f  Data/Tables/Table02/Low Texture/a_cubey2.dds
+f6a28c24f837e8dce5f11029ef0f1f69bd23b2ce  Data/Tables/Table02/Low Texture/a_cubez1.dds
+88a539deb3bccc44f6c72dac09cbef57d74bf783  Data/Tables/Table02/Low Texture/a_cubez2.dds
+87f2dfaea83a4591fbbfffec111eae479cc7b72d  Data/Tables/Table02/Low Texture/a_disp.tga
+3534cb182864b23a1f6fef58421bac94bcfa8fc8  Data/Tables/Table02/Low Texture/a_displaySzamok.tga
+64f97e874444758502d1058b45360996a137cff3  Data/Tables/Table02/Low Texture/a_lampa.dds
+dbd8371a4a3ad99b61297f44d54a91b904b66335  Data/Tables/Table02/Low Texture/a_pofozo.dds
+effe2f94ae9d13d977dffb4c0cd1fc44dc24a61b  Data/Tables/Table02/Low Texture/a_ramp.dds
+48bce9484c4a46b6697f8f3f0deaf339f4cafbc9  Data/Tables/Table02/Low Texture/a_ramps_map.dds
+0d26ca671005c53efe98a00e5fab222b446bba08  Data/Tables/Table02/Low Texture/a_start_game.tga
+eb7f4a24fec67b0d95ad2a067fd9cca52e181ea6  Data/Tables/Table02/Low Texture/a_vill01.dds
+1937582671c01edeebede410dccc98a5badbf5dd  Data/Tables/Table02/Low Texture/a_vill02.dds
+6374bf45acf78d4678da9bdbbdb8824ada638e9a  Data/Tables/Table02/Low Texture/a_vill03.dds
+265965f7c3ee8db1f9323b8bc7f92a2c6a320c56  Data/Tables/Table02/Low Texture/a_vill04.dds
+e1724fd828c7082bac472819161f66107507c70e  Data/Tables/Table02/Low Texture/a_vill05.dds
+3ca5eed65d87ac41e5a483639c4cc5fcc1f492e9  Data/Tables/Table02/Low Texture/a_villog01.dds
+e4a239a7339509d3978c88ae5818899129b64e2e  Data/Tables/Table02/Low Texture/a_villog02.dds
+25d3b200213f97421d74c09914f1052706b6af74  Data/Tables/Table02/Low Texture/a_villog03.dds
+150408cf14c543875a0cdb447298c12eda443100  Data/Tables/Table02/Low Texture/a_villog04.dds
+5c7dc5cecb66d6b36140e2acd524ba29cd264b77  Data/Tables/Table02/Low Texture/a_villog05.dds
+2f009f5f846ff053d0e11ce6adc1c34905bb3291  Data/Tables/Table02/Low Texture/ablak.dds
+a4351b367939565fddff2e87a3404e391a2265b2  Data/Tables/Table02/Low Texture/ablakfal.dds
+d39fdb9cfc0f5cc4603cd80be600ef4a601850be  Data/Tables/Table02/Low Texture/ajto.dds
+6a47830daa8fd2f932cb26e64dd04008bed68329  Data/Tables/Table02/Low Texture/alcahalo.dds
+9f0cee09dcd74172ff2f8bf6a27bf2eb70fc30d0  Data/Tables/Table02/Low Texture/asztal.dds
+a4f7ca6051c212f81e1156c03192abc86732e1e3  Data/Tables/Table02/Low Texture/ballshadow.jpg
+effe2f94ae9d13d977dffb4c0cd1fc44dc24a61b  Data/Tables/Table02/Low Texture/bonus1_map.dds
+f6190d15b0f8690b5257319fedd7575cc9f16c3a  Data/Tables/Table02/Low Texture/csavar3_map.dds
+4e5de2b0f6313551decd0a0335a488d310ef0174  Data/Tables/Table02/Low Texture/display_map.dds
+37ecb1279a143e04435c51a6289e3d9a5290e7d7  Data/Tables/Table02/Low Texture/envir.dds
+03f3c48412a5009cf602c021981f6676e58461f0  Data/Tables/Table02/Low Texture/felsolapok.dds
+6299d63031f5656887c273481138942ae22f260b  Data/Tables/Table02/Low Texture/gumi.dds
+dfd6d8d409afed4a776473ef2c546e1c9b25fa98  Data/Tables/Table02/Low Texture/gumi1_map.dds
+b3ec72d2532fa5265ce0dc865f8acd301fee379a  Data/Tables/Table02/Low Texture/gumit1_map.dds
+f6190d15b0f8690b5257319fedd7575cc9f16c3a  Data/Tables/Table02/Low Texture/gumt1_map.dds
+edc0d4aaae1d3f56453735ae1aa33e974dfd7128  Data/Tables/Table02/Low Texture/hatsofal1.dds
+b862f30e4ebbb6aba0054ce45e448b52c818de25  Data/Tables/Table02/Low Texture/homokzsak.dds
+bea8157492df6d2fa60e74f6bab37ab19ede2e4e  Data/Tables/Table02/Low Texture/kar_map.dds
+99efc36c4b42df7c440601c119306cb2d8455235  Data/Tables/Table02/Low Texture/lampa1_map.dds
+22568e9e3d86591eac8d0c671b61f47e208d42f1  Data/Tables/Table02/Low Texture/lampa1_map2.dds
+487bd95e7f87a1b5ab669e32986fd4802082dab3  Data/Tables/Table02/Low Texture/lampa22.dds
+05e28c18a5bbb2f32cec764c56307f04ccddf635  Data/Tables/Table02/Low Texture/lens.dds
+02702f1179c306a84d7f0ddc5a1f96ae9d9f8502  Data/Tables/Table02/Low Texture/marvany.dds
+ab90f955989fc966357160917ef6b7aca54e70e4  Data/Tables/Table02/Low Texture/oldalfal.dds
+b3817a160d7bfe48b8af165608a1dcf051adcd43  Data/Tables/Table02/Low Texture/padlo.dds
+66b638aa5937ba9b016245c8c3ba5305715a175a  Data/Tables/Table02/Low Texture/refmap.dds
+f86a0644b39acc035eb074d6787b54bf2ae0e1ee  Data/Tables/Table02/Low Texture/repcsimap.dds
+f146b4ba4963bb035a49b163d13588786e77d039  Data/Tables/Table02/Low Texture/ujsag.dds
+b76016cdbe45ddeb35dd4a946531d5912597427b  Data/Tables/Table02/Low Texture/uveg.dds
+3e77fb3f9f1a4ceed31e23b314ec6681f8864948  Data/Tables/Table02/Sound/agyu 1.wav
+0159a7b3a1294314b238c348a5374a4f3f109216  Data/Tables/Table02/Sound/agyu 2.wav
+7be8a207f7c356a21a5244c50910b58d6a85d2f2  Data/Tables/Table02/Sound/agyu 3.wav
+ebc5406dbe91ba272f4b4fa5ff66b7ee3167d627  Data/Tables/Table02/Sound/geppuska 1.wav
+c0723028ffc791dd1136c6231b68ecc7a5242d22  Data/Tables/Table02/Sound/geppuska 2.wav
+ac6d4a2245993b5624003c4d97ba3dd170c2fbe1  Data/Tables/Table02/Sound/geppuska 3.wav
+6d4ee392b10684f82d0cff9bd1ff072d7ade7f30  Data/Tables/Table02/Sound/geppuska 4.wav
+777c3295c8fbc8da83a7fcb207644a5fb6c8472b  Data/Tables/Table02/Sound/geppuska 5.wav
+5be70ff9ee4dd72091574dcaa5f39a685430cdd5  Data/Tables/Table02/Sound/geppuska 6.wav
+3d69b35b08bac92efd9d1dbf4d905e45525eb561  Data/Tables/Table02/Sound/hatso kapu.wav
+214fa8d2c6adfdb9c501e4c6c66eed5bbf72aab9  Data/Tables/Table02/Sound/legi tamadas 1.wav
+f39e2f9644c4d629e27bd2b703b6b85de550a0c6  Data/Tables/Table02/Sound/mesterlovesz puska 1.wav
+6f985a1496082d0095e736d16aa549a8c0443e73  Data/Tables/Table02/Sound/morze 1.wav
+4ac9ce44239322dfa1206ad2393e662074ce68cd  Data/Tables/Table02/Sound/pisztoly 1.wav
+debdd5a8e7f89d6e8438de74b5711d797a6e1a32  Data/Tables/Table02/Sound/pisztoly 2.wav
+c47d4017556eab902fb67b9b0275c62daff2b514  Data/Tables/Table02/Sound/pisztoly 3.wav
+e29a7f21119e7bb0edcf80326fbbc54cabb00127  Data/Tables/Table02/Sound/porgo 1.wav
+68235a8d7dc74c60710237dc88ba33cf6005ea26  Data/Tables/Table02/Sound/propeller gyorsulas 1.wav
+68235a8d7dc74c60710237dc88ba33cf6005ea26  Data/Tables/Table02/Sound/propeller lassulas 1.wav
+68235a8d7dc74c60710237dc88ba33cf6005ea26  Data/Tables/Table02/Sound/propeller loop 1.wav
+805ffd71dd664bce4a3e02c409dbf50242446aea  Data/Tables/Table02/Sound/puska 1.wav
+5991e075ae601e16d925085c0e67a4d86eded4b5  Data/Tables/Table02/Sound/puska 2.wav
+0008eca9e99e36b155f5f1e54289a9babf682ddb  Data/Tables/Table02/Sound/puska 3.wav
+fd1691404afd361a1fbbb4ed569a58891cbba3a4  Data/Tables/Table02/Sound/raketa 1.wav
+5956dd3574681f1a5a8385d9e7b92c0f419048a3  Data/Tables/Table02/Sound/repcsi 1 bal.wav
+a5f4d915135c2fcbe7c475b062241ec1784fe145  Data/Tables/Table02/Sound/repcsi 1 jobb.wav
+77cfeba0317fc0e15f354e427306cff475feed5b  Data/Tables/Table02/Sound/repulo 1.wav
+b75947213f405937a9f937f61ccada4ea937b29a  Data/Tables/Table02/Sound/repulo 2.wav
+fc32d18092ed42a1362dac2423390c3954fbf6e2  Data/Tables/Table02/Sound/repulo 3.wav
+e3c81eb3654c49dd4056149a883648eed2ad3c7c  Data/Tables/Table02/Sound/robbanas 1.wav
+195e9d2f07695aecfec93c287b3c463332fcb472  Data/Tables/Table02/Sound/robbanas 2.wav
+efa4fe80e91ea0bac18baed7dc4e6c302f64156c  Data/Tables/Table02/Sound/start fx left.wav
+efa4fe80e91ea0bac18baed7dc4e6c302f64156c  Data/Tables/Table02/Sound/start fx right.wav
+085eac21632e46935bdeb9e9ca16b1807cf2b666  Data/Tables/Table02/Sound/szel 1.wav
+668621fce54b00d5d09873dc98fc6a0e519a837e  Data/Tables/Table02/Sound/tank agyu 1.wav
+865a04d7df024865db2906e3f85b470a071cc381  Data/Tables/Table02/Sound/tank agyu 2.wav
+5dfd19e543b6bf7da69e82b6802b126d15761331  Data/Tables/Table02/Sound/tank agyu 3.wav
+f3528f7e3777e260a773eeda410fd6efed7dffc1  Data/Tables/Table02/Sound/tank fordulas 1.wav
+a5db7a6bf33139fac163649e42c6622f396d5303  Data/Tables/Table02/Sound/tank motor 1.wav
+4d1928e6c9c83516ec1c2ff1d4096bec1895743c  Data/Tables/Table02/Sound/tank talalat 1.wav
+dd2b39f892f016685b5c908bfd02b18d50a8210a  Data/Tables/Table02/Sound/zuhanas 1.wav
+a8fc7f18ee348f56fea92de4da08d4186b619232  Data/Tables/Table02/Sound/zuhanas 2.wav
+6d827b0aa78e6909360aa0936aacd108e5a473d3  Data/Tables/Table02/Vocal/1 Million.wav
+63b8b16abf3a9a8a29f601dedb550405890605a0  Data/Tables/Table02/Vocal/1 Player.wav
+25430563a4672936bbe881f2528cb660f6db7e85  Data/Tables/Table02/Vocal/10 Million.wav
+ba8353837a45e51d137cacd3b29531ce2e3b24fa  Data/Tables/Table02/Vocal/100 Million.wav
+a6936b4621f48ad2e310213f20c8883699105000  Data/Tables/Table02/Vocal/2 Million.wav
+e3e52e1528976db1e1d9c762e2ebf952f49d0387  Data/Tables/Table02/Vocal/2 Players.wav
+42a5cc2d6b25d62de3d9715f0dab3ba30f167ee1  Data/Tables/Table02/Vocal/20 Million.wav
+7b5f0ce25929965c5383cfee04653797eeceaf59  Data/Tables/Table02/Vocal/3 Players.wav
+1b79935d3bebf5c0710542a7e6da2399187aa4b7  Data/Tables/Table02/Vocal/4 Players.wav
+94f406a25a95aa1e4e7de3d46585893b18c3760d  Data/Tables/Table02/Vocal/5 Million.wav
+98c51c23164e488c55773ebab27b2643eb892a5f  Data/Tables/Table02/Vocal/50 Million.wav
+3e375960c574d5e0bc36ea5b190a36afaccb34a4  Data/Tables/Table02/Vocal/Assault.wav
+a0ccb6f910413596f54c96c7b0fa3f17d3c2f678  Data/Tables/Table02/Vocal/Ball 1 Locked.wav
+86f56f8e5db27711ef05ed8a51f10bd5943bf1d0  Data/Tables/Table02/Vocal/Ball 2 Locked.wav
+0f5c9f7e23c70b1c81194d210762791899a988a0  Data/Tables/Table02/Vocal/Ball 3 Locked.wav
+3d1bc8827cdb4574e6bc7c5f30415c49ae961b1d  Data/Tables/Table02/Vocal/Ball 4 Locked.wav
+f73f89c945ea6a8f3930803fb0a24d52deeb555c  Data/Tables/Table02/Vocal/Bonus Times 10.wav
+79fd7eeb7db99f3e137e2782782a86038030d6fc  Data/Tables/Table02/Vocal/Bonus Times 2.wav
+c6bc0a7a03ccac91000baecce97a7bd1f171b3f2  Data/Tables/Table02/Vocal/Bonus Times 4.wav
+6adeb36b9e5be82eedfa98de4cb8d6d6d7026874  Data/Tables/Table02/Vocal/Bonus Times 6.wav
+bdee76ea828b0da4d430277396bd32cfb52d6659  Data/Tables/Table02/Vocal/Bonus Times 8.wav
+26b5bbd7ff237dd2088d087971e93901ac996698  Data/Tables/Table02/Vocal/Capture.wav
+a4492350a0030dfc78b19b9bec8a86fe7961a1ad  Data/Tables/Table02/Vocal/Choose a Pathway.wav
+c3e15aaf17616c6cac1d1df4c4444e647da4290b  Data/Tables/Table02/Vocal/Combo.wav
+c6451dc2384e2b3c49219c5c304475203c02b054  Data/Tables/Table02/Vocal/Defend.wav
+c1d4e03af8077635cfe72ae0072070558a3629ce  Data/Tables/Table02/Vocal/Destroy.wav
+cd18f9d0b246c675e4a60f4173c54ee7adb2c68e  Data/Tables/Table02/Vocal/Don't Move.wav
+211e62eeba990dec041cb5a18c55424ba0fae0be  Data/Tables/Table02/Vocal/Double Combo.wav
+a8f46e4f7a42f4af3d5cf1d871f51714eb69540e  Data/Tables/Table02/Vocal/Double Jackpot.wav
+7a8d3385e9a25fc84ddfec41b18267c175f32549  Data/Tables/Table02/Vocal/Double Power Is Activated.wav
+f9e72e99bf9a15ca419fccf79b39d8673504d6a7  Data/Tables/Table02/Vocal/Double Power Is Lit.wav
+92020298640f2e7824562be5c8ce2a7610e9eece  Data/Tables/Table02/Vocal/Extra Ball Is Lit.wav
+0a9d734b15c1f0a3bbd2bbbce84eec59763255d7  Data/Tables/Table02/Vocal/Extra Ball.wav
+feb807bcd7696a645c6ee001dc91792d260e5950  Data/Tables/Table02/Vocal/Go For Multiball.wav
+790b3773cc1e82c0e8e19ef6772d990785923107  Data/Tables/Table02/Vocal/Jackpot Boosters Are Activated.wav
+36b05e77a2f1a9964afcd3d55271865c0548b53d  Data/Tables/Table02/Vocal/Jackpot.wav
+4b13e1d500ac7b2868c6c457bb56e518013c0dae  Data/Tables/Table02/Vocal/Kickback Is Activated.wav
+61dfe29031491583ded2d6e99162b8a1d60f6d92  Data/Tables/Table02/Vocal/Kickback.wav
+4e81b644cac9d2628f092737d73fb01de85dbd98  Data/Tables/Table02/Vocal/Lane Changer Is Lit.wav
+2ac0e1e95e056f38371f033503b21789e3a7701f  Data/Tables/Table02/Vocal/Multiball.wav
+409235d444c1a5b14a5d08e16b942a4f4d5d3b4f  Data/Tables/Table02/Vocal/Player 1 Is Up.wav
+6be6181cb7f6696c1983ac32a4a763ba99b5cc63  Data/Tables/Table02/Vocal/Player 2 Is Up.wav
+01e8a760b9fbad0c63452f9111a74f8f8e5e5133  Data/Tables/Table02/Vocal/Player 3 Is Up.wav
+b868005a182a38105a68f6f1e2aad64eb69fa5e9  Data/Tables/Table02/Vocal/Player 4 Is Up.wav
+fec5636ce1d956276f15f9e3cbadf1a7853d7e3e  Data/Tables/Table02/Vocal/Reload Is Activated.wav
+ae33f5d428f8adb8a3ef21eeb27d35da0e87fe47  Data/Tables/Table02/Vocal/Rescue.wav
+c960c3309943553457b9997aaff7e62889ef255d  Data/Tables/Table02/Vocal/Shoot Again.wav
+a02bc53fd3204748776666945405af66b845aa1d  Data/Tables/Table02/Vocal/Special Is Lit.wav
+c4d17631d80ac1f681f5befbefd2162ccd3851fb  Data/Tables/Table02/Vocal/Start Mode Is Lit.wav
+efe07c4d133ebafe800e986970c00ef7e19a11b5  Data/Tables/Table02/Vocal/Stay On Target.wav
+ff994b10c7cbda2c348ac4552c1751c20d436776  Data/Tables/Table02/Vocal/Super Combo.wav
+90b8887356e7c2db820f12076aa806631c0922e2  Data/Tables/Table02/Vocal/Super Jackpot.wav
+c315a10fcbfd2d71b675487ffe7a437122bf4aad  Data/Tables/Table02/Vocal/The Gate Is Opened.wav
+e947583eab6e849266942bc8e3ea34167f5cf17b  Data/Tables/Table02/Vocal/The Tank Is Armed.wav
+8ff6ae6369a76461c74c1727caa8c7b098737d5b  Data/Tables/Table02/Vocal/Triple Combo.wav
+77bfcd8bdfd74569a817ea8ed02500295a9483bc  Data/Tables/Table02/alja.dat
+eff25496e10716e825672a9a76ad4fe8a87e1aff  Data/Tables/Table02/ballshadow.dat
+01fe18bae1c060da509c358d79d52c1b91a853cb  Data/Tables/Table02/betuk.dat
+6724d3f0e3e0b9a1d904a104f2bc1af2cdc78d96  Data/Tables/Table02/cam.ASE
+307d190f7b98d089753fb20411e8244be96c72e1  Data/Tables/Table02/camera.bmp
+78702ac5165810fbd9f4d4467def75c9dcab05a9  Data/Tables/Table02/control.con
+9ec3b03c359a1aabc8149330bb54068c2b7d9f5d  Data/Tables/Table02/disp.dat
+2a09ef84d275e4f3988026e52d5819a0f37c9eb4  Data/Tables/Table02/disp2.dat
+d57a01c07fea11afa23593b62918f19443ac49cf  Data/Tables/Table02/dispmir.dat
+c79e97ecd229db843bb3b0c2b56e94d82f8cc194  Data/Tables/Table02/envir2.dat
+58b6011843ba04859930f7035f6e474fb9eee11d  Data/Tables/Table02/enviro.dat
+bed29c40a9b8be1863962d8c87248408c5d7f4c9  Data/Tables/Table02/glow.dat
+6f8796bb6f3806dd2ee98690d73cefa715cf226c  Data/Tables/Table02/golyo1.dat
+284080fd8c977859ccf36f2e168ed659a99a4644  Data/Tables/Table02/golyo2.dat
+377214b6d9cc81087d90eff2f8d90fee59292c8f  Data/Tables/Table02/gumik.dat
+c16e26752135d854821208af8b56d4558998fb05  Data/Tables/Table02/karakter.dat
+aa9254efe108821f9746f90c45e975d2cbae7bbe  Data/Tables/Table02/karakterek.dat
+b9d153d97de6c7938fcb400c4b1baf8528b8dfa6  Data/Tables/Table02/kararnyek.dat
+d13a4a255a1ba80bba17c1035d530984f1ec69cb  Data/Tables/Table02/lampa22.ASE
+28d52cfd228912c10eeedc20a0aeefd45500352d  Data/Tables/Table02/lampa22.dat
+816b3afc5deb20657da60ef3d219c5c8c1b5e180  Data/Tables/Table02/lampak.dat
+143a34044a8a5d1f8c0f3bc158761158f57d3ae7  Data/Tables/Table02/lens.dat
+88cccada94808aed5d32aca590ad57ec015e063f  Data/Tables/Table02/multihoz.ASE
+ab40eff7513a4b7204ea44735fc3175f3e1f0603  Data/Tables/Table02/multispline.ASE
+a7c00da8e6d226ed5f9458a5ad2241ff3dc841a8  Data/Tables/Table02/nyil.ASE
+c50b2f599a6e4c36a085df8218fba34b6835e7d7  Data/Tables/Table02/nyil.dat
+5cdd4bce088778946ca48cc8208b00371d23c44a  Data/Tables/Table02/plane.dat
+f3c19465a57cccf5e45da18a8b2aa77b403bf37c  Data/Tables/Table02/pofozov.dat
+b25ac95cf666f765874acfbabf498d00cfbef692  Data/Tables/Table02/press.dat
+2de8447a37ed38737b09fc216fd1779fa25c0f57  Data/Tables/Table02/process.vsh
+15f236c3bab33c504ba8a9d34805768afad9441d  Data/Tables/Table02/process.vso
+388e36a271255e1667a5a7ce6662fff5f307c4d4  Data/Tables/Table02/process.xvu
+dc53baebf12a361332e77463e1adb462edf84d46  Data/Tables/Table02/pvill.dat
+d41ca735f9800b718436c3024324155980a2c55a  Data/Tables/Table02/rampak.dat
+ad432dfd7510c2105b1e35f035a925189777c6ff  Data/Tables/Table02/rampara.ASE
+66b638aa5937ba9b016245c8c3ba5305715a175a  Data/Tables/Table02/refmap.dds
+b4efbf51b40ad9e7144bc5120c27205b7dc4fa4b  Data/Tables/Table02/score.dat
+256b163754771c2668bb462e1a585b979c0aa7e7  Data/Tables/Table02/shadow.bmp
+9c5e263f44fee4e9b3afe2fc82f1e24f416415ee  Data/Tables/Table02/spline2.ASE
+91f14629dcc2d27bb1ab657175aefcf5f862ddae  Data/Tables/Table02/symul.con
+f8d4c13fe8931d31164d93345be02a2be8199d0b  Data/Tables/Table02/symul2.con
+c32d46d86ca5c7287b8c1fc44b5cf8d04e74c62e  Data/Tables/Table02/table.dat
+eb44d0cb6d52f0307e14b0b4a81e86141f5c67f6  Data/Tables/Table02/trace.vsh
+5e0a94a979fead0b57d4beb36770bcca3ad24caf  Data/Tables/Table02/trace.vso
+bccd7433709d4eca240aa88b0100f86020676319  Data/Tables/Table02/trace.xvu
+2019879a978b205a2da1c09f7836470a326d8fe4  Data/Tables/Table02/trace2.vsh
+b25c184088160abb85a3267705bbdfa0ece0aee4  Data/Tables/Table02/trace2.vso
+00bf5715cef43750130ec86e3325382ed183a592  Data/Tables/Table02/trace2.xvu
+9beaba012d2bea80dbbccf9057144cfb2ca72a3c  Data/Tables/Table02/uveg.dat
+60f65c8545e48fc5c8266e71dd3f5cd55fa84d78  Data/Tables/Table02/villogas.dat
+2a6aa5b715db23d0393a7fab10764261a40a2a98  Data/Tables/Table03/Anim/1 Million.xmv
+00172dae4d4a4177d483622e96c6a17a8c60d9a0  Data/Tables/Table03/Anim/1 player.xmv
+0369b3d918b08bf51edd7f22784d5555baeb8f7d  Data/Tables/Table03/Anim/10 million.xmv
+e087e5f3ad9c6dd6934d8af7f8b7a8d0b15fbab5  Data/Tables/Table03/Anim/100 million.xmv
+9073d9d89ab404d2a83e7a276b491293ce8cf5d5  Data/Tables/Table03/Anim/2 million.xmv
+7f2b44f15f9e3fd3bfff120440b3aa89ee90ac9f  Data/Tables/Table03/Anim/2 players.xmv
+5d0d6f9c336bd61392e1cf72d8d503c1ebd2e528  Data/Tables/Table03/Anim/20 million.xmv
+1f42ce379847ceeab8be092206eb32d091172d86  Data/Tables/Table03/Anim/3 players.xmv
+bd1aae044faa2b36286243b655b7411d83184544  Data/Tables/Table03/Anim/4 players.xmv
+91c26c06e02c7ad6f991993474b95c700fdfc4c8  Data/Tables/Table03/Anim/5 million.xmv
+02a5a347ff358d51318a679ef16f685dc63c8318  Data/Tables/Table03/Anim/50 million.xmv
+8358d3929b63fa76e2b00f50e1b8c6c06799ef1a  Data/Tables/Table03/Anim/Start Mode Is Lit.xmv
+2e657f961836ba8687e59472113487e899c01954  Data/Tables/Table03/Anim/ball 1 locked.xmv
+ffa9fec1f3dd260b3ff5fd57c7ed7ebaa04ab0b3  Data/Tables/Table03/Anim/ball 2 locked.xmv
+c15a66ed3e6bde117b6d0eed616abbbcfa84cd3e  Data/Tables/Table03/Anim/ball 3 locked.xmv
+7567b8504f154d7e78434454ce161dd56d4995d1  Data/Tables/Table03/Anim/begin.xmv
+68e461863fa6bcfc50530147a61cc2cb4cf39a08  Data/Tables/Table03/Anim/bonus times 10.xmv
+a121b9737a847ada77f801cee4d24a36903d1c37  Data/Tables/Table03/Anim/bonus times 2.xmv
+1800752240eb524c1385d6ea93e878fe7dd4d9e7  Data/Tables/Table03/Anim/bonus times 4.xmv
+6a52374ef32af50b1cbab3615b9446111892563e  Data/Tables/Table03/Anim/bonus times 6.xmv
+861d43d291bfc2be7dbed12513b3adb497fb71c0  Data/Tables/Table03/Anim/bonus times 8.xmv
+8620b2e7aeea50f6f5221bbfd16a88e7a2992459  Data/Tables/Table03/Anim/combo.xmv
+281c2631aef161f3149c1fedb21d60045cbf2a7d  Data/Tables/Table03/Anim/crash.xmv
+b3319c8673096cc889eb5ffcc3a867e0d8953ec4  Data/Tables/Table03/Anim/derail.xmv
+04254f944aa365764e59d32b14db1cec83d150f1  Data/Tables/Table03/Anim/don't move.xmv
+bb9841e8a69612afd68d97bdf205c6ab4462104c  Data/Tables/Table03/Anim/double combo.xmv
+d37fa32fef515876a5bcf9d337147d292749db82  Data/Tables/Table03/Anim/double playfield is lit.xmv
+10dc7953e1732adb899c354943e9c68739c343fb  Data/Tables/Table03/Anim/double playfield.xmv
+7d29e94e6df0ae506d29958fa3e8b36a92aa3039  Data/Tables/Table03/Anim/end.xmv
+0ace879788a830c937cb578d4ccf9888c8f709a1  Data/Tables/Table03/Anim/extra ball.xmv
+f6bd63d8b2994566826362463f636d7571dfdc74  Data/Tables/Table03/Anim/fire.xmv
+b6e74a1f3df88b272e5b0f02d2b3f1b9c7cbd655  Data/Tables/Table03/Anim/frenzy million.xmv
+a829dfeaf83ad49c66b3682c88141c7ba5f76c3c  Data/Tables/Table03/Anim/game over.xmv
+1d69c3e1cca974312e8298a7e4934e34c2a92301  Data/Tables/Table03/Anim/get the extra ball.xmv
+e2adefb55a1946f5f9c206e1b97167ee82fc9944  Data/Tables/Table03/Anim/get the extra storage.xmv
+6a38eef84153af442339d719f19e5e2570e3c2a6  Data/Tables/Table03/Anim/get the secret storage.xmv
+3ccbacdbf34366a04ed34664eb1362f6f7477ece  Data/Tables/Table03/Anim/go for multiball.xmv
+04fa2f6c8a97c3d5147d7023cdc776ebf10ac642  Data/Tables/Table03/Anim/jackpot.xmv
+174c207262301e49f5543e483d2676dbee0841ce  Data/Tables/Table03/Anim/kickback is activated.xmv
+012574c6bf86bac7cd09f741a0a67fa5a90d0974  Data/Tables/Table03/Anim/kickback.xmv
+e5517f358bc02271a2a6ecea3853f6215b7d3712  Data/Tables/Table03/Anim/main.xmv
+c5a8f53fd29bfba8d6ae8bd02333b899ef44b03e  Data/Tables/Table03/Anim/multiball.xmv
+39487bb0de325d373c14d702f7de027e8ffc5722  Data/Tables/Table03/Anim/passenger frenzy is lit.xmv
+36ee26f874dad89abdae701f2d9b89d59fad1985  Data/Tables/Table03/Anim/passenger frenzy.xmv
+9a2a578396826bb13eb87a788ccfd7c663e955ef  Data/Tables/Table03/Anim/player 1 is up.xmv
+61cb80d160e68de9e658c163fc1229efe3dc4273  Data/Tables/Table03/Anim/player 2 is up.xmv
+4984602c53e1f4034384745034c41f60cab43e9c  Data/Tables/Table03/Anim/player 3 is up.xmv
+4e2efe26ed918d8f0743b84827eb3762617f811a  Data/Tables/Table03/Anim/player 4 is up.xmv
+0528e70e16a54ab8ecf5c7e398a30c8dfa0bf7ce  Data/Tables/Table03/Anim/reveal secret is lit.xmv
+daf0449a7e5ade45ab7a701a5e3da26228951049  Data/Tables/Table03/Anim/reveal secret.xmv
+14a66036e05074261aa8c73ca323345180a5491f  Data/Tables/Table03/Anim/secret storage.xmv
+0ca9447bda3fd2530b182d96b0166cb6e282b74f  Data/Tables/Table03/Anim/shoot again is activated.xmv
+0d9d7678e6825b69730466902a4b9d1f393e446a  Data/Tables/Table03/Anim/shoot again.xmv
+5ca56361b29fe2c7795001004b156a07e4c0b357  Data/Tables/Table03/Anim/stay on target.xmv
+98066e446e3b81503b91a0aac168ab748fb31b6c  Data/Tables/Table03/Anim/steam.xmv
+d68238cacfa8ee171b1af1e0478b55573c8e5920  Data/Tables/Table03/Anim/super combo.xmv
+66bdef16f31d3a090b006f721608ceb26df49efd  Data/Tables/Table03/Anim/super jackpot.xmv
+d1fa6c4694665d0cc90c9a727037ce8c421df3f2  Data/Tables/Table03/Anim/tilt.xmv
+0e92336ba192b45286e53ab8656e618c7b1fc967  Data/Tables/Table03/Anim/triple combo.xmv
+ebf5c8b2c29f954d4f4793e8d518913ce9014e44  Data/Tables/Table03/Anim/warehouse is opened.xmv
+2210ba8a35d6ecfd37eeb7c96203602007f615dc  Data/Tables/Table03/Anim/warehouse.xmv
+cb3b017b9b1033e31952b18eec2a12448677be1b  Data/Tables/Table03/Anim/water.xmv
+cafdc510990778d6e1c12ee26d849640f13e1cb9  Data/Tables/Table03/Anim/wood.xmv
+434cbe94615e7d3d5278b8ef1101db779d6cc63d  Data/Tables/Table03/Low Object/enviro.dat
+e1811f2a2df9b5b638568d2082fa08e7b51c5e77  Data/Tables/Table03/Low Object/ramps.dat
+2b9433ac2ae035cb8887c3e3ce7310f8ceedb28b  Data/Tables/Table03/Low Object/terrain.dat
+40ce2acbdad9b4ac326b04ffa6b7abc31a9fad63  Data/Tables/Table03/Low Object/tukor.dat
+b44d2a5881df6b46427b89e8bf56068d48d4c658  Data/Tables/Table03/Low Object/wheels.dat
+a922f5ac84214cd7e1466089de8fc1e4e1d882ed  Data/Tables/Table03/Low Texture/DisplayMask.jpg
+efbf3d8684f16d5beb28667b52b5e2847cc8d95d  Data/Tables/Table03/Low Texture/DisplayMask2.jpg
+ae23913a6540b828264efb2b4fe80440e2835fbb  Data/Tables/Table03/Low Texture/DisplayMask2_low.jpg
+9c9d692c6e160a0e30151cc8d34a2610d70d3e8b  Data/Tables/Table03/Low Texture/DisplayMask2_med.jpg
+1a669db4e3524f9ddb1b22333b00aee271e4b397  Data/Tables/Table03/Low Texture/DisplayMask_low.jpg
+f77b6daa1b58fa9ba71608fc43a1e0f84b4ce046  Data/Tables/Table03/Low Texture/DisplayMask_med.jpg
+5945a3d2616bbb0f90857e8eb6039c8c12335675  Data/Tables/Table03/Low Texture/a_DisplayFeliratok.tga
+e860b4506aec9b7fb44b83e4af050cba0a571301  Data/Tables/Table03/Low Texture/a_DisplayFeliratok01.tga
+9972bc3bbbea59e9803a763d35fabe7ec8bdd76c  Data/Tables/Table03/Low Texture/a_DisplayFeliratok03.tga
+5e1c2e86dfcdce2732599c4af8f721e372e76b89  Data/Tables/Table03/Low Texture/a_DisplayHighScore.tga
+4ccd6f7cd13b048c8a50772cdfa7fdcfb6215126  Data/Tables/Table03/Low Texture/a_alja_map.dds
+44193eae3564ba24496fae39a22c74a761b3c76e  Data/Tables/Table03/Low Texture/a_cubex1.dds
+f8945c58dffa69339140e0bac435be6ba00ae059  Data/Tables/Table03/Low Texture/a_cubex2.dds
+65ab4a3ce3a1d671c14637b5398e989deee284e1  Data/Tables/Table03/Low Texture/a_cubey1.dds
+fe346b6f2b2dfab098f868c10b77718ba883ed1f  Data/Tables/Table03/Low Texture/a_cubey2.dds
+f6a28c24f837e8dce5f11029ef0f1f69bd23b2ce  Data/Tables/Table03/Low Texture/a_cubez1.dds
+e5817b22a03646d5eeaef777208497d5b0c20bf4  Data/Tables/Table03/Low Texture/a_cubez2.dds
+87f2dfaea83a4591fbbfffec111eae479cc7b72d  Data/Tables/Table03/Low Texture/a_disp.tga
+7a5b961265e93fd4e2c87fa4c2f87932a47fdf96  Data/Tables/Table03/Low Texture/a_displaySzamok.tga
+8e5fa5d4b73f66a1b2a1cec7774e79220b295238  Data/Tables/Table03/Low Texture/a_felsolap.dds
+2a2cd1720b87b49407f31cd4f69c1fc686297cdf  Data/Tables/Table03/Low Texture/a_hegy.dds
+809af6e2f9bd751fd4d7a092e180f9effa41483c  Data/Tables/Table03/Low Texture/a_kar_arny.dds
+2944392e901f75fa0628b79070660460f9406941  Data/Tables/Table03/Low Texture/a_lampa.dds
+9f8cdc8bd69e5c72c441bcb1fdf51f2f525761af  Data/Tables/Table03/Low Texture/a_pince.dds
+d34bf364950941bcbfe7f5334f0364b2fcedbbaf  Data/Tables/Table03/Low Texture/a_pince_lampa.dds
+b276ad1b22769c1fbce08b2ecaf8fc177238f2a6  Data/Tables/Table03/Low Texture/a_start_game.tga
+3c86cb6097fa048914eeeb53141f3a6934d1a0af  Data/Tables/Table03/Low Texture/a_vill01.dds
+d3c3f3ae89f153f2fd2850bf850c66f9e1804adf  Data/Tables/Table03/Low Texture/a_vill02.dds
+840e3a4c7ac859483ab6fe5d9038aa72a34b9649  Data/Tables/Table03/Low Texture/a_vill03.dds
+fa33b66e3b1c9eb5b971facfe9f7b42eece92535  Data/Tables/Table03/Low Texture/a_vill04.dds
+967723dece5f74e5d47648537880f09df50ec9e0  Data/Tables/Table03/Low Texture/a_vill05.dds
+2f009f5f846ff053d0e11ce6adc1c34905bb3291  Data/Tables/Table03/Low Texture/ablak.dds
+a4351b367939565fddff2e87a3404e391a2265b2  Data/Tables/Table03/Low Texture/ablakfal.dds
+d39fdb9cfc0f5cc4603cd80be600ef4a601850be  Data/Tables/Table03/Low Texture/ajto.dds
+487bd95e7f87a1b5ab669e32986fd4802082dab3  Data/Tables/Table03/Low Texture/alja_map.dds
+9f0cee09dcd74172ff2f8bf6a27bf2eb70fc30d0  Data/Tables/Table03/Low Texture/asztal.dds
+a4f7ca6051c212f81e1156c03192abc86732e1e3  Data/Tables/Table03/Low Texture/ballshadow.jpg
+6676192fa0cad45c4433d1aa085d6f698a6a01f6  Data/Tables/Table03/Low Texture/display_map.dds
+37ecb1279a143e04435c51a6289e3d9a5290e7d7  Data/Tables/Table03/Low Texture/envir.dds
+1e16f1dc632501dda000dbefe8cdb99604eae10c  Data/Tables/Table03/Low Texture/felsolapok.dds
+6299d63031f5656887c273481138942ae22f260b  Data/Tables/Table03/Low Texture/gumi.dds
+edc0d4aaae1d3f56453735ae1aa33e974dfd7128  Data/Tables/Table03/Low Texture/hatsofal1.dds
+487bd95e7f87a1b5ab669e32986fd4802082dab3  Data/Tables/Table03/Low Texture/lampa22.dds
+feb095a7948977d74740b5e0502f1d360e7829a3  Data/Tables/Table03/Low Texture/lens1.dds
+9148b0636c149f8f26bd6ed5197b970b0dfe5cc9  Data/Tables/Table03/Low Texture/lens2.dds
+02702f1179c306a84d7f0ddc5a1f96ae9d9f8502  Data/Tables/Table03/Low Texture/marvany.dds
+ab90f955989fc966357160917ef6b7aca54e70e4  Data/Tables/Table03/Low Texture/oldalfal.dds
+b3817a160d7bfe48b8af165608a1dcf051adcd43  Data/Tables/Table03/Low Texture/padlo.dds
+39cb9505704f873f22fa9069e6acbf54cddf842f  Data/Tables/Table03/Low Texture/rampa.dds
+66b638aa5937ba9b016245c8c3ba5305715a175a  Data/Tables/Table03/Low Texture/refmap.dds
+f146b4ba4963bb035a49b163d13588786e77d039  Data/Tables/Table03/Low Texture/ujsag.dds
+b76016cdbe45ddeb35dd4a946531d5912597427b  Data/Tables/Table03/Low Texture/uveg.dds
+efa9f6ad5cb5cb440cf546bf07f5dc007e80ce3e  Data/Tables/Table03/Low Texture/vonat.dds
+5886cf6561ee51003870f7915d6d16e8d900b887  Data/Tables/Table03/Sound/Elhalado Vonat 1.wav
+15bc511554b79c76c34617d4ca1210a30cebca83  Data/Tables/Table03/Sound/Goz 1.wav
+5bbbe70aafd16b5c54fd347b90163f0f806c65ef  Data/Tables/Table03/Sound/Goz 2.wav
+2dd3ddd5c7b98afb5d1bee0ae78c56c138626e73  Data/Tables/Table03/Sound/Goz Loop 1.wav
+90ca529699a3cf8caa71522bd2e333bc4989a019  Data/Tables/Table03/Sound/Mozdony 1.wav
+83e2c237afe1e1f52d88e29d7df7b579175bd0b4  Data/Tables/Table03/Sound/Mozdony 2.wav
+b0b914f9084bf4e3a6c9282e794a6ef293318c24  Data/Tables/Table03/Sound/Mozdony 3.wav
+2df63e010937deffe1c2692a06a1c4da6b9061f3  Data/Tables/Table03/Sound/Mozdony 4.wav
+2d167b4d2d15a28e067e37c7230fcb1257d8ebab  Data/Tables/Table03/Sound/Mozdony 5.wav
+3131ea392e51869545674d7f7685366e3df9e942  Data/Tables/Table03/Sound/Mozdony 6.wav
+6c58978c229030f3dc00ccd8d5ff271d639f88fa  Data/Tables/Table03/Sound/Mozdony Fekezes 1.wav
+3df568541f12f9aa99e3de7eca5fa5be1442c542  Data/Tables/Table03/Sound/Mozdony Futty 1.wav
+251de8b5c927b9d1fc7de564e1595bac77755dc2  Data/Tables/Table03/Sound/Mozdony Futty 2.wav
+fec6b2e04a1237e5a669c1798bad4901b93e5254  Data/Tables/Table03/Sound/Mozdony Futty 3.wav
+af2faa875d88260bdf3f72dd2adf95ca1a41e6ec  Data/Tables/Table03/Sound/Mozdony Kurt 1.wav
+6db80f90ca3126b7dfd404fbc8ffa493b34aaa37  Data/Tables/Table03/Sound/Mozdony Kurt 10.wav
+ca9d0d0691350d15ddb17e752004b1b130ef8809  Data/Tables/Table03/Sound/Mozdony Kurt 11.wav
+7528a0b449d4626891ea3425ad36d909765561e7  Data/Tables/Table03/Sound/Mozdony Kurt 12.wav
+fec22c1e79c4c0016ed7d83bb35d053453f6523e  Data/Tables/Table03/Sound/Mozdony Kurt 13.wav
+192c89d4fa06994c7fc030d45c23de81b4eaad27  Data/Tables/Table03/Sound/Mozdony Kurt 14.wav
+e83a16171101905fc730a5b8db2dba5d762fcc9f  Data/Tables/Table03/Sound/Mozdony Kurt 15.wav
+3d46cf1c5f5e91ea2b46d5ed6abb2845e3839420  Data/Tables/Table03/Sound/Mozdony Kurt 2.wav
+5a5e9ec764117d89418e73ff11030920e46a6b44  Data/Tables/Table03/Sound/Mozdony Kurt 3.wav
+ba8cd8ce31af8af7f9fc88fa7f46e917a919a967  Data/Tables/Table03/Sound/Mozdony Kurt 4.wav
+344e4072b383d006ebe675aad55a2c85392654d2  Data/Tables/Table03/Sound/Mozdony Kurt 5.wav
+9dea2e22391edacf53c7b47d8f779d7298833375  Data/Tables/Table03/Sound/Mozdony Kurt 6.wav
+f506d798eef1f949d598687d536af9c9bc77f041  Data/Tables/Table03/Sound/Mozdony Kurt 7.wav
+40b90a2d02a0c79ef96c044c35a2096551771876  Data/Tables/Table03/Sound/Mozdony Kurt 8.wav
+d5bc0097b0b1dad765eab2423a48bbeef55ffca3  Data/Tables/Table03/Sound/Mozdony Kurt 9.wav
+0c3ef1c4a0be6f43ea11e25e9294bc0fa99ae87e  Data/Tables/Table03/Sound/Mozdony Leallas 1.wav
+1a5ea1417d3028fea6a8f73772290d95bc835e27  Data/Tables/Table03/Sound/Mozdony Leallas 2.wav
+5158365cf990e3916a8d9d9cbe96c6229d3465c1  Data/Tables/Table03/Sound/Mozdony Pihenes 1.wav
+d771a94a038e25a703931dd0b9f64f7c3832aab0  Data/Tables/Table03/Sound/Mozdony Utkozes 1.wav
+cfb8a878ae73959e4b98fdf091a963688528ffd4  Data/Tables/Table03/Sound/Mozdony csengo 1.wav
+6fca923591228329f9c1dcb30be9af4b09babbab  Data/Tables/Table03/Sound/Mozdony csengo 2.wav
+0d40d7799be0ea4fa65ec3c1afec206d5d0eb0a8  Data/Tables/Table03/Sound/Sin Hang 8.wav
+c0ce5e8bfee9316ac7b7254ef4f5d0dbd1aa2975  Data/Tables/Table03/Sound/Sin Hang 9.wav
+639e5b081a1a89116ad60008cb5b934c00f541f1  Data/Tables/Table03/Sound/Szemafor 1.wav
+64e03aa1f72d529ae0a006827344607d1b8b5bfb  Data/Tables/Table03/Sound/Train intro.wav
+bca985208504ee8f84470532d50e5949fddfdce8  Data/Tables/Table03/Sound/Vagon Kapcsolodas 1.wav
+7d50b857980fb885c33761218525a772899c77c6  Data/Tables/Table03/Sound/start fx left.wav
+8c0e0637219ca6bd2523ef0c37ac99a00d4ecd87  Data/Tables/Table03/Sound/start fx right.wav
+5d1b9061b4e2ec4ef8afac5c613022b7b5fe7bc0  Data/Tables/Table03/Vocal/1 Million.wav
+e71246c9e191c452b6628be33f2279b0ae64aba0  Data/Tables/Table03/Vocal/1 Player.wav
+5e73eebd516a0bc076e2c7ef5653bce3e4a4c418  Data/Tables/Table03/Vocal/10 Million.wav
+a766eb3aa93d3377fd8d03863db5136d41401a99  Data/Tables/Table03/Vocal/100 Million.wav
+34fb5bbc973208e6d15d23abf08780759c424d12  Data/Tables/Table03/Vocal/2 Million.wav
+e8dc2223abdc607f599e4944cdf4d22396f4f6fe  Data/Tables/Table03/Vocal/2 Players.wav
+1cccc932df9fcf3b34ff39678c3ecd12a43c16b2  Data/Tables/Table03/Vocal/20 Million.wav
+e7fcaa08ba3243153bd6893ef3a8358ff33a6c6e  Data/Tables/Table03/Vocal/3 Players.wav
+85dbfa6bb5b1123da6037d34f14bed11bd2c01aa  Data/Tables/Table03/Vocal/4 Players.wav
+6250bd50289c29d38739a07a9b92b3c6f6dba043  Data/Tables/Table03/Vocal/5 Million.wav
+789a3e632cdd7d83e64faa15dc38f265e176e5ea  Data/Tables/Table03/Vocal/50 Million.wav
+b44e2ddff8992c5f34153cb07a2f592ee4d42c51  Data/Tables/Table03/Vocal/Ball 1 Locked.wav
+40ea347690d9be11757aefbb2d15e4e06c935c71  Data/Tables/Table03/Vocal/Ball 2 Locked.wav
+f95fb003b940f8bb79c4e56e4bd9de538a3234df  Data/Tables/Table03/Vocal/Ball 3 Locked.wav
+cff972563a28d94b185658fbafd54820971d33d7  Data/Tables/Table03/Vocal/Bonus Times 10.wav
+b67c7857f5deb503fa646314c09695a06f7afcf7  Data/Tables/Table03/Vocal/Bonus Times 2.wav
+6d3b3566c692f176c431e4cce7f5ecca45eccbd7  Data/Tables/Table03/Vocal/Bonus Times 8.wav
+4df98863919104d720d8980437cccaaf058c208a  Data/Tables/Table03/Vocal/Bonus times 4.wav
+a6a64094a8692b2a5014a47f3220a3a428023ac4  Data/Tables/Table03/Vocal/Bonus times 6.wav
+df0ad59bf5312681c0ced114f36cad0afda8fd90  Data/Tables/Table03/Vocal/Combo.wav
+07b1ec1ce388670a82a2feceea15661aead60be9  Data/Tables/Table03/Vocal/Crash.wav
+8a6678fea9b29dce06342aae6d74ccfd1d5bd0d7  Data/Tables/Table03/Vocal/Derail.wav
+d963a7bd5821a6cc7166601f4324c6959a7b5c2c  Data/Tables/Table03/Vocal/Don't Move.wav
+6d803db59e926dc260c1c6228045adb07601e326  Data/Tables/Table03/Vocal/Double Combo.wav
+c61efe99cb614536efdfbe2c425fba6b429ca75a  Data/Tables/Table03/Vocal/Double Playfield Is Lit.wav
+973d10cfdd3b4b68aba2404fabd90d5cac837afa  Data/Tables/Table03/Vocal/Double Playfield.wav
+47e86d954b12a982fcadf1e1ec58482ddd9a5579  Data/Tables/Table03/Vocal/Extra Ball.wav
+96a5de903f9e54ca5aa9e67283b290803c9cbcb1  Data/Tables/Table03/Vocal/Fire.wav
+ed63c1146207f461857ee5109eb81402a5325469  Data/Tables/Table03/Vocal/Frenzy Million.wav
+05694e6069df10a9b0f1d7cba71369e3c23e7a80  Data/Tables/Table03/Vocal/Get The Extra Ball.wav
+abec3531531e4b016933b5226ab23492fe233ac6  Data/Tables/Table03/Vocal/Get The Extra Storage.wav
+09e5198c648c6f7a375b71f50b7cf52edcf2ab3d  Data/Tables/Table03/Vocal/Get The Secret Storage.wav
+8b4675a901d5454179ba4501f93283ce60ea9417  Data/Tables/Table03/Vocal/Go For Multiball.wav
+a1fe478bad38f8d4e4fee0b2207799ff47459f3a  Data/Tables/Table03/Vocal/Jackpot.wav
+42a54308f6ab0615fefae992ed3d3c6d00401a25  Data/Tables/Table03/Vocal/Kickback Is activated.wav
+b42576b37b4926acf0644b0da7ca8dc35055352e  Data/Tables/Table03/Vocal/Kickback.wav
+1504d48bd3aae60d07d5c0ad02888cd17001dd74  Data/Tables/Table03/Vocal/Multiball.wav
+23a968ca5b43a0ab524340ee45e0a85b89acf766  Data/Tables/Table03/Vocal/Passenger Frenzy Is Lit.wav
+0e33d153cff398c66c20adcbcb3a216676021034  Data/Tables/Table03/Vocal/Passenger Frenzy.wav
+3b01f3085b7d9a6172bd58e855de02ca1f44a62e  Data/Tables/Table03/Vocal/Player 1 Is Up.wav
+2078cc12974234b6660463d471fe9fb43d8ad587  Data/Tables/Table03/Vocal/Player 2 Is Up.wav
+a4f473354f951b0ceb5fe12fbd530e98a3916f4f  Data/Tables/Table03/Vocal/Player 3 Is up.wav
+da20e6a00942b9dff42c3688574622d34bdde080  Data/Tables/Table03/Vocal/Player 4 Is Up.wav
+eea6ac116f382868937428878c8a57cfd93a85f0  Data/Tables/Table03/Vocal/Reveal Secret Is Lit.wav
+3cae3e0566355691021f0b3ea48b3ab0234ff82b  Data/Tables/Table03/Vocal/Reveal Secret.wav
+07c05cf3358642ffed0feccfe773e3e24912d96e  Data/Tables/Table03/Vocal/Secret Storage.wav
+794373b7982ac13b39432094a77084022d5c2ad0  Data/Tables/Table03/Vocal/Shoot Again Is Activated.wav
+e221060f55f3dbaf4c3c7bddef41503ee4d1c176  Data/Tables/Table03/Vocal/Shoot Again.wav
+72c277677bb20fae10bc7a9a690c70ee560ad13b  Data/Tables/Table03/Vocal/Start Mode Is Lit.wav
+6bd71b7f1592eebdaaeaa7838cc1182293e70c04  Data/Tables/Table03/Vocal/Stay On Target.wav
+d74d7a3bc4bbcbf8ddbcddefe2adb2b378260d22  Data/Tables/Table03/Vocal/Steam.wav
+3afb4b781ee2aef8af41359b0d08ec4baf7ed675  Data/Tables/Table03/Vocal/Super Combo.wav
+5419fe7e1e96480ea871de094b404297b29e538d  Data/Tables/Table03/Vocal/Super Jackpot.wav
+9ad004eb77c94e44586ca8114eccfd7515c719b9  Data/Tables/Table03/Vocal/Triple Combo.wav
+ac8909c6ac2bbd8009275e7149ad814b6b730fe7  Data/Tables/Table03/Vocal/Warehouse Is Opened.wav
+26389efe4544a4e07d9604d283cc174639845ce6  Data/Tables/Table03/Vocal/Warehouse.wav
+e33848408a198ef0c21060788fd91fa0a83b82fe  Data/Tables/Table03/Vocal/Water.wav
+ef7e7365b7a4c238e8e71ff5668f79536c60433f  Data/Tables/Table03/Vocal/Wood.wav
+6f9fb7cacea375947f0e52149ee6f8c2da62b355  Data/Tables/Table03/alja.dat
+261e39406de3bd570a9c0e30a8ad9e6cbffe957c  Data/Tables/Table03/ballshadow.dat
+fe145a227c28921dfa23acd3566d82d7f2a7e1a5  Data/Tables/Table03/betuk.dat
+58c32eb7d8ff4aefa95111b9bbe08e4211bad82a  Data/Tables/Table03/bigball.dat
+bba0e54e8052528d68128fcd37336399ca3c0840  Data/Tables/Table03/cam.ASE
+f734420f449655d6001779977422ab02ba4ebf8d  Data/Tables/Table03/control.con
+12dcadc5f9c2467ff79d4e5836afe539d422fd0a  Data/Tables/Table03/disp.dat
+265c278320aa7eb4d649aa3294ad7310dbe163cc  Data/Tables/Table03/disp2.dat
+68ddb16d33c8abddc8dc945fe0b3b55f2bd06d89  Data/Tables/Table03/dispmir.dat
+feb5b8686b73835a1da698d276bc2fdd7eadd68c  Data/Tables/Table03/envir2.dat
+9c824950b8dacb850bc54212c314fadb7349867a  Data/Tables/Table03/golyo1.dat
+1886479a2f9eed4b75e1abdb7d8e9eb4f4bf62ce  Data/Tables/Table03/golyo2.dat
+560a7be820af3330cdfee6c50869df8e385ebb9f  Data/Tables/Table03/karakter.dat
+3de44f99add26c71c94f2df32cc591f0be179af6  Data/Tables/Table03/karakter3.dat
+cd7e4f449387e2901984a4e6e8084f65800a30ac  Data/Tables/Table03/karakterek.dat
+8de14ba5352e2acfb82050c4ee675096c5d9cfc4  Data/Tables/Table03/kararny.dat
+d13a4a255a1ba80bba17c1035d530984f1ec69cb  Data/Tables/Table03/lampa22.ASE
+e0bb6f20c6531d13f3e2a4b68ac15f1cf7c77c54  Data/Tables/Table03/lampa22.dat
+98188241eaf1e8e91fe30a9cf02a446a795e8d38  Data/Tables/Table03/lampak.dat
+c65858b5e3e5b183d137f95f6b6439992aa035c9  Data/Tables/Table03/lens.dat
+37abf10e282d1a3735d33503f4ee65e623954cd2  Data/Tables/Table03/lens2.dat
+a7c00da8e6d226ed5f9458a5ad2241ff3dc841a8  Data/Tables/Table03/nyil.ASE
+c50b2f599a6e4c36a085df8218fba34b6835e7d7  Data/Tables/Table03/nyil.dat
+67085b6882053c2f87cd0e3dd869987942ef18d5  Data/Tables/Table03/pince.dat
+53e615895a9ca3a8211a1588d70df79ce53fcf8a  Data/Tables/Table03/press.dat
+2de8447a37ed38737b09fc216fd1779fa25c0f57  Data/Tables/Table03/process.vsh
+15f236c3bab33c504ba8a9d34805768afad9441d  Data/Tables/Table03/process.vso
+388e36a271255e1667a5a7ce6662fff5f307c4d4  Data/Tables/Table03/process.xvu
+807d4616225cc24c82872569e0c7642a4d83bfa5  Data/Tables/Table03/pvill.dat
+c3bc858b040f04dae662752f7eeeb021e51400d3  Data/Tables/Table03/ramppath.ASE
+b4efbf51b40ad9e7144bc5120c27205b7dc4fa4b  Data/Tables/Table03/score.dat
+8d913058c6b586f619e1f7d28a91ad66cf0ddddd  Data/Tables/Table03/shadow.bmp
+946c63af2531827e09f20e9298bc58eb53808241  Data/Tables/Table03/symul.con
+9c067297216d884da75c85431308d714f9309b69  Data/Tables/Table03/symul333.con
+a2f89b8b48eebbf1165749c9207090507fe717ae  Data/Tables/Table03/table.dat
+eb44d0cb6d52f0307e14b0b4a81e86141f5c67f6  Data/Tables/Table03/trace.vsh
+5e0a94a979fead0b57d4beb36770bcca3ad24caf  Data/Tables/Table03/trace.vso
+bccd7433709d4eca240aa88b0100f86020676319  Data/Tables/Table03/trace.xvu
+2019879a978b205a2da1c09f7836470a326d8fe4  Data/Tables/Table03/trace2.vsh
+b25c184088160abb85a3267705bbdfa0ece0aee4  Data/Tables/Table03/trace2.vso
+00bf5715cef43750130ec86e3325382ed183a592  Data/Tables/Table03/trace2.xvu
+2be8276153320a2465d6c08dd14861c8d4363e75  Data/Tables/Table03/uveg.dat
+4e018a7a6aaf6db433de5191547fae50a3fa9220  Data/Tables/Table03/villogas.dat
+dce522b311c705b6957ed4f78ee7f26a417edfab  Data/Tables/Table03/vonat.dat
+fdf97930ac18da668e405091daaca8dc56d1da0c  Data/Tables/Table04/Anim/1 Million.xmv
+65d4374f9d5f3c97d69f1863a66b23d693a716c3  Data/Tables/Table04/Anim/1 Player.xmv
+620363b8ad2a5affb862a83a76769451743b1136  Data/Tables/Table04/Anim/10 Million.xmv
+73249f833a55bff631268cf1f960add71897b3d4  Data/Tables/Table04/Anim/100 Million.xmv
+409c7dfe91a864cfbe9d8f6fe1a4ce66a797419d  Data/Tables/Table04/Anim/2 Million.xmv
+860e09181c37156803c5d65b7ce81b60f54a35af  Data/Tables/Table04/Anim/2 Players.xmv
+ca89c78ad2b1615fca4aa5a4d43de65fb8093ca4  Data/Tables/Table04/Anim/20 Million.xmv
+5df615e24cb219dc98e6ce41d3fda2cbe43f57f9  Data/Tables/Table04/Anim/3 Million.xmv
+e6d190a6c24cf3032477e65773a1737a6e08f5f4  Data/Tables/Table04/Anim/3 Players.xmv
+0d64edfc59057a55b3a774e30bb2227a2076380e  Data/Tables/Table04/Anim/4 Players.xmv
+91f82dc7c139ec5ab0e78ec7a7e745a895ea8bfd  Data/Tables/Table04/Anim/5 Million.xmv
+107d2f0124e45d837dfcd17f58d32f28af9a805d  Data/Tables/Table04/Anim/50 Million.xmv
+70a19f7f0e8ae8968961470b696492b96ae8fbf1  Data/Tables/Table04/Anim/Afterburn.xmv
+70a19f7f0e8ae8968961470b696492b96ae8fbf1  Data/Tables/Table04/Anim/Afterburner.xmv
+969d1dacebfc41f5b8f30ebfc989e4af1027746d  Data/Tables/Table04/Anim/Arming Mode Is Activated.xmv
+a7bc5032395684224f1b87d38e9edef3bae4a2d9  Data/Tables/Table04/Anim/Ball 1 Locked.xmv
+bbd7d010ee24183ee22e4e5e262f7fd7b1e81ce0  Data/Tables/Table04/Anim/Ball 2 Locked.xmv
+67280db24eedab9cdf59d4052ca8703d425effd3  Data/Tables/Table04/Anim/Ball 3 Locked.xmv
+938d6b0d72e714a3daa0e1e69f20bee47cb36bea  Data/Tables/Table04/Anim/Begin.xmv
+f3032634aa637aa3915534de2b48530cde41eb8d  Data/Tables/Table04/Anim/Black Hole.xmv
+99e8c55f1a1e634adff44634880d776c41cfb0b4  Data/Tables/Table04/Anim/Bonus Held Is Lit.xmv
+3284feb7beaccf9425480e538c2f6f9485d8fde2  Data/Tables/Table04/Anim/Bonus Held.xmv
+bd04d91dee4c06a32ebbbd120536b8991fe1e3bd  Data/Tables/Table04/Anim/Bonus Times 10.xmv
+debbccdafbe49c6e6ac295a195a2be6573e122b3  Data/Tables/Table04/Anim/Bonus Times 2.xmv
+511a1230289f4164b3ac6d888d053215b0b6363d  Data/Tables/Table04/Anim/Bonus Times 4.xmv
+6d426231cf7af709fb3b0d22e0e661e3a097470d  Data/Tables/Table04/Anim/Bonus Times 6.xmv
+32f7b5ad8d95156ce37e6d95c40c8371d9dfc475  Data/Tables/Table04/Anim/Bonus Times 8.xmv
+d7f45a3c76985b437d519364d9662aaf2a27b64c  Data/Tables/Table04/Anim/Combo.xmv
+ea6bb6b03d2e737d2271c71a16d9d86c4d2e1f90  Data/Tables/Table04/Anim/Don't Move.xmv
+68a5227ff742e790a93be9fcabaa0b3330558a94  Data/Tables/Table04/Anim/Double Combo.xmv
+b1918845ae93e799fc6bffc5fe8a8dee916c10bd  Data/Tables/Table04/Anim/Double Jackpot.xmv
+e2a95e549c10b2d44d3438a815e8453f74ed3951  Data/Tables/Table04/Anim/Extra Ball.xmv
+61bb143366e04aee5bb664f410cd5cd53962d2aa  Data/Tables/Table04/Anim/Get The Extra Ball.xmv
+bcc4cf98c79846d4b15663fe5ddc1d6e514e3e98  Data/Tables/Table04/Anim/Go For Multiball.xmv
+e0bd82be30626d6a29dabd8c5c1c9e01cb45188a  Data/Tables/Table04/Anim/Hyper Jackpot.xmv
+08c087f20bdcd33b1e43d099ec9b00156a8a810e  Data/Tables/Table04/Anim/Jackpot.xmv
+18963817da283c5d9636e15351ca784730f73108  Data/Tables/Table04/Anim/Launch Again Is Activated.xmv
+e9cbcc5b06a5337ff220c8a09545e35d42c5dd74  Data/Tables/Table04/Anim/Lightspeed.xmv
+c6eed7942ee14042b041a55eb0f358ac341572b6  Data/Tables/Table04/Anim/Lock A Ball.xmv
+21bfc130c8d66eb24640f2dcd6734f7cde7d38d3  Data/Tables/Table04/Anim/Main.xmv
+b8bd084c4163e1395336957210907e64e3ac720d  Data/Tables/Table04/Anim/Multiball.xmv
+3f0747fb8b6c004b60be87da724f4a0b6ffa366b  Data/Tables/Table04/Anim/Neuro Tunnel.xmv
+ed2cc38f29f388b06860d2a4d954fcad5c0ef58a  Data/Tables/Table04/Anim/Player 1 Is Up.xmv
+7da41044f9df331f72362b982b8c6a87d0d17838  Data/Tables/Table04/Anim/Player 2 Is Up.xmv
+7b3cfe8515470fa67f4018796b157a0169d65c6f  Data/Tables/Table04/Anim/Player 3 Is Up.xmv
+16a9d24c07650bf3bca50c57322f15cc99a6b094  Data/Tables/Table04/Anim/Player 4 Is Up.xmv
+25c3ce8e0cdc523283ca7492d9a99b199050b0ee  Data/Tables/Table04/Anim/Shoot Again.xmv
+430aa7e29fb58a3c8e7f555540e67e40f8f7f2e8  Data/Tables/Table04/Anim/Space Debris Is Lit.xmv
+b7a367d42da9905db0cd814880668dd0fab96c2b  Data/Tables/Table04/Anim/Space Debris.xmv
+a35dfebc9de8ab4b40048620b5b96bb2383b60b5  Data/Tables/Table04/Anim/Start Mode Is Lit.xmv
+b5fe273ed7947b796ffafee0dd131e0b02e1601e  Data/Tables/Table04/Anim/Stay On Target.xmv
+a99c520520ef9db05e46c6f918790c6cce79291a  Data/Tables/Table04/Anim/Super Combo.xmv
+dcea406e3505244ea41de62f200905f5f808c599  Data/Tables/Table04/Anim/Super Jackpot.xmv
+6f3f8fb467572d5ee9075409ce297b70b2193093  Data/Tables/Table04/Anim/Teleport.xmv
+7c013d79ca285dc3c7aaeb3fc74dbd8665a9f04c  Data/Tables/Table04/Anim/Tilt.xmv
+5bbec89d0ac54a445f259db2b4ca2eb23be486af  Data/Tables/Table04/Anim/Triple Combo.xmv
+d7dbe4bce6a807e6ede484a6a4a45576690074f8  Data/Tables/Table04/Anim/Triple Jackpot.xmv
+f8372f2821c7b027a2979cbbb6b9bcca6b31b7d9  Data/Tables/Table04/Anim/Wormhole Is Activated.xmv
+c5cd4938f5d3854d9f88f5c58c39c0fabd703471  Data/Tables/Table04/Anim/game over.xmv
+fd6c37c105e55fa18125e5352889eb652b538dbe  Data/Tables/Table04/Low Object/enviro.dat
+d2987350d4b74ab82f8e061164fed8d8aa1f6076  Data/Tables/Table04/Low Object/ramps.dat
+2b9433ac2ae035cb8887c3e3ce7310f8ceedb28b  Data/Tables/Table04/Low Object/terrain.dat
+b459707e59049d664d3fcbb337e04c2f510daf51  Data/Tables/Table04/Low Object/tukor.ASE
+30f84c1cda3fad4a83bb398174dbf4a17bfc145c  Data/Tables/Table04/Low Object/tukor.dat
+b44d2a5881df6b46427b89e8bf56068d48d4c658  Data/Tables/Table04/Low Object/wheels.dat
+fa531bab4ba9643ee437e51e6e97d2c96e863c69  Data/Tables/Table04/Low Texture/Darkhullcrop.dds
+80783661bdbb35ab591700f90a37b0f0a9b93900  Data/Tables/Table04/Low Texture/DisplayMask.jpg
+f3a9d03a52f58b718c021f60eaa4e3d760eafa65  Data/Tables/Table04/Low Texture/DisplayMask2.jpg
+3743675b0e59426dc89a80b068aea9b04053d591  Data/Tables/Table04/Low Texture/DisplayMask2_low.jpg
+2df00e0401d972c36b0fa7e013aef45fded55e2c  Data/Tables/Table04/Low Texture/DisplayMask2_med.jpg
+247661402923e72fab405c20fc40ff7708aafa9a  Data/Tables/Table04/Low Texture/DisplayMask_low.jpg
+823b28fa09e56071ccd41ecfd765c8c3c2c41f1b  Data/Tables/Table04/Low Texture/DisplayMask_med.jpg
+922b7ff0d02dafd42e13688996fd8af3a96fd57b  Data/Tables/Table04/Low Texture/Earth.dds
+4906e70f9857c3d9c4696c960834c4235a3d2343  Data/Tables/Table04/Low Texture/Mars.dds
+fff03930b660b720a1caf21f6cc9d6671b62adf2  Data/Tables/Table04/Low Texture/Neptune.dds
+18f2ba93ece656d0552568cf6405b31248ea3b06  Data/Tables/Table04/Low Texture/Saturn.dds
+97192700929150fd9e3d8790dbbee6c82e6c052f  Data/Tables/Table04/Low Texture/a_Darkhullcrop.dds
+7bb2a95fd4cf3d8d9b3488576ad9ee4f82e29628  Data/Tables/Table04/Low Texture/a_DisplayFeliratok.tga
+34b97023a7cad35970dfb7164ecb25fef470c3a7  Data/Tables/Table04/Low Texture/a_DisplayFeliratok01.tga
+3de8fbad0e0ecb74a03be3edad65c2779f5437a0  Data/Tables/Table04/Low Texture/a_DisplayFeliratok03.tga
+07438b6d6fb6421ad851bbf16f9a8edf593f9d32  Data/Tables/Table04/Low Texture/a_DisplayHighScore.tga
+0d40877526dbad6970acefdf158478e5691d9cbd  Data/Tables/Table04/Low Texture/a_alja_map.dds
+5895205427984ff3139061d936d1a6d0977aec6c  Data/Tables/Table04/Low Texture/a_cubex1.dds
+fc5fdff18207a1f13c08fdd615e8af2535b4caf0  Data/Tables/Table04/Low Texture/a_cubex2.dds
+6c0eee35a6e423c0af06c36a9415c5897433f3e2  Data/Tables/Table04/Low Texture/a_cubey1.dds
+089313a8c34add1d44217ef67de6ea33e9d48963  Data/Tables/Table04/Low Texture/a_cubey2.dds
+316ca0d3152247acea3ce5869b190422a60995fd  Data/Tables/Table04/Low Texture/a_cubez1.dds
+4ecfd05ca39b071ae359a536886f7ddc84a4f825  Data/Tables/Table04/Low Texture/a_cubez2.dds
+87f2dfaea83a4591fbbfffec111eae479cc7b72d  Data/Tables/Table04/Low Texture/a_disp.tga
+f3d516c97d5a97f3686a3e7ba7d7beff83febd2e  Data/Tables/Table04/Low Texture/a_displaySzamok.tga
+277a020bde84ee9b86e50c4ec30f4fd0e6f56359  Data/Tables/Table04/Low Texture/a_lampa.dds
+b912106b5ab5cce0635be1cb7b7b23b90f83935b  Data/Tables/Table04/Low Texture/a_pince.dds
+97651ce74734ce063ff851998deaa5da0db612b2  Data/Tables/Table04/Low Texture/a_pince_lampa.dds
+316ca0d3152247acea3ce5869b190422a60995fd  Data/Tables/Table04/Low Texture/a_pofozo_map.dds
+316ca0d3152247acea3ce5869b190422a60995fd  Data/Tables/Table04/Low Texture/a_ramp.dds
+f817c426ebff6a81b12f3a9de19a104f930b5cee  Data/Tables/Table04/Low Texture/a_saturnring.dds
+11901d749bb35857432de30e9215a2d24bf9d718  Data/Tables/Table04/Low Texture/a_saturnring.tga
+b2dea90c436cd22b63c618ce0fc6f67f30b4d0cd  Data/Tables/Table04/Low Texture/a_start_game.tga
+39c21fd2c421a228db6ae16021d480786caedbc0  Data/Tables/Table04/Low Texture/a_villog01.dds
+ad1c88323679300fe1150590966a5f093d2159eb  Data/Tables/Table04/Low Texture/a_villog02.dds
+2f009f5f846ff053d0e11ce6adc1c34905bb3291  Data/Tables/Table04/Low Texture/ablak.dds
+c3c9cfd9ca4e18ffc7599c5de1a2bb35ee656d0e  Data/Tables/Table04/Low Texture/ablakfal.dds
+2c79cfd46fa5d618bf77990371713f64ef84cda0  Data/Tables/Table04/Low Texture/ajto.dds
+fafaa1f5772d5034c9511e7a4aa5573d992fa082  Data/Tables/Table04/Low Texture/asztal.dds
+a4f7ca6051c212f81e1156c03192abc86732e1e3  Data/Tables/Table04/Low Texture/ballshadow.jpg
+316ca0d3152247acea3ce5869b190422a60995fd  Data/Tables/Table04/Low Texture/csavar3_map.dds
+2ed650d5d3af1685df78f21eccaab35a3f8b50fd  Data/Tables/Table04/Low Texture/display_map.dds
+e1837ca781e1fdb7706be5079873234a7c23a655  Data/Tables/Table04/Low Texture/envir.dds
+5895205427984ff3139061d936d1a6d0977aec6c  Data/Tables/Table04/Low Texture/felsolaphalo.dds
+4b75d0cebd61600d2b5d77043d7519f8ee0b4e45  Data/Tables/Table04/Low Texture/felsolapok.dds
+6299d63031f5656887c273481138942ae22f260b  Data/Tables/Table04/Low Texture/gumi.dds
+7edf307cc623d412deea3d382993f4e5d9fedbfd  Data/Tables/Table04/Low Texture/gumt1_map.dds
+ca4483427de1159d8be7f479f5712b1b2a7e3f93  Data/Tables/Table04/Low Texture/hatsofal1.dds
+579f7f913238f4ac06f85282f25ad5c6cbc95775  Data/Tables/Table04/Low Texture/jup0vtt2.dds
+f6d03a0691405501087d8e56e2e02cdcde5c9699  Data/Tables/Table04/Low Texture/kar_map.dds
+487bd95e7f87a1b5ab669e32986fd4802082dab3  Data/Tables/Table04/Low Texture/lampa22.dds
+654fa3d14599814a787827d130230deeed8bc945  Data/Tables/Table04/Low Texture/lens1.dds
+4c0ea235de8bdbd4b35bc739e8c1413946e597c3  Data/Tables/Table04/Low Texture/lens2.dds
+35758145948485e67fcc299bfa63b3fff43f0243  Data/Tables/Table04/Low Texture/marvany.dds
+316ca0d3152247acea3ce5869b190422a60995fd  Data/Tables/Table04/Low Texture/nagylampa_map.dds
+4a00b7b7187e55e214838baf56cedfd45167e945  Data/Tables/Table04/Low Texture/padlo.dds
+b4187e7f0e6f653994748dd1677046d43166f02c  Data/Tables/Table04/Low Texture/rampa.dds
+66b638aa5937ba9b016245c8c3ba5305715a175a  Data/Tables/Table04/Low Texture/refmap.dds
+89c1e653966a74ab37d08bdc77e34b79ed202b35  Data/Tables/Table04/Low Texture/satelit01.dds
+6c80db6d6ae55d9b0d5d780b8190fbacf71b8b79  Data/Tables/Table04/Low Texture/ship01.dds
+f146b4ba4963bb035a49b163d13588786e77d039  Data/Tables/Table04/Low Texture/ujsag.dds
+ccbe98556782ea63cb104a741462cbd302ac4971  Data/Tables/Table04/Low Texture/uranus.dds
+b76016cdbe45ddeb35dd4a946531d5912597427b  Data/Tables/Table04/Low Texture/uveg.dds
+7bf0e87ca4a5ff951502ba9f2ffe10f9a580bf93  Data/Tables/Table04/Sound/fx 1.wav
+29aa071ffa1d895d8ce98840c5db7d72d73d6cab  Data/Tables/Table04/Sound/fx 2.wav
+fb8b6fa1d43fc4372a6e5a68416fc93eb8ded217  Data/Tables/Table04/Sound/lezer 1.wav
+37489ad0c3f9ed27c5fc32b48d48b910f7b22ca0  Data/Tables/Table04/Sound/lezer 2.wav
+919342353e0fce1582b170e7afd525a0e036451e  Data/Tables/Table04/Sound/lezer 3.wav
+77a85964b95010080472df79138170ce25e8eb13  Data/Tables/Table04/Sound/lezer 4.wav
+2ce894f1e333a0a11368277dcd43f4a06dc8e7f5  Data/Tables/Table04/Sound/lezer 5.wav
+a333c68741c3a75094ecb878f058056374ae6943  Data/Tables/Table04/Sound/lezer 6.wav
+9080e2fa412313b5573e119276ca12ac5c194142  Data/Tables/Table04/Sound/lezer 7.wav
+4a544714b0754978a12a033cebe64e91f162a491  Data/Tables/Table04/Sound/lezer 8.wav
+e9e6901fa05a5dd94db737de65bdf25b3e1cda73  Data/Tables/Table04/Sound/lezer 9.wav
+91319df6cc7b1fa283b387b20b5f4050dd32ae4c  Data/Tables/Table04/Sound/raketa 1.wav
+bcecbccaf9de3fc31b67d9c84c3027a1e41799cb  Data/Tables/Table04/Sound/raketa 2.wav
+66d0c789470d588c312ba9bbdeb0e1b25ba98b6d  Data/Tables/Table04/Sound/robbanas 1.wav
+0497c511f531cd2e0a8804b8b59c108764aa1f8d  Data/Tables/Table04/Sound/robbanas 2.wav
+8c879339f88cc41e93727cf4a8ae0c9fdfda2426  Data/Tables/Table04/Sound/start fx left.wav
+00ef024fde41d14b03b9d8ec6572a1c8caebb8b9  Data/Tables/Table04/Sound/start fx right.wav
+811db7b9d7c2100c386eb555bb82688a86ca86e2  Data/Tables/Table04/Sound/suhi 1.wav
+234a992664a46c4a8dda1fd339d3514f22fbab68  Data/Tables/Table04/Sound/suhi 2.wav
+27ced140f97e99f1f17858917cc09e9a98c81ed3  Data/Tables/Table04/Sound/suhi 3.wav
+d9c360c3afce3a680476307d75cb323153010776  Data/Tables/Table04/Sound/szikra 1.wav
+03aa9308117127d5404fe68df9b9300046883f81  Data/Tables/Table04/Sound/szikra 2.wav
+0bc6fa513ecd9d4149cebf49dda01c354582329e  Data/Tables/Table04/Sound/szikra 3.wav
+18515464f53d64deca135daf766441c6ce730487  Data/Tables/Table04/Sound/szikra 4.wav
+6bcc2066e343bff80a7aaa1aa153738a1d124dd5  Data/Tables/Table04/Sound/szikra 5.wav
+5ba5e4a1b3cfcb4fdd4bf3c7a42bff8408af1ec9  Data/Tables/Table04/Sound/szikra 6.wav
+844ea7fe412c9202fd0c9d8e0ec6bb14e255d1e4  Data/Tables/Table04/Sound/szikra 7.wav
+28584949d44b592eb555d45e302e658f5b1f3daf  Data/Tables/Table04/Sound/szikra 8.wav
+b8904511c28f37f179eb08bd814e2923337a064a  Data/Tables/Table04/Sound/utkozo 1.wav
+0e0c3ce923035e29a793e677bdd58314be85c117  Data/Tables/Table04/Sound/utkozo 2.wav
+a977923023e80a88dfe84e4873884f07746544ff  Data/Tables/Table04/Sound/utkozo 3.wav
+6ee4e577371143b6803640b380389692d42b5445  Data/Tables/Table04/Sound/utkozo 4.wav
+fae69afb50d6b22d72f5c576e264657cc49e5bc1  Data/Tables/Table04/Sound/utkozo 5.wav
+10d989d443920daa99d5dc690c0fbdb31809c7c1  Data/Tables/Table04/Sound/utkozo 6.wav
+992681fecb1424f18ec083b1a8375d7d251495ed  Data/Tables/Table04/Vocal/1 Million.wav
+38cc940224b7fe8fa6422406dfd03c87d757d2d8  Data/Tables/Table04/Vocal/1 Player.wav
+ecb9fa29ce0f835d2ab68daaa0f20c0b99e4869d  Data/Tables/Table04/Vocal/10 Million.wav
+d04cafb7d9daeceb0bba93dd52383ae3d881b7b0  Data/Tables/Table04/Vocal/100 Million.wav
+d90950f63447ad226bca702a1bd22b14dcbef4ce  Data/Tables/Table04/Vocal/2 Million.wav
+0e24016d61afcd15ca4802042c7cb0c447b3273a  Data/Tables/Table04/Vocal/2 Players.wav
+a81699b6a7ee7046e70741d8486ae227a3bab9bb  Data/Tables/Table04/Vocal/20 Million.wav
+6b210ba9d28d25b6b5375239f1c4c538571263b7  Data/Tables/Table04/Vocal/3 Players.wav
+f3d92b92fb8b9a0aea737753fe66f92633197930  Data/Tables/Table04/Vocal/4 Players.wav
+0f60dabf96f8ee8a492fb3067e7d04de53dd9419  Data/Tables/Table04/Vocal/5 Million.wav
+ed28325e0cc514b67a1e64eccd6692030bb8efde  Data/Tables/Table04/Vocal/50 Million.wav
+5187cf8cbe000dd23499d1b9975839a3b88c1362  Data/Tables/Table04/Vocal/Afterburn.wav
+3eed8194761fc5ec168ca1c01ca7e2eb564ea558  Data/Tables/Table04/Vocal/Afterburner.wav
+3e5c469d9bb3330ffef190509aa729706981cce9  Data/Tables/Table04/Vocal/Arming Mode Is Activated.wav
+1b9d059731418f43af46340c8449fdc633ff9c07  Data/Tables/Table04/Vocal/Ball 1 Locked.wav
+b1f2c1f59ae8822d8e80b226904d4cd4ee76959a  Data/Tables/Table04/Vocal/Ball 2 Locked.wav
+6029dd5dad15901ad6f569acb8c78a9a413add1c  Data/Tables/Table04/Vocal/Ball 3 Locked.wav
+97e4e83c60fabf0d599fd7d6bdef3832224b3d84  Data/Tables/Table04/Vocal/Black Hole.wav
+3530c0f88452d96a6b996705c7da994b8059f466  Data/Tables/Table04/Vocal/Bonus Held Is Lit.wav
+1b6d9136ba2cc2d659d948c8975f9e6176331899  Data/Tables/Table04/Vocal/Bonus Held.wav
+ac3f93b4192e0e52845fa7d3359cff1308eb29cc  Data/Tables/Table04/Vocal/Bonus Times 10.wav
+70045b267fc8df9a745b1722520a323a413b73ce  Data/Tables/Table04/Vocal/Bonus Times 2.wav
+6bcb7ea35c41850052b9aed2aec2a4b7017c313c  Data/Tables/Table04/Vocal/Bonus Times 4.wav
+65ef5153efbae6f5446f941f3b4fed17a526df98  Data/Tables/Table04/Vocal/Bonus Times 6.wav
+94666e30862c22854019d6ad74de449957cbd634  Data/Tables/Table04/Vocal/Bonus Times 8.wav
+c170b68cfe4d4e22a50c1ae07ff6dda2d9820ebd  Data/Tables/Table04/Vocal/Combo.wav
+6ddae6dac3a0e3785019aa19ed4187ad1b06593d  Data/Tables/Table04/Vocal/Don't Move.wav
+f892438e92eb655b0837be33e3f7bae26d747177  Data/Tables/Table04/Vocal/Double Combo.wav
+224fa9214e4ef56e4e379029345478be46794707  Data/Tables/Table04/Vocal/Double Jackpot.wav
+ab01fae49e3d2458015748d5596205782c3f0b1b  Data/Tables/Table04/Vocal/Extra Ball.wav
+010622eb2c69db7693ba8842a24cf125611d9cc5  Data/Tables/Table04/Vocal/Get The Extra Ball.wav
+0f2b1477b4c4b754ccc8d62cef1865d40050f9db  Data/Tables/Table04/Vocal/Go For Multiball.wav
+cc34a3accacd989a82609a9c1b2a0cee392385bd  Data/Tables/Table04/Vocal/Jackpot.wav
+1ef8ef9b307d1dbb7c825c46a2039536391ab6f9  Data/Tables/Table04/Vocal/Kickback Is Activated.wav
+27eb8cb62171e4af19c60b54b387d4351d036eac  Data/Tables/Table04/Vocal/Launch Again Is Activated.wav
+97a0a1a6b4706b1d0e1d7a19a163f4a4e5dcce91  Data/Tables/Table04/Vocal/Lightspeed.wav
+97639d7127c6ff7e39a70ab82767d3cb84ddbdee  Data/Tables/Table04/Vocal/Lock A Ball.wav
+efbb78c78562c37db198e37ff3663c997f0de7c4  Data/Tables/Table04/Vocal/Multiball.wav
+1d65cca97844ab58eac0a7f5c7fc04e51c11484e  Data/Tables/Table04/Vocal/Neuro Tunnel.wav
+5247631d9285b590d2dc43a0b68ef2f5576cc2f6  Data/Tables/Table04/Vocal/Player 1 Is Up.wav
+47dc8d844e16137f5db8b87f7794ba04185fa99a  Data/Tables/Table04/Vocal/Player 2 Is Up.wav
+4c33f8a72d673dc690b30591ea5e4db2f94ccbdb  Data/Tables/Table04/Vocal/Player 3 Is Up.wav
+745f48a2a529f5e3e4a815300052c2b7e9d1334f  Data/Tables/Table04/Vocal/Player 4 Is Up.wav
+8eb2f0a672dc73c129a2b7595726a1aeec6a1bbc  Data/Tables/Table04/Vocal/Player Four Is Up.wav
+f48138261916c4fd6841b82df8115135aad0b1e1  Data/Tables/Table04/Vocal/Player One Is Up.wav
+5ffbff226bd12521ce7f415168ab0c965b163d45  Data/Tables/Table04/Vocal/Player Three Is Up.wav
+8e6f02b29e2f60c6e6c4205a18a9a7ae2b76e5ce  Data/Tables/Table04/Vocal/Player Two Is Up.wav
+55130949b0abc7445470dade29560eb692e632de  Data/Tables/Table04/Vocal/Shoot Again.wav
+052ba3c79acca87c10e5d31d443ddf7b14b256a3  Data/Tables/Table04/Vocal/Space Debris Is Lit.wav
+f1c42e7b290cc7e9e789b563300053c4c275cd15  Data/Tables/Table04/Vocal/Space Debris.wav
+a0c79f42492712a216ca1cc096c50b9b8f9d5951  Data/Tables/Table04/Vocal/Start Mode Is Lit.wav
+5d7962b6826080b3e7e736b0e873fe4ad4f2dcd6  Data/Tables/Table04/Vocal/Stay On Target.wav
+36cf669a7ecab8c837b26d8492621b8dd60501bb  Data/Tables/Table04/Vocal/Super Combo.wav
+c40b9fb0e3eb822c4353fdae75572178978dc2d8  Data/Tables/Table04/Vocal/Super Jackpot.wav
+2425916c78644678eed21084e8886185dbdc7501  Data/Tables/Table04/Vocal/Teleport.wav
+c92aed79e22c5d950b2a61233aa063cc39e51dff  Data/Tables/Table04/Vocal/Triple Combo.wav
+72bd8f26cf94cf835d4eac21d93be1965f7ed4ed  Data/Tables/Table04/Vocal/Triple Jackpot.wav
+addba514cebed84ee7ce6af9334c3108a7a7174c  Data/Tables/Table04/Vocal/Wormhole Is Activated.wav
+a2a6ce858bc69380eb7f14999df0afd6c68e17c3  Data/Tables/Table04/alja.ASE
+b2709289fbc15ef56f7693304b786f519af4fe8f  Data/Tables/Table04/alja.dat
+261e39406de3bd570a9c0e30a8ad9e6cbffe957c  Data/Tables/Table04/ballshadow.dat
+fe145a227c28921dfa23acd3566d82d7f2a7e1a5  Data/Tables/Table04/betuk.dat
+bba0e54e8052528d68128fcd37336399ca3c0840  Data/Tables/Table04/cam.ASE
+6f7373a35e2b270782d08cedadd95703e9508ca4  Data/Tables/Table04/control.con
+12dcadc5f9c2467ff79d4e5836afe539d422fd0a  Data/Tables/Table04/disp.dat
+265c278320aa7eb4d649aa3294ad7310dbe163cc  Data/Tables/Table04/disp2.dat
+68ddb16d33c8abddc8dc945fe0b3b55f2bd06d89  Data/Tables/Table04/dispmir.dat
+feb5b8686b73835a1da698d276bc2fdd7eadd68c  Data/Tables/Table04/envir2.dat
+7bf0e87ca4a5ff951502ba9f2ffe10f9a580bf93  Data/Tables/Table04/fx 1.wav
+29aa071ffa1d895d8ce98840c5db7d72d73d6cab  Data/Tables/Table04/fx 2.wav
+9c824950b8dacb850bc54212c314fadb7349867a  Data/Tables/Table04/golyo1.dat
+1886479a2f9eed4b75e1abdb7d8e9eb4f4bf62ce  Data/Tables/Table04/golyo2.dat
+560a7be820af3330cdfee6c50869df8e385ebb9f  Data/Tables/Table04/karakter.dat
+3de44f99add26c71c94f2df32cc591f0be179af6  Data/Tables/Table04/karakter3.dat
+cd7e4f449387e2901984a4e6e8084f65800a30ac  Data/Tables/Table04/karakterek.dat
+8de14ba5352e2acfb82050c4ee675096c5d9cfc4  Data/Tables/Table04/kararny.dat
+41079f4583a3c48d252c18b96ff9e8a824a8396c  Data/Tables/Table04/kararnyek.ASE
+feb5cbc58485ac84bb0cdcb314096a613525668c  Data/Tables/Table04/kararnyek.dat
+d13a4a255a1ba80bba17c1035d530984f1ec69cb  Data/Tables/Table04/lampa22.ASE
+b5698003a542a1c7f207a1e54d73a082cddf72b4  Data/Tables/Table04/lampa22.dat
+9250078b74df3047295289f20d4400449c990b64  Data/Tables/Table04/lampak.ASE
+9061e3bcd10c71f9f4569e076661fd3e35483247  Data/Tables/Table04/lampak.dat
+c65858b5e3e5b183d137f95f6b6439992aa035c9  Data/Tables/Table04/lens.dat
+37abf10e282d1a3735d33503f4ee65e623954cd2  Data/Tables/Table04/lens2.dat
+fb8b6fa1d43fc4372a6e5a68416fc93eb8ded217  Data/Tables/Table04/lezer 1.wav
+37489ad0c3f9ed27c5fc32b48d48b910f7b22ca0  Data/Tables/Table04/lezer 2.wav
+919342353e0fce1582b170e7afd525a0e036451e  Data/Tables/Table04/lezer 3.wav
+77a85964b95010080472df79138170ce25e8eb13  Data/Tables/Table04/lezer 4.wav
+2ce894f1e333a0a11368277dcd43f4a06dc8e7f5  Data/Tables/Table04/lezer 5.wav
+a333c68741c3a75094ecb878f058056374ae6943  Data/Tables/Table04/lezer 6.wav
+9080e2fa412313b5573e119276ca12ac5c194142  Data/Tables/Table04/lezer 7.wav
+4a544714b0754978a12a033cebe64e91f162a491  Data/Tables/Table04/lezer 8.wav
+e9e6901fa05a5dd94db737de65bdf25b3e1cda73  Data/Tables/Table04/lezer 9.wav
+a7c00da8e6d226ed5f9458a5ad2241ff3dc841a8  Data/Tables/Table04/nyil.ASE
+c50b2f599a6e4c36a085df8218fba34b6835e7d7  Data/Tables/Table04/nyil.dat
+53e615895a9ca3a8211a1588d70df79ce53fcf8a  Data/Tables/Table04/press.dat
+2de8447a37ed38737b09fc216fd1779fa25c0f57  Data/Tables/Table04/process.vsh
+15f236c3bab33c504ba8a9d34805768afad9441d  Data/Tables/Table04/process.vso
+388e36a271255e1667a5a7ce6662fff5f307c4d4  Data/Tables/Table04/process.xvu
+423f608bdb5f12a92c53c901d08205e251907921  Data/Tables/Table04/pvill.dat
+91319df6cc7b1fa283b387b20b5f4050dd32ae4c  Data/Tables/Table04/raketa 1.wav
+bcecbccaf9de3fc31b67d9c84c3027a1e41799cb  Data/Tables/Table04/raketa 2.wav
+c3bc858b040f04dae662752f7eeeb021e51400d3  Data/Tables/Table04/ramppath.ASE
+8d64c2dff7153a4a055c7b5a47321f6ae4e08eb1  Data/Tables/Table04/ramppath1.ASE
+fdae62429eb1b8e714773beac8fa33e0a5dcb9e8  Data/Tables/Table04/ramppath2.ASE
+66d0c789470d588c312ba9bbdeb0e1b25ba98b6d  Data/Tables/Table04/robbanas 1.wav
+0497c511f531cd2e0a8804b8b59c108764aa1f8d  Data/Tables/Table04/robbanas 2.wav
+ab54889ce8b7351b083fa7e22624c743252d3b30  Data/Tables/Table04/score.dat
+8d913058c6b586f619e1f7d28a91ad66cf0ddddd  Data/Tables/Table04/shadow.bmp
+89c924ee13719a19813066a3a964b16ac8969420  Data/Tables/Table04/ship.dat
+8c879339f88cc41e93727cf4a8ae0c9fdfda2426  Data/Tables/Table04/start fx left.wav
+00ef024fde41d14b03b9d8ec6572a1c8caebb8b9  Data/Tables/Table04/start fx right.wav
+811db7b9d7c2100c386eb555bb82688a86ca86e2  Data/Tables/Table04/suhi 1.wav
+234a992664a46c4a8dda1fd339d3514f22fbab68  Data/Tables/Table04/suhi 2.wav
+27ced140f97e99f1f17858917cc09e9a98c81ed3  Data/Tables/Table04/suhi 3.wav
+1df78c20ce0540234c8d205d579daa63ba31cf84  Data/Tables/Table04/symul.con
+d9c360c3afce3a680476307d75cb323153010776  Data/Tables/Table04/szikra 1.wav
+03aa9308117127d5404fe68df9b9300046883f81  Data/Tables/Table04/szikra 2.wav
+0bc6fa513ecd9d4149cebf49dda01c354582329e  Data/Tables/Table04/szikra 3.wav
+18515464f53d64deca135daf766441c6ce730487  Data/Tables/Table04/szikra 4.wav
+6bcc2066e343bff80a7aaa1aa153738a1d124dd5  Data/Tables/Table04/szikra 5.wav
+5ba5e4a1b3cfcb4fdd4bf3c7a42bff8408af1ec9  Data/Tables/Table04/szikra 6.wav
+844ea7fe412c9202fd0c9d8e0ec6bb14e255d1e4  Data/Tables/Table04/szikra 7.wav
+28584949d44b592eb555d45e302e658f5b1f3daf  Data/Tables/Table04/szikra 8.wav
+164eafffa1a6fcaf7244ad38916376fba972ce3d  Data/Tables/Table04/table.dat
+eb44d0cb6d52f0307e14b0b4a81e86141f5c67f6  Data/Tables/Table04/trace.vsh
+5e0a94a979fead0b57d4beb36770bcca3ad24caf  Data/Tables/Table04/trace.vso
+bccd7433709d4eca240aa88b0100f86020676319  Data/Tables/Table04/trace.xvu
+2019879a978b205a2da1c09f7836470a326d8fe4  Data/Tables/Table04/trace2.vsh
+b25c184088160abb85a3267705bbdfa0ece0aee4  Data/Tables/Table04/trace2.vso
+00bf5715cef43750130ec86e3325382ed183a592  Data/Tables/Table04/trace2.xvu
+b8904511c28f37f179eb08bd814e2923337a064a  Data/Tables/Table04/utkozo 1.wav
+0e0c3ce923035e29a793e677bdd58314be85c117  Data/Tables/Table04/utkozo 2.wav
+a977923023e80a88dfe84e4873884f07746544ff  Data/Tables/Table04/utkozo 3.wav
+6ee4e577371143b6803640b380389692d42b5445  Data/Tables/Table04/utkozo 4.wav
+fae69afb50d6b22d72f5c576e264657cc49e5bc1  Data/Tables/Table04/utkozo 5.wav
+10d989d443920daa99d5dc690c0fbdb31809c7c1  Data/Tables/Table04/utkozo 6.wav
+2be8276153320a2465d6c08dd14861c8d4363e75  Data/Tables/Table04/uveg.dat
+55d93dd38b7a8485ad63aa932e91f046202f62ad  Data/Tables/Table04/villogas.ASE
+128ba756abbbebed95adb31cb0dee57d3fb53370  Data/Tables/Table04/villogas.dat
+a38fe4ca0f7612677566d335ecbbba303091a3bf  Default.uix
+9069ca78e7450a285173431b3e52c5c25299e473  Screenshots/capture.cfg
+be8c12746eef60a11133cd468a900da225f5f92e  dashupdate.xbe
+43b51bab9d050004d7e74d1cfa8eeadb1c02f2e8  default.xbe
+91ca70842dade754c276ba32e10241f8e7bbf35b  update.xbe

@@ -1,0 +1,221 @@
+0cf9224c3b33eea7dd785c0f84812ac0a9184ace  default.xbe
+8d4ccb398bf24e6d0c856377f29b6c3c7615339f  media/game.erg
+e609e49ca2194a6221662b20590881b9bf59c978  media/gogames/bo2/Code.bgx
+54072e113c0d55020d7faea646140a2037199d89  media/gogames/bo2/PreCode.bgx
+c5c5b68c84a5903a4c221966090f6bf3a3322afc  media/gogames/bo2/assets/etypes/kain/kain.react
+8ff08bd57c934dbe6ef1fa1fde4a2b2ee9af5bc7  media/gogames/bo2/assets/etypes/list.txt
+7826afa870e79be814574ae025ae99eb40e33490  media/gogames/bo2/assets/xdata/fonts/ARIAL_16.ABC
+c7ef4d26c63494be860cf9b71778d9afff16f781  media/gogames/bo2/assets/xdata/fonts/ARIAL_16.TGA
+b0c6898b78ecaf29de1d77b7c56942eb14e15cf2  media/gogames/bo2/assets/xdata/fonts/Courier_New_14.abc
+fac993d9552089f4e15498141b390173230eb81b  media/gogames/bo2/assets/xdata/fonts/Courier_New_14.tga
+207c4947500b7aea9de16c7ead0b4f3ee5501e35  media/gogames/bo2/dsstdfx.bin
+c8dce953b848ca2a3a700d0e0b225619961fce3e  media/gogames/bo2/resources/animations/levels/after_iq.san
+209f83070c4cd0867e9de00ee68f80ebff166850  media/gogames/bo2/resources/animations/levels/calvary_arrives.san
+ec6060ec356d3be37f2e8e534ac8f5ba2ed59ac8  media/gogames/bo2/resources/animations/levels/h1lden_outro_1.san
+d7af52776540d0f8546a053b1279d30b35270919  media/gogames/bo2/resources/animations/levels/h2lden_outro_2.san
+5457f1752e9a6dd274ee80ba06b4cdcb2476a6b8  media/gogames/bo2/resources/animations/levels/h3lden_outro_3.san
+1ead3ef4e86fe327738134b517bc84075e783114  media/gogames/bo2/resources/animations/levels/h4lden_outro_4.san
+2b936c3c4deef969ed0966c1082d9e146e724b8e  media/gogames/bo2/resources/animations/levels/k2in_arrives_at_wharves.san
+18b914484b60695288a42c02092edda817ae700b  media/gogames/bo2/resources/animations/levels/kain_arrives.san
+06d5eb3d5190a1f026490352980592fee6276735  media/gogames/bo2/resources/animations/levels/kain_loses_umah.san
+217388f2c8e7f98d223ddbd18bdb020307b3b96b  media/gogames/bo2/resources/animations/levels/kain_meets_sarafan_lord_one.san
+c57e3f7e3f5d43f73ef8ac7d721c382810228fea  media/gogames/bo2/resources/animations/levels/kainfindsumah.san
+bf7ef14de66df09343715964ae08979e9374f07c  media/gogames/bo2/resources/animations/levels/kainglass.san
+1283951975f7cb34789eee253ae35ca52ed4dbb9  media/gogames/bo2/resources/animations/levels/kainmeetsvorador.san
+5fc02005243910ad2bc8ac341bb6e88af5250aaf  media/gogames/bo2/resources/animations/levels/kaintakesumahtosanctuary.san
+6dd57a7807d1bbfe935da4d478fdcc62d3b8b305  media/gogames/bo2/resources/animations/levels/mad_vampire.san
+5a4f8e0fd423d184c915518c5843f25d4c8a630f  media/gogames/bo2/resources/animations/levels/meeting_seer.san
+e36a92250ec8705a389979633af508730c03d7cc  media/gogames/bo2/resources/animations/levels/sacrifice.san
+30dd4f55a7c9e921decbbd7d09cc320a0294577c  media/gogames/bo2/resources/animations/levels/speedvampire.san
+41e018c0548c7807dffa7840282b5df1cd0da5ca  media/gogames/bo2/resources/levels/Keep/cinematics/kaintakesumahtosanctuary.bgx
+af73a0583e643fa3125ffe6490e49ac77430deae  media/gogames/bo2/resources/levels/Keep/sanctuary_keep.bgx
+b0ccffa1822a5e1914be6ae64c6c3c16bb1c03a3  media/gogames/bo2/resources/levels/Keep/sk01.bgx
+c79106e175a4e770db578d1c9e9f8b4a6cadc590  media/gogames/bo2/resources/levels/Keep/sk02.bgx
+cedd761b952b1f0a1e96edc3146157ede7e5361d  media/gogames/bo2/resources/levels/Keep/sk03a.bgx
+1bad6579992d62e9da0da4bf6fceb79127d553f5  media/gogames/bo2/resources/levels/Keep/sk03b.bgx
+1733779e01b8beb9a192f215c8d8e71b7c43ac45  media/gogames/bo2/resources/levels/Keep/sk03c.bgx
+8f64287486dee0c33d248cd1a19ce223016cceca  media/gogames/bo2/resources/levels/Keep/sk04.bgx
+1b1cef85ebf027b51ef0aa949ffa4abf982a4d9b  media/gogames/bo2/resources/levels/Keep/sk05.bgx
+7d5b277858f901e68663cc5017a8fe9955c3619b  media/gogames/bo2/resources/levels/Keep/sk06.bgx
+3c7d3b6bf73e6b9a452fb9f8df0f3ff7cda823e6  media/gogames/bo2/resources/levels/Keep/sk07.bgx
+ba0e90a0da256290a1f2220eb3f30501816be1b6  media/gogames/bo2/resources/levels/Keep/sk_music.bgx
+cd3e5fe4420bc96647348aa270883d7e9dc5dbc7  media/gogames/bo2/resources/levels/bossrooms/CharmVampireArena/cvarena.bgx
+3b91b343abe1f0daf5daa9f6fb84230ea3c50de2  media/gogames/bo2/resources/levels/bossrooms/jumpvampirearena/jvarena.bgx
+d0bf351e786b6e1984a866434e9f3fe5e538e6dd  media/gogames/bo2/resources/levels/bossrooms/jumpvampirearena/jvarena01.bgx
+bb41c029e4bafbe9ab50af868062d6a103865485  media/gogames/bo2/resources/levels/bossrooms/madvampirearena/mvarena.bgx
+e04d4c196cbfb6f1ee64a8c0c3e0375eac362a0d  media/gogames/bo2/resources/levels/bossrooms/sarafanlordarena/slarena.bgx
+d4bc92f2617349885d822739e29efb3e044444ee  media/gogames/bo2/resources/levels/bossrooms/speedvampirearena/svarena.bgx
+2998ec9b81263bb1af09468fa9ecf6434a3868d0  media/gogames/bo2/resources/levels/canyons/cy01.bgx
+a626f83ffa7635bfb3388ada546f1c7667acb589  media/gogames/bo2/resources/levels/canyons/cy01a.bgx
+1d37eb66d561e6ea5585dd4e0852d8f5f60432a2  media/gogames/bo2/resources/levels/canyons/cy02.bgx
+8a354261c6f704969a60353ae094606254e219dd  media/gogames/bo2/resources/levels/canyons/cy02a.bgx
+35cbe2b0ae30bd1812a68d0506a4b1a91ad02a2b  media/gogames/bo2/resources/levels/canyons/cy03.bgx
+b731905948c090daf889c19c4aecb6f33199741c  media/gogames/bo2/resources/levels/canyons/cy04.bgx
+9922dce65c280d066788a976ac211521c5224314  media/gogames/bo2/resources/levels/canyons/cy04a.bgx
+b73b7b6d3b538e24b281142883210a002343552a  media/gogames/bo2/resources/levels/canyons/cy04a1.bgx
+49e332e7f1bdf6cbfe0d0212514b335f64e8b1ca  media/gogames/bo2/resources/levels/canyons/cy04b.bgx
+fe0a40e91a5f81989fb8bb0c57125ef3a133d12c  media/gogames/bo2/resources/levels/canyons/cy05.bgx
+266367e69a0b254b2660341df8cef57d92967ad7  media/gogames/bo2/resources/levels/canyons/cy06.bgx
+eee78ab8bf28726b80b9d84940fbece43be93bca  media/gogames/bo2/resources/levels/canyons/cy07.bgx
+cb888a13f62bbfd70ef76e7774032e8ff281029d  media/gogames/bo2/resources/levels/canyons/cy_music.bgx
+fa475d4b516d03661494ae2fc4a8e4ca40190c80  media/gogames/bo2/resources/levels/canyons/cydv.bgx
+524b27c83b23d9b0dacf13d0ab7ebc62e3f92e46  media/gogames/bo2/resources/levels/canyons/cysky.bgx
+5c8b50436cf2531806c388fa1f7cfe8ac504d5c2  media/gogames/bo2/resources/levels/device/devicesanctuary.bgx
+a562f94421a518fcbc4a662706be847e00094d67  media/gogames/bo2/resources/levels/device/dv01.bgx
+4784089530eaf67b733caf225f056fb7dfd43713  media/gogames/bo2/resources/levels/device/dv02.bgx
+0aa302c7a1e5b05d74bd32359717da06d14e4d7e  media/gogames/bo2/resources/levels/device/dv03.bgx
+25aaa3ceec51d7251a45e5c9ab00591a1036bfea  media/gogames/bo2/resources/levels/device/dv04.bgx
+c4a39172901e93db8dde4cd2d9a7872027640778  media/gogames/bo2/resources/levels/device/dv05.bgx
+ab98cc280c1e9c15834966a8d05913d5ca9fec83  media/gogames/bo2/resources/levels/device/dv06.bgx
+4ad8cf9763f4185338430c1efd6b8404c04bff61  media/gogames/bo2/resources/levels/device/dv07.bgx
+0ddf8ad21605fc1e30480e797fec3803ee56c68f  media/gogames/bo2/resources/levels/device/dv08.bgx
+5aae9b2323650d64d1e4ec9d7d7ae6813f98c80e  media/gogames/bo2/resources/levels/device/dv09.bgx
+2693f3143451106ae7c7b35f30479571b994d7ba  media/gogames/bo2/resources/levels/device/dv10.bgx
+42dbb0e8c1e06f6f2e1f87192d8823439b79bdf4  media/gogames/bo2/resources/levels/device/dv_music.bgx
+a8a1348f3cddfda2b48806f5c29be6de0ff5a210  media/gogames/bo2/resources/levels/eternal prison/ep01.bgx
+9c11e79fc7b9ea439eaffa89a90c67829b8f2ef9  media/gogames/bo2/resources/levels/eternal prison/ep02.bgx
+340251faa1b225f989f7c5e2be749a94f5b3d1e1  media/gogames/bo2/resources/levels/eternal prison/ep04.bgx
+884195d0be332cb2d8623f7d639e7235eb4741f8  media/gogames/bo2/resources/levels/eternal prison/ep05.bgx
+8659874ff56b5e74acf290a35bd3285fc9b8f426  media/gogames/bo2/resources/levels/eternal prison/ep06.bgx
+d4773f567dd9af43c69d6d7e3d917b5b66b7db57  media/gogames/bo2/resources/levels/eternal prison/ep07.bgx
+ecb914bed8bdb1cefc001c4dcd3237706f583d8a  media/gogames/bo2/resources/levels/eternal prison/ep08.bgx
+2d406c899adbd7c136a846ae8d15f64f314f8b13  media/gogames/bo2/resources/levels/eternal prison/ep09.bgx
+beb152dac59a091d4347ac4f11380ea2ac62a534  media/gogames/bo2/resources/levels/eternal prison/ep10.bgx
+98b7f36671b1c3989038a3c46db22b59a072f843  media/gogames/bo2/resources/levels/eternal prison/ep11.bgx
+e8f1b4327feecea61120358880b66e31c54ddf65  media/gogames/bo2/resources/levels/eternal prison/ep12.bgx
+09037f12d74e07beb6369024c1ff81e7149022dd  media/gogames/bo2/resources/levels/eternal prison/ep_fakeisle.bgx
+be811e6bcff5c58c2b3064e159551aad545b7678  media/gogames/bo2/resources/levels/eternal prison/ep_music.bgx
+5ded25d26a3e03fc5c8beece16e3c7f6db670c87  media/gogames/bo2/resources/levels/hubworld/hubworld.bgx
+c2e6f757a46ca4650da91f7b8827d997fee712a5  media/gogames/bo2/resources/levels/hud/load_screens/canyons_load.bgx
+c6a3fe347a225e1165b2505493e60e133666ab09  media/gogames/bo2/resources/levels/hud/load_screens/device_load.bgx
+e61c3e4fb7c45a886f8e9f6a9626b978f17947e9  media/gogames/bo2/resources/levels/hud/load_screens/eternalprison_load.bgx
+d17970c1ef74092f492570a3daafabb9246eb79e  media/gogames/bo2/resources/levels/hud/load_screens/hylden_load.bgx
+af5ad81efd0102b9da3d6b653935cd99fbfbed77  media/gogames/bo2/resources/levels/hud/load_screens/industrial_load.bgx
+afebfb01555d8a82b41a8147b4eb55fcb4a73eb2  media/gogames/bo2/resources/levels/hud/load_screens/keep_load.bgx
+bb7b477f346e99e6ce5bafec1ac09ab6bc875bb8  media/gogames/bo2/resources/levels/hud/load_screens/lowercity_load.bgx
+d1c5dae221da12a159b74a3358970385d13f5561  media/gogames/bo2/resources/levels/hud/load_screens/slums_load.bgx
+557279715815d24cbde410ffb42aa774d5fd53ac  media/gogames/bo2/resources/levels/hud/load_screens/smugden_load.bgx
+cd209f184ef3016c8e23d337f8af6581e4e55c0a  media/gogames/bo2/resources/levels/hud/load_screens/uppercity_load.bgx
+b41f9f0d13ef0a9b65f3f35ea6352e8b3003b397  media/gogames/bo2/resources/levels/hud/load_screens/wharves_load.bgx
+2e9c29e667f791b92bbf1eb34da29e5251145627  media/gogames/bo2/resources/levels/hyldencity/hc_01.bgx
+cfcfdb9007d60f0c74d0f2d662ead85ece1898a9  media/gogames/bo2/resources/levels/hyldencity/hc_04.bgx
+2ce9a9f117ea7da7c2df2489a9348e03ca4b62a4  media/gogames/bo2/resources/levels/hyldencity/hc_04b.bgx
+cb0432e1136534f17c0899e89f1ab7dad02ff249  media/gogames/bo2/resources/levels/hyldencity/hc_04c.bgx
+04ce094c6859d6c5a13af777f75587072b83e2a1  media/gogames/bo2/resources/levels/hyldencity/hc_04d.bgx
+3a6306fe6d9584db454eb631e613da9117918a2a  media/gogames/bo2/resources/levels/hyldencity/hc_04e.bgx
+72390dbf4dd89843403c5289c4dcecdb1c9107ea  media/gogames/bo2/resources/levels/hyldencity/hc_04f.bgx
+53c1d2a12ec4091c913f8bd31d2acbacb4493c7b  media/gogames/bo2/resources/levels/hyldencity/hc_05.bgx
+93f5e771673674f4af5ab3b932d9eeb10ed24c18  media/gogames/bo2/resources/levels/hyldencity/hc_05b.bgx
+4b1f8139a8d6bb7c7cd78e170dd52d2dc99c1d00  media/gogames/bo2/resources/levels/hyldencity/hc_05c.bgx
+48d7957b4dca7f77d015a895afdc5f870e943140  media/gogames/bo2/resources/levels/hyldencity/hc_05d.bgx
+104deaa4bcf9f96c66c5654262b137a891c2cdeb  media/gogames/bo2/resources/levels/hyldencity/hc_05e.bgx
+fa7844b341e0616c9462028deb0c5b6d2c905fb3  media/gogames/bo2/resources/levels/hyldencity/hc_05f.bgx
+f0f5ce406d6130098b14af2d5a41122e5ddc2a0d  media/gogames/bo2/resources/levels/hyldencity/hc_05g.bgx
+ae489326d1f344092a1e7ceda5b828c504872c94  media/gogames/bo2/resources/levels/hyldencity/hc_06.bgx
+abd636edab822711a0e00e1955a450b513e43c11  media/gogames/bo2/resources/levels/hyldencity/hc_07.bgx
+c6fb1dd13f96271ce1cccc96e74718a6b23805d2  media/gogames/bo2/resources/levels/hyldencity/hc_10.bgx
+fc57d8cbcd98613ff48671d423b3d513fbbe5c23  media/gogames/bo2/resources/levels/hyldencity/hc_music.bgx
+d452456e1b680090143e90fb84cfc6efe5b2c835  media/gogames/bo2/resources/levels/hyldencity/hc_weapons.bgx
+5a289ff0d1d164c35685615d02b4a0b9f6756b3b  media/gogames/bo2/resources/levels/industrial quarter/cinematics/after_iq.bgx
+257752e1dc1da54f57a12a2d0b5a58cb7354c668  media/gogames/bo2/resources/levels/industrial quarter/iq_01.bgx
+cdd07c745805f2e2351431e5bea90a08ab4babb7  media/gogames/bo2/resources/levels/industrial quarter/iq_01a.bgx
+8464afd7409ccab30d6fb42402fa494420c497d6  media/gogames/bo2/resources/levels/industrial quarter/iq_02.bgx
+4b70ebfbb48a2227015fd0c190bb304ebab1b7e2  media/gogames/bo2/resources/levels/industrial quarter/iq_03.bgx
+7f1380c7d9c2c1655c0eab7d534622a50dc33d24  media/gogames/bo2/resources/levels/industrial quarter/iq_04.bgx
+17aaa18225da4e8ca990016a1490989b04057e0c  media/gogames/bo2/resources/levels/industrial quarter/iq_05.bgx
+e5f1dfafeadb3423efaa1c80500d2e38bd9f8d95  media/gogames/bo2/resources/levels/industrial quarter/iq_06.bgx
+441d7893f1ec9eb651555529041b72f40433f186  media/gogames/bo2/resources/levels/industrial quarter/iq_07.bgx
+f9421713cd45643153eea97f297f3b1f2fd82176  media/gogames/bo2/resources/levels/industrial quarter/iq_08.bgx
+3b3bc1a42a613ae40ec03c3df7c55c28f2f4cbd6  media/gogames/bo2/resources/levels/industrial quarter/iq_09.bgx
+9249b2a4387e32802a773d4990e5ad8167b3749b  media/gogames/bo2/resources/levels/industrial quarter/iq_10.bgx
+ac1f2306c15f1d7991501aac8d8dbb3c73659eb7  media/gogames/bo2/resources/levels/industrial quarter/iq_11.bgx
+e2ae00d605ca574e91ea363440e18714fe8109e1  media/gogames/bo2/resources/levels/industrial quarter/iq_12.bgx
+5bf83d3f57db5050009f6a6bbe54485926e69ac9  media/gogames/bo2/resources/levels/industrial quarter/iq_intro.bgx
+8a99357a6c67cb622b7493874a0cd9dc7b786cc4  media/gogames/bo2/resources/levels/industrial quarter/iq_music.bgx
+cff3e337f8bff47d8ff9162fe94f9fe64d738c74  media/gogames/bo2/resources/levels/kain/kain.bgx
+4884331fa5405827c42fa4856a3d7a9775ea3e71  media/gogames/bo2/resources/levels/kain/kainc.bgx
+a9bf4046b820d45444828b9e34c4bd760bfe6048  media/gogames/bo2/resources/levels/kain/kaind.bgx
+83db56389d5ba4995eea5ae070414ec9023f37c1  media/gogames/bo2/resources/levels/kain/kaine.bgx
+b51fdb7e0e3781b9abcc85c72f9c76e4c5fbb342  media/gogames/bo2/resources/levels/kain/kainf.bgx
+c3139208523be820b308502da064dccad6eb8bcf  media/gogames/bo2/resources/levels/lowercity/cinematics/after_iq.bgx
+f93fa4c0ed10dd936d78a16fc1b91ad84e1b9834  media/gogames/bo2/resources/levels/lowercity/cinematics/kainmeetsvorador.bgx
+09fbb7bfe9a5fc6c7676c140d3c3505278cdf61e  media/gogames/bo2/resources/levels/lowercity/lc01.bgx
+162e6fb2832fe5516c4b47b1274f87cd0458c379  media/gogames/bo2/resources/levels/lowercity/lc02a.bgx
+ff18e123542aa5e3385f6a45944204ea78741502  media/gogames/bo2/resources/levels/lowercity/lc02airlock.bgx
+e0fdb1d4e53f671bcd8b970313a2d211c69e3816  media/gogames/bo2/resources/levels/lowercity/lc02b.bgx
+2f1179e14226241ffc82b8a6350d3c5a29d7ee1f  media/gogames/bo2/resources/levels/lowercity/lc03.bgx
+674deeba6928ae5e33faa81ad443ded496eda606  media/gogames/bo2/resources/levels/lowercity/lc04.bgx
+bacd2afaf669f101d0a5acedcf5b2b1ea6d84d45  media/gogames/bo2/resources/levels/lowercity/lc05.bgx
+d7cefa1c765b06318f609585b29c327044feae1e  media/gogames/bo2/resources/levels/lowercity/lc05a.bgx
+7d7538f10b15abaffb360a8b96f5317509f3ae3f  media/gogames/bo2/resources/levels/lowercity/lc06.bgx
+181c9ddca77cd99dc1897b31a10085278f63ea41  media/gogames/bo2/resources/levels/lowercity/lc07.bgx
+2ac629f138235691a79ff64a0450411c52dfabc7  media/gogames/bo2/resources/levels/lowercity/lc10.bgx
+240985e78a662f1651222cfa2b47a0563e4baa26  media/gogames/bo2/resources/levels/lowercity/lc_music.bgx
+b92f17a5354f9be23742126a3a35b481f3a01b62  media/gogames/bo2/resources/levels/lowercity/lcsky.bgx
+a04f45115e8f093ecc715c9af0db727e8f50f6cb  media/gogames/bo2/resources/levels/sanctuary/sanctuary.bgx
+c16758060ebb55873dfc10a991e2d9ddba0008eb  media/gogames/bo2/resources/levels/slums/sl01.bgx
+039f6a8bc87fef7417cc7de96797000d24dd472a  media/gogames/bo2/resources/levels/slums/sl02.bgx
+b173e88f633bd096cc88a65fecd2fb26d2d75d2c  media/gogames/bo2/resources/levels/slums/sl03.bgx
+2ef3bfc0cd0190e9e6e3939808e939c69d52afb1  media/gogames/bo2/resources/levels/slums/sl04.bgx
+b3a4f8f20edc2bf3d251bcc48af77d6c4f64cf7e  media/gogames/bo2/resources/levels/slums/sl05.bgx
+8c9b63bc1deb8cd3c3fa08431060fe00c7e4f777  media/gogames/bo2/resources/levels/slums/sl06.bgx
+ecf38fd643f21aad9d0dc6f6298b5139418ec378  media/gogames/bo2/resources/levels/slums/sl07.bgx
+6c45df7517276597a0bfb6f0b27afb80b1f13046  media/gogames/bo2/resources/levels/slums/sl08.bgx
+f4ae287a859f1c1364262aab04be35399ca9792b  media/gogames/bo2/resources/levels/slums/sl_music.bgx
+2cb1689c2677ed0080d49877a295ba7889ceda88  media/gogames/bo2/resources/levels/smugglersden/RegionFiles/sd01.bgx
+806c959ab9d4da9db2439d983ec8e9d988f35423  media/gogames/bo2/resources/levels/smugglersden/RegionFiles/sd02.bgx
+f066e435b073dd88a6725c9fa0159c29cb724d42  media/gogames/bo2/resources/levels/smugglersden/RegionFiles/sd03.bgx
+20eddbadeafbfdcf0b7dfb1cd4eb3bdf86e36f49  media/gogames/bo2/resources/levels/smugglersden/RegionFiles/sd04.bgx
+3764b0f81556e8c018e13cd8ccb0ea1a41923b67  media/gogames/bo2/resources/levels/smugglersden/RegionFiles/sd05.bgx
+e1ac411b12c219881e09379c05a5e6ad34baa4c8  media/gogames/bo2/resources/levels/smugglersden/RegionFiles/sd06.bgx
+f94734f7583657aace6636901b6f4430c0726beb  media/gogames/bo2/resources/levels/smugglersden/RegionFiles/sd07.bgx
+863c0a3a7e258f7d5713f25440c241071e3d79c5  media/gogames/bo2/resources/levels/smugglersden/RegionFiles/sd_music.bgx
+2e2b8a99e5bc6fa1f74338daa8793c681956071c  media/gogames/bo2/resources/levels/smugglersden/RegionFiles/smweapons.bgx
+6427ece35f8701b059d182898605cf7f414411c3  media/gogames/bo2/resources/levels/ui/mainmenu.bgx
+880b76d79105ed1ce327a89bcb4a082d5382195f  media/gogames/bo2/resources/levels/ui/mainsky.bgx
+0bbaec125a986ed06799a505fc49a71a395c924d  media/gogames/bo2/resources/levels/uppercitynew/skies.bgx
+2cc886a6afaa969eb85dffc17121cc1f01f16030  media/gogames/bo2/resources/levels/uppercitynew/uc01a.bgx
+94d1ba6ffa494c0e14573f519f2111a564f65fef  media/gogames/bo2/resources/levels/uppercitynew/uc01b.bgx
+d4d4706892093c364fc704d7766271f678e9c359  media/gogames/bo2/resources/levels/uppercitynew/uc02a.bgx
+24c85a3215c392ba3f952f78a4ef005aa37506d8  media/gogames/bo2/resources/levels/uppercitynew/uc02a2.bgx
+17e640c71cff175f7c4fd33ef7f6e04379e3326a  media/gogames/bo2/resources/levels/uppercitynew/uc02b.bgx
+2f6c99c3f443f5e07cc61da4435010f45b37a5a1  media/gogames/bo2/resources/levels/uppercitynew/uc02b2.bgx
+546f75dbfa0ecd2133384490921b44d534f366e4  media/gogames/bo2/resources/levels/uppercitynew/uc03a.bgx
+5c347e6e6b6ee9ad6b95c35b32a96e5349428092  media/gogames/bo2/resources/levels/uppercitynew/uc03a2.bgx
+30b1c9cb5f61a0844784831709ca230b7fef8fb7  media/gogames/bo2/resources/levels/uppercitynew/uc03b.bgx
+83b24e5d47e2aa59e8cd6caab89c0ab2edbafdf3  media/gogames/bo2/resources/levels/uppercitynew/uc04a.bgx
+0456dc230e9675a24ffb96a50ae9166895f775b8  media/gogames/bo2/resources/levels/uppercitynew/uc04b.bgx
+c3167ef89ad334bbee163518245b59139fae3ca2  media/gogames/bo2/resources/levels/uppercitynew/uc05.bgx
+d7a31200e86d663c2fbe0c43711e5fbe285ec53c  media/gogames/bo2/resources/levels/uppercitynew/uc06a.bgx
+dd1c1ce667f4cb8de1eaca02b30815cd3cf3d07b  media/gogames/bo2/resources/levels/uppercitynew/uc06b.bgx
+b9e2ff5a6619e7d96c216bc47a92effb0befb5cd  media/gogames/bo2/resources/levels/uppercitynew/uc07.bgx
+9c16300533c97a94ea9d4bcbf13b57d3d17a2b2b  media/gogames/bo2/resources/levels/uppercitynew/uc07b.bgx
+d4d786af820496fb7e63bed621295e0d4dc5352c  media/gogames/bo2/resources/levels/uppercitynew/uc_music.bgx
+92e8a09d8e10d9a35a8431d67e13b7d6b27adc7d  media/gogames/bo2/resources/levels/uppercitynew/weapons.bgx
+15dd0a26291d5f3fb8c51201424d1e58a91a849b  media/gogames/bo2/resources/levels/wharves/regionfiles/wh01.bgx
+7a62f28cbae32678a32d05ec45c05439089fa75f  media/gogames/bo2/resources/levels/wharves/regionfiles/wh02.bgx
+c236dc0d3440b84f1c4ad596fd2f6832f73e4153  media/gogames/bo2/resources/levels/wharves/regionfiles/wh03.bgx
+35c6bf6cf7c5a1e43d22a3460e3bc2d366f7da40  media/gogames/bo2/resources/levels/wharves/regionfiles/wh04.bgx
+54e4da5f8149740024920269761936a0bc69a724  media/gogames/bo2/resources/levels/wharves/regionfiles/wh05.bgx
+5829b1e1a8a294d825dd363920df525b176803c2  media/gogames/bo2/resources/levels/wharves/regionfiles/wh08.bgx
+7fd209061b48cd6fbe2cc07a5fa626412cef0e13  media/gogames/bo2/resources/levels/wharves/regionfiles/wh09.bgx
+4feda330e61e3a8b6e01406cc934f90f08b11554  media/gogames/bo2/resources/levels/wharves/regionfiles/wh10.bgx
+f1242f500fb00b859e1d916cbc295d33fb9efa08  media/gogames/bo2/resources/levels/wharves/regionfiles/wh11.bgx
+e4ea9053650e1e4448cec6f47e4a7e03cc877774  media/gogames/bo2/resources/levels/wharves/regionfiles/wh12.bgx
+33e865cfd5d4c553accff2f065448aa729592172  media/gogames/bo2/resources/levels/wharves/regionfiles/wh13.bgx
+2a006e2f86ca0e1763b0648a8033316dbda25dca  media/gogames/bo2/resources/levels/wharves/regionfiles/whsky.bgx
+2b831fa3aa34c87a632ac95dac36d347e479d147  media/gogames/bo2/resources/levels/wharves/regionfiles/whweapons.bgx
+74ea7528727ab0511551ee98effb6f410fc4a75e  media/gogames/bo2/xbox.rkv
+b57529783f8b73fdac288748b07fa5ad21c14342  movies/MDt5.bik
+8f9d5b692d4dbc8c167c73395ec26dca18172e3e  movies/bo2intro.bik
+5941f5b73cdffeaf45f37cc59e9f9d3a678a52a1  movies/crystal.bik
+52bb7654c02cf2e79aa40842c8777ba659cc5e1e  movies/eidos.bik
+38304c8548a4178ceb08cf921702bac1d843af35  movies/english/awakens.bik
+c784796306b0c3eb8adc567140187ea4626a0efd  movies/english/credits.bik
+98779802b057addd00acfc865fe2a46442be7cc3  movies/english/gameplay1.bik
+6cd54b5c2913d3ccf958824b131e2ade9eeb4bee  movies/english/gameplay2.bik
+ea157a0282c378f02b046ecb9cb57efd2ea63135  movies/english/outro.bik
+96c19171cb91df8183443fa77dec64e6a52fe9a1  movies/english/spooky.bik
+f6d1d15b26c3267e016c957c70721a6669d86ba9  movies/english/teaser_extra.bik
+37315920c2880b1f939b8b75e72fbd5a03a2eb3f  movies/english/title.bik
+9dd238adede2457f5525c07f9d2ea8715efb2010  movies/english/trailer_extra.bik

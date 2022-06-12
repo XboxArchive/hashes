@@ -1,0 +1,588 @@
+b0454ab920ffb90739c77a095435b60aa8195fc2  Data/Cculum/Cculum.dat
+4a17cdcd4dc34ee14f32a456764bee73eebc7b28  Data/Cfg/cm.ini
+605df7d03b7327aad5934ccf62ef06a8b2bde2a3  Data/Classic/Classic.IDX
+14a619ba7f90133fd2af8a27f3f7df7aecf18d5a  Data/Classic/Classic.pgn
+c9fae865701f669b2f22f7f67fef628cce06c86b  Data/Dat/A0F_anna marble.dat
+dca415db4bbb4556dff1592d5cab30e2d98b56d3  Data/Dat/A0F_calvert.dat
+7c1262ac22dc2ccb5029feecb61943b5e94f9256  Data/Dat/A0F_indian wood.dat
+2b1260f81a5b02b1e499f63755c4bcf07d1358e9  Data/Dat/A0F_lewis.dat
+40277679f20e586d9f733e2003f392da44c61a0b  Data/Dat/A0F_mongol.dat
+494d87edf1080c3501c0d2bf117f9dd5a30412ee  Data/Dat/A0R_classic old wood.dat
+0cfa81808c20a9f9a3ec172b476a0c1f93e9cc5d  Data/Dat/A0R_classic wood.dat
+7c4f373231ab75062981bc465a66a4b6cb34e541  Data/Dat/A0R_fancy ceramic.dat
+044f6e87aa95f9a2f3a5c77df33205ed37b146dc  Data/Dat/A0R_irish marble.dat
+ea7da952c606241238187377d564239a215aad5e  Data/Dat/A0R_staunton marble.dat
+502a3a5520e982a49e47e5963158988930e8ca1c  Data/Dat/A0R_staunton official.dat
+63215b3324c78815e2f7f884859390452f8cdf7e  Data/Dat/A2F_anna metal.dat
+1958c22783d535cb224e64eb1621902f83bc4ff1  Data/Dat/A2F_bauhaus.dat
+1ab88c92427f7d2c034ed58b2ba38ae231339105  Data/Dat/A2F_egypt.dat
+78a9a5a5c90eda0775290aedc4d470e5c06d6b50  Data/Dat/A2F_geometric.dat
+87d20296dfdab5f08476927c2dc0e2d92e186596  Data/Dat/A2F_mechanica.dat
+8504446f3949c360a5fe8a12ac636c479a14a6eb  Data/Dat/A2R_classic metal.dat
+4ed45bcff6737aa23c07d080e90eeb3571869362  Data/Dat/A2R_fancy metal.dat
+4d019be84e90896ecaba36a63ce78a3fee599427  Data/Dat/A2R_irish metal.dat
+54f3b3b17858f0a41647ee7fe5b150d846fe1270  Data/Dat/A2R_staunton metal.dat
+afd230bde48ff0a1b9cb06ffe5b1ec6b6b564554  Data/Dat/A3F_classic glass.dat
+0a09c0863c9b0596bdcc139d75b4eb4d92d4000c  Data/Dat/A3F_indian glass.dat
+2816ce8855e3db87769739eddf63b0a200c836c3  Data/Dat/A3F_modern.dat
+2308b148fd81c292565d693c0f1f7234e7072bf3  Data/Dat/A3R_fancy glass.dat
+d92f7feb33ad75e28392865c1423ca47fd9c397d  Data/Dat/A3R_irish glass.dat
+4b6b3e6154f7b169f2929918ba7273d519285a41  Data/Dat/A3R_staunton glass.dat
+8419e9375328f5f88db2e24cb538dfa8aa7719b7  Data/Dat/A4_cartoon.dat
+2dde865082196bac0f699ec7e37e610e22dc0c29  Data/Dat/ARW/Black_B.tga
+34ff4899366b4f514768ecdcb51705415324d0d7  Data/Dat/ARW/Black_H.tga
+851c909421ffd5eab63cda98fe1d2ebaff08826c  Data/Dat/ARW/Black_T.tga
+6ac50f337191ec56e2d50b5987f203c28fdf8584  Data/Dat/ARW/Black_Thick_B.tga
+8c5ece7f6c00950a0b187c89b4b82601d6e9ee64  Data/Dat/ARW/Black_Thick_H.tga
+1c9f90d1a034d9db036e004d69c570f22a4647a7  Data/Dat/ARW/Black_Thick_T.tga
+82951de7df5b61150e62dcfae19e6818d2b9a2e9  Data/Dat/ARW/Capture_B.tga
+01c47899eea3561fcf09ae33c01ff93041d989c7  Data/Dat/ARW/Capture_H.tga
+7035737c9e43c9ff6dacea33f19abb909dad96d1  Data/Dat/ARW/Capture_T.tga
+36a1cdcb7de46f73560733c478c88f9d2b38a905  Data/Dat/ARW/Capture_Thick_B.tga
+f176656b892d17810e131295bddbe4993a8831ff  Data/Dat/ARW/Capture_Thick_H.tga
+278a56794c39f9d2b914c2330e6c5fdea65ad296  Data/Dat/ARW/Capture_Thick_T.tga
+a6b6c99162bc30af85856891771f62bbfda5a9a1  Data/Dat/ARW/Check_B.tga
+db13c4ec6147ce82b792cfb749c0c4001cb12d2e  Data/Dat/ARW/Check_H.tga
+e8c6932c25c48447c452cfc6b699b60f3a6179c8  Data/Dat/ARW/Check_T.tga
+c782158a3c7af483970e78679f07c9421df9d004  Data/Dat/ARW/Check_Thick_B.tga
+8f993e360e2280ec96e622beb9c0ab184fe3dd91  Data/Dat/ARW/Check_Thick_H.tga
+b40caee5ebf4d87f9c84a15d5632b257bcebcc04  Data/Dat/ARW/Check_Thick_T.tga
+10192c8f4c7105b3efefed0185b21936532307d3  Data/Dat/ARW/Defense_B.tga
+d29599896e26255685d6af2626dc24c4efbc0007  Data/Dat/ARW/Defense_H.tga
+87d27b3add18955d01c4d6269fc1e44846960c2f  Data/Dat/ARW/Defense_T.tga
+e1ee89f8aca9dc143c8f37a1585ba90cc292e2ad  Data/Dat/ARW/Defense_Thick_B.tga
+13fe35030b7ca28f745bb1712851c3ab944d28ef  Data/Dat/ARW/Defense_Thick_H.tga
+36ec843c911219ecd2cc00f783025c456bddf570  Data/Dat/ARW/Defense_Thick_T.tga
+4b519a49822312758fc704386f82fae3c9ce6205  Data/Dat/ARW/Erase_B.tga
+79d5b1b4f1a1a5d3de88f74cac75345962e2407f  Data/Dat/ARW/Erase_H.tga
+ca0de8389f146240ba787da92d07a12f4dac3bc9  Data/Dat/ARW/Erase_T.tga
+8c2072dd2731d24e1324a09976f88f4b4fc3192c  Data/Dat/ARW/Legal_B.tga
+96d9966cb88363eda4948dbe4c7e3caef4375e5e  Data/Dat/ARW/Legal_H.tga
+fbe2bade4203efa06df8daf4f08f8a4045a83557  Data/Dat/ARW/Legal_T.tga
+b675a3dacdb44a04e991c8124ee261d520e00826  Data/Dat/ARW/Legal_Thick_B.tga
+1f618697b2b6f773169892595dab3a16f68cf8af  Data/Dat/ARW/Legal_Thick_H.tga
+af248308c2f3aa0a63ca6c7f1b92fa6bd7126a16  Data/Dat/ARW/Legal_Thick_T.tga
+2f5e7eaf5e3b6023001932b4247007cc37eabd2a  Data/Dat/ARW/Pin_B.tga
+5a44420354daa4693fcc2a68bec8679784d8e79b  Data/Dat/ARW/Pin_H.tga
+7035737c9e43c9ff6dacea33f19abb909dad96d1  Data/Dat/ARW/Pin_T.tga
+d11497be137e8424c2ef67bf6c2e5079088a52e3  Data/Dat/ARW/Pin_Thick_B.tga
+f176656b892d17810e131295bddbe4993a8831ff  Data/Dat/ARW/Pin_Thick_H.tga
+278a56794c39f9d2b914c2330e6c5fdea65ad296  Data/Dat/ARW/Pin_Thick_T.tga
+c62e213aa26208432a99cde8be44a05cf4fb56f2  Data/Dat/ARW/Skewer_B.tga
+e8ec9015e421a6a8cbbb16cd850c9bf620891608  Data/Dat/ARW/Skewer_H.tga
+4b81af0658504ed0bdf737ad0b8e759f34b55e86  Data/Dat/ARW/Skewer_T.tga
+9adcb8f4220a244ce4752c74922a84ca8ef31e87  Data/Dat/ARW/Skewer_Thick_B.tga
+c5a8e2fd4468881353bdb9174c31761951b3d694  Data/Dat/ARW/Skewer_Thick_H.tga
+03def9c2621097b8fdf1877f30662d230f2776db  Data/Dat/ARW/Skewer_Thick_T.tga
+cd283093bdb18f57457950f39e6ad19dc9bda8b5  Data/Dat/ARW/White_B.tga
+0b420e13a6ca401e464181897eeecd5d064cc843  Data/Dat/ARW/White_H.tga
+b694e22afe93e69f60c25882329a5206d3e8a4da  Data/Dat/ARW/White_T.tga
+d96e8a8e41bffb8356cf53aecc541d55f92e0141  Data/Dat/ARW/White_Thick_B.tga
+c5baa1997a2e72a2b2818bb8b66d0a0b1591026f  Data/Dat/ARW/White_Thick_H.tga
+7c1338567785ed7fe47d51e32500608be6f4a137  Data/Dat/ARW/White_Thick_T.tga
+b10ae777b4eb050969ce22b4a344cc8f484f6698  Data/Dat/ARW/Yellow_B.tga
+e75b0eb4a09ac3aad773b9fc2d22d5fe610e3a93  Data/Dat/ARW/Yellow_H.tga
+2bfe994df2b2064048ee29eeefd3cafac0c658a4  Data/Dat/ARW/Yellow_T.tga
+2fdf9427f204c95e7e7ab298bef8ad471d8aa984  Data/Dat/ARW/Yellow_Thick_B.tga
+04248ef15637dd07120e3ff76dcb61433eecefb4  Data/Dat/ARW/Yellow_Thick_H.tga
+3ce3476435e20fb8a6ff25add0233a27d458a474  Data/Dat/ARW/Yellow_Thick_T.tga
+5d15f40421687340a0d196ed5f05b8d959565599  Data/Dat/B0_cartoon 2D.dat
+5e87ca39b0fa34b0bfb2ffd26d9bfc6378d7ba2c  Data/Dat/B0_expert.dat
+56a9fddeea809af808119d00763e45b98b78d31b  Data/Dat/B0_neon.dat
+19a4c2d2b02f09d4efa88673f9f5259aae1ca8cb  Data/Dat/B0_newspaper.dat
+7c14649fb219e3e5aad3c987bba8b34a9fa8bdc7  Data/Dat/B0_old paper.dat
+20198069e4356ec24a2e463ef1ddb89b70c04721  Data/Dat/B0_paint.dat
+b86e3a2e1c6099997b4318802b9f921d95255b1e  Data/Dat/B0_stained glass.dat
+cb77ecda2fdbac41c5ff67d700378bbeaae7886e  Data/Dat/C0_fairytale.dat
+c5ab7ab4f8d04aec126a654a4fafa9607d012263  Data/Dat/C0_rubber.dat
+22458e2a426db556b58c3ff8ad2d978b210cec36  Data/Dat/D4_clash.dat
+96c4464ef4bd8adf65c0f7e57e1abebec37efb9c  Data/Dat/EFF/Eff.ini
+61dfbf96ad1a429a31b2f616dc4379ca9d9287e6  Data/Dat/ENV/CubB.tga
+52e961d2da8d1a37a11fac7ae21730b216e91992  Data/Dat/ENV/CubW.tga
+9836b4a0ba730187897a3f111619e580b7a07fe8  Data/Dat/ENV/EnvB.tga
+06b8f1c8c56075f6b482eebbbfede535d6b41e5b  Data/Dat/ENV/EnvW.tga
+28bf117cf4279bb5127e86bc69af63eaa08e0551  Data/Dat/ENV/anna glass/ClrB.tga
+b466fe83ef4e8e551ae662a224b52c02ce114e98  Data/Dat/ENV/anna glass/ClrW.tga
+a42dfe3f668de91e3de40e814f528254813952e4  Data/Dat/ENV/anna glass/FrnB.tga
+c080336765dbdeb56c26eeb6c9c92f782f9af156  Data/Dat/ENV/anna glass/FrnW.tga
+5d54539c4b634b1009c628b187a25e9221b1a597  Data/Dat/ENV/cartoon/shd.tga
+82ea5a6d397cb33db8f8fd0ea410dd35a4bc6b33  Data/Dat/ENV/clash/shd.tga
+a1ace6af8f1388957592ae84d1a00f5d38c4b3d7  Data/Dat/ENV/classic glass/ClrB.tga
+8efa1907c3415ef195f7a6348a5344a55405c206  Data/Dat/ENV/classic glass/ClrW.tga
+b5c273dfc386835b0293050395ae47cba5aa05ce  Data/Dat/ENV/classic glass/FrnB.tga
+c080336765dbdeb56c26eeb6c9c92f782f9af156  Data/Dat/ENV/classic glass/FrnW.tga
+171ab9086c669eb596679ae4411160ea4f9a4690  Data/Dat/ENV/fancy glass/ClrB.tga
+8efa1907c3415ef195f7a6348a5344a55405c206  Data/Dat/ENV/fancy glass/ClrW.tga
+f98916d39e9dc5ca7a89c5e473083e0a497ff395  Data/Dat/ENV/fancy glass/FrnB.tga
+b3c7b8dcd9eeddb1af30f027dab99fe2209efc75  Data/Dat/ENV/fancy glass/FrnW.tga
+ce3b9f971ff6eb7cb81fefa211aea050721c2f7d  Data/Dat/ENV/indian glass/ClrB.tga
+cd38ed55c19eff92e76e795f40bd17b38d96e956  Data/Dat/ENV/indian glass/ClrW.tga
+c01d256f6bf67afa010cecfa1ade9eadd5a1fd78  Data/Dat/ENV/indian glass/FrnB.tga
+ab5a3487e831636c9ddbc3cf8ac88b631f362c47  Data/Dat/ENV/indian glass/FrnW.tga
+89052a93fee312e7d4ae31f7df23f17d665375eb  Data/Dat/ENV/irish glass/ClrB.tga
+00a23ad8ada39cf1a366bee90ac4dd1e9dda6fd4  Data/Dat/ENV/irish glass/ClrW.tga
+822b4f8861028d6e41a4a2de2eaab1061ded5dea  Data/Dat/ENV/irish glass/FrnB.tga
+c080336765dbdeb56c26eeb6c9c92f782f9af156  Data/Dat/ENV/irish glass/FrnW.tga
+f475696447e461b1250782a152dbc25fabe7813e  Data/Dat/ENV/modern/ClrB.tga
+5e01032b3037927f5a29bc80f3a0a2aa5f508af8  Data/Dat/ENV/modern/ClrW.tga
+b5c273dfc386835b0293050395ae47cba5aa05ce  Data/Dat/ENV/modern/FrnB.tga
+c080336765dbdeb56c26eeb6c9c92f782f9af156  Data/Dat/ENV/modern/FrnW.tga
+08d705fee498ebe949f4b5e9c79dcbed965d99cc  Data/Dat/ENV/staunton glass/ClrB.tga
+3258d3e6bbf36103b6f289913fb63c8676d5408c  Data/Dat/ENV/staunton glass/ClrW.tga
+d433d19ad213682fcf8cbf376d0a06b91f238d66  Data/Dat/ENV/staunton glass/FrnB.tga
+9a86678fda230fb257ca9ab9cc6d99b532df0e37  Data/Dat/ENV/staunton glass/FrnW.tga
+ecbc3a916e4d632d7574e74caf48c48650ed8494  Data/Dat/PRW/anna glass.tga
+7f3a63062fe78e547dc4a7aebe059ecd689545b8  Data/Dat/PRW/anna marble.tga
+e00a8006996f299d467fa98ddc3fe4c20530985b  Data/Dat/PRW/anna metal.tga
+5eba89416ec720e5bfa5b28ec95aab52b561221e  Data/Dat/PRW/bauhaus.tga
+1123e5ff2c78d45a2b05369dbfeb11da7150156b  Data/Dat/PRW/calvert.tga
+19828b2f50618e4b1a1294f8d6dbce2aed89adc4  Data/Dat/PRW/cartoon 2D.tga
+9604993424d0fd1b081ee36fb29d5ee1daf7f4ac  Data/Dat/PRW/cartoon.tga
+c31b6a287b0595026ae65d97bf839db2b1e859a0  Data/Dat/PRW/clash.tga
+8d572beba58f46ca6ebfe30756de67d6b9a8b3e2  Data/Dat/PRW/classic glass.tga
+388d2c3a631d810026f4ebac1b5baf2fd0f87daa  Data/Dat/PRW/classic metal.tga
+3974b0de76980baa27f65b92c6e89b8d2986b3e5  Data/Dat/PRW/classic old wood.tga
+66742c7574fb99d121fb90dfbcf45bd6c9e426f0  Data/Dat/PRW/classic wood.tga
+e5bcc6d10cc8ea3b657fb263ea3d95071d2d87fd  Data/Dat/PRW/egypt.tga
+99e7279687850350c66509226c18eeb28737fb0c  Data/Dat/PRW/expert.tga
+45bd4806914190d39900f0e37e19c21603ef000a  Data/Dat/PRW/fairytale.tga
+84aee149a0c023650f989e4a0cfcacd4ecc63bfd  Data/Dat/PRW/fancy ceramic.tga
+66969f42dbd406fc9493f3664565b0a852971b4a  Data/Dat/PRW/fancy glass.tga
+977ec8bc662f2678072467415d6014d673fdc9c7  Data/Dat/PRW/fancy metal.tga
+11de7d72f1240443f88e028652296623b105484a  Data/Dat/PRW/geometric.tga
+f8c6a723cb2c3749a904946e3dc3f1e8c258a427  Data/Dat/PRW/indian glass.tga
+31e44fa876f97f1d7012add4ebd46e7514c26eb8  Data/Dat/PRW/indian wood.tga
+2a6514b713b155e22ccd9959f17200d92bcf7f56  Data/Dat/PRW/irish glass.tga
+27ade759f8bdfab6f151d9c5b24ebeb986d33f1c  Data/Dat/PRW/irish marble.tga
+03bb65addd45cb23710cb228ec37fbfa004f7eb3  Data/Dat/PRW/irish metal.tga
+e28f4e7b92f9c340347a6d34bf1b4947a99ecc0f  Data/Dat/PRW/lewis.tga
+e5b7bcf56b5a3a14edc8a9111fd707f969127fd8  Data/Dat/PRW/mechanica.tga
+f1c9237b6e1f5c6e8d35d9f718a9dff907063291  Data/Dat/PRW/modern.tga
+7ab249b51ee190276b440c03cd79597b7fb13a18  Data/Dat/PRW/mongol.tga
+9386ba011d604c0af5e2e15f5ba0e297e894125c  Data/Dat/PRW/neon.tga
+de760939072a11f45ccf7891ac26be68ae5ff15e  Data/Dat/PRW/newspaper.tga
+bf0e2136deeef15bba283d09fb626d99d2be4596  Data/Dat/PRW/old paper.tga
+55ec018d83d3dff218dcfddb581674c493438cb3  Data/Dat/PRW/paint.tga
+071921491a8624c4ef1b226c547742747ad28347  Data/Dat/PRW/rubber.tga
+c8a756e97a19000595d4d90a95a64562a9a8fbac  Data/Dat/PRW/stained glass.tga
+b0ef91b7409f0c9485927a68973bdbfdbc7ceedc  Data/Dat/PRW/staunton glass.tga
+f1e67efb809072d05b5cd4b994e8193bde476b2f  Data/Dat/PRW/staunton marble.tga
+ef90b0e3932190e1cad209262acb6cc798a2f2fb  Data/Dat/PRW/staunton metal.tga
+caa1c94ed04f49bfd29a9261ab30dde9ced92a02  Data/Dat/PRW/staunton official.tga
+1e3f50522b8f893505f7f9f77f1c57d4b5d3ed64  Data/Dat/PRW/steel.tga
+14d119ac98663113d53c82797bd83c283bbf9250  Data/Dat/SCP/clash.scp
+80eb6252e86956f285efca4d87c23cbf04e2a7c8  Data/Dat/SCP/fairytale.scp
+e215fda1ac21e8e8fc9109ac44015c53043de203  Data/Dat/SCP/rubber.scp
+f0e8235d78aeb5ddd5b7583e98697ab704100e71  Data/Dat/SND/Snd.ini
+1faa815a4c72d5d814b4397dbca84f2d66cc559c  Data/Dat/SND/clash/Backg.wav
+0bd372f782fbf10e635cf1c28a737f65a1df83e7  Data/Dat/SND/clash/audio.cue
+40c67583fc817d75f296ebb516dc74da54fd62b0  Data/Dat/SND/clash/audio.wav
+9ca2c6b2dad5e7bb7113f406ddb193d5b0b0b887  Data/Dat/SND/clash/draw.wav
+9268688f13ed5f05712e5c8b10e6f02d3371a0f6  Data/Dat/SND/clash/index.txt
+9ca2c6b2dad5e7bb7113f406ddb193d5b0b0b887  Data/Dat/SND/clash/lose.wav
+9ca2c6b2dad5e7bb7113f406ddb193d5b0b0b887  Data/Dat/SND/clash/win.wav
+aae3591f0dff7da1fe8d03192f0b9d82761eebe0  Data/Dat/SND/fairytale/Backg.wav
+4b764ce7c2302574b77bad3e23e17e697741e4b7  Data/Dat/SND/fairytale/audio.cue
+d203b866ecb04d1e831d25511c570134302d0bf6  Data/Dat/SND/fairytale/audio.wav
+a00c25cdde8d1c6496c3f259b6ecf18eff904651  Data/Dat/SND/fairytale/win.wav
+b3489f9b00e943b7c30dde2f0f55d54cf57f14b1  Data/Dat/SND/rubber/audio.cue
+4d61595cd7d4dd62677ebaa4c4ca7d356a29b381  Data/Dat/SND/rubber/audio.wav
+b0395c9be86cdd9d35bb3ddb5ec20bc2c6190a1b  Data/EGDB/KBBKN__B.J00
+a216193d47e225f23b088bf22e568d948173250e  Data/EGDB/KBBKN__B.JIX
+722aa99435814f78834e7287eaecda981deb12b4  Data/EGDB/KBBKQ__B.J00
+8a56746363124bde0b278771c5a4e71c2c2ac92e  Data/EGDB/KBBKQ__B.JIX
+7b432d5b9e2262b3508622593b14c28c7ea0cac8  Data/EGDB/KBBK___B.J00
+e89996d5a84c45a7001329c61678c69e27d7c8cb  Data/EGDB/KBBK___B.JIX
+0a96595ddd6570aa64831d0cd80af0ea70a7cabd  Data/EGDB/KBBK___W.J00
+5d59543ca15d2b6226cb125cd789996c2e94e5b8  Data/EGDB/KBBK___W.JIX
+760e15e8e5017126f77ddee3fc5e2a4f84bb6ec7  Data/EGDB/KBKB___B.J00
+48d1318127d5f3689fff62d3b298d303741995ad  Data/EGDB/KBKB___B.JIX
+112d857634e5412c2d8f53c84edd5929a2d4907f  Data/EGDB/KBKB___W.J00
+282af9b3a8b398987717f05633a56e3ccf2f6af6  Data/EGDB/KBKB___W.JIX
+6c2c37412e623ba5b706a3cf02db2eb06ebabae3  Data/EGDB/KBKNN__B.J00
+e1378e014e8f7dc4ae7543844d9ba4daeb7b8be3  Data/EGDB/KBKNN__B.JIX
+07f0d490579f6bab71779e3373138cb3b080eb68  Data/EGDB/KBKN___B.J00
+bea5e509b6edf742bb94a8e3d92b6cd841fe9dfc  Data/EGDB/KBKN___B.JIX
+48494d6b1f421da62c6871213ec8486053ba8fdf  Data/EGDB/KBKN___W.J00
+9ad304332848beefeab440039eb98c14d968fd51  Data/EGDB/KBKN___W.JIX
+899eeccf80104363f0389b0519f7f96ca35dda9f  Data/EGDB/KBKP___B.J00
+26d3aeb959eef45b01adfb052efcdafaa4d8d369  Data/EGDB/KBKP___B.JIX
+ed4b684ae1c54c960275dfbc2d0c900a41cd2bb6  Data/EGDB/KBKP___W.J00
+c1a90ce7db33fa697a6ef888876905d18b60d914  Data/EGDB/KBKP___W.JIX
+d418b45768c2d51331c69ee8026365182ea19d32  Data/EGDB/KBKQ___B.J00
+a97e3a0e39329a1be8c722b4fc822ffcd20e38a5  Data/EGDB/KBKQ___B.JIX
+d418b45768c2d51331c69ee8026365182ea19d32  Data/EGDB/KBKQ___W.J00
+bb9168919ab1ca476e441cdaaddc689bc9dd35be  Data/EGDB/KBKQ___W.JIX
+d418b45768c2d51331c69ee8026365182ea19d32  Data/EGDB/KBKR___B.J00
+f4f3f420aa3809db176c2da1aabcd66463dafc82  Data/EGDB/KBKR___B.JIX
+d418b45768c2d51331c69ee8026365182ea19d32  Data/EGDB/KBKR___W.J00
+3eb5b3e518092ae77454645239a4e2a3fb7ef83b  Data/EGDB/KBKR___W.JIX
+17df2a6d2a079b8512f8b6626c528d9f164cdd48  Data/EGDB/KBK____B.J00
+81b96876646ddea2f156e5878bbf47c810b9b3b1  Data/EGDB/KBK____B.JIX
+17df2a6d2a079b8512f8b6626c528d9f164cdd48  Data/EGDB/KBK____W.J00
+b3f770d0810e696639c71d6d6819ec39821e1611  Data/EGDB/KBK____W.JIX
+4479492f614441b2764592d9497c0e666af2247e  Data/EGDB/KBNKQ__B.J00
+837f3e85fa5e32503be24f464a9ed0373c6a25a1  Data/EGDB/KBNKQ__B.JIX
+5cb3b8a874b35223d971b69680bc2d97b52634eb  Data/EGDB/KBNK___B.J00
+041ad731ee47367166dfa5ae1acd76ee47e968b0  Data/EGDB/KBNK___B.JIX
+ed78f04e4d39534cea591da132f93fcf79b6092f  Data/EGDB/KBNK___W.J00
+bd212028cd2134d193748851f47529391d3eafa7  Data/EGDB/KBNK___W.JIX
+728d9a42ea24717f104ca405bffa5751ba571575  Data/EGDB/KBPK___B.J00
+6ba7a6413107e904d577f4642b0a1a77f2f6081e  Data/EGDB/KBPK___B.JIX
+ca1c7d60c94dba97ffab3fff342bf35e7388aeb8  Data/EGDB/KBPK___W.J00
+574cf4583c4ab571b9d7caca7f79fc8e3465af95  Data/EGDB/KBPK___W.JIX
+ddc4c8c9618495a559a5409ef298993ce3989516  Data/EGDB/KNKBB__B.J00
+b5d4e47bccb90e42ce99081a2af8959531abfec8  Data/EGDB/KNKBB__B.JIX
+9e49d36a0cbdb16e9b4e28b34c308e6f915b33aa  Data/EGDB/KNKB___B.J00
+60fe6411370b0bdf38a7fc6ae965ffd779a02834  Data/EGDB/KNKB___B.JIX
+ab1c69a34b3b77444e3ef04c94152ac7969d43c8  Data/EGDB/KNKB___W.J00
+42bd50cd759e3b33c41b28310ee60af7c9471752  Data/EGDB/KNKB___W.JIX
+d1cfee1eb083e03525574a39ac277d02858a1a20  Data/EGDB/KNKNN__B.J00
+c4b29804df6656b079d3e6f15a9d7cf60f62e518  Data/EGDB/KNKNN__B.JIX
+4be08ec29938b948e30970a90d232bc428b3a3d5  Data/EGDB/KNKN___B.J00
+a20d7d182cf372a9473ca0e380df03706d32f72d  Data/EGDB/KNKN___B.JIX
+0cb9a434563484c8514558845876b2cfe0f86a0c  Data/EGDB/KNKN___W.J00
+2b08bad73a3be6d5d5399ad836e5d5f087398eee  Data/EGDB/KNKN___W.JIX
+e525d4d9e24c69515812fc58ca2f9bf916ccc9bd  Data/EGDB/KNKP___B.J00
+f80ef5d2c4b44a25dd64f0ad9ed2a037b436f96d  Data/EGDB/KNKP___B.JIX
+77d6724c55493f1d8695b7e1bf700b5634b5a486  Data/EGDB/KNKP___W.J00
+25a6148233ce092a731306c226562c767d14154b  Data/EGDB/KNKP___W.JIX
+d418b45768c2d51331c69ee8026365182ea19d32  Data/EGDB/KNKQ___B.J00
+63e543c4267b259ada54cf562f1ba3c7339a7803  Data/EGDB/KNKQ___B.JIX
+d418b45768c2d51331c69ee8026365182ea19d32  Data/EGDB/KNKQ___W.J00
+536d7c14a905657891baa1e03cea76c54f13b98c  Data/EGDB/KNKQ___W.JIX
+d6d4edf381287ffc340e2b35092b2c46e0973094  Data/EGDB/KNKR___B.J00
+2b0562f2a6b13bc8da4f857c5ecf38d5d98afc43  Data/EGDB/KNKR___B.JIX
+2d62c57df8a00c349a6f4c0b1c0c2256297fcc75  Data/EGDB/KNKR___W.J00
+85127b8f1685cdc4258bd08447c17eea647b3150  Data/EGDB/KNKR___W.JIX
+17df2a6d2a079b8512f8b6626c528d9f164cdd48  Data/EGDB/KNK____B.J00
+b3828b1bda070e5ba541db6b423b3b734dc44281  Data/EGDB/KNK____B.JIX
+17df2a6d2a079b8512f8b6626c528d9f164cdd48  Data/EGDB/KNK____W.J00
+fa6d1ace472628b2d9ed4fa7612eef10405deaef  Data/EGDB/KNK____W.JIX
+6fffdb489c5b73855f52c42b6b29c9a95fdd8bd9  Data/EGDB/KNNKB__B.J00
+56c7d8bfab21b418ef2f53c5570c06a47ab1c728  Data/EGDB/KNNKB__B.JIX
+9c8622888572bc4750df9d19053bbea788de7800  Data/EGDB/KNNKN__B.J00
+c1680a5c84f6f98c91ccb1680d6697710b7c031f  Data/EGDB/KNNKN__B.JIX
+839e868574c83d931e47d48cbc168214a27217e4  Data/EGDB/KNNKP__B.J00
+d74b1558b7d78784213f046c1984af4407981ad9  Data/EGDB/KNNKP__B.JIX
+4c44fa9d6fc93b511a99a09e69fc3e1755cb2080  Data/EGDB/KNNKQ__B.J00
+0909bf51ebdf64372fa7de56b0ceb4c27ff75649  Data/EGDB/KNNKQ__B.JIX
+30fb2a15f992ac324cdc32605995ef5c50f4177c  Data/EGDB/KNNKR__B.J00
+9066e518e3f450ef59709cce736bb245678936c6  Data/EGDB/KNNKR__B.JIX
+1e84702e5387b2b65b4a67d8f51167943a4046fe  Data/EGDB/KNNK___B.J00
+0aafeff8d416a2c93179e3a332bd27640762b832  Data/EGDB/KNNK___B.JIX
+f9cfa1713689585df25d05d2fc0cae9c44285723  Data/EGDB/KNNK___W.J00
+75447c5c00208418159e611ae2d788121e282868  Data/EGDB/KNNK___W.JIX
+763e4cc7ec13a20cd3873a5fd79fd4f538db2298  Data/EGDB/KNPK___B.J00
+ecc3426f281551775ce5e9e2cac605091f2caa74  Data/EGDB/KNPK___B.JIX
+c5977c12500eb47c4fc6f386a9c0ec11e945954f  Data/EGDB/KNPK___W.J00
+27540078e3f7cc6340f1e5e0f77f6b58c70edb25  Data/EGDB/KNPK___W.JIX
+e7614bf3ce34751f7a3cb6fa4cb623daabdb7f4a  Data/EGDB/KPKB___B.J00
+6e4552e72f31fac1ffcd0ecfc6a408a33376c661  Data/EGDB/KPKB___B.JIX
+4050e57384548b231910d89027872919d6d4e7c3  Data/EGDB/KPKB___W.J00
+f8458cfc22e14986d2bdf67e969290c003244832  Data/EGDB/KPKB___W.JIX
+4c576250c614049e62b6fe83f44d1f0be62659eb  Data/EGDB/KPKNN__B.J00
+2959ead02339dc1da957338e12400816ba98675a  Data/EGDB/KPKNN__B.JIX
+478b698ccd1183fd96e80370b1ec5298998aaa3b  Data/EGDB/KPKN___B.J00
+d23bd082f0e74eaa26d2c71eaf146ee8b96ae765  Data/EGDB/KPKN___B.JIX
+59c523cd53ead58745b2a2ed36224084f6ea3eb6  Data/EGDB/KPKN___W.J00
+e48648c7f42350a925cb30bb9fedeb079013e2c7  Data/EGDB/KPKN___W.JIX
+e4cdd0d3270e577b70e055fe5e22c716237433f8  Data/EGDB/KPKP___B.J00
+55f6d9de429a09f1d3a1b0640efc8118ae4f29f3  Data/EGDB/KPKP___B.JIX
+253fe59cc239157d1e92133b2daa9f5d616841b2  Data/EGDB/KPKP___W.J00
+2d0f4534ef06ac5928eb2390c12f4bb659d7ed87  Data/EGDB/KPKP___W.JIX
+527ebad0e3ab4691c4e76d287fd39fb2e099028c  Data/EGDB/KPKQ___B.J00
+388669f57bfaa7531e99b9c33dd3e1acf2b6b323  Data/EGDB/KPKQ___B.JIX
+faaafa6c866133d95f322279f569dd1d1fe5b159  Data/EGDB/KPKQ___W.J00
+0c91460faa229fccf60d9b5d53dc4eb6f5e0d6d5  Data/EGDB/KPKQ___W.JIX
+5a77ef1c82f5aa12dc091e33369236cc2a14feb8  Data/EGDB/KPKR___B.J00
+9545d1b514f3ebe9bb75f9d38b6e26e1afcd7010  Data/EGDB/KPKR___B.JIX
+eb425985609235e428757c6dfa03e01bac031a90  Data/EGDB/KPKR___W.J00
+a6f35b9087c8661ceda9e68bf36d8cbad7ef63a4  Data/EGDB/KPKR___W.JIX
+ce78d403ffdb0ebae954f786da8191721d906259  Data/EGDB/KPK____B.J00
+0fd638297e6c273880c50573269578ee43c35832  Data/EGDB/KPK____B.JIX
+31e574938f017c31e08b4b27c7e744cf1c5bcffc  Data/EGDB/KPK____W.J00
+4e424e5fa9dbc13fb4f69baed7e7a7b5e25c040b  Data/EGDB/KPK____W.JIX
+1fe22dfa0d9cd024ef189a96edffe5ff406f8fa8  Data/EGDB/KPPK___B.J00
+a3db717198888b38532ca615656dfab8269cd61d  Data/EGDB/KPPK___B.JIX
+78470a20060cb0f70036dbf07077bc4aece03a90  Data/EGDB/KPPK___W.J00
+214bb9eb6b25b55a8269876ac082f4370355eebf  Data/EGDB/KPPK___W.JIX
+389d11c93a6084af0246d0fed88106ca0194f0de  Data/EGDB/KQBKQ__B.J00
+80ea31dd62abde9f4d62f6641dc78660e160f1af  Data/EGDB/KQBKQ__B.JIX
+071750df3b67069c1f98a3605957384005513264  Data/EGDB/KQBK___B.J00
+cd98c0652d817cdb17ea4b0abb257861232d7dea  Data/EGDB/KQBK___B.JIX
+527b93f61a39e8ad29aa1a053b776f8080af1a27  Data/EGDB/KQBK___W.J00
+1f0a9cceac7fe6f80e229d0368a0ac6aed8a7459  Data/EGDB/KQBK___W.JIX
+d7ea7287ec4f09690bcde1b4c73cbd698a241a5c  Data/EGDB/KQKBB__B.J00
+3e2eddb681fe9a0ff8142c6dd260f8ec1ac344b4  Data/EGDB/KQKBB__B.JIX
+0c6cc57a681cdc728796a916bc2b858fb8a92516  Data/EGDB/KQKBN__B.J00
+e6f3b20dbb6494351066011f04d4b0d4f5ee1e90  Data/EGDB/KQKBN__B.JIX
+ed8a8a7768562b69b5458d396740fd9eb9c88bbf  Data/EGDB/KQKB___B.J00
+f2bb2750b66f97740a2def885156a1fcf1268ff8  Data/EGDB/KQKB___B.JIX
+570ff1653df6b4ee64c24e2557f3c60bb66c7c2c  Data/EGDB/KQKB___W.J00
+45628b1f304e373cddf06a30d5b92343c922b09a  Data/EGDB/KQKB___W.JIX
+b5d3a4bb067cece7d177984bfbf3ea977ad8bbaf  Data/EGDB/KQKNN__B.J00
+2aadaaf0d5380344c00775de0a874bb2b7281a50  Data/EGDB/KQKNN__B.JIX
+51bf685aac5a8d2873e0fa13cd781b635f6ea6b3  Data/EGDB/KQKN___B.J00
+1c30314e0c5b70a365be11752a43515f65737db2  Data/EGDB/KQKN___B.JIX
+f02b8523899d0e34c4a36fff30e99439bdd0a9e5  Data/EGDB/KQKN___W.J00
+c8a43609ff9a5ee88e874971625b7f49cbc914ac  Data/EGDB/KQKN___W.JIX
+ec5c56e9a03e3549adcb572c1a51d032e07d28cd  Data/EGDB/KQKP___B.J00
+352150170c26012c700d6699376e02974afa9739  Data/EGDB/KQKP___B.JIX
+723f05065d125ccc554da34ecda226913596968b  Data/EGDB/KQKP___W.J00
+f0b097dc97aac7182d34f1f86d9f4ce290bb645d  Data/EGDB/KQKP___W.JIX
+589889ed081c424694138dbca2eb2b8d43035a0c  Data/EGDB/KQKQB__B.J00
+74c73a10fd2a87832a81884349ebe2baaa89b661  Data/EGDB/KQKQB__B.JIX
+2c98f7149620bc880d896ad1e98376f08826782e  Data/EGDB/KQKQN__B.J00
+0f0bf1b5da404da741f0bf327253812d14b8e9cd  Data/EGDB/KQKQN__B.JIX
+56d7a3374b0219617f7f8de6bb0b72ffeacca281  Data/EGDB/KQKQP__B.J00
+e6942ed787c39407be90129b4d3fe893d2e88db3  Data/EGDB/KQKQP__B.JIX
+e3e5b53cbd71e195455786f031788bbb2229eb06  Data/EGDB/KQKQQ__B.J00
+d9aa2ea72c1a8ed8429f166e1e7da5920cbaaa63  Data/EGDB/KQKQQ__B.JIX
+e7fe7146932debe96c63c6a37e66019f1c6810fe  Data/EGDB/KQKQR__B.J00
+58788aa382b9f1193c870213fbb7040b3b01a3d5  Data/EGDB/KQKQR__B.JIX
+c154bd00fe0fd2a75662108186f2571831922fbc  Data/EGDB/KQKQ___B.J00
+f6160a546dbf943a0b1a7f4e8cf534a6b1144a83  Data/EGDB/KQKQ___B.JIX
+9454a3d43f69e7d0cc6005edef4549acb389f559  Data/EGDB/KQKQ___W.J00
+88b8e2604c038b5c02e16aadca357dc3d0955622  Data/EGDB/KQKQ___W.JIX
+9b04727cea93d371772daa4a91cac75f3eae851a  Data/EGDB/KQKRB__B.J00
+aeed1665ca4930f88061bed885c28884e28dd8f4  Data/EGDB/KQKRB__B.JIX
+ea9b348f955f57adf3d3648f7c0bc5d45678f84a  Data/EGDB/KQKRN__B.J00
+b6f8b80ea9a1dd45c478b55fa8aedb1a3c441f5c  Data/EGDB/KQKRN__B.JIX
+46816cbea876decb020a507d6f4b8ba2dcc03473  Data/EGDB/KQKRP__B.J00
+af82792727dc41eb474a2366b757b6c6f8144b35  Data/EGDB/KQKRP__B.JIX
+b7f1b37dc9d3a3b2b3c0a211c31e9773422eb53a  Data/EGDB/KQKRR__B.J00
+080348b63838738dbb69b2405129d305ef8d77ce  Data/EGDB/KQKRR__B.JIX
+777813c0f056823796f3e436cb0fa9c9a45b18e1  Data/EGDB/KQKR___B.J00
+743ab833bf902ba7cfad9d5e3f715f76b6e5b7fa  Data/EGDB/KQKR___B.JIX
+bba13fe70e7d41f54eb1e53176249e5c5be782b8  Data/EGDB/KQKR___W.J00
+5f8ea4203cb4abd022d57163af0e05265930cd11  Data/EGDB/KQKR___W.JIX
+d070732463f0cb7f7bd33e646ac01ea56525c628  Data/EGDB/KQK____B.J00
+1471dc5a92ed93294a23c67dbed07fc7e1e5e695  Data/EGDB/KQK____B.JIX
+1ce9be3622026b3e56a4efef25962c40af0952f0  Data/EGDB/KQK____W.J00
+67e71eca55648df30b0d5a1a52eb77e6406b1d18  Data/EGDB/KQK____W.JIX
+82fc29175bca07428783abd6e5ca9c092aee852e  Data/EGDB/KQNKQ__B.J00
+cb3b52feaaa499220d886e9343f02736f39f4862  Data/EGDB/KQNKQ__B.JIX
+704f082a6777b783c66d2fb024324d3863d15551  Data/EGDB/KQNK___B.J00
+13ee6871d9cac2e5605a0e8f4ffe0d137d27431d  Data/EGDB/KQNK___B.JIX
+f0d90514b1d4aee6225537afc60f8d956596a6ba  Data/EGDB/KQNK___W.J00
+a240b49f4827ef77638a9a137eeefd46511bb850  Data/EGDB/KQNK___W.JIX
+3393cd062fe859984ec0150093f998fba75c611c  Data/EGDB/KQPKQ__B.J00
+b5844c02d64e16d5d94b392ba98f17dfd33503f1  Data/EGDB/KQPKQ__B.JIX
+c94a0c298cff0ec95a1870e25ef2522fe7918b51  Data/EGDB/KQPK___B.J00
+44e1f178861995c9d9fed46f13223296b7766daa  Data/EGDB/KQPK___B.JIX
+23fb3f59486c4fa01c9f1a18b2b4306e21892e63  Data/EGDB/KQPK___W.J00
+45cbca99868cb0e11fabb6ba1175c39400283813  Data/EGDB/KQPK___W.JIX
+97145929e591f17054ac7f4ca85f3af3ef6c7e12  Data/EGDB/KQQKQ__B.J00
+1b89a16c9140d6148bdced8079f54e7b557ac371  Data/EGDB/KQQKQ__B.JIX
+69fb5acde0f337afe1f0919b483ee1918deecb6f  Data/EGDB/KQQK___B.J00
+c689f5ef6340f44a041fd7941368ca3f6fb3099d  Data/EGDB/KQQK___B.JIX
+b9891eb9098ff44ada4dee228d905e7c123c40bc  Data/EGDB/KQQK___W.J00
+e6797e43752ebf1023ae9ca80c76c23bc8951ecb  Data/EGDB/KQQK___W.JIX
+32e5536a35bd5416bcef75ad98568deac9217af3  Data/EGDB/KQRKQ__B.J00
+c32cc7f1997806bf67158f503389a6ce289c053a  Data/EGDB/KQRKQ__B.JIX
+c957be73d7fafbcfa28880eb7fc511c56021e97e  Data/EGDB/KQRKR__B.J00
+0a588878f36be58b76112c1117c7f921f8988b5e  Data/EGDB/KQRKR__B.JIX
+f96a1497d663b53ce2979ea018b5463fc80de038  Data/EGDB/KQRK___B.J00
+dda77fd7381663e9d66074faa78c7fde81d6be87  Data/EGDB/KQRK___B.JIX
+57e6c880dab3a339d97ebfc40138ab6e4298cdae  Data/EGDB/KQRK___W.J00
+ada3ecc38c4b9f9e412978e90b1e498822a2d732  Data/EGDB/KQRK___W.JIX
+c5023b4747f4a259125b642e3fd4e3000c39e4d7  Data/EGDB/KRBKQ__B.J00
+e52d0bcbd6667827b455ed221a4c778d5e775430  Data/EGDB/KRBKQ__B.JIX
+3a1817e72fb9dc31af5fb18d7c8447af3f21e78a  Data/EGDB/KRBKR__B.J00
+046524de1e25e5b76b229f202a6de04e28066f10  Data/EGDB/KRBKR__B.JIX
+ccaac0dfa04d68cce29054d5371d467878cdc91f  Data/EGDB/KRBK___B.J00
+5809c75ff577adc3878a13769d8a636e2a802093  Data/EGDB/KRBK___B.JIX
+f0b1ea5f390acf8f1cb043527fbe78aaf2b0fb07  Data/EGDB/KRBK___W.J00
+84a05df32c7375cfc332119582a1ad771e16597f  Data/EGDB/KRBK___W.JIX
+91bd35ba7db1430d10b2a12526f488c918b9d75a  Data/EGDB/KRKB___B.J00
+eb0ba70545c8af82f10a57a502e744fb8e32eea6  Data/EGDB/KRKB___B.JIX
+4a9b663adf8eab8a0a97c31b7050cb32f1bb0733  Data/EGDB/KRKB___W.J00
+a722541a10a05b939184e0b1a93a0f5e27d28725  Data/EGDB/KRKB___W.JIX
+dafbe4bb7d61c3d5d98d21a334db12fee5a5cd2c  Data/EGDB/KRKNN__B.J00
+089a8a9092513b3299275d2f86606ea14b8c2d96  Data/EGDB/KRKNN__B.JIX
+ff7956893a4b56afd40116de59eb67b235286ea9  Data/EGDB/KRKN___B.J00
+feabe34d8a0806908dc6ef17f44f9ee10ff964c7  Data/EGDB/KRKN___B.JIX
+0d1315251ddea2eba972b30107b2581ca783aa1a  Data/EGDB/KRKN___W.J00
+0cc58096aeafd559681918bc6bd1015c2fc175a8  Data/EGDB/KRKN___W.JIX
+2c55409b0b02c2c224880cc4389dedff98479b13  Data/EGDB/KRKP___B.J00
+9de787880c44ddef4fb6e741317d9888f7aa4c35  Data/EGDB/KRKP___B.JIX
+e2f60a343c54ddce102fa3710c0c1fe618ec220c  Data/EGDB/KRKP___W.J00
+3151f6cb4d563e4fd811d13c34634419953704fc  Data/EGDB/KRKP___W.JIX
+ba8e4b53197019b9bd3909856e84e3aad94f9ebb  Data/EGDB/KRKQR__B.J00
+69ab46324157696f2473ff981a4e57936bd8f1b1  Data/EGDB/KRKQR__B.JIX
+37d826030d0d488a6c9f04b33556fd29a2bee16e  Data/EGDB/KRKQ___B.J00
+90c1e84871adc63ad4da4f10dd5dbedc1f2a241a  Data/EGDB/KRKQ___B.JIX
+4e0b80fab8630e3923649a93667fb30c979857c4  Data/EGDB/KRKQ___W.J00
+30f41f26b5df0130f2b70b78e59a0f834d98287b  Data/EGDB/KRKQ___W.JIX
+aab5d7a31ccf57bdcb52e9e2b851615984dbb47f  Data/EGDB/KRKRB__B.J00
+726d78ae66b93d463014fc19af79e96eb8a0cf4b  Data/EGDB/KRKRB__B.JIX
+44d63b8241130ab45fef1311e2ea1090e6edbe91  Data/EGDB/KRKRN__B.J00
+c7ba0354306d426e27d6891bae03ce5286f5939f  Data/EGDB/KRKRN__B.JIX
+f391b3687fcd3b249830026cf8e89f6d459aa0ea  Data/EGDB/KRKRP__B.J00
+f5a88defa1f589b4b67c33d6b23ec46372d59d6c  Data/EGDB/KRKRP__B.JIX
+63fce377b13c51f1af865b4a3f93db1060566cf8  Data/EGDB/KRKRR__B.J00
+00c49f46e80df79449b8a87e46d9006690a46791  Data/EGDB/KRKRR__B.JIX
+795be3e48bd450f8084ddddfdec6543110f71dfd  Data/EGDB/KRKR___B.J00
+9b125b51378664a8c2f4efa8e8c074b115908d79  Data/EGDB/KRKR___B.JIX
+969dd03ede75b8d7a2326f7b5f32ceb65394a0c4  Data/EGDB/KRKR___W.J00
+3d136528cb9e006a1fe4621416d8882223d6c53b  Data/EGDB/KRKR___W.JIX
+981d92baed40920ac6cdf818ff17bef159056fb2  Data/EGDB/KRK____B.J00
+07b6acca7cb608e7c0b1c143ed52ca7372abb779  Data/EGDB/KRK____B.JIX
+d31bc5749ccc91560f906ac726c13b2467b1244b  Data/EGDB/KRK____W.J00
+2aea32045eaf8ea59b5888ed99751d6a91960d5b  Data/EGDB/KRK____W.JIX
+a61fc5e05dfe83ca06749aa8685db3d8596c8011  Data/EGDB/KRNKQ__B.J00
+f07e8d6c40624a7ace3c2a4f9e9afc54a30c9202  Data/EGDB/KRNKQ__B.JIX
+1b027e7a2547c8e12dea08ed29c9faa7ec5e8042  Data/EGDB/KRNKR__B.J00
+24fc864549d03a12561214582b21ed06586c486a  Data/EGDB/KRNKR__B.JIX
+92ff323f3963af4dc01915b16c9667b93ee9b3e5  Data/EGDB/KRNK___B.J00
+c476970ad7623847b0b86e69e27338f2d99c7191  Data/EGDB/KRNK___B.JIX
+00f77e5073a7bca91c9b599d0a13e6925f530f15  Data/EGDB/KRNK___W.J00
+6cd140116b7ba84870c7ed0efa4cfaa30010568a  Data/EGDB/KRNK___W.JIX
+46ae21d234814c9c44493e181df19fbc303d36a7  Data/EGDB/KRPKQ__B.J00
+550a8ee0cc70b5a51edc1059582cd0ab26e45269  Data/EGDB/KRPKQ__B.JIX
+073463f8a4b01bd8adcaf57fc31335639f14105d  Data/EGDB/KRPKR__B.J00
+e34382d2192c33d97e7ac2bb97d06eebe6beabab  Data/EGDB/KRPKR__B.JIX
+793686ed94f0fe0e4edaaf595f1d024adcd76b51  Data/EGDB/KRPK___B.J00
+d20e273239692af9dd3d7bee2f3b096ee9a9c041  Data/EGDB/KRPK___B.JIX
+da0f3853e4d37e2a8ab0f392775882300099268f  Data/EGDB/KRPK___W.J00
+5e1072cdcbefdcfb2054a7b8bb0eae04634d370b  Data/EGDB/KRPK___W.JIX
+5628874fb7ac3ae76bd4fafd03362274547bc54d  Data/EGDB/KRRKQ__B.J00
+0d70454a8166957cf75371300114c9beaf2a1206  Data/EGDB/KRRKQ__B.JIX
+50e3964607434a262f36547acf6b72b9ad96508b  Data/EGDB/KRRKR__B.J00
+af13a848627b638249cdfa677deab83d94e2e585  Data/EGDB/KRRKR__B.JIX
+88fd0f46030f2e5be56b7936b630f15acb503c52  Data/EGDB/KRRK___B.J00
+68b662d2316ec79d9468d16bad016b0f1528ed60  Data/EGDB/KRRK___B.JIX
+62498cbd52a78138049c2cb1d4a6a11e19815c57  Data/EGDB/KRRK___W.J00
+04ef64326a823cea9b754ff3f83bc049b8411e86  Data/EGDB/KRRK___W.JIX
+29075263df1ef9453f38dfb698cbde1132d17e00  Data/FONTS/MoveList_font.off
+a5be68a07d51e01d5b43da578da74fde88a70b64  Data/FONTS/MoveList_font.tga
+7ce778ac18d7eec9b4e572943bab062fd5650300  Data/FONTS/chess16.off
+03358435218774f9a6c2b93391bddcfa773be28f  Data/FONTS/chess16.tga
+e716c057aefe87d21ab87c9f3e004890d992427b  Data/FONTS/chess21.off
+20a9e42e0d78488aaeb5af0b72e583a81807cf94  Data/FONTS/chess21.tga
+e716c057aefe87d21ab87c9f3e004890d992427b  Data/FONTS/chess3D.off
+20a9e42e0d78488aaeb5af0b72e583a81807cf94  Data/FONTS/chess3D.tga
+cddf98a78ad462ba7fd306cd191055fc8dae1b7c  Data/Menu/English.ini
+7bfa87e660314b0c2c753c696bca62404b865f35  Data/Mess/ENGMESS.CEL
+8c3820df4b936f11df781aae1948f518fffaffe8  Data/Mess/ENGMESS.STR
+d0f31b27c015c0e161e064ce42e1cf57d699142c  Data/Mess/ENGMESS.TXT
+65487f51e86d7c46721f7adb4923fb669c939f8d  Data/Sound/Josh.cue
+cc0c7b229a46a7c932333127965de32608069912  Data/Sound/Josh.wav
+b0c70aa72aebbcbbdaade411cdd6091808391bb8  Data/Sound/Menu/ButtonB.wav
+0002b08079f634c4e25fbb9fda70ad451bc63019  Data/Sound/Menu/IllegalMove.wav
+48088942a6200b88cc2dc4a7ec15936374c53602  Data/Sound/Menu/Left-Right.wav
+12816a1fc0d706300deb6a67ea7e443a8cb2fe44  Data/Sound/Menu/M_AR_DWN.wav
+56dd01bb07f6cb9d9ac55b5797bc352ac0fb8846  Data/Sound/Menu/M_AR_LFT.wav
+69b82363192823150c59ca6fcefa462722bc5a9a  Data/Sound/Menu/M_AR_RGH.wav
+cc39a47db59cc4371d091eaf002cde88ed898f72  Data/Sound/Menu/M_AR_UP.wav
+4d2f91debbf41bfde57c459ec69d1ad790e99261  Data/Sound/Menu/M_BT_ADV.wav
+f267bddad7098ca70864d559cb042d16b7f9b52e  Data/Sound/Menu/M_BT_BCK.wav
+a42c7c9b784cae1dc7391a49ee330b9033ba2be3  Data/Sound/Menu/M_BT_SEL.wav
+cdcc83327462b4a056bcbf7b0fc074eecaff1abd  Data/Sound/Menu/M_BT_STA.wav
+2d9eada0a327a57920b3b8a0f874efda7bc4159a  Data/Sound/Menu/M_CHK_CK.wav
+93f240b91eda1433dfd79a17f9c2a9673b7b472f  Data/Sound/Menu/M_CHK_UC.wav
+7df53d0b00be528d17e354ef55bc5d50fefc8233  Data/Sound/Menu/M_KEY_CL.wav
+5ebfbb58220f540f11dbeed7f9e80b3d13a3f44b  Data/Sound/Menu/M_PN_SEL.wav
+52d65c53a24327a2d0b60b7cc467a0a319bff559  Data/Sound/Menu/M_SLD_MV.wav
+e424d6ed4e2b4615407b5f53378ace1ff8168aa7  Data/Sound/Menu/PieceCursor.wav
+fab5b321627f561eae81b36af5c2aa311dafefce  Data/Sound/Menu/PieceSelection.wav
+576d35ec2e657fad85dd3cabe0933a158b504506  Data/Sound/Menu/PieceTarget.wav
+25faa41ab3eadaf568d62d346fe647139a3f045c  Data/Sound/Menu/Up-Down.wav
+8569367491eb1d8da71cf2dfac52a061d0a8b7c0  Data/Sound/Menu/bmove.wav
+fbbddd8dd94f64bfb068bd2e9fead9493085c055  Data/Sound/Menu/wmove.wav
+5fde2d11842c31b4e2a3b9a85182d512777458ea  Data/Sound/Moves.cue
+71805999cf2fb270f07b81c454c9ddb37f039654  Data/Sound/Moves.wav
+47ffa3344e5affd6641ef89432ff56dbd8a8d15a  Data/Sound/NLA.cue
+46da238f6c8e500d9722f14a7bf158c61e6f20d2  Data/Sound/NLA.wav
+df4bc8c9526384a422d7a31bdc8c960413a7547a  Data/Sound/dsstdfx.bin
+ec7acf170094efccfd10771a31ca774b5ca5a640  Data/Sound/joshtut.cue
+6b34c97c1a627bd3912dde8af508139edff2c984  Data/Sound/joshtut.wav
+cc69bd42edbccf7e10040133caf29e57b3c50806  Data/Sound/larry.cue
+f725c9e97fb841cd31fd7a8112a6f75f9d18f2d1  Data/Sound/larry.wav
+b5ca2da8322054d87c55716facc0a1752fd58c35  Data/Sound/tut_1.cue
+626af8ccf524c2450357906d8311ff31893f49b8  Data/Sound/tut_1.wav
+19d4695fa943afc6ea37c95097f3cc5987e52040  Data/Sound/tut_2.cue
+3aa3a16192897af6e17b12e963ada6e45bcddd2b  Data/Sound/tut_2.wav
+53bb3cc400160b864b3d4dfc8b644621ce4f2911  Data/Sound/tut_3.cue
+67b50a4cde76ec81b98162696dcc46a6c5127f9f  Data/Sound/tut_3.wav
+ae8b82dc2859c6ab15a75969aa021217b90e52f8  Data/Sound/tut_4.cue
+0a7e30bf95f95f409ba2c5a8ed628bef0ebb4af5  Data/Sound/tut_4.wav
+e93951a7d8aac7341a7932d98f85296a71ce1588  Data/Sound/tut_5.cue
+3f33ad650074f9ddc9d77fa4a039faa0f8a1cd87  Data/Sound/tut_5.wav
+5f82e58be3d17555c98b96b0e54a7842eea1412e  Data/Sound/tut_6.cue
+3d2c22f7505d66be556799123e57a32739ebf2a6  Data/Sound/tut_6.wav
+5de8a84eea6694dba8478ec112c3e5043e7bb1d9  Data/Treatise/t700.txt
+b1b790d25a7340f0644d1f64d5c52e9464c84a00  Data/Treatise/t701.txt
+069ed1ab5cdd3b62d5df6ec5c0514def445abfbc  Data/Treatise/t702.txt
+412770acdaa8f519654aa7f3992e5b7ffbed8b17  Data/Treatise/t703.txt
+9136ed1b8693589451489739ae3c35a5c4b4025b  Data/Treatise/t704.txt
+c71d760eec7797159a0b839ce2e3a350c915d85b  Data/Treatise/t705.txt
+2deb8990b282831de2308b3a6f24fd650b6bbedc  Data/Treatise/t706.txt
+35c7a127f3094333a55a737080f04a4fe3d4baf5  Data/Treatise/t707.txt
+247f8362b2092619fa131c908936e927bb5b31f3  Data/Treatise/t708.txt
+b539d40d339fcba9ed03af9801c41c337e54df60  Data/Wallpaper/Anna Glass.tga
+421226a1abe4730a9826bdd3bc7e9f068b8a0d34  Data/Wallpaper/Anna Metal.tga
+b7f8c9083828d6411ec896f76e8d2ea776b42a58  Data/Wallpaper/Anna marble.tga
+5bfe373ebeb263b90d2e9ec0c5ca3cf83ae02729  Data/Wallpaper/Bauhaus.tga
+97530722a6f59ec9c47fed47f0a2e8732a7d88a7  Data/Wallpaper/Calvert.tga
+448ab61ca6f87c0054bdd90cdb354bca78dc9fba  Data/Wallpaper/Cartoon 2D.tga
+0dc74fda13c411b0997560ef80318afb4cb45fbd  Data/Wallpaper/Cartoon.tga
+a82e4bcf0f319d15d7e249718569d036a661083e  Data/Wallpaper/Clash.tga
+4ae9204606f25292a21a8ca05a67b725cf3635a7  Data/Wallpaper/Classic Glass.tga
+5d3e37fe5bb9e66671a3c093f777fd2311a320f8  Data/Wallpaper/Classic Metal.tga
+3b902bf1151da004a0b8813e43c57da02cb2b03e  Data/Wallpaper/Classic old wood.tga
+6226c31e6690682a643d3216f3594aab38f2768d  Data/Wallpaper/Classic wood.tga
+c7bed16bb64451a6fdb79ece2f149522052c7b83  Data/Wallpaper/Egypt.tga
+64a4e1e984937a077a7696a272d6d64645f05c3e  Data/Wallpaper/Expert.tga
+f450ff89fe277f78d60c34aadba375f3bcc4b9f2  Data/Wallpaper/Fairytale.tga
+d8352c89315ba47b925ae46b422029cbb782fe7a  Data/Wallpaper/Fancy Glass.tga
+1071fc4bdb6a2541c7b1b0fdfb6f933c77d28b96  Data/Wallpaper/Fancy Metal.tga
+8adc941f8f518cb7fdb2764aa5332cf797933fc5  Data/Wallpaper/Fancy ceramic.tga
+b563138d236c6f6364ac2874680156c0dd2fa2f7  Data/Wallpaper/Indian Glass.tga
+70b9e7f61636eca13f537031b1c7912fda8ed1dc  Data/Wallpaper/Indian wood.tga
+eb538554335b7ab1750ba5e03d98068b93fa3c4b  Data/Wallpaper/Irish Glass.tga
+4f58a3f38dc8d1f9520d206b3064f5ac96237402  Data/Wallpaper/Irish Metal.tga
+497b36558f30f05004210381f0d6bf31c5e2b600  Data/Wallpaper/Irish marble.tga
+0141c550c5dc7fde0018d6d7233da5cf786b6599  Data/Wallpaper/Lewis.tga
+230ad58fc761e01ee6f0cfcb1c924f1c359a0b42  Data/Wallpaper/Mechanica.tga
+ab5c405bf3ad2d21b197ee923a11b3f9502a6ef4  Data/Wallpaper/Menu/Academy.tga
+396fe009870fdd3dee4e6b259cf7f22a414408d0  Data/Wallpaper/Menu/Championship.tga
+304171b99c52050c7a6e7f6a48bd5adbe24f95c9  Data/Wallpaper/Menu/FamousGames.tga
+abf4cf1bd899f605e0113cdc653f490653b34885  Data/Wallpaper/Menu/Live.tga
+a8f683ff53923c9dc8b8666db1f1da81bfa90a17  Data/Wallpaper/Menu/Login.tga
+e0aa346bf13d1c60738597461ea5099c0ac55802  Data/Wallpaper/Menu/Main.tga
+8194b46990d160c0a4c6d1ebc5448d38dc5bea5a  Data/Wallpaper/Menu/PlayerStats.tga
+489f1af4139ecb749afffacf923858d04fe07ebb  Data/Wallpaper/Menu/RatedGames.tga
+1636bbd20bda83c747d4e43e34cbf4be800ff125  Data/Wallpaper/Modern.tga
+c01f943b811cb63e5bf4af3be7dcf499344a1f14  Data/Wallpaper/Mongol.tga
+3ca5c5c8fa2113a9b81de68e4270120308873d25  Data/Wallpaper/Neon.tga
+49e635c55cbc06131174d8ff93790589eeffd95d  Data/Wallpaper/Old paper.tga
+27aeb1e289ea19938f84d0476368dd4b66061612  Data/Wallpaper/On Line_b.tga
+d530a21b0c1302eaf5d65461a19a170b6b80532a  Data/Wallpaper/On Line_r.tga
+2e96e650860b6783c1c8b18f490ecf2e35e9d975  Data/Wallpaper/Paint.tga
+9dbedccf29bbe5561df49437082193794a21c4e9  Data/Wallpaper/Rubber.tga
+5ae41bdb1f5f54db29e7b14734b92abb6a981a5a  Data/Wallpaper/Staunton Glass.tga
+ae993992f0852e05b78b6c8bb1242d926537e14f  Data/Wallpaper/Staunton Metal.tga
+d3c8e87e6ff2f677bb8b3fb0cd4dfbb3beea5eb6  Data/Wallpaper/Staunton marble.tga
+d40ee2ccd9a00cafd06e555a287ceb46ea2d7658  Data/Wallpaper/Staunton official.tga
+5768da10b3cbcbc66acdce6b653d1d4a4d2a2cc2  Data/Wallpaper/Steel.tga
+a49af68c9fcf1b38a4fe51804422f3718182400f  Data/Wallpaper/geometric.tga
+50c3114353abdeb0f0c2c80610c5190af009d4e7  Data/Wallpaper/newspaper.tga
+54130e2c0bc5d01929944ca11583c5cd08fa107e  Data/Wallpaper/stained glass.tga
+91f60aec48d5bdcfac496ccd0af8c8672bc2b055  Data/ZMovies/ChessMasterAttract.xmv
+c1040262b45917142691424ffa8bc579fe44bf1c  Data/ZMovies/ChessMasterDemo.xmv
+1b825b3f790895b5f475c3bead0b8610a1e30329  Data/ZMovies/savelive.xbx
+4db86566df4a2c32e870ac01294fa4fcdeb3fba2  Data/ZMovies/saveoffline.xbx
+6876f02b596251311011f34d180d60cb6b961cf2  Data/ZMovies/saveprofile.xbx
+fdc2794a667272128d21d8a4976d33aee81ec67d  Data/Zmenu/DATA/menu.dat
+1faa9204384ec4fc50a1ab128e15dc25904ab2a4  Data/Zmenu/DATA/pfaces.dat
+84b7acf28c47a034134195e02581a93a3ab07534  Data/josh.dat
+58bb1e483b9e97b0c43a73fde3f5e22f8e7e16a8  Data/joshtut.dat
+498a1732c1d91f27386228affc12872c3a982aea  Data/larry.dat
+26ede7c5996f7ef810509d35b52e5ac9eaa518b8  Data/ob.dat
+336fdef7cb4a68063e43b27a3308d9f710a2d0d7  Data/pers.dat
+6b4560603c6ecea71128349f09da12637e1a4916  Data/tut.dat
+4500cd80d16a69b6e06d4f3e9be0195495bee214  Default.xbe
+f650bdf292005b55596a1840a1bcad320baa5af9  dashupdate.xbe
+e9547bfbe36c3926befab04ff6c22180cc5c0674  update.xbe

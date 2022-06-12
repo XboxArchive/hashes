@@ -1,0 +1,738 @@
+9328517fdb2010f3aaf993c0948b6eacfe01edde  Formations/343_default.pct
+13f7282d418d700dc763c9eefaa803077e29eb73  Formations/343_defensive.pct
+0cd20ac7dc6ca167d35ed8b1dfdee8912457aa2f  Formations/352_attacking_default.pct
+0656357c7d57f29a1db7d68276e1ec91656b7d30  Formations/352_default.pct
+b8a42fdfaa51be5cf906e208bd8a02253cab1233  Formations/352_defensive_default.pct
+bb066948a7fef4f9a8f4e763752bd81b143daabe  Formations/352_v1.pct
+9333550ebe6a7b94967a476e245d6072a2f10e91  Formations/352_v2.pct
+1b48a34197604e11f92ec6b07380e9c76c4a9124  Formations/4-1-3-2.tct
+1b48a34197604e11f92ec6b07380e9c76c4a9124  Formations/4-1-3-2_Hart.tct
+52bc68d5e0fa842280e01da44df8eeac741c7ef6  Formations/4-4-2.tct
+faa9ccba5e9088b28b8de6d84ce2b846e977f8e6  Formations/41212_default.pct
+225d7c4c6a8574e58e403e8b30171e9a28154a91  Formations/4132.pct
+40561c28a5a349cf04af4232cfe0edb16308acaa  Formations/424_default.pct
+d53b5c7eb613c512c30c764bb4adb9ebc2936ccd  Formations/424_v1.pct
+14173f9f72c3131a7a284fd48f6d5f202d92122c  Formations/4312_v1.pct
+dd482355bc408c525d75a7e9752ce18047754800  Formations/433_default.pct
+8f82bec9a89777d8d31cff66da5761786c15bb72  Formations/442_attacking_default.pct
+1e2f45ac6da54aa75f5af5e46c0550395996f186  Formations/442_default.pct
+c0e382c71164290eee4c18e327a75bb1c164fe51  Formations/442_defensive_default.pct
+265b1b41f37c401620ca0cc0c8385949a792d739  Formations/442_diamond_default.pct
+9a420a2b324acceea43a54c75e3e8adf568d0338  Formations/442_push.pct
+15fd5591b21e466a66d368c77f045eb8d093495f  Formations/442_v1.pct
+0ee5953cf12c385eb038465a8177025a7eff016f  Formations/442_v10.pct
+437ff745002da3216ceac30cf0fb4975fb19eb5c  Formations/442_v4.pct
+626052b43514c98aad62f311c0bb961e9c1f0155  Formations/442_v8.pct
+cd6e318bea604c1829dd2d8b62f0aee84b624ee5  Formations/442_wide.pct
+1bcfd7367f78597af7ce2ec0d281bc57c3ab7653  Formations/451_default.pct
+cc6aec468ca1b0100b0498a8b2bfafd5809ec647  Formations/451_defensive.pct
+1deb8681a673292d8363f08bb5b70f76ed27ffec  Formations/451_norway.pct
+17275739db1d4cc1b5ca96583878fd4f223d2724  Formations/532_attacking_default.pct
+6bec6c58ec8645ffb9bfc883b13b4981656acae9  Formations/532_default.pct
+146239ea26938e0d38bead28a27b4b85b00d57dd  Formations/532_defensive_default.pct
+5b4d704f2546221ef6ad560ed71e3ac5e0c768ef  Formations/532_v1.pct
+44440f51301675d4226f8ce03f64fdb38502255c  Formations/532_v2.pct
+c20387abd90ed4ecfea01554cd86898bfe8ef3a6  Formations/532_v3.pct
+209d1ac0ed3c4a5a5fe2f560ca44c0300419838d  Formations/532_v4.pct
+85a4762f5d1f8344965da4d877b34577471f6543  Formations/532_v5.pct
+8028d9c322aa30897d12330a418574a9a1625aab  Formations/532_v6.pct
+b29ddd0a0b7a514bea5743f51c328851dca23f18  Formations/532_v7.pct
+8cc834b399b9dbb383f75536defac32d05c49449  Formations/532_v9.pct
+0801273f2eddc95be05b16742afa88a93488884f  Formations/defensive_counter.pct
+eac673414c55fa0871f179737620d8efd092f1e2  Formations/sweeper_default.pct
+a61ad690cefc6f938fd62f172b28caab85454dbb  Formations/sweeper_v1.pct
+38d30cd150b7abe5fe2b41a45fe7232db72c69eb  allowed_fonts.txt
+c010ed5b2f1a1dd1632fb783c3276e638023e28d  data/city.dat
+38f006e597c5b3ee15c394ce535c36bf504ba01e  data/club.dat
+bb9ae9510cd66cef828f989bb53f1d3f38feb9b0  data/club_comp.dat
+c335bb894623e7782fc78d389f5dacd1ad0f3024  data/club_comp_history.dat
+61de18314a41b426fd0139e2e5ba29072f9fbde7  data/colour.dat
+4d139619e00d2d1c12185461a101146e26a18457  data/common_names.dat
+b90eaa2acf47ad0d3a84ada4307f057113d17c10  data/continent.dat
+efedc92c0ed596e0337cf189b788dfd23068dfe3  data/cpuinf32.dll
+bd7b981201568378734bd516cf716c8805ddf25a  data/dan.lng
+dfb96766eefb6049305cc49c55060a062f944586  data/dsstdfx.bin
+d5bd81d648202aa8e8607d43dfca0e89b0433548  data/eng.lng
+227038f6cbdbcd4b708b510a19927718704eca55  data/esp.lng
+a7bcff15b2c213b32bd23f112ae80db4e5c60610  data/euro.cfg
+0a56923b981aa4e60495570bc7610935270f89a2  data/events_dan.cfg
+2d7ed6215809ca1f9d8f328a37d88a4b1598a29b  data/events_eng.cfg
+99a3437119a86aa293c78b439f3ded9b0b102eb1  data/events_fra.cfg
+1168f409f68b8e80a1bbcadb87a09c61c9a054c7  data/events_ger.cfg
+64fc4dd160aeed341182349ba9bfccd3399aa98f  data/events_ita.cfg
+d008f41189e434c1770afb32bbaab8f867fbb86c  data/events_jap.cfg
+b8d4371d92fa653c3940ca40f14cd43c2ab316c5  data/events_kor.cfg
+8ffc1bbc22f046ad7b52117552cddff5cc9ae93b  data/events_ned.cfg
+cee63d9d97056217a19dfc1e2c334e6ed6b52e88  data/events_nor.cfg
+f2968c487895550a361747421af7f09096f8996a  data/events_por.cfg
+d5bd4438a356880d0ce229e2cf46994ae193c4fd  data/events_spa.cfg
+e151a01cba4c0bc69bf9b7b491a9a144ff9ad6f7  data/events_swe.cfg
+6de85495ceb0df87e839e7398b72460bf420b995  data/fancluburls.txt
+7f2f6abb4ee59b5fde2d2e81120046efe0a522da  data/first_names.dat
+6c7e5e67c27c288cd59e58c98e223970f546fb74  data/fra.lng
+58e1478475aabc53bb8f32e66c9f47c5eb2fe540  data/game.mbr
+bccebfa275eb1050d2a70bc7b75635b27f41c8ea  data/ger.lng
+2a2b884d81589a19d40161949b66b47df1b5a5ca  data/help/help.rgn
+d2d277bc7a3a2e51d24812795dbd12f5f03be7cd  data/help/test.elp
+e26a24b55a770e539ecd7a3983dce9876edb8648  data/history/1_FC Koln.his
+b3a193377e99754af7e89e4ab6cb7d37d73f8a92  data/history/Brondbyernes Idraets Forening.his
+399474f53eaddc879cf80e969b4cc46df7c89c7a  data/history/FC Bayern Munchen.his
+6f883b757fcb5a19fd22355f5542d5d4f403b8a5  data/history/R Standard de Liege.his
+36e8b67eb8562bb17db6a4081dec7b9869e646ed  data/history/Romario de Souza Faria 29_1_1966.his
+e9401d890d7afab5720191e8867afd32b4864ff1  data/history/Sao Paulo Futebol Clube.his
+2061e5edbdeb73423ad10f016561a4aeb12815de  data/history/Velez Sarsfield.his
+87959d61f72aa621170c7a36287e56ddefa1f233  data/history/ac milan.his
+dc6143ce3547e72f3948ed8df6b45baac570ab74  data/history/african cup of nations.his
+647086ff05748955db8dff5833bba117c8a5812b  data/history/alan shearer 13_8_1970.his
+ccb0b7fbc525e48384d5ca450fba3b89187c08a0  data/history/alex james 14_9_1901.his
+7441e3aa52b41664999b7d0748bcd072073d5e17  data/history/algeria.his
+dc6eee494aa68ca0b80378e358e161242d4bfd25  data/history/ally mccoist 24_9_1962.his
+2fef0ccb16130af76c6dfeb08d0e864a0b423f5d  data/history/andoni zubizarreta 23_10_1961.his
+bc63a422b05c824aab5a4b680a9a1305f174cc5d  data/history/antonio rattin 16_5_1937.his
+c90e21e41958dbf382f7e1b6c8187d1832615fb2  data/history/argentina.his
+2cdd09e456ae93b1e91e7de177312559cc86aeec  data/history/argentine premier division.his
+d267020a4e706bef21a14ed32137681d111e9a67  data/history/arsenal.his
+75b210f18a7283127fabb1eddb9c7a900ab241e4  data/history/as roma.his
+b3563a2f129b6d32b2d7e865a5ad0add2b98fa38  data/history/asian cup.his
+5ca00896d002c8656ee53fec0a806b66f46af587  data/history/australia.his
+2d64a5e20ffa1a8111d83c6a9d2089b321aa9bd8  data/history/belgian first division.his
+dd87410c650b2efda98b943a5bddf3f13deeaa7d  data/history/belgium.his
+ef2dfb5eb41af3dde49687f727cf5017fbfbb24e  data/history/billy bingham.his
+d8a82bae28033faae06e640b8e35c096fbb1a6eb  data/history/billy wright 6_2_1924.his
+17f881ab35b4a8279816439e749947d7e8c73dba  data/history/bobby charlton 11_10_1937.his
+13426aa7738c9b00756fb77f9fd663f05d22230d  data/history/boca juniors.his
+fafd66f10c298e47264e6f7d096db2860361f946  data/history/bolivia.his
+f6b96411ff54203d44b9c53a9eb22188cd0c3ff9  data/history/borussia dortmund.his
+57cd383c04fbd630fcdbcd0c8ac3bb5926fe2ea4  data/history/borussia m'gladbach.his
+f93658a07e207ccde272874e0cc6a02a5b41376e  data/history/brazil.his
+298ed7611f59422e4d485a51d8a695d2efbfe651  data/history/brazilian national championship.his
+a376113bf8483d035fd79e079b1c070d8de1f336  data/history/bryan robson 11_1_1957.his
+52ab25fcaf433017ed35df7e304207b7b7afa0fa  data/history/bulgaria.his
+58951431005a2e9129dcfdb3155cc3a4a155eabe  data/history/cameroon.his
+07ff86e574debd3a4f8393e1f8fb3072ba741136  data/history/canada.his
+4fe97572a8f1e075450f74a95e45f9c62f703c74  data/history/chelsea.his
+0140bc70bd30de157977c1f0e37e39bb42b8522c  data/history/chile.his
+7a7011ee8f6406d30946cf70fcb03b60e654cc1d  data/history/chris waddle 14_12_1960.his
+1869e6e6b057822ca2ab7fa449e52df00dfc5058  data/history/club brugge kv.his
+d4686f111c3cc51b4834ee0dc3b12fbd0a8bcfb6  data/history/colombia.his
+1d34895b77b733672b47dc679688a98f621297e1  data/history/commonwealth of soviet states.his
+d18b23c58229e4537f1064569a6b559be2c63cf9  data/history/copa america.his
+0c85652a78c1053eeeff482e09eae1abd6d2c317  data/history/costa rica.his
+12c8fb00c30d09ce7496daba2ca35eeb419282e9  data/history/cuba.his
+30620c73de4d8d763b019d6ea460890da134b49f  data/history/czechoslovakia.his
+6a5733c1b910120474bc7ad5f21038ee259af09b  data/history/danish premier division.his
+ec9bfb1abc05ff83c958c8a5a1127f211621d816  data/history/danny mcgrain.his
+2a04b368b682d7d576dc7a13571b071051c03122  data/history/denis law 22_2_1940.his
+11106ef644c95a3c998f2d0599d159fa4b1bb0d8  data/history/denmark.his
+da1ac712dc8e9e3eeed33fdf412d94f2a509300e  data/history/diego maradona 30_10_1960.his
+fefc258b6e8ef611d919291a4523712a4ce01c51  data/history/dino zoff 28_2_1942.his
+fbb41134b140e37595be33b7e284bb4f0549402c  data/history/dixie dean 22_1_1907.his
+fab24aa591a54a0ffc1ed6aca2c69d776b1c15d0  data/history/dragan dzajic 30_5_1946.his
+ed5889aa2b4a8006e68f86a0d1b68f7097c737b1  data/history/duncan edwards 1_10_1936.his
+e23be5ccba556b83477e17d5921d0fa9756e2144  data/history/dutch kpn-telecompetition.his
+bfc65896c2d3410dca109cccb6f05f87ec03ebfc  data/history/east germany.his
+05e0d8b76413e0be4696b6d82f16fc5f2d0a0a8a  data/history/egypt.his
+510da907c12eba638ab5112bcb0a5d77993b179d  data/history/el salvador.his
+6a48d9c988a3ac43a66dcdcf4fb0da3a5d996a46  data/history/emilio butragueno 22_7_1963.his
+380d25800e373d3df653cc52802bf9c183e0dfa4  data/history/england.his
+96233f80a01173b089154b31a92c2831bc57f0af  data/history/english fa cup.his
+2b5546080db7e8862418bd806f1f0076739a3796  data/history/english premier division.his
+ffb2ec0253104e4cf963cf8dbcf88fccaf24f786  data/history/enzo francescoli 12_11_1961.his
+bbb1cc871c720054ecb5474c1b575ec62c0411f5  data/history/eric cantona 24_5_1966.his
+53553f9b8866e56141a511b593c0cabc23e623b3  data/history/european champions cup.his
+38e389e43a07f5e706deb771dba5d599cf935419  data/history/european football championship.his
+a1c9564b54c589b2fb65fd0c06c513f5d6cb4d21  data/history/everton.his
+1705bafdf68b700efea55dec8cc58b86b4e4bce3  data/history/fc schalke 04.his
+582ad8bc510c1c37f3110989f6a96a6e1a9dd2ee  data/history/ferenc puskas 2_4_1927.his
+a95d483657e9a482f490edbe3b61584944d14942  data/history/fifa world cup.his
+b6fa4f61e40d4ebd6d1ba8bb2a68a4423ab00713  data/history/florian albert 15_9_1941.his
+fb3380e3321e00ac0a66bfdf3fa3074253a77450  data/history/france.his
+6b00d3097f50abe45b4f167716246305f54ee5e7  data/history/francisco gento 22_10_1933.his
+391f1f1941e60d8965e71d474d9cbfea00451670  data/history/frank rijkaard 30_9_1962.his
+9fefc6a317082df6e75c741ab737f939d58d4c79  data/history/frantisek planicka 2_6_1904.his
+04d5f90da32e457f7587efe1d141a20083b22492  data/history/french first division.his
+e582a8670534ae9eb7dc15c258ffe1c79930b8e4  data/history/fritz walter 31_10_1920.his
+cf1a3c29d80bcbc269635fa425e1b2f42c8917b8  data/history/garrincha 28_10_1933.his
+397a4677a40799ca9aababa78b695a3be204c78e  data/history/genoa_c_&_f_c_.his
+1dd6798bbcebe6280df9a20a57c2e63bfd266687  data/history/geoff hurst 8_12_1941.his
+0d7ce89334844f667921688ce9c6e5a4e943356a  data/history/george best 22_5_1946.his
+e59ab089d923acfd1e4e05e6222858d6774059e8  data/history/gerd muller 3_11_1945.his
+335bff6905b3967db3b75f4386a7a03acccd4ed0  data/history/german first division.his
+23f98f3b61ed2d76233fa749eb650ec01a48c724  data/history/germany.his
+07725a1b181f731da69609ceace3d98b2c546d1c  data/history/gheorghe hagi 5_2_1965.his
+bcc9acfed1e5adf627ff4b99ac60ce95900d2a58  data/history/giancarlo antognoni 1_4_1954.his
+cbfb953023fd981530c841063043aa5e651c96ce  data/history/gianni rivera 18_8_1943.his
+68ec9c3bfa2e5086f9e501f6b47a604f8d3735a2  data/history/glenn hoddle 27_10_1957.his
+4c3af9d4e3bc589daf6b49b4f670f48732aed4ec  data/history/gordon banks 20_12_1937.his
+efb81a9ebf46d7bb7beff57cdd8fa05292aff375  data/history/graeme souness 6_5_1953.his
+684681b2fb0f033416bebb565e0c1e0d52635391  data/history/greece.his
+ddce783eca5ee6ed5c0019f8c4ad24a6eca1c2e8  data/history/grzegorz lato 8_4_1950.his
+bf32b1ffd38a860367cebc12303cc452bead662b  data/history/guiseppe meazza 23_8_1910.his
+bd081d646525d2e6b40569fe4a7b525b33576b5c  data/history/gunner nordahl 19_10_1921.his
+b59be6c4b4cf33a90f5f0c2fee11e257da198918  data/history/haiti.his
+e31ceb67e1d05a426eda4e25563ce1e4d8cebcd2  data/history/hamburger sv.his
+68926e5d05d2f4d3ded8c97d0c6a2d8f9744d1d4  data/history/hans krankl 14_2_1953.his
+b6c066e8e2319db1b5766d962e7c502a50fb263d  data/history/holland.his
+0d5c845b9b8efeb619c72d1808f0debd96df20ee  data/history/honduras.his
+80efc9b93eef54e79d17de6a5cfef43bfc35b36d  data/history/hughie gallagher.his
+2b566207ab5800e8ea737d709b2e4cf85bd86088  data/history/hungary.his
+bf33de719a5cbc8afc5d32cb1af14ea0670f1062  data/history/ian rush 20_10_1961.his
+64e27f66a4208f593ae80fe0bf8bbe1f4525d7b1  data/history/internazionale.his
+05a07ddc353d2441f4478816d10e5c6e1e0ec46a  data/history/iran.his
+e7a943b873c5cc063cb6204305bfdafe44e67140  data/history/iraq.his
+b8abc99cc736e227968457c94c1799f9c492fe0b  data/history/israel.his
+1ddaafb65076a08916efaf80a10a6515007f51ad  data/history/italian serie a.his
+f7303b56f428b34b3d4c592754e35b4a8530a15d  data/history/italy.his
+772a15031569eac11f58eb09ee4cd97b0dca052b  data/history/ivor allchurch 16_10_1929.his
+f4b704f45e94e12752ced0cf6e7b05dd41b46cbf  data/history/jackie milburn.his
+cecb551a16f1a64f975ac571c17ab3f2b748f5ef  data/history/jairzinho 25_12_1944.his
+dc91c06dd3f1c7cbee0926f6f7f170fafb07e52b  data/history/japanese j-league 1.his
+d29774e724e6051941ecaa37dbacb935839945ac  data/history/jimmy greaves 20_2_1940.his
+2198a147336ce063df4b6318fce398471984452d  data/history/jimmy mcilroy 25_10_1931.his
+b87231a77f6c7f9dc281cfd01d8cbc87404453a6  data/history/johan cruyff 25_4_1947.his
+f747c5c445e6265d32454a2715e1fc75b779eeb7  data/history/john charles 27_12_1931.his
+41bae086aa96af5908bddfff6cb87a39c5e51640  data/history/johnny carey 23_2_1919.his
+2bbf7f5579b3c26198a1e71cdf3fb6591f011145  data/history/johnny haynes.his
+03ca19381ec6e506a9279c320fe908d8b6f70a1a  data/history/jose altafini 27_8_1938.his
+636dd9667a13f76c180b71b0316b1d71e735e701  data/history/josef masopust 9_2_1931.his
+4deac0ae50f0419e587e04ffe7c4d698dfa6fe71  data/history/just fontaine 18_8_1933.his
+c94c1cf3dfc685967279bc7354ad51518204ce05  data/history/juventus.his
+16adec20c127e345d84734ec4400dbe98b111984  data/history/karl-heinz rummenigge 25_9_1955.his
+d26002a56f75b89956099a54269b9eeb4f2bf3d3  data/history/kenny dalglish 4_3_1951.his
+2b00c926169408bdd52c2708c7f5248a90561c60  data/history/kevin keegan 14_2_1951.his
+e0238d0dac8dab7fe28c63681effd3b691c91d68  data/history/kuwait.his
+06cc32527d1a9753b6659bb6c634bdbef3b814d8  data/history/kv mechelen.his
+2820ba933fdf161a884c32d611f28ddb03be5652  data/history/lazio.his
+67161dd2800e02ccb3fee46518ee933e8e41a8e5  data/history/lev yashin 22_10_1929.his
+4e0a45e959edc7d09cc6399d6781b109f15c5d4e  data/history/liverpool.his
+eac6bf834973f9a03750c37f0ebdb06c6db914a0  data/history/luigi riva 21_6_1932.his
+d6f87fe85481e2cf3528d7509f731dbe9500b7eb  data/history/luis suarez 2_5_1935.his
+bb14501c11280026f66d9e760f480a455931bd19  data/history/manchester united.his
+c109c78a277e430858c864ac56310bb1230262df  data/history/mario coluna 6_8_1935.his
+438df3391004ee168f7d7b36760408196cfbb445  data/history/mario kempes.his
+2ec1ad11afc59083b271405f25b62dbc0d576f95  data/history/mexico.his
+727bbb9013c7af60f4645e1e8f510e9447fbbeff  data/history/morocco.his
+c6b5650698c308b33f7ca22e8cdf88ccdbbc7c0c  data/history/napoli.his
+5fea5e21b69ed9b30499e6bf96d089e1a4a95f3d  data/history/new zealand.his
+4d7808e284cb2a3b6a710dcf22101284f9994710  data/history/newcastle united.his
+c545f378b37a8732e777c03c68eeb97e7f4ce509  data/history/nigeria.his
+686adc462456e2a55224c7d5299ab49eb2ecff5c  data/history/north korea.his
+1a1cecc8043c0743caf918e338fff4d2834c96f2  data/history/northern ireland.his
+8da21ba9ac1f606eac650f46fd89b10c67823cda  data/history/norway.his
+1105b32f07a022b6776ad9d84fabbb30d83a7a9b  data/history/oleg blokhin 5_11_1952.his
+cbe0c24c5ca2c050ba301b65d1e0e16aeb922355  data/history/ossie ardiles 3_8_1952.his
+8dc00982bed6f268ba84e728bdbdd06f5e3f5a97  data/history/paraguay.his
+42bf5d47ca536fd9924f9d57b8bfaa2fafc03836  data/history/pat jennings 12_6_1945.his
+35c0562f70ec5ace6231ced5fb6ba4600672f179  data/history/paul gascoigne 27_5_1967.his
+d17f8b06b3c798f7b7e677dee56e66361125ddc5  data/history/paul mcgrath 4_12_1959.his
+a0f449cd346d95f8487e24f49f6fe8e78e92f042  data/history/paulo rossi 23_9_1956.his
+30623cb6cad15bddd1345bf16a0291fecff1a4fc  data/history/peru.his
+3611fb2de0075b2f58b5907ee237c7240381caee  data/history/peter shilton 18_9_1949.his
+f259b5ce3fd9841c78666e0eafe5897ea309e673  data/history/poland.his
+12d64320b732da039909c36571e58ba2b23b9cd6  data/history/r antwerp fc.his
+3723eed838c2cba14fdefae55dcda7a4a85c34f9  data/history/raich carter.his
+4ea57b40c37035ec70fc5f7ecd4597d7bcb34ded  data/history/raymond kopa 13_10_1931.his
+e9b11bf17603a568cfc72790414673e05d329fbd  data/history/republic of ireland.his
+48df84988a45be3c6d9192422122ec37bfaae771  data/history/river plate.his
+30b827acf772e59fa2e4011263361d1afbb93936  data/history/roberto rivelino 1_1_1946.his
+750f96fd4040f086576a4107c429445bb87f827f  data/history/romania.his
+07e4044ad8daaf49febd6202b5d5a54560ce02ef  data/history/rsc anderlecht.his
+e836af716c3c700280e476aa8e24ae45f2338fd0  data/history/ruud gullit 1_9_1962.his
+f207d1781a0daee0c9ba85c6cb196a98f0d1ace6  data/history/ryan giggs 29_11_1973.his
+620781d1fe9abadb8934a4175352c3daee57a708  data/history/sampdoria.his
+c0eb962101207a77327d2dd8b0549b0f2b1bc5f2  data/history/sandor kocsis 30_9_1929.his
+c031aa1f910bb212f1f4a761fb6b33e934b9f798  data/history/saudi arabia.his
+1589deb33e27481598b7542f2bc5d8994aa6594d  data/history/scotland.his
+63cd7929bf018c38b0c7679232e67a1c65bb6717  data/history/scottish premier division.his
+bb3d6f342304a6cd23219c1984da805b9646e388  data/history/sepp maier 28_2_1944.his
+63c8391f35156849181724b7a1424b953b454948  data/history/south korea.his
+ca5a1908ad343cce1ac4a645d86efcd4f128f358  data/history/soviet union.his
+33ca037521d4b8c47ebba614dc22c187ea618f9c  data/history/spain.his
+17cd2319c01b48daf89be2691715e729758fd1a8  data/history/stan mortensen 26_5_1921.his
+c2bf5286543066387b163b57450ddf77b52d7144  data/history/steve bloomer 20_1_1974.his
+c7831b21cd11316887056f23e2812daf1e43ec2b  data/history/sv werder bremen.his
+7fc5c63a8eec9a583757da790b666b21b93a3107  data/history/tom finney 5_4_1922.his
+51e2c42f626c4f00a9e6f4b1cec99726b7549671  data/history/tommy lawton 6_10_1919.his
+fe667cbdc2a9ff52fb43a53bcbc767f7e2bb2fd1  data/history/torino.his
+0ea39965c0291650a13943dfb0388a713bff955e  data/history/tostao 25_1_1947.his
+6449e17b7f71f516eb411333aa315a2f4aa22da2  data/history/tunisia.his
+144de806d6c9a272fb343a0373a6736ad91627bf  data/history/uefa cup.his
+76c48a7a75802f9485e8f456daa42b522dc1dee7  data/history/united states.his
+cab954727cca5e18b20df11af9d718bae5814f1e  data/history/uruguay.his
+3f8210ed5d98781ae3261a3db48a5854e476af75  data/history/uwe seeler 5_11_1936.his
+a5fef2246792efe81155e02337ad9328e7256ff5  data/history/wales.his
+0c7de8c4c73369ea8941aff165727fcfe58ea1b2  data/history/west germany.his
+c69289609e247e3ab057393a1afab10bfd532992  data/history/world club cup.his
+e164858f71d90ba275951087b90a3c46591a4691  data/history/yugoslavia.his
+142dc44fdcfdc9b70cd2dc0f468930eadc09f305  data/history/zaire.his
+19db5a1999c59239a1470525f2f55f80b0b5dc2a  data/hol.lng
+a3d31334f2057bc242a0135ae5138e99c93e9852  data/index.dat
+de72f230bb3aa092b10e475fd4ad8c2a2a0118f2  data/ita.lng
+b1c9ccb7418cec6cb866f51070e2a1fcfae306f1  data/language.ldb
+ab748c076b61c7b11abad3013fdeede8d1a8efc5  data/language_deu.ldb
+4ee5894ce06f7efa62c753e285dbde4798054922  data/language_ita.ldb
+58e1478475aabc53bb8f32e66c9f47c5eb2fe540  data/match.mbr
+c3650755448d9b14e5595e0d3d7dd7d1642fc1e5  data/nat_club.dat
+0add3af0220cf691cbad30658ece92dbc233cb01  data/nation.dat
+45eef400c88256dc9ca4167e0cf3aa84d8b0eed9  data/nation_comp.dat
+5d5f819966d3b49f6370c42aead08c639407e8f8  data/nation_comp_history.dat
+50f661fc5bb7aea66a628ddab6b3e9cdbdd404d6  data/nor.lng
+5bf8c2a408bc37eb18ebd94d10877041ed3b1552  data/officials.dat
+5c86f249ea075ea7c4393fce010fdc30e9dd8f17  data/pictures/214525.RGN
+1aa04ba3d8e8a3b3d87c73550d0200639e33971a  data/pictures/257458.RGN
+a9e2be29b636b0ba138e0964b28f7356c374e0ec  data/pictures/259396.RGN
+23efe1b775f5061c538aa20d7f2aa2a6f04008e7  data/pictures/264290.RGN
+06d0774f73eb594dde3582cdd316fcdc8ca5976b  data/pictures/273050.RGN
+651ffa064f3ab17d9dd8e75e03da56f03b466a80  data/pictures/278444.RGN
+6cbd9e3246459f17eb5552cc2451f6aa6134b242  data/pictures/281703.RGN
+f5d41f61c5429d95e56a7ae4241216e53a6bb4b4  data/pictures/303175.RGN
+2e50e89098a536ad59260a9a2e8b0d09b6d8633f  data/pictures/312285.RGN
+61106675be89f04bdb388e6d83c2f825f357621c  data/pictures/319066.RGN
+29b7dac71d5950a66fbebe55fd8b6d934b7d73e7  data/pictures/324855.RGN
+0ff9e5ca29c899964c12b7ff910c1c937b5cc31d  data/pictures/349416.RGN
+9ba4173e13ad907bed102c45f8408153a4abc792  data/pictures/352162.RGN
+eaec71ce4425cb51753d9cf423fbaecd08ee3164  data/pictures/361528.RGN
+c132a6c3efb15dffe1b3803e358a4067726d4795  data/pictures/364029.RGN
+8bddcecbb5311adede7db0f02753cba52f505f98  data/pictures/391250.RGN
+3594923812777c584059cde4dd6108e9a9c2d335  data/pictures/407618.RGN
+4422b229a1bf25e879fd9d6cf557909d8c82e0ff  data/pictures/Boro1.RGN
+87fd0779ad51f5a9e578567c9eedc2195542ea12  data/pictures/Boro3.RGN
+749b5138d265225123f7db3650f53e4ef82f49bc  data/pictures/Boro5.RGN
+661fc4a5be493a87e980eec841aa8a9d80e03cac  data/pictures/Bosnia_204633.RGN
+f7ba46186a5b604a51a1fa62ffbe1085ecc51dfc  data/pictures/Emp_397043.RGN
+ad740a24b67496d474a13365443736f4524d846e  data/pictures/Emp_403580.RGN
+f0c93715d82ef16dbd873896719bf0b8c4536f5d  data/pictures/Emp_415964.RGN
+87a0c36503c6691606e3f61f3ed0e136db34e37d  data/pictures/Emp_asian_cup_384918.RGN
+c1140e3fe26db89ff6878c29906649ad192ef5e4  data/pictures/Emp_czech_fans_364208.RGN
+401ed78ac3b814c3fe58dd9a44ac6d8e85ba4027  data/pictures/Emp_hackney_marshes_303181.RGN
+14ccdcc49b3e2ec9f639365e5a9c7aa8cd31cf2f  data/pictures/Emp_juventus_fans_382502.RGN
+58faa877c86e90a4705baa3a1691cbdef810cc0f  data/pictures/Emp_turkey_fan_365431.RGN
+87c80a775c8cc5737ec16c90bfcb31d8f9f89ddc  data/pictures/alaves.BDG
+11cff0a3c7e16eb957994a0bdd6642b7ecbd2416  data/pictures/albacete.BDG
+409ec69920d4bfad99798e58efa791da1aa7c3df  data/pictures/athletico bilbao.BDG
+fc130c446414de6105d345191a537523aee5410f  data/pictures/athletico madrid.BDG
+1583d10d12fa871a2d17c8a8b14457bcedb44679  data/pictures/badajoz.BDG
+b0669a9d61d8a09d9b46fb0af572ea4e5af485ed  data/pictures/barca.BDG
+249a751bf6a5778c4b45aa1f56f17a423bf4c9d8  data/pictures/betis.BDG
+3e426c939fc042ceb0e8b964a37ae6b872c59f96  data/pictures/board1.rgn
+00e72fa6153519fdba0282d6c4b63ff6d3276597  data/pictures/burgos.BDG
+696e8ae7cbec5ab2609cbd57178c8ba77405ddf9  data/pictures/celta.BDG
+7d425cad99d10bc2ffb93c69ae3466acee7ebdd5  data/pictures/cordoba.BDG
+5c86f249ea075ea7c4393fce010fdc30e9dd8f17  data/pictures/default01.RGN
+bff6181ed44afac8f5ecd4227c087fd773a8a825  data/pictures/default02.RGN
+ac24f9b1e2fd5050068ede8f7546ec672fe48a45  data/pictures/deportivo.BDG
+9390ab9821c48bac97af0469a0e9bd845f515377  data/pictures/eMP_MADRID_FANS_3617_361716.RGN
+143026bd542497b352bb9e53cc141ef4c886a293  data/pictures/eibar.BDG
+108cd39e9892d931b61c43329ddcae2b0898ca2b  data/pictures/ejido.BDG
+cfc8e5855adcb5814cd43262f3b4fed028eea314  data/pictures/elche.BDG
+dde4c064640b49c96f8047d5e40d04b24bab1c77  data/pictures/espanyol.BDG
+f3c826db78f37bcbc55c161401af417e897aa24f  data/pictures/extremadura.BDG
+8de98b12218b799142963499d90a32ffb756c9d3  data/pictures/ferrol.BDG
+7d73b0cc0f531f41db373e5f61569c964a03a894  data/pictures/gimnastic.BDG
+70646c9c2fbbeb5e6ba1d063432b0262ee7e78ff  data/pictures/holywell01.RGN
+90ffd214c521da0232dd21aed760181cf6d9d189  data/pictures/holywell02.RGN
+a624ff1bfc3866fff7ee438f58e0448bcf9db42b  data/pictures/holywell03.RGN
+b2e8aaf2346dde2ba4ac69eeb15dce879b16dcc6  data/pictures/jaen.BDG
+abc825ea1d10be6bed59bd1e5f3abe1c7bfdd894  data/pictures/las palmas.BDG
+24daf86bec521dc25e3fa0acc45e5835272811e4  data/pictures/leganes.BDG
+819334b687af8e12615f761c3b3e37821f52f767  data/pictures/levante.BDG
+69c48de4e9acc57f61b766371a3c233f640e2ec5  data/pictures/malaga.BDG
+15a4794768191268444f1624a9f5e4bea5185e91  data/pictures/mallorca.BDG
+373c550f625b5232dda2bff77505b8df997f9282  data/pictures/murcia.BDG
+eb31f354e1ad9da96ebd946d93e6c3fb19b539be  data/pictures/numancia.BDG
+b580d41dfc480779701f8b2009d6a211713788af  data/pictures/osasuna.BDG
+22b135befaf0ed6e77f5deabbb7f7882a68164d6  data/pictures/oviedo.BDG
+2582f0fb097096246727e561f901a4bf8e3a6471  data/pictures/pics.cfg
+529000b9eae3f678091b9a25406b530889a51fdc  data/pictures/real madrid.BDG
+554f2228be49afb8d1479497731cfd6cb25d612a  data/pictures/recreativo.BDG
+a8fd6ebf1c0cd48bc507e3d477fb10ab3e79d769  data/pictures/salamanca.BDG
+998bebf96f97c1046d578bdef875aaeebc6d522b  data/pictures/santander.BDG
+79d1454ea4a5f27010abcc6ded350180d3ffe6a1  data/pictures/sevilla.BDG
+5360be25ba7c6833766ca639e3d60ee71127f33b  data/pictures/sociedad.BDG
+09ad29fe2c89e4f159af58c65397340cf54df3de  data/pictures/sporting de gijon.BDG
+3dac749ca2c047fd11202fd7d36822d647484a77  data/pictures/team.RGN
+b1e9bce1ab68f0c96396331158663429aa2d2cf5  data/pictures/tenerife.BDG
+e8124ad7fb5a3cb3d43ae04c81421e0298364ba8  data/pictures/training.rgn
+bdf186cba78eac41f6657ba8ecbad8c6fdd85e86  data/pictures/training1.rgn
+dccb794af8b337263526637ac94c8eb678093870  data/pictures/training10.rgn
+94fa3955e766a5dc9140973f704725397076d1d8  data/pictures/training11.rgn
+5a66a437fa315c62c414421b1824d62c2b04565c  data/pictures/training12.rgn
+809309120d12e5035347f3c3d39b1c4ef81715c1  data/pictures/training2.rgn
+7e2e91c12668d105b0aceb7493d0c83f4d017b74  data/pictures/training3.rgn
+b6af032e8c6476654b6539f6e70ba648d95730cd  data/pictures/training4.rgn
+f6317bb7951346514cff1a9533d5363c1d1c4b89  data/pictures/training5.rgn
+a79fea8a96eb2e73c8172db848e3776e9d8b94f4  data/pictures/training6.rgn
+18996275d9e4e3f42c626275f44a7e88a916f422  data/pictures/training7.rgn
+dd4d21fc8c3712ba18eb12f98fb0dbf1e47d3696  data/pictures/training8.rgn
+c7180af8058cdacc1d83514e38ba3aa5ba073f50  data/pictures/training9.rgn
+57195c1f421c2acfb07d9b4479cbe34f7703169d  data/pictures/transfer.rgn
+57195c1f421c2acfb07d9b4479cbe34f7703169d  data/pictures/transfer1.rgn
+4031b84f372648302f07ec477aadc5f7b3cf5388  data/pictures/transfer2.rgn
+68649b0d7f140d295e906811fbe7bec12156d543  data/pictures/transfer3.rgn
+148b219f71fc88f7954158724196894650ca7e52  data/pictures/trophy.rgn
+148b219f71fc88f7954158724196894650ca7e52  data/pictures/trophy1.rgn
+4603451d062455dcfa308f88cf7a872edca2e05e  data/pictures/trophy2.rgn
+269adeacb90fe79cc5fab5d58fad161cea3d5117  data/pictures/trophy3.rgn
+168ca5dd04d6af3633f25ca0789a835b1572520c  data/pictures/valencia.BDG
+501efcc8fa2ab60611498b1455659944d7c4465b  data/pictures/valladolid.BDG
+837b05c9b162210d4ef7829ea6e8350c0cf74cd1  data/pictures/vallecano.BDG
+7dc51e1f3ab1abd48b4aef3a5cb9c5d20361f5b9  data/pictures/villareal.BDG
+eb163baaa49247882fa895590973dde389131da6  data/pictures/xerex.BDG
+2c7f80bd2ae040efed3f9950463775850bfc26c3  data/pictures/zaragoza.BDG
+19455b2c1bcafb51f92830be812016d5db3ed1e3  data/player_setup.cfg
+c83634694ea1de693f99d8104be5abf5854bf72c  data/por.lng
+c7270819f1076400c75ec8d8e055b5b419fd8677  data/pundit.cfg
+e2b8f86b42fe4822a5431868dca175d6434816f2  data/second_names.dat
+ff4f65acd3c8d2948091e808141618986972f2c1  data/si.rgn
+4b995feac4816252377a1a6a04d1e27dc0f6db51  data/si_data/Attract_mode/english/man_utd_beckham.rgn
+cc778fd2547be810b5b401afd3b664905c33157a  data/si_data/Attract_mode/english/man_utd_beckham_action.rgn
+ee3b514a33a4a23ec443436caa6090252ae6820b  data/si_data/Attract_mode/english/man_utd_beckham_release.rgn
+b2325fcd9ca47fb2092556003df82944bcd519d4  data/si_data/Attract_mode/english/man_utd_menu_search.rgn
+b199e0a1a7ed653ebef040b75bd98c0985d555fe  data/si_data/Attract_mode/english/man_utd_menubar.rgn
+ab9556a43098e194680f5a8c97ea8427df9c4ada  data/si_data/Attract_mode/english/man_utd_next_match.rgn
+16c191e77b38bfb35b6fff634b8d65e7fff3cfe8  data/si_data/Attract_mode/english/man_utd_squad.rgn
+30efaa87b467e4c22470f7dc0f374ec5b7f17ad2  data/si_data/Attract_mode/english/man_utd_squad2.rgn
+80726d95c6db4fc6885006fe23a1aa6ca869bf74  data/si_data/Attract_mode/english/man_utd_squad3.rgn
+9625394b162fe830ad6e917dc1da077941e270eb  data/si_data/Attract_mode/english/man_utd_tactics.rgn
+847054de214bc1ad5bcf0749262ba9fbf732c2f7  data/si_data/Attract_mode/english/man_utd_tactics1.rgn
+96082e26b26482399ec484c584e256320bda28bf  data/si_data/Attract_mode/english/man_utd_tactics_save.rgn
+c504dc26a8156468bd328875868f3f963434de4b  data/si_data/Attract_mode/english/news1.rgn
+9f46e94ad8c043e3a10b623d5ceb22f8c459aef9  data/si_data/Attract_mode/english/search.rgn
+e856bd81108f615343f9fa31f3a8f2323d277f2f  data/si_data/Attract_mode/english/search_filter.rgn
+92d312f4ce46a071a8a9e294fd053a70a5577936  data/si_data/Attract_mode/english/search_result.rgn
+f9de5d59585d21bca6814e25e0e8b13a7cf7d929  data/si_data/Attract_mode/english/viera.rgn
+ae5cb23eb32cb6d66a26ef429e657fd1bd9f820e  data/si_data/Attract_mode/english/viera_action.rgn
+88f14540c9bbe9e5b4fd9908f333969bb43251bd  data/si_data/Attract_mode/english/viera_bid.rgn
+7aac8e27c52fa3871e4dd671162ee54206d03dff  data/si_data/Attract_mode/english/viera_offer.rgn
+0044b6d276e337c28d3df9ff17c198578c20405b  data/si_data/Attract_mode/french/carlos.rgn
+3ee34b0d590b9aff722e17a8c7d7f668ced1bfce  data/si_data/Attract_mode/french/carlos_action.rgn
+bf09af81c07a5b7d5c16957720e2eda46ad395fc  data/si_data/Attract_mode/french/carlos_offer.rgn
+a34e8fc47e62560deadfbed00aaf138da9ba42ee  data/si_data/Attract_mode/french/monaco_irles.rgn
+46d5f9bf68971a64bcf61e76b85542435a688994  data/si_data/Attract_mode/french/monaco_irles_action.rgn
+a9666013639d753187f8c84327fff276f237b175  data/si_data/Attract_mode/french/monaco_irles_release.rgn
+b5a799abef61d94ff96f4bca7eaaa50b39d8310f  data/si_data/Attract_mode/french/monaco_menu_search.rgn
+fb7dcf1fe221c1a914e10053d59b1c3288c811ac  data/si_data/Attract_mode/french/monaco_menubar.rgn
+d7002b09725a6973e60be99a0dee071333bb88b9  data/si_data/Attract_mode/french/monaco_next_match.rgn
+d84d6a7a2eafb81ca0732fd53aca4d285c79b3b8  data/si_data/Attract_mode/french/monaco_squad.rgn
+395ef3af9141193462ca867c90e70cc8562d8f30  data/si_data/Attract_mode/french/monaco_squad2.rgn
+78794c4af0b208c5b76ebcc53bbd31ec557054eb  data/si_data/Attract_mode/french/monaco_squad3.rgn
+e11d5d459802e147e3ed36972c23fe0628991574  data/si_data/Attract_mode/french/monaco_tactics.rgn
+cae9ccdd16112468a8976d80713a8c6d1bc60701  data/si_data/Attract_mode/french/monaco_tactics1.rgn
+1cf199b98c0d337d3d2d87ecbca1364a3d5db714  data/si_data/Attract_mode/french/monaco_tactics_save.rgn
+59a1d88f6f8e41a919ca544037670f16c059bec9  data/si_data/Attract_mode/french/news1.rgn
+b32a81435329b3c00c8b4606b1f79b627bed1b73  data/si_data/Attract_mode/french/search.rgn
+f2f2845c25a2fcc7e08ba7bb471355ddc4ced23d  data/si_data/Attract_mode/french/search_filter.rgn
+38966cfa60fef6629d3e7f86851884446b96caa8  data/si_data/Attract_mode/french/search_result.rgn
+2a5b3b938a4e810033b7cfc0ba32e8313587fa22  data/si_data/Attract_mode/german/bayern_curle.rgn
+fa2533b7524347d174ee64511d597a803596ae20  data/si_data/Attract_mode/german/bayern_curle_action.rgn
+737ed66a5d3e9692e0b667be991fae66c9a1bcae  data/si_data/Attract_mode/german/bayern_curle_release.rgn
+808f3b4f016517621da92d87999c80587031f8b6  data/si_data/Attract_mode/german/bayern_menu_search.rgn
+61b34f312fe23de12ba9ddd1b25bf047c6c1ac70  data/si_data/Attract_mode/german/bayern_menubar.rgn
+b0447daf9ad056e2488b0fbd24dd77e7c4a8ce58  data/si_data/Attract_mode/german/bayern_next_match.rgn
+f9a510015d6a7c9b998be8fb83f8ca580c5b52e0  data/si_data/Attract_mode/german/bayern_squad.rgn
+a8c1e0d891e7a870c89bc31d07a14236652d6d6a  data/si_data/Attract_mode/german/bayern_squad2.rgn
+48c342ef6a711297c3adfe6a07ef6f31392bc603  data/si_data/Attract_mode/german/bayern_squad3.rgn
+403bb08d3e70aeda8673e05f768561a4031e2a2a  data/si_data/Attract_mode/german/bayern_tactics.rgn
+9aa4f67d786b892c10b3b902d43125f534554132  data/si_data/Attract_mode/german/bayern_tactics1.rgn
+bc70d05dc11abbedb504e9826002b07e8bf26d94  data/si_data/Attract_mode/german/bayern_tactics_save.rgn
+55451913f365854019f51da95407613bc114d2c3  data/si_data/Attract_mode/german/jerome.rgn
+306c2d8d9011e36400e383218f61f3710a1fe517  data/si_data/Attract_mode/german/jerome_action.rgn
+ee94cbd3a868332b5da44c7597adb153d564dc76  data/si_data/Attract_mode/german/jerome_offer.rgn
+105806cb585ea08f15adb15da6dbd0b1f96d9455  data/si_data/Attract_mode/german/news1.rgn
+295745f1396e59ef999eef01066d86ff6d4ba518  data/si_data/Attract_mode/german/search.rgn
+552f2557d7332880b0a89e702e29206992a0c6cc  data/si_data/Attract_mode/german/search_filter.rgn
+84442045f772468d6472ca75b9dd519eafda7c1c  data/si_data/Attract_mode/german/search_result.rgn
+23753f79acebafa4b33d1a50116d18ace9f99bc7  data/si_data/Attract_mode/italian/figo.rgn
+eeb51ab91a138f6a237706210bf36f2c3147ddb9  data/si_data/Attract_mode/italian/figo_action.rgn
+7c4242449651e550949bbc39ac1dd90cfb7976fa  data/si_data/Attract_mode/italian/figo_offer.rgn
+67f5a35a8d1c493df2b0d9aad1c1556febf44411  data/si_data/Attract_mode/italian/juve_davids.rgn
+ad209bbf1c3415d85211090e009dd576532dcbd8  data/si_data/Attract_mode/italian/juve_davids_action.rgn
+0e91b71a83eb186967adf1d61b44e11d4e0d8408  data/si_data/Attract_mode/italian/juve_davids_release.rgn
+9b96e714fa61a02d46e8f91854a6c544b460c955  data/si_data/Attract_mode/italian/juve_menu_search.rgn
+5631e45265c1aeca60c10e72714f9ca77b417af9  data/si_data/Attract_mode/italian/juve_menubar.rgn
+98c11de7cb0b5d5ea87ee2b54ed61057978b3429  data/si_data/Attract_mode/italian/juve_next_match.rgn
+5871d781e5581221e6641cc81cb2e052bec72b0d  data/si_data/Attract_mode/italian/juve_squad.rgn
+5e8381bc4dd4721b7ee023a6a0f80bb11d20c7eb  data/si_data/Attract_mode/italian/juve_squad2.rgn
+a4414539b833456339565e51f6ad3e3230d377ce  data/si_data/Attract_mode/italian/juve_squad3.rgn
+102429b4bb426cd844cb98b78d6c133bfce45fb1  data/si_data/Attract_mode/italian/juve_tactics.rgn
+c915726a77e327652cb0992d30d0c2c004a12d9c  data/si_data/Attract_mode/italian/juve_tactics1.rgn
+4d8c56c59e83f33e62617626706ead49751fbcea  data/si_data/Attract_mode/italian/juve_tactics_save.rgn
+3658362e95c50f39371c5c82250a72afaac5ce52  data/si_data/Attract_mode/italian/news1.rgn
+c34deb183bc52caf1218ea376f5f5b9ec525e53e  data/si_data/Attract_mode/italian/search.rgn
+791b83c43e472e38f4a9c706a1c4b3b6c9c0ebd7  data/si_data/Attract_mode/italian/search_filter.rgn
+01f706978b4554cf92d423dce93f5b9c93f49796  data/si_data/Attract_mode/italian/search_result.rgn
+1154ca02655cff28f80d8a1242965615c4e9ac86  data/si_data/Attract_mode/spanish/news1.rgn
+df0a16c678eb966bd2be8bf4f0dfa53c291f528c  data/si_data/Attract_mode/spanish/real_menu_search.rgn
+3f2a441f1c67370206dc137d1c2ad092f9e33377  data/si_data/Attract_mode/spanish/real_menubar.rgn
+825ea38a4c609b523b7331be450087cd61501fe4  data/si_data/Attract_mode/spanish/real_next_match.rgn
+67d2199bc68dd1bf14498e8a9896c0353d7bb024  data/si_data/Attract_mode/spanish/real_pavon.rgn
+bb85f8a3fdf08e1dfbdf797ea0022a21b328a5df  data/si_data/Attract_mode/spanish/real_pavon_action.rgn
+8313f8f23e29bd19d278a7a3eba7d3bf15eee686  data/si_data/Attract_mode/spanish/real_pavon_release.rgn
+7474bb32a0fb13446c52307ae8aa3be13753b6b1  data/si_data/Attract_mode/spanish/real_squad.rgn
+dacd2228e6c0fc8128c9bbe1aa1c1799ac0aca86  data/si_data/Attract_mode/spanish/real_squad2.rgn
+13b3d44302db27140ab04bf719c3c1fb8d97526e  data/si_data/Attract_mode/spanish/real_squad3.rgn
+7ffd82ab9af984152e9bffc930c1e8722d021a78  data/si_data/Attract_mode/spanish/real_tactics.rgn
+dadeffad0e31d5db655d8e7d46010e34ca88d759  data/si_data/Attract_mode/spanish/real_tactics1.rgn
+55402db3724ef40f4fd0d34adb954d4f2bf2c120  data/si_data/Attract_mode/spanish/real_tactics_save.rgn
+4c0a371713d0687efd8bf92c5845a5c023ee67f3  data/si_data/Attract_mode/spanish/search.rgn
+25f0748a762a699707c19248960b0d9a7ed5e538  data/si_data/Attract_mode/spanish/search_filter.rgn
+67e7901ff3558b003c1cb10769b9c6e1cbd543b4  data/si_data/Attract_mode/spanish/search_result.rgn
+ccb2c1bd9929582e504728aaf759a524cf681e49  data/si_data/Attract_mode/spanish/zanetti.rgn
+83274aac51283a647e78c6d9f9d21d13907bf0bd  data/si_data/Attract_mode/spanish/zanetti_action.rgn
+6d980eee81014ce5cf4026200de5d2bc0aba6750  data/si_data/Attract_mode/spanish/zanetti_offer.rgn
+420e6c8a301c15cb958839a278cca211285269c4  data/si_data/arial_14.fnt
+f4172a6115c8eb4531c03d52edae636a1f7f4d0c  data/si_data/arial_16.fnt
+865d35aae0584f21110ab8113652fdb5e02a08b5  data/si_data/arial_18.fnt
+5ecf02114bc58db3e125ce1d75f9aa8a7262f966  data/si_data/arial_narrow_10.fnt
+3f6222ab15dc4cc4277a48caf74e9e37ec410702  data/si_data/arial_narrow_11.fnt
+79a7a807d6609f0017d8d48ece797e79b7b6274d  data/si_data/attract_deu.ini
+3687c0bddce0f7700fdf29e20bc5d0f62cd1be6d  data/si_data/attract_eng.ini
+7fce29d66af672b2a69054413e8d9b4aa9983e5f  data/si_data/attract_esp.ini
+8ecfba73a6bc84b071b2d97da107b4707dabf275  data/si_data/attract_fra.ini
+fccb3c995a514bcf562c575489700b182d8f0d52  data/si_data/attract_ita.ini
+be8901047521d154d26b87f98b3615d482a7cbc7  data/si_data/back.rgn
+b066b78f127be2a9943de525f2128b97f8c96cbf  data/si_data/black.rgn
+3ad075f7ed21e2ea2b467c0e2e47ac1d348bdf73  data/si_data/click.wav
+9486bc230d0ffd9dc9d17276d0b150d952f19b2c  data/si_data/cm.ini
+315e8ac78b49df9a1d9af5c4668951711451fbf3  data/si_data/cm0102.rgn
+49aa785e9c542228e2a19fbb6072afed7c3bd499  data/si_data/cm3_title.xpr
+5c86f249ea075ea7c4393fce010fdc30e9dd8f17  data/si_data/default_pic.rgn
+b29032db998ed6577f7ed63b2f1a8a581af523bb  data/si_data/eidos.rgn
+d8addbca83b6edb8923fd6bfb5a44468508ce319  data/si_data/environment.ini
+71a714a86a09eee9d165a9ba2cb9878f45255fa1  data/si_data/esp_disc.RGN
+2f3ff554f70c45f5cfd1449744e6b10881361485  data/si_data/esp_fa_logo.RGN
+a786762a71d196944f98ea7e04a6907b2616b1cd  data/si_data/exit.rgn
+ff982bfa0896af70f0dabcadb56243784d2fc998  data/si_data/gamepad.rgn
+4136646d2b16fe4d680cbf3f39d94db868cd5071  data/si_data/intro.ini
+1f78ace1bfcebf9c2647444166ab7544387e6bc3  data/si_data/intro1.ini
+e64f91df6ed0fbf34b644c9e8b9b441b12257712  data/si_data/intro_esp.ini
+cf6d94c3def73ef42e2037c17b20e96b483bdf3c  data/si_data/kio.rgn
+575c5bc1b3acd8de4cec3644769b05ffae1c02fb  data/si_data/large.t2k
+09fc443b851f4ca8aaa0b9c97c5994a6fad74bdd  data/si_data/logo.rgn
+1731ef9e0076b5eeb47a2a852442ef2d79936fe2  data/si_data/medium.t2k
+84caa618cd1d2a0c5a0c4e4055028eea931e4816  data/si_data/next.rgn
+5037f73ab94c1ae6389075aabb478c97d25de20d  data/si_data/next_disabled.rgn
+1c39620df000dda38b989a53aefd18dce1f3fa93  data/si_data/pause.rgn
+7cf66fc27420e36ef09edb11a0774722e59f7601  data/si_data/pause_disabled.rgn
+4ae7cbc09b9ad5827130b9408f9cd3d446f7088d  data/si_data/play.rgn
+d3b40ed85e113a44b3021c336129602d82008480  data/si_data/play_disabled.rgn
+469bca367d0711118259dfecabe8d3e5c8ab699b  data/si_data/prev.rgn
+dca5a31f4fc88218d455d5e39a82b276e61b63bc  data/si_data/prev_disabled.rgn
+2dbe69d8a03216fc10b6ef64d1c90eac2bfe9705  data/si_data/savechip.rgn
+4cade2026adbf167edb74d897207e4a6f831c665  data/si_data/saveimage.xbx
+1731ef9e0076b5eeb47a2a852442ef2d79936fe2  data/si_data/small.t2k
+5434d36f910c0126990b7ad8748bc5daca3b0a17  data/si_data/start.ini
+c254a675a31370ebf0621343873f82c1e0b702b0  data/si_data/start.rgn
+0b7ec6bcc6192119623384c837252401459995ff  data/si_data/stop.rgn
+430c325a2396863de10a7453fc2ce1c9625a55db  data/si_data/stop_disabled.rgn
+dc1f19a67e5805f5fefe0c3afecd20891e2df41c  data/si_data/symbol.ttf
+92456554e60c5f4d75e0adf50f72bfc764622e33  data/si_data/symbol.vfb
+cff66e70549d409652d6e4b66d6ee6ee87b294a8  data/si_data/trade_cond_24_bold.fnt
+a94dee9c2e4552a719553b18e201a33d00ef203a  data/si_data/trade_cond_28_bold.fnt
+ef4e37ec691de56f9c912c84136ff1eaea7c2f2e  data/si_data/vmY.rgn
+ed074ede1cb59029af19d2e4bcf998b7183cff8d  data/si_data/vmblack.rgn
+2b9c03842ed0934a2c92cc90d6c4b4a450989bf0  data/si_data/white.rgn
+a80c7f152c1f2a40a2d98eef14dc575d16ce37dc  data/si_data/x.rgn
+f0da911370200e97ccb1f1656832c743fe583ce0  data/si_data/xbox_Cursor.xpr
+1fcf808a47949cbc0e549519bfa60572a27bda12  data/si_data/y.rgn
+cf13f098deb9282d9f9788e67914894348a0f9da  data/sounds/Angry.wav
+bedca2768b19fd5d35c1883321f443f4eebbab4c  data/sounds/Baddec.wav
+02994e145b8aa36ffc013e793c8b01eaa0be5577  data/sounds/Fxloop2.wav
+4b745a5ee4f79f367f2ecf627c0af1d5781ab858  data/sounds/Goalmono.wav
+b63f1adfe30d42c3a73272b64a4b15d3adb8afd3  data/sounds/Kickoff.wav
+6bfa952dcea415e4bdbd27be4133b951308fd553  data/sounds/Missmon4.wav
+e273a7877ff918ec2d9f56077c1ec8f7ae48ce23  data/sounds/Missmono.wav
+d1325fc085a759f0a769c78fd23de090b940ef94  data/sounds/Oohclapm.wav
+36c12ac730c169c81c233bbc750cde7d3da017bd  data/sounds/Oohmono.wav
+aedbe8d14555860ab73f9b380b18c1726717d1e7  data/sounds/Shot2.wav
+e8d4a3b9dbc7105e437ba0771ab465cb3e8d7bb1  data/sounds/Shot5.wav
+1867cad2f71ba9784d975e6f6cf6ad983e3fb934  data/sounds/Smlooh2.wav
+100a803b098292d95a8714387694b563c1b1b956  data/sounds/Whist3.wav
+4d87127b5a864104be8ca8dac24c0297cc9cbfb9  data/sounds/angrymon.wav
+bc355491b6ea8eee1bbde9b9c1050e72ca4d5e46  data/sounds/badfoul.wav
+9558248b12c8649d1f637e41ce6d0fe8313e2dde  data/sounds/badtack.wav
+c30cdb495831b9ad44c3104659946584cafafd47  data/sounds/brazch10.wav
+75ed9b1cdfa2e6547d64a95cae079cab66aafdae  data/sounds/brazcha8.wav
+0eca775b4d6b8b96d966dfc678334f559bf2225c  data/sounds/brazcha9.wav
+1b6e176d760764a78285108fda59ccc642c804d1  data/sounds/brazdrm.wav
+fa97d87866d63b3edabb4795a01210a81a4c8da2  data/sounds/brazhrn2.wav
+ddaf31d2f249ab0b40425ea7777b4fff4b18874e  data/sounds/braztrm2.wav
+b695414bb660cbc1246253fa36f7856db1d2e425  data/sounds/brzfire2.wav
+ded10fce7f10c5718390233d7aa58111dc1ff742  data/sounds/card.wav
+383901385fbe187ba1877921b503b5177fd11e2f  data/sounds/card1.wav
+8aadc1e4f7376ac7d17690012acb7eb7a023d96d  data/sounds/challeng.wav
+b95d3a5a69687535d3a6a4e479e420dff06ea3ec  data/sounds/chanmon.wav
+b79ae720958c492c13b2a5743805159931a5d66a  data/sounds/chant50.wav
+95148c4cc48fbf12704a6886f9d852cb56040085  data/sounds/chant52.wav
+5b088a14f794d61118d2dac41f136867ecfd8370  data/sounds/chant54.wav
+603c6e043a3b14ec18f25a62fc7f0076f8e1ae6d  data/sounds/chant55.wav
+36ae8fa650dd746782451b818d83b35b9dde9793  data/sounds/chant56.wav
+4fd89fd47e52618092f71c164ff926bbe9504f0e  data/sounds/chant57.wav
+3123c3419813e70bf8351339d88512d317bf4146  data/sounds/chant59.wav
+68320ef5122731282f4fe0f04fbcc40d3caae34b  data/sounds/chant69.wav
+3b2247f436342ca176c874c57acf75a9063b8c88  data/sounds/chant70.wav
+bdd454eb8e0e8bd2f53349304ab357d4f39800ff  data/sounds/chant71.wav
+559447df4d9384f31fab9a189c49b2466d57fad8  data/sounds/cheatbas.wav
+bb154c1aa8050f8fadbc4d3a832b0a1808cd99a0  data/sounds/chip2mon.wav
+2dac2a70bc1b6ee246d5bc3fd8866434fab46642  data/sounds/chip4.wav
+bf8ef9f0e8a904ccab903bcd0bde088e5b32421e  data/sounds/chip5.wav
+c427df6ea59a0f713e0130438912967b1396a398  data/sounds/chip8.wav
+8fb658eb5d122c369d1dd68c659b75dd1ecbd3ff  data/sounds/chipclap.wav
+4bad7430c0b7e04152c7e2084a7debff6f38c4ad  data/sounds/chiptin2.wav
+1ac4ad06adcd607bbe62cee0b654c8c416c2383a  data/sounds/clear.wav
+7fd64a002385ff930610dfad89029a2ecfbbc895  data/sounds/cmonref.wav
+27d1dcfea29395157927e5be059af7f1cc3ce7ca  data/sounds/cornurge.wav
+162e592fec44b9232357121e8f9cd003a622446d  data/sounds/disappo.wav
+8fc70b5870dcec0f44d42c71da4726c3afb14f74  data/sounds/dubchan.wav
+05ae843233ce03aa20ab3c6918ef60b704f0457e  data/sounds/dubparry.wav
+7bb800feb6460ffda990d9f085d92cbc9681ef6a  data/sounds/endclap.wav
+67e6818be84fe51235520a33f939613e28c3ba5d  data/sounds/goal10.wav
+3059363fc4b579870461bbd7c8133aa22179627b  data/sounds/goal11.wav
+bd94aecdfd56cf3957dedbe85b5bd273d8f89a0d  data/sounds/goodblok.wav
+196a5d455b425d71fb9a96af863e6dc77ea54aad  data/sounds/goodblox.wav
+40744afbfcaa1c5b0a74112dad3492f105a430ea  data/sounds/goodchip.wav
+7fe00823b996e28ce97bee26497f099d240d481a  data/sounds/goonaah.wav
+6b8b89758e738e11763a2062818db66e5e0e3fcf  data/sounds/halfwhis.wav
+31b729466d3c6bd99c6609884a4852a8b2cb501d  data/sounds/headclap.wav
+5d3433da045ab502cfe86b75171e7b72f479cacf  data/sounds/headooh2.wav
+56eaa34b516fceefd70226f11637bcaaba9174fd  data/sounds/headsml.wav
+86cbac5a56be8196a0a1b4038c191c0e6f1f32bd  data/sounds/headtin2.wav
+0836b56e7b4c087ebe0cfb43ee115128e23d5409  data/sounds/headurge.wav
+ea95e721a2376d8e438843bc2cf2c884c3d8ba05  data/sounds/heymono.wav
+731bba7936f52cb83c927ac72b0e262a4207872a  data/sounds/heyrefm.wav
+2ab049ffa25c26301ac4180352bf7f27f4a660a7  data/sounds/intercep.wav
+b5badb26edac614ab10b32a2cab32ed0d2c91de3  data/sounds/intro1.wav
+6b1aa3ded3e98315bb5fa30784ac152d3d84f5e1  data/sounds/intro2.wav
+f4cf76f41cd4cb64ccbfbce5066b02410cff586b  data/sounds/intro3.wav
+fb460adb85f935e0da7916d2f443e263855537d0  data/sounds/ironic.wav
+74d1a5752948b1500b57ba55cfffa32b73d7e9b9  data/sounds/linepass.wav
+5bbf622bedb6f26cb81379b1f05bb135b1e4a9e9  data/sounds/lordch.wav
+981a6a43e8becc4f52d92c0e65e063a546db6cd8  data/sounds/lowpass.wav
+239e6af50ed3261d71ec34153565d328dbc7de29  data/sounds/lpool2.wav
+6be3c9bbb77af61b3af7d90fd6a68fd3c51be8a3  data/sounds/metzchan.wav
+59018dffdbff2dbc56c25d087805aaa98068d7e3  data/sounds/metzchn2.wav
+6129a9a841cff6027a7de0b537daa7e2c78b37b4  data/sounds/metzdrm3.wav
+0d535043dbb7c0d61c3a6f91fe5423fccae0cbdc  data/sounds/metzdrum.wav
+d06a9f7e2a4d01e90a80532aa0633e04e4a0c3e0  data/sounds/metzsing.wav
+f4affd7bec71cc73d4e4ecc9b75c5d5e53e823af  data/sounds/middles.wav
+086b57abd5b998fd1cc99bd6aaa344ccd9e01b6a  data/sounds/missmon8.wav
+0a77b9b6e9b0c148fe4c86bfc4071e192f6eaf5a  data/sounds/mock4mon.wav
+79875e77aa220f367afb82c8f5980b1fe79057a7  data/sounds/newcastl.wav
+ee50a422da9676570c8cca256d1c80ba22274f0f  data/sounds/newmiss.wav
+62e5d6c57f195d141bf8c559d9a48dd0a30d501b  data/sounds/newooh2.wav
+7daf48435654f14430f576ad26d83cfdf2314535  data/sounds/newpen2.wav
+5b0615d3d5327e749b32bfc9f8e57016b292af47  data/sounds/newref.wav
+7835cb0f30018de73538d29a0068ab4be0858e48  data/sounds/newurge.wav
+ea16f78c01358fd935b99dbf6984c9a780dc7cfb  data/sounds/newurge4.wav
+108245ce261ae534c93053a56c1eac217223cd83  data/sounds/newuuh.wav
+21198020fe1415686cc9545d3891c7809357bc7f  data/sounds/nwchance.wav
+0133069cc4fcbde4f093acb9cad18cced96c6dbc  data/sounds/okaypass.wav
+be559a202a4c45f97e2f3023563b10a0d7aae5a6  data/sounds/ooh4mono.wav
+7f6babdf5484efb83038d16401ee348ef73501e9  data/sounds/oohaah.wav
+aff6c24c306b8bcedede59f85fbf02d28c25bc00  data/sounds/oohaah2.wav
+ed254a19ca3d0a5f6510b2e37342f5d8be98f8eb  data/sounds/oohoohch.wav
+2286faac6794729ca4094b1d8fccbae271728c6b  data/sounds/palm.wav
+6d624ff74918779c4340e8d7ceb3a745cd2bdcc1  data/sounds/passclap.wav
+deac26e54d5789f9c86ed552e072f4849032a3f0  data/sounds/passnew.wav
+c8dd3a67e7080bc69bc3d5ca7726e6fbf88f97c1  data/sounds/passtin2.wav
+2b79ccdc22a3561345f32871133c207303af98d5  data/sounds/passurge.wav
+577a2a76a102f8a81234324dc3d48d24e40bc19c  data/sounds/postooh.wav
+ac4cb665abb73f6ff14cbc081200738c75a9a2d2  data/sounds/posturge.wav
+c500873b2107cf8c7d0822fadb85e9aa39e0adfa  data/sounds/ref1mon.wav
+d77848385dd56c9b297aea348d965d23d0684a99  data/sounds/ruwatch.wav
+d971a8641ef8da11c112b09b7fea79975f529746  data/sounds/s2.wav
+9b9a635dac50375817beed10bd6e5bc9c6ff896f  data/sounds/sackthe.wav
+aeae62a0c505f5a03b7f0e32eb984b93718ef65f  data/sounds/sample.xsb
+6ab1b92cc5e37f2aca09618f9edf571b5bb226c5  data/sounds/sample.xwb
+9e6daf381ad3d0ca5c48e5f531d8dc042f63e91c  data/sounds/shearer.wav
+7c16b1e93264eedd83efc82be6d0da95b9a01e53  data/sounds/shot2mon.wav
+0ae9518c0ef5adb4d93555bb20de8cb320f51090  data/sounds/shot5mon.wav
+55438e55c653455d514945440d7c4f2d4849b692  data/sounds/small.wav
+add4f6e3022b4e9fd069395a42cd1630ae76a952  data/sounds/smlchant.wav
+986df344f6f0ed7158fb3b6a32c448202ede2977  data/sounds/smlclap1.wav
+13c4b754f244fb957a540facdd24eb532eb06b4c  data/sounds/smlhead.wav
+8ee65f52ed6a6bfecf38b51d5817bf3363ec621a  data/sounds/smlurge.wav
+1953c27013f68a555264891ac309ac0d72a6c8b8  data/sounds/startgam.wav
+61f58fec44748f77f6ff4cc7bd58581621bd5574  data/sounds/sub2.wav
+6ba696a5829f45feac4479ac6351d809a578bb32  data/sounds/sund2.wav
+ef0c9f0ec76c3dad20d14d892335ceace9a63569  data/sounds/sund3.wav
+f9e36af6401cffee77ca9360c497039ba24cad96  data/sounds/sunder7.wav
+381d4dae109e55e309c6d1796d9ead45dea61f0d  data/sounds/tinyurg2.wav
+55fd294a95c28ab84a4297aa09c3a8f9d1eb6890  data/sounds/united2.wav
+85259c58de21e5d56ead3cfb6daca50169398eea  data/sounds/urge5mon.wav
+dede46763f97c41a9260c2af9fa5be43df306040  data/sounds/urge8mon.wav
+7ee24ceee2a83ca2fa31a9c0cdefdba297d301cd  data/sounds/urgeclap.wav
+98938b947ec02fbb79db06f089d65638350e190e  data/sounds/urgemon.wav
+b5713b3b34dbbc2a0f16136ffbe038e98917d7d2  data/sounds/urgenew2.wav
+0b09a49cd43c21119a60b2b97a3c62325ddbece5  data/sounds/uuhooh.wav
+a924acd41e5153d4d862cee96cf84a8afa28af37  data/sounds/villa.wav
+8bbefa2f7e7635ca352e7c86de3d1e54f204d5a1  data/sounds/weyhey.wav
+8f42e5f32fc7fb36fbb277afe7a71baffda4538b  data/sounds/whismono.wav
+39419fe34788297cb20cbd92d00bcc8e457449a1  data/sounds/whispen.wav
+fd6aa65a73fe28984a21f0db49defe5a87443345  data/sounds/whisplay.wav
+903770fb44d8e5522ff62e10d899c59ffed03444  data/sounds/whistpen.wav
+ebfc8018cf1a8b0812045a308a1e68d1b784a009  data/sounds/yeahaah.wav
+d0fc26d818b2bef5e4bde1e41766ae9e141bbc0c  data/sounds/yeahuuh.wav
+d6305cd959db2b0aaa233ee3e1bb2e8ea8b7259e  data/stadium.dat
+1c6fae1bd3985b39f95f45489f3c502e20262fa1  data/staff.dat
+e817600750773d2bef287970c4d9832c5da53c9f  data/staff_comp.dat
+b2250513b3d80d34cc1629d6627e804a4ef8988b  data/staff_comp_history.dat
+6fe37ec706bcca5a924da671f32644a522aa47e6  data/staff_history.dat
+ceb0e8143228634f2f65399fd5e21e2085507dbc  data/swe.lng
+1bfeb9e8ca015922f2d17a8148c1d059e9041bd4  data/weather.cfg
+2b969a40f3ccaf3c6cc8f5a34f46e532fb3dca68  default.xbe
+d8addbca83b6edb8923fd6bfb5a44468508ce319  environment.ini
+ae8b1fe3f628ecc7c91a13dc2a2368249685666c  qstarts/ARG (min) - English.qst
+c43419685ad6f2d7de8dd63dd01efaa7b18ec5b5  qstarts/ARG (min) - German.qst
+ddc85ad56a82261f08cc584c549dc284c40ed2aa  qstarts/AUS (min) - English.qst
+9bbe445d50683d7d1da2dca2a8fa01fdb08f7492  qstarts/AUS (min) - German.qst
+da87a8b380aa568a6282098f07bc1b9c4ced2402  qstarts/BEL (min) - English.qst
+c5370f90315c6506ee3106c158b21f09747c9d79  qstarts/BEL (min) - German.qst
+36424067acbeb4b3692e090559e1b949d2b5a1a0  qstarts/BRA (min) - English.qst
+8afeb10d2aa8bef340ec921fef2320e28f011f91  qstarts/BRA (min) - German.qst
+d483ad70e29726bea71adf01f54f271d85768134  qstarts/CRO (min) - English.qst
+1a21970fe1dbaa53b79ae214df7a998710da2ec8  qstarts/CRO (min) - German.qst
+eb199a626f847e0a047620baba87f8af21e05ea3  qstarts/DEN (min) - English.qst
+28f908c474ce1dc055afa4c3c8ba79c4dfa5a68f  qstarts/DEN (min) - German.qst
+828f00749e74846f74cc54fee0d67f792d1ce3d9  qstarts/ENG (min) - English.qst
+9bb597d8c687e0dac343ecb2417b5c44ef154c75  qstarts/ENG (min) - German.qst
+fae2587dc66d3361ccf02dc84c878987ce78bf35  qstarts/ESP (min) - English.qst
+f312edac25bdc1b5be76493a7da0a8f2314d250a  qstarts/ESP (min) - German.qst
+f228ee02936a532398815a66f57c7cd931a01237  qstarts/FIN (min) - English.qst
+3df5e8ae1f3629b0e350829bbc2d4648cf2ea645  qstarts/FIN (min) - German.qst
+3b3a6e0b8657fdc7b5d6cad2fcacd7c1db5879da  qstarts/FRA (min) - English.qst
+f0d6cef69c0ec3e95b793d8db1422fdb0b7acc7d  qstarts/FRA (min) - German.qst
+17b314a1d24bfc47ebbd90b72e2fe8f95094748b  qstarts/GER (min) - English.qst
+6ebb297d570393b285c19061d87c76a3e0e25a6b  qstarts/GER (min) - German.qst
+476df1261a97d339f2891b4d2fecacb3f70ded87  qstarts/GRE (min) - English.qst
+fae07ce2041c0d36284e9879e64297ed021d162d  qstarts/GRE (min) - German.qst
+8fbb38bf5ea7170cc90a273dcca0b93611445f65  qstarts/HOL (min) - English.qst
+372695dd45291d67cc8623098d3460cd2078e056  qstarts/HOL (min) - German.qst
+f5e92a3e68da86bc3e19cf3d0e882dff4f1e476f  qstarts/IRL (min) - English.qst
+2b7fb7a6e9973560b4736e66acb4e3e62118c73f  qstarts/IRL (min) - German.qst
+848f833be45cad5818843e7da10a42177511ab8a  qstarts/ITA (min) - English.qst
+8b36f77611440c2123ff62ab1885ccc76a33fcdf  qstarts/ITA (min) - German.qst
+2f81d7ae5e4686a50ff4832bc176c71f9b5e86dd  qstarts/JPN (min) - English.qst
+226b213ab33c8494f5dd490f907d765cf739e8a4  qstarts/JPN (min) - German.qst
+96d1def81a878e7c4c2c0dd4a2ce3058fece8253  qstarts/KOR (min) - English.qst
+15377dbd687345239bf6b76fe3c325acfc214a7d  qstarts/KOR (min) - German.qst
+71058e8ed071099bbe4f20af98e3b3d3dec8bb19  qstarts/NIR (min) - English.qst
+a3511c0193e02b826e89f0f6fbb6dd57e6b1d828  qstarts/NIR (min) - German.qst
+92687101171f3b582eff0f813585aa283f0c7862  qstarts/NOR (min) - English.qst
+626d1853f17e5e395142d78c6826ebdbbbcc5066  qstarts/NOR (min) - German.qst
+5b7cfe17ae7dd4e27d5ce829c9f08f1f223b1e0c  qstarts/POL (min) - English.qst
+39c319b141421d7fc3a03855c5acf2126d52ac83  qstarts/POL (min) - German.qst
+cc10d00d2139c771fef3e14be86dd4e5b5ae99a6  qstarts/POR (min) - English.qst
+91a898c695c2530254371f92b106ed07cceffc07  qstarts/POR (min) - German.qst
+dc96496254e1b2b71f5bd28ab32e6b3e94967632  qstarts/RUS (min) - English.qst
+848a34a692f4a5b3edaf6d5e7d7c14d55193e984  qstarts/RUS (min) - German.qst
+8e0913c5282beea83755e2327620ac2f0bf5fcfd  qstarts/SCO (min) - English.qst
+53fdba8d0471f83f4b3915ae987d5d8a66d1043a  qstarts/SCO (min) - German.qst
+b38a248c604c8a64e66c25ed7e2509663e902139  qstarts/SWE (min) - English.qst
+b1f42c1ec0d70639f33ce40069ff9371db2d75e3  qstarts/SWE (min) - German.qst
+73c24a1c1c11fcf48399d1b5fd89daccf3afd601  qstarts/TUR (min) - English.qst
+a36dbefad1c3084eae8633db739b978645d00015  qstarts/TUR (min) - German.qst
+6299a2c682fc725064686a914bfed2c0e7ab97fa  qstarts/USA (min) - English.qst
+45042cdf3ca0c293e022663f590220cbce1f412d  qstarts/USA (min) - German.qst
+a31fea7b607d4b6654de1f90b6595fffdadcc757  qstarts/WAL (min) - English.qst
+7abe78bdbc8a2231862a7f5a00db6ddf47d576f4  qstarts/WAL (min) - German.qst

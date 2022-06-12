@@ -1,0 +1,336 @@
+1f2803b3a9daf0174f6aa0c96574fe72aa25f903  dashupdate.xbe
+35dfa9118adace6920531f38a58bdaa8062ecd5e  default.xbe
+3fdddb978b3486d6e4d406ade56697374a788e20  media/Font.xpr
+08e0354e56d7f26b85dde49d4fe5ebdbd2a8ee71  media/Font_cht.xpr
+cb015cc9b6c001c2a3b3f8135d7811c7138df7dd  media/Font_jpn.xpr
+14cdc4f7ab9d03875c6bdfa3929e2627cc344273  media/Font_kor.xpr
+5722ec6584bc772abc124ed49eae0bd2bff38f11  media/Fonts/Arial_12.abc
+bc8a7b8b117f86204433f3f8e03b365c25c9b655  media/Fonts/Arial_12.tga
+a5126609b6257f24378539df05605939e6a47a6c  media/Fonts/Arial_16.abc
+889d5bb77024780d86521ed239b547644fe6d807  media/Fonts/Arial_16.tga
+c589a93a9b70945426e1073ab42592b98107aba9  media/Fonts/Arial_9.abc
+40ec6d2c6727bb95fefbd76b9d1cd196240b5771  media/Fonts/Arial_9.tga
+89b1de62f490aa3861596b9ad494e4915f8f3eb1  media/Fonts/Arial_Narrow_14.abc
+617bcba4301b1b0f53b83b43cbaac43026319254  media/Fonts/Arial_Narrow_14.tga
+75e4aeae9299a3306f0806d2c6bdbc36dccc0ed0  media/Fonts/Console.abc
+2e7d067250cdf611612dab0035375e20407b603c  media/Fonts/Console.tga
+e5dbd8466fc934c4e19f1cbfb24a123113e1fc74  media/Fonts/Font_cht.abc
+8264f0c5ed025b6f8c7c49f833e59b37a0e92e04  media/Fonts/Font_cht.tga
+26bd12a8e6dbce5b41634c59a9a1e28b99e1a7cc  media/Fonts/Font_jpn.abc
+36cabaa57cee196d9e3a0f63d3c3266717d8c4d6  media/Fonts/Font_jpn.tga
+94f3600c16cbb53b5a16c27035dfd773a47d2688  media/Fonts/Font_kor.abc
+ffa74556a2025b474e1f18b66a73db72ef9e6be3  media/Fonts/Font_kor.tga
+da1bafd4b5668b5f0a534dd1b0a9b965ea2eff3a  media/Fonts/OnlineIcons.abc
+ab99cf83164b3e17c65fb158d2f5dc61272bdfaf  media/Fonts/OnlineIcons.tga
+a0cc76ba20905633c06c93910549e4dd443a027f  media/Gamepad.xpr
+c18392e091e9b77a26e2a62848c02fe18e8ba231  media/OnlineIconsFont.xpr
+c5ba71fe03ac9888bda44f9bcd69a27304a9f73a  media/Shaders/poolball_ps.xpu
+efd6f194b13027017abde5d281569688102f341d  media/Shaders/poolball_vs.xvu
+d13e511105c38d550528f0e98edf8aef772fd558  media/Shaders/poolballdirt_ps.xpu
+f7f89bbb1b5ec1ff1051b6f3080d07c3cc6ae14b  media/Shaders/poolballdirt_vs.xvu
+b61b022637cb265431d3cf4545ba87f8b1d95f47  media/Shaders/poolballnoenv_ps.xpu
+9000b7e469c9ccc5568cdb0864caa1f1274b3892  media/Shaders/poolballnoenv_vs.xvu
+c534de10f0f201196c5a10b1045e92fd1795ece7  media/Shaders/pooldetail_ps.xpu
+796539cb084b386d9af8338c87399cdcda63e78a  media/Shaders/pooldetail_vs.xvu
+eb4ffadf4b20f95d9c6ff117b02509f711ad5aec  media/Shaders/pooldiffusespec_vs.xvu
+06c8963fac37e242d47fe9c883a38543aebfb7f1  media/Shaders/pooldiffusespec_xps.xpu
+dfc73b3299abcd52076d67d9b230a7285ddeb61e  media/Shaders/poolfeltbump_vs.xvu
+9e9c7e279062fce232e9d6c1a68ffb0d8f08a47b  media/Shaders/poolfeltbump_xps.xpu
+69f78d6f9e7c41f179dbf7f6a70edd1df8db84d9  media/Shaders/poolscene_vs.xvu
+56623f6ed2b6fa10500fb383a376a96766949671  media/Shaders/poolscenedetail_ps.xpu
+60a5bb0025ca6417d85657ca97e16a8b585ee0d8  media/UIXPlugin.uix
+266a2626faeeafb4aee0e328ca1cbc9bd833ea87  media/art/Balls/0ball2520.xbg
+e299398c6b3c49a3e9cedd45a072197f4af9e6e8  media/art/Balls/0ball2520.xbg.old
+d960f9437b664e5b4c2745563e5e51ac6be278a6  media/art/Balls/0ball264.xbg
+ea580dfdecca83123f758e1e4268baf2332dddd4  media/art/Balls/0ballpro2520.xbg
+618e5a65c213cc4643fb865e47fdc0ad2116a669  media/art/Balls/Procue.xpr
+c0d0abf53f372cc10a5a39da70ab718c3b804bf0  media/art/Balls/arrusballs.xpr
+473c8b92475b319b858e866976f5918f15f61a50  media/art/Balls/balldirt.dds
+9cf7e0d5d11af76d5d9bc811bf9da32aa0fc2370  media/art/Balls/balldirt.xpr
+d844bef11aaffc4980e973e4625cd91ac84610a8  media/art/Balls/balls.xpr
+cc68e4b489a5bf4e7f1e4111b3a76c16a4864684  media/art/Balls/ballshadow.xbg
+284909f99af9ecc354804386876139582f53895e  media/art/Balls/basicballs.xpr
+d24852822cab48a0c9124aff5f48c3864e095118  media/art/Balls/centuryballs.xpr
+ac82f7ca968590b5ed89c2a68185c929e707c86e  media/art/Balls/chordballs.xpr
+ba52847c7766b18c55a55fabe46dc75301a352ad  media/art/Balls/futuraballs.xpr
+59fda39cfb92b0dd1f2d71bbbffb841e5ce7391b  media/art/Balls/oldschoolballs.xpr
+d324a0accad49442082ad6a157c06900ae124e70  media/art/Cues/C101.xpr
+34482dc07fbcfd104ef347c6cfda14ff116b9b44  media/art/Cues/C102.xpr
+3657979389b39b36f54594104f40b6c648ca1a09  media/art/Cues/C103.xpr
+99221499c41c68b2e12b6a58f5cb464e17514193  media/art/Cues/C104.xpr
+02dd9c6190e6a0ac944386ff3de75646b24718ab  media/art/Cues/C105.xpr
+a2bc261d425c0952f0c87f68bdb1b58ca4a72a9d  media/art/Cues/C106.xpr
+b8df58e3e80a4a1dc487ec52e19e5086f19dec6a  media/art/Cues/C107.xpr
+260307f32617dfde3c0aa398032a0b52cf01cc24  media/art/Cues/C108.xpr
+c0b87f1f5209cdcab761deacc50692830fff04f0  media/art/Cues/C109.xpr
+b55cdf40042280edeb6ae171a4ca5e2e91b5ad17  media/art/Cues/C110.xpr
+fa8534a10c6a9ea259aa92ef1ac75a6b48ed6ab7  media/art/Cues/C111.xpr
+5911bc90e145dac83d08f24b9b744ab585dcf0f4  media/art/Cues/C112.xpr
+e644ec5954eb2b58eecaaafe08f0ed85e649352e  media/art/Cues/C113.xpr
+7abcf0c08d3633168b6b27a6248ca9ea8f620d65  media/art/Cues/C114.xpr
+14e0abafbabb7f1627fda2873e099fba4c7ec67e  media/art/Cues/C115.xpr
+06cf29e82be1bcdea19c2219fb039d6d9ab3ddda  media/art/Cues/C116.xpr
+9c159d39c47b2dc32af18d6e34c05149f03509a1  media/art/Cues/C117.xpr
+dab9cf4c2c53c85ea249c1572b64191f30832555  media/art/Cues/C118.xpr
+be5a4978989bb15cb8f9b02755d9e3f990d23e45  media/art/Cues/C119.xpr
+38db31f8856cf198fb8237c1efe9d904433448d3  media/art/Cues/C120.xpr
+9c82d1cd22e134ce30c6beafa381fa123c85a76a  media/art/Cues/C121.xpr
+ca81a9d9d7992720fcdb86322be633bce2b10bfe  media/art/Cues/C122.xpr
+dc61a42404a55961ffc93cc5cb101be9e57ea143  media/art/Cues/CueShop.lst
+2d459b65f2d2a19bb56cf37d5b7ae104a0bd824f  media/art/Cues/celeris.xpr
+36a61f714a8c27df1775eb6a8a4464715ae6b7c6  media/art/Cues/cue.xbg
+266c13573d9546fb407a4c17574ad5724f20a96a  media/art/Cues/cueCommon.xpr
+e601be74a1e348d98dfb45589a504cf810246b76  media/art/Cues/jp1.xpr
+a1a0eab13ab856e7704ac042c657320b72167f2b  media/art/Cues/jp2.xpr
+8af581e0f9b7b4be8b523cc86e8af0c7b686a8c5  media/art/Cues/jp3.xpr
+cf772888be3dcae128e2200dff4a34c229a7b6db  media/art/Cues/jp4.xpr
+e75fc8eee599391f9a911004e5fe93d19cce4e35  media/art/Cues/jumpcue.xbg
+8ee42ad53749bf57b2a71975568418d4a26d818d  media/art/Cues/p8.xpr
+301c721a016381600d85960a5e7d300bf9572f62  media/art/Cues/vm11.xpr
+869c39cb1a6967bbc80c97a1d8c8417fcc6e40d7  media/art/Cues/vm13.xpr
+4bb86b633b33c375af44790bd1c504bad09307d9  media/art/Cues/vm17.xpr
+40f45f3c3865c0f89c1574b247f3675f69ce22d1  media/art/Cues/vm2.xpr
+654becf0a461bf395e34129bfe7fd65069d0046c  media/art/Cues/vm24.xpr
+29a79300835c31da4ef2a73c837e035d2a772c2f  media/art/Cues/vm29.xpr
+d5338813d55b2f8001eaae8ecba68ee155975f8f  media/art/Cues/vm34.xpr
+da10a5edce66d13ca7e6172c81c9c092ccba0f75  media/art/Cues/wizard.xpr
+06843032cbb128733904999899753abe01095bc1  media/art/Cues/wolf.xpr
+079043f5353fb057dc0277708dc8f9ddcf23d197  media/art/Rooms/BeachHouse.xpr
+a41c6c0ce744587801da2c2f7beb895926e07515  media/art/Rooms/DeepPockets.xpr
+0c0e879dab21aa2dff5645db405626da03570808  media/art/Rooms/Deeppockets.xbg
+a307676aae3c72998a0d81a8882ed3f51af8b2f5  media/art/Rooms/Deeppocketstable.xbg
+668b421760f59be15a21aa10311d64d7b9192c3c  media/art/Rooms/Deeppocketstablebed.xbg
+fbb8d9b1b8ec3a9ff34eea5a44b0e777a1cba92e  media/art/Rooms/Felt1.dds
+84f30f07cb2b73c7b21cde2ec9b500038a19f0bf  media/art/Rooms/Felt2.dds
+b1c61a59ea7c97012c67abcd348f0cd016210f7b  media/art/Rooms/Felt3.dds
+1e4b7a5b98cedddd861d87f1b69df7381c6a8889  media/art/Rooms/Felt4.dds
+ed0a4b16feb251ee783ba79de306187d607b0785  media/art/Rooms/Garage.xpr
+9d41bee5768a4b7e6ddbc68a8383ac7bb6e4ed9c  media/art/Rooms/Hardtimes.xpr
+8797baafe816d78d2c5cdee09b083ba54021d880  media/art/Rooms/Hawgpen.xpr
+70927e996175b109268929d9387d1251d19588a0  media/art/Rooms/LochLomond.xpr
+b6e2bfc58bda0bbdc87fc62dab67dc94bb1af888  media/art/Rooms/MonteCarlo.xpr
+53a1f95a083f96c3e7fe591c0bd64e96ed4b9cef  media/art/Rooms/PitStop.xpr
+4b7ff717731d1c2ece97a99e7bec85eff419b439  media/art/Rooms/bartablebed.xbg
+74e80dbe8f249bc234d533f922a3a7abdd120ede  media/art/Rooms/beachhouse.xbg
+fe1a858715cb1b27f048c23529e693d430ec67ab  media/art/Rooms/beachhousetable.xbg
+48933b202b3b951c8cfa178e13364c6449badc16  media/art/Rooms/beachhousetablebed.xbg
+37b7ccf1650168cc5f3b6927e59450b164d9006f  media/art/Rooms/champtablebed.xbg
+6fba5f4b2ba8482e819f01df267503bfb9ce365a  media/art/Rooms/fish1.xbg
+96a4d27dac788113dcbd4094660dae0f8a72fb49  media/art/Rooms/fish1Old.xbg
+7b4ebdf8ad85ee51abb733c79f178e4b5f5c11ae  media/art/Rooms/fish2.xbg
+8127590cf2d6f6fd1f9cb25d9cca721dd76e2cbb  media/art/Rooms/fish3.xbg
+b4c4798f721a6658aa16d57b86f503cc969b2652  media/art/Rooms/garage.xbg
+222f98fdcf64b0efe3a36f37620b16429a2db1cb  media/art/Rooms/garagetable.xbg
+128819e8a9989601a08664e26719376d3b736dfa  media/art/Rooms/garagetablebed.xbg
+bedc66cef490e40e3fda0c908703422402aa42fb  media/art/Rooms/hardtimes.xbg
+eb847f1f22117758c4bcab13ecdf7cfd7f031980  media/art/Rooms/hardtimestable.xbg
+6a84f4c16deb2b755465d62e3b53d247476bccc0  media/art/Rooms/hardtimestablebed.xbg
+cec422d4557a8b6ef6aebd4d08457fc121f9ef1e  media/art/Rooms/hawgpen.xbg
+855adca4f3e2b3d25e6647dcdf09b65b7741bd87  media/art/Rooms/hawgpentable.xbg
+848d4df9af00d55d424b913adc364f1e976690e8  media/art/Rooms/hawgpentablebed.xbg
+7f324f45b9e367c4966f6c06d3a067e07df01541  media/art/Rooms/lochlomond.xbg
+e3fe4b9767080b20d85ae3a4e35e6a717aebda37  media/art/Rooms/lochlomondtable.xbg
+049c25096bc37b2a4ff065b2c11c9b1ca644aec5  media/art/Rooms/lochlomondtablebed.xbg
+6783959aba72b8169c8be340ef34805b8d2849fd  media/art/Rooms/montecarlo.xbg
+eff7965d1b5e11616a0e2c884e8b815f4e4108fa  media/art/Rooms/montecarlotable.xbg
+19785e806f0c915909a36e6fce6b80b5af754c03  media/art/Rooms/montecarlotablebed.xbg
+aa097e6462f6b92a3bafb308cc4a0a0c2e7ba66c  media/art/Rooms/pitstop.xbg
+a7f609e39f62fe438e3188c427388c65202a88b3  media/art/Rooms/pitstoptable.xbg
+33577afc0d37b942f17f07ed323499fc136685be  media/art/Rooms/pitstoptablebed.xbg
+de975e887fc8d30dc8048580eaa16f466518e900  media/art/misc/NormalizationMapMip.dds
+b1a07956dd3ef0ff868f1857d245823d3579dda3  media/art/misc/ballPick.xbg
+80a81feecfbe6c137ffaa4f4d3324961c56a5d6b  media/art/misc/misc.xpr
+df3a8d54736558c21d471e2625557acaaf49cc54  media/art/misc/pocketPick.xbg
+1ad55cee2a853a296c5087ba0341574d8385f809  media/art/misc/viewMarker.xbg
+30e7c36b1dbe2f932c85931a9ce88b969420a686  media/audio/6dBmaxballhardest.wav
+d5439eea72873fb283d7e449bb33120c99e4d83c  media/audio/6dBmaxballmed.wav
+956af7b7401fd577634a7f60a098e9b15996e4b4  media/audio/6dBmaxballmedhard.wav
+0a2330417aa3fdb84a2e42f4baafebd60bd51bab  media/audio/6dBmaxballsoft.wav
+d115fb92e39ddec755fc4b43378c8b6f43e32b55  media/audio/6dBmaxbouncehit1.wav
+16d2611894524ab8c09759c9d1164d37c4ac41bd  media/audio/6dBmaxbouncehit2.wav
+33d3dc12e1aaea6bf9e038f795a20aa4970e5512  media/audio/6dBmaxbouncehit3.wav
+68966e07f5f290e5c2f062a86b9ab0e6bd7cfc51  media/audio/6dBmaxbouncehit4.wav
+00f6c9004ed5cf2930367a042d249445b1ba3451  media/audio/6dBmaxbouncehit5.wav
+e6a9b9d151a9c4ead02648128e0a41af57b25090  media/audio/6dBmaxcuetipmed.wav
+4a3523c981854a1db10a616d7f2aa5caf93d73be  media/audio/6dBmaxjumphard.wav
+56faa0c50d8ed5d65a050707781afdbb3d7b9a5b  media/audio/6dBmaxmiscue4.wav
+f9a23cc72807132cf654a0220c88713b1556bf65  media/audio/6dBmaxmiscue7top.wav
+5e8483ff9d9e82686960dd5df883ed8d941110bd  media/audio/6dBmaxmiscue8bottom.wav
+226e5688eb8269e8e86cebe48ad29e31fff89622  media/audio/6dBmaxpocket1t.wav
+e8a0c2613c8d9617854efe8bc7cd696d9e449461  media/audio/6dBmaxpocket2t.wav
+c29f34dbe454b2274dc146377dae995074b80357  media/audio/6dBmaxpocket3t.wav
+8140fcac679c95715e2cb5bd9176e9c21b04f9ad  media/audio/6dBmaxpocket4t.wav
+3d0e5f11d6f0c9a6f22691d58aa6bd71581bc70d  media/audio/6dBmaxpocket5t.wav
+28455d2fe14f51a6b07496b8920a1d773cdcb450  media/audio/6dBmaxpocket7t.wav
+30439395254bd866b1b876422a85fb822d327d0f  media/audio/6dBmaxrack1t.wav
+144ca676760d57c5f414d4eb4a7003e791535962  media/audio/6dBmaxrail6tfiltered.wav
+ae6fb7ce9dad0cc7331ca88d9347bfbedc6e1281  media/audio/BallBackPocketHard.wav
+42b6b216387c4be164918318e32ee0c74eb06d01  media/audio/BallPocketBottom.wav
+051bd13f72fce6d81b40671b302be76df272e0aa  media/audio/BallPocketMed.wav
+ba2758eead9d6fb207177f093ab2e78a6e7ff244  media/audio/Chalk.WAV
+434c526f05134cebb770005a36a9dce9a87d7fc5  media/audio/XactSounds.xsb
+c7fb313b1893bdd091af7274d345acbd68c10dc1  media/audio/bird01.wav
+5c531b050c262d8f15478b99bb8a1bc666f67d41  media/audio/bird02.wav
+0da26345c2b9451f9433e99a9a91960371576002  media/audio/bird03.wav
+a497069668b42255ed042a5fcceeeba08759b682  media/audio/bird04.wav
+6b54e9ef87bfcaed579a6a5022c144c8331bc4da  media/audio/bird05.wav
+08a95cc1bef8ca96ee9476c7c8dbdc07f224d643  media/audio/bouncetoprail.wav
+5b665e417685523fba7ae9865e19058652381cb0  media/audio/car01.wav
+6ae696839938f6422b50ed1b86b08bcd22a4fdee  media/audio/car02.wav
+d30a69e265472fe7b35b9fa9dc26d1db52f94906  media/audio/cat01.wav
+dced7cee3d9d84be8093e0b922153c3616a013ef  media/audio/cat02.wav
+c2aaa92f767ce915bd7eb8b8c640c86169b07539  media/audio/cat03.wav
+9d962ba8699242a383658d1a13d75925b122c036  media/audio/dog01.wav
+b8dc0e14e587caa9149ed69645cb2c8b9bf4c1c4  media/audio/dog02.wav
+63cb65c68c72276e33b2c956abd9cc1eb359ca65  media/audio/dog03.wav
+3c850bb94e2353d512dc6d49d448d8556fdf2d68  media/audio/doorbell.wav
+df4bc8c9526384a422d7a31bdc8c960413a7547a  media/audio/dsstdfx.bin
+263bf41a64a40a80ff2432ecc0434c6d8b3a6041  media/audio/impede02.wav
+347b30c6da985f5c8e70aba8dce3a41801e379cd  media/audio/jet01.wav
+37655c1f92e5c747d8e15fe75994ea2c505b59a7  media/audio/kids01.wav
+14649c6878633de32c0c2060bc611b83d4c45d88  media/audio/kids02.wav
+dd5c38db7ac92e6183c850ef5f1108c2451fa41a  media/audio/laugh01.wav
+626f1fefa4f7957fb764637776c5485239b42050  media/audio/laugh02.wav
+5e09663bf782955ebd7f693d9bbc6035d795b3f2  media/audio/laugh03.wav
+dbcea559e65ce5e4ebbae1b80c2935308b55a5bd  media/audio/laugh04.wav
+6f92f67a6657e4d79d0fd9e4589b6f04ae9f3a6f  media/audio/music/beachhouse.wma
+3b6059c3a133944164928782a52ff49603970794  media/audio/music/deeppockets.wma
+c15d6c7afc068c0e48a8e5287d3edf3100dc147d  media/audio/music/garage.wma
+428dfd9ef5b0746ffdbf228a34c940628df71152  media/audio/music/hardtimes.wma
+93ca4f66f145dd5d8b0b0980df41b0265b817991  media/audio/music/hawgpen.wma
+f7c332a8d5ca71a237c6b8a2366fc58e402a2787  media/audio/music/locklohmond.wma
+b38b054bbdf419bc3802c8c7ac865ca57bf2b574  media/audio/music/montecarlo.wma
+babef525d1fac63abe364b1544efcaea6c28e2db  media/audio/music/pitstop.wma
+553b16a2b59f785e4a175cb84e807ee4080032b3  media/audio/phone.wav
+c758b47984c4d7e934d5c029682f2f499a12a400  media/audio/reminder04.wav
+cdaaf5839749a625d2cdbe8ead9cfb8dc83acedd  media/audio/sfxhpcrowd018bit.wav
+d659f4773c4e3c57935601d2de92845ea9465d54  media/audio/sfxhpcrowd028bit.wav
+32f8c88383c6126a324059de7f74a553ab0c8c81  media/audio/sfxhpcrowd038bit.wav
+1235693ad92ae13e5edad38e789ba72eafc7dccf  media/audio/sfxhpcrowd048bit.wav
+fa837d18bfcdd810388b64fbd883c2a4a4801733  media/audio/sfxhpglass018bit.wav
+12eb7865bf2c610bc2efc5b78c39294ddaa6fa28  media/audio/sfxhpglass028bit.wav
+4f41c9086fc675fc64924df7876c6103289bc53f  media/audio/sfxhpglass038bit.wav
+6258210958e61020dd861113c7346b1ac02d43ac  media/audio/sfxhpglass048bit.wav
+1baed1bb99838d6d82fbd5b12677d76caac99cf8  media/audio/sfxhpharley018bit.wav
+535d9e1a44617a341f33dac9eada15a913c6a2c1  media/audio/sfxhpharley028bit.wav
+611677935f7f165a4949697d83812e942b6cceea  media/audio/sfxhpharley038bit.wav
+80dfe23e4ac482bb0817b87e6bd7eb20d95c90f7  media/audio/sfxhpharley048bit.wav
+e9f208b132b933f1176668b6f3b7702e76c8619d  media/audio/shotClockBeep.wav
+5fec5417f5a5639d6775eebb3dbd65e7028fea30  media/audio/shotClockExpired.wav
+df4bc8c9526384a422d7a31bdc8c960413a7547a  media/dsstdfx.bin
+d34501d12843d85ac891c9f662be48170a92a673  media/english.lng
+b9656165b1787bf80d9fe12bb8d1b5f3e33c5dce  media/french.lng
+7f951ff76bf6f8edd6579c62c23fe574e97c04a6  media/ged_english.lng
+ba8cef48b24bd00cb57e3e07f489af7798ffd5e7  media/ged_french.lng
+af1e8938e608f8c2ac7990cfdc5c9794815182dd  media/ged_german.lng
+2da3754e040ef061d90122d9be20821a85ea9210  media/ged_italian.lng
+3d2e8cb308c8bb3ece96886caee04567cb70d656  media/ged_spanish.lng
+06f4024dd0ed570be2d1a23eb32da4f9edf488f1  media/german.lng
+fd695382c88e6404e629a9d4370b33a8aa0597eb  media/italian.lng
+3641e79730b0d3c2741e8aa0efc092e1eb4ea809  media/movies/beachhouse.xmv
+e1950dc6d1a4b36295b019db7b2878b8c0ea1264  media/movies/beachhouse_french.xmv
+5a4783b07520f2369743e7c9af5ddd6c67d9e2c5  media/movies/beachhouse_german.xmv
+c5b4c146bcce0a5e05f6abe4787062ab8b0776d7  media/movies/beachhouse_italian.xmv
+56b517585fd354b35bcc11b493b014174b2427e1  media/movies/deeppockets.xmv
+2e7272d4d73cab08382a9a0bb9d62704648b001d  media/movies/deeppockets_french.xmv
+0a2f034c961a3a80cb2c805de74d11f442392221  media/movies/deeppockets_german.xmv
+97a37903079b42b70bebd014e380669463da1423  media/movies/deeppockets_italian.xmv
+b4cdd1ec9b7ce40dc65ae55db618c4e6cd727d3f  media/movies/gs.xmv
+26380d5e7d2951e35f17c322c018e2d5e8a2f109  media/movies/hardtimes.xmv
+51e7d7950ecfb218ecf638a93cc73ec870929225  media/movies/hardtimes_french.xmv
+fc8463a235e9d383d352a7c533a93943af1110c2  media/movies/hardtimes_german.xmv
+6721a5ef65b599dc490e33d037d5145a3cd3151f  media/movies/hardtimes_italian.xmv
+e6f0b1b182971b766edc0dfc54790867c1412297  media/movies/hawgpen.xmv
+596423a02cca779a751ee3a3dd856f4c60ba2aae  media/movies/hawgpen_french.xmv
+594bb5034df59ab307067c72bf8d043bc3e9560f  media/movies/hawgpen_german.xmv
+726dbb80883c411e5526183de155e3626bed3942  media/movies/hawgpen_italian.xmv
+79fabefcb397bfd26d1706368ef636856645cbca  media/movies/lose7.xmv
+5311ecda7da5345eab24c682ae13d66213cfe521  media/movies/lose7_french.xmv
+ff06ab21e53e91e5c78f005db362e3c5cdf92e65  media/movies/lose7_german.xmv
+9ac4e3c6832273776e586d109b7c737849c1c449  media/movies/lose7_italian.xmv
+1db6018e95efc8a6a40c79bd84b70e390331a28a  media/movies/pcintro.xmv
+01f2a4d96c105b589c56d4c2c643b56337d63e98  media/movies/pcintro_french.xmv
+3ba597af35306e7639c2a452d222ea71d293d9ff  media/movies/pcintro_german.xmv
+7580728f23622b6fc1c9dd61f061bb9abd5ca856  media/movies/pcintro_italian.xmv
+9ca8db7373c6f2fd4538b15dad1151a434ce5e14  media/movies/pitstop.xmv
+9e1876dc19a94c03f5df8667710a296ba0147b07  media/movies/pitstop_french.xmv
+7f8031655c682714fcd40320a77da311f7701009  media/movies/pitstop_german.xmv
+7e3ba2f8e7a36efc426a74f9c6cca5a20983fb58  media/movies/pitstop_italian.xmv
+1863c770bd0a40231a359b5ea178875076d46b1a  media/movies/win.xmv
+df1d0ec1c951848c373854ecc1737d846523cefa  media/movies/win_french.xmv
+6a93dfdce7406e209bf46ba2756e596180ff8e5d  media/movies/win_german.xmv
+25cb0288275514a5e548b03452c7b20c9873b5b0  media/movies/win_italian.xmv
+ff3bde9d1ea7d7150d34f53e6d29af2893d42795  media/oppenglish.lng
+9f025608cdaca10a8da4754c9874e0bbd93d0131  media/oppfrench.lng
+23584bea8df4591989a4f93bfc2c935c3db38aec  media/oppgerman.lng
+2a2fa0c3d70e970596a40ba16f57cb8b51e69470  media/oppitalian.lng
+447ebf7fd3cae7ab5d11df446eec60f294542d45  media/oppspanish.lng
+bf8eb44c419e6cb3dbd09bb655f45def5935accb  media/players.sts
+2b78701c3bc70fe98efab7145e4bccc0fcbd4282  media/spanish.lng
+7b189d91b4e71071a442975eb03def94639e6783  media/start.ark
+ab687b8447ebe317369da47fbd72e47548870deb  media/trick/1 Around 8 Make 2.vpp
+5834db8d88b59836b6fe6546a2a1db7f75e6ce76  media/trick/15 Ball Combo.vpp
+8be9e7556670381070502b422a92f12a9ad53d5c  media/trick/3 Balls 3 Pockets.vpp
+5ef4cdc9a659f826cdb7373199b2bba49e6ccf53  media/trick/3 Balls 3 Rails.vpp
+68db9a06f0e8c2e8bc4d753bcd19febbbf62d6e1  media/trick/3 Balls Cue In Front Of 2 Ball.vpp
+a11c0fd90b98f068cc3cfbfcf2a6282fb783677d  media/trick/3 Balls In Sequence.vpp
+6a4add978569ea8797ec9a8cf7e3f621c999213b  media/trick/4 Ball Force Follow.vpp
+33d66d1e21018add74ec2ca02f28e58aec4f6070  media/trick/4 Ball Split.vpp
+4276fa1fd967907cf53f18cbff255b18cca4a5d2  media/trick/4 Balls in 4 Pockets.vpp
+666242e9cf0faa3bdeec68648890ecaa64f56df5  media/trick/4 Rail Reverse.vpp
+3118479c6f838d789ed982ae0517af0d7db5cb20  media/trick/6 Rail Position.vpp
+70476a60e8944e2dc667508710341e559c2f487b  media/trick/Another Hug.vpp
+476202e6d49e3d69ff0e7184e4b84a9837d8d3e2  media/trick/Bank Without Scratching.vpp
+b9c0e8621742df972f4fe4eb2ad9ad5bd5a6238e  media/trick/Butera's Challenge.vpp
+5453c0255630892971d7b5460cab99d9edf10177  media/trick/Butterfly.vpp
+a9c6a476d211139c11e5168c5bc0f327b711fab4  media/trick/Canoga Park Curve.vpp
+60529900c76704d6c9843baa11789346bb1b2f42  media/trick/Cascade.vpp
+86617c6a0664295b771e53709fa28466caa540ec  media/trick/Circular Draw.vpp
+d4838552402bf5d98828ddca9967b6a3deee68e3  media/trick/Clearance.vpp
+834733b6e47a2eb172b8c18f111086d4ea674d86  media/trick/Cross Table Challenge.vpp
+599c7918bb680b0b3c909c188d632d02c91c4c65  media/trick/Diagonal Hug.vpp
+d49e4288f50834aa98d8698ef1017d2e331b3562  media/trick/Double Kiss Bank.vpp
+98309c5edbda7d5da349c97eac7c10b74afe1f92  media/trick/Easy 4 Ball.vpp
+236979947a6e86efc2b9c745d29d50e736bf4660  media/trick/Ed's Masse.vpp
+6203f22227306ced1a75bb6845bf0dfd46039670  media/trick/Football Bank.vpp
+1eec8f7c4758f997574d6633c4a69bc3fd3832a3  media/trick/Football.vpp
+0239e3d1e7d44bc798753aa972dec4f1839f5cb1  media/trick/Force Follow Around Ball.vpp
+8cdad5324741293578a80aed2487593487af5181  media/trick/Force Follow Around Table.vpp
+81883bb0892151f4cc87dad3872d96d0003b8cf4  media/trick/Force Follow Bank.vpp
+98acf3f83347159f16dbe69ea9bfba84892573a1  media/trick/Frying Pan.vpp
+52d106dc48b7c7e91bd426fdcf842b0230c3fcd5  media/trick/Great Escape.vpp
+258542b03233f0aaf00931da6d210c97c7bce172  media/trick/Impossible Cut.vpp
+d88f04a15bffe24a28d66e21b5e9362e7eeba080  media/trick/Jersey Reds.vpp
+87739116bdacff2d657923902e5bcf8f9b931299  media/trick/Jump The Gap Bank.vpp
+dfe21c8390cf5c196192af6887034cf9f1585936  media/trick/Just Showin Off.vpp
+297adb9291ba79d3be49e7d52b1025c2b4ac2241  media/trick/Kiss Across.vpp
+593b109a9c12fd595f2edee8cab8df353c8fdff8  media/trick/Kiss Forward.vpp
+ee4d5dad7dd1467abe449de133b2f06640344491  media/trick/Long Rail Masse.vpp
+c79f849e295d13076f333d4cd959d411451583ef  media/trick/Machine Gun.vpp
+f66e65ecb662a6a9f75ab237516484dd522a6b6a  media/trick/Masse Around 1 Ball.vpp
+30c1c529d06252ea70bb578483024c74a7418973  media/trick/Masse Around 2 Balls.vpp
+5e3b1b433a8fcfb54121c9487912c44dcd082260  media/trick/Missile Silo.vpp
+b916466e970854b8376ead28a8753f8613a59fc9  media/trick/Paralyzed Intermediary.vpp
+cc95f8cded93b5b713150038839fdc08bbed1982  media/trick/Rail Carom Jump.vpp
+cdcb94fd233c4bda252907a85101070c33b72e35  media/trick/Rail Draw for Position.vpp
+fd659d82cca97ccc075bc8a295344e04adf4fd60  media/trick/Rail Hook.vpp
+75b29bb679f6e20c68c53633f596d4d7a228327a  media/trick/Resistance Draw.vpp
+6efe5d8d124baf39a5fe53f0991ca71f12a84af1  media/trick/Reverse Rail Draw.vpp
+29e0218f95f1f76f25c3f5c0b3c0fbed222d83fb  media/trick/Reverse Rail Position.vpp
+a3fa3399b2913796448cb8517957f77eecf99d72  media/trick/Rosebud Corner Pocket 1.vpp
+8d62281e34628c3e6304d1d43ccfe3be2e6e14a7  media/trick/Rosebud Corner Pocket 2.vpp
+07d69f1f64883e13e12f433c79c24748bebd09bc  media/trick/Rosebud Side Pocket 1.vpp
+7e259df692f561ae3e396257de916b9b6edcf3fb  media/trick/Rosebud Side Pocket 2.vpp
+953d08717f2bc91556543a6af35425a066f4fe22  media/trick/Scramble.vpp
+8b96cdc3a39ea4718f0a1d5d8bc67a1b556d1b66  media/trick/Shuttle.vpp
+b62cae779ffce0781389f8dbfd58c90929f39783  media/trick/Squeeze Through.vpp
+94f409bf617946a3fd6e1045c41fef008181e0d4  media/trick/Thin Cut Bank.vpp
+a6ac0f17f1132751a200f63eabba293326b07e63  media/trick/Time Lapse.vpp
+e72c6354744fb2c3559ff604dd5a1783643c4f8d  media/trick/Timed Bank.vpp
+72f47fde95a93f1aa28a8fc28beeee20a6f18026  media/trick/Triangle Masse.vpp
+0a2fbc590d4f5c640916a8eeb954147dd1700c96  media/trick/Two Rail Power Draw.vpp
+14d6a9f4a5c7d00574b908ec92e5216911d5b095  media/trick/Ultimate Kiss Around.vpp
+80aabcc4a103bac4009875ae2816530695d91499  media/trick/Wrap Around.vpp
+af69deea116f26f1ac523347321a8c723c40de6a  media/trick/jumpshot.vpp
+1104592cc7f1df0670a8ecfcf8336c6394754a5c  media/ui/res.ark
+7194c886b6c1c7ddde6db3fbb4579825834d9081  update.xbe

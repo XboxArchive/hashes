@@ -1,0 +1,126 @@
+298f5a9cfa79880adcd995fc424daa04627b038d  Games/galleon.gam
+f44e09dc436fb629091a5e104048a47bc3c86fd8  Graphics/Entities/Projects/AnimProject.cfa
+d2d6ce3ed42368e908943bf0f0ce1727995161e1  Graphics/Levels/Game Saves/Akbah.GCG
+1626a624504e33b79e92176f88fb412dabcf3d2d  Graphics/Levels/Game Saves/Akbah.LMP
+bbad4e29bd6b5d7e558b0560955954ce65b98b5b  Graphics/Levels/Game Saves/Akbah.scp
+e5a24bddbe52e9e957e9fd1b01011afefb2971d6  Graphics/Levels/Game Saves/Calverly.GCG
+3a78f3bca9faabc4a8a43cb5083401ca53cbf607  Graphics/Levels/Game Saves/Calverly.LMP
+ae98cd5e50622f5debdadcc126d4a2de82239853  Graphics/Levels/Game Saves/Calverly.scp
+87e8414a5688ff5e126bf95c618c5fb881c09647  Graphics/Levels/Game Saves/Calverly.xpl
+d66fa4031a952a43fe275ebf17aae3a33b78bb40  Graphics/Levels/Game Saves/Calverly.xrg
+273f9ba711cb41403c7dac5f45cbc3026e116e16  Graphics/Levels/Game Saves/Credits.GCG
+d03bffd3be6283b23c681b91eeb76cd45fe98a4f  Graphics/Levels/Game Saves/Credits.lmp
+6dd9241e2fea1927954707b76f139d383c9bcd79  Graphics/Levels/Game Saves/Credits.scp
+36c04818b86d2ce5caae71823dab523df4ab9486  Graphics/Levels/Game Saves/Credits.xpl
+d8cbb55c510de322b6ed70caead8a67e6e2c21fb  Graphics/Levels/Game Saves/Credits.xrg
+f20be1d73704725234d327d514fdf59630c24f28  Graphics/Levels/Game Saves/Epheremy_Intro.GCG
+fdab3cb69c15a529a7fd1138611cbea1279f287c  Graphics/Levels/Game Saves/Epheremy_Intro.LMP
+c4c0c931285b55d96d421df5c14af90a442f6945  Graphics/Levels/Game Saves/Epheremy_Intro.scp
+f7c030b9b6a581c38934b665c1cb113aa49b4061  Graphics/Levels/Game Saves/Epheremy_aircastle_transform.GCG
+bfcabe94bf5c9ee99a8938ea0922d6c2232b7e46  Graphics/Levels/Game Saves/Epheremy_aircastle_transform.LMP
+d908f208421b239e66dd66511f8be8ac99d5c488  Graphics/Levels/Game Saves/Epheremy_aircastle_transform.scp
+04cb463119eae4a430b9412c4b611f178c3ee932  Graphics/Levels/Game Saves/FightArena.GCG
+fa065b7486e702bcce4f487ce109638fc0e2a587  Graphics/Levels/Game Saves/FightArena.lmp
+0de8808ad684a77a13dfa375dc15f6ae3079706d  Graphics/Levels/Game Saves/FightArena.scp
+61086b8d082569e55472a2242b10a3d84777c8ac  Graphics/Levels/Game Saves/FightArena.xpl
+217167345e436e916dcf88d93c6c7054de3f180d  Graphics/Levels/Game Saves/FightArena.xrg
+27227c3f910305b555d1bc07fe9d8b1651287354  Graphics/Levels/Game Saves/Golem_City.GCG
+b871923a66365873bf7874c2b9faf09b034e6b54  Graphics/Levels/Game Saves/Golem_City.LMP
+8195dfad545060aa2308cbc54a0414a0555a9e82  Graphics/Levels/Game Saves/Golem_City.scp
+d33b85eef59d7393f313af1a321fda8874fdbf5a  Graphics/Levels/Game Saves/Load Progress.GCG
+bdeb6fb6f07a6f383f4d57e211fabcb156ff0f65  Graphics/Levels/Game Saves/Load Progress.lmp
+e8e1c59a3fa1e0767355716117b308f2be0251af  Graphics/Levels/Game Saves/Load Progress.scp
+582ba3156eb17c4fe016cb96df0bf2f43eb9b286  Graphics/Levels/Game Saves/Load Progress.xpl
+950f44809de227da200d0abece64955675ddab5e  Graphics/Levels/Game Saves/Load Progress.xrg
+b713b6ac4289f424bb8b37d8a883e58fed2a618c  Graphics/Levels/Game Saves/Main Intro.GCG
+bdeb6fb6f07a6f383f4d57e211fabcb156ff0f65  Graphics/Levels/Game Saves/Main Intro.lmp
+4a57c521e5a7948746fef16d2ae4d602bdd6b28f  Graphics/Levels/Game Saves/Main Intro.scp
+ec74202da23f95163ac4627014dd55306c7c1f32  Graphics/Levels/Game Saves/Main Intro.xpl
+0d93065ae36d6d6a083733fcd826fecff3bc96db  Graphics/Levels/Game Saves/Main Intro.xrg
+c739762c2568e0fb44a4a23fb2f59f1121f36b74  Graphics/Levels/Game Saves/Slave_Intro.GCG
+9b15377c7fe2d88e611e38e5a293bf961e569d4c  Graphics/Levels/Game Saves/Slave_Intro.LMP
+b368260e8c307ceccf148fea10e994698f07f2e0  Graphics/Levels/Game Saves/Slave_Intro.scp
+f919643bc87695afece8eb8f7c63da652b37ba47  Graphics/Levels/Game Saves/Slave_Island_Palace.GCG
+866763ff82ed9690ec0c808f5e5ba58ec6471a0b  Graphics/Levels/Game Saves/Slave_Island_Palace.LMP
+de413686cbb32326340b2a3f602fefe6a74ff019  Graphics/Levels/Game Saves/Slave_Island_Palace.scp
+d79ab8fb346e6a08469097f512f5885bad8ba1ba  Graphics/Levels/Game Saves/Slave_Island_Pit.GCG
+a27eb099ae6c9ee42d1041cbd6ddf70b26f7009f  Graphics/Levels/Game Saves/Slave_Island_Pit.LMP
+532a9f08f5d9c68d099a85ea8e47ba101e75776f  Graphics/Levels/Game Saves/Slave_Island_Pit.scp
+716580691172eb74518d4b78bd9409c1361a7482  Graphics/Levels/Game Saves/akbah.xpl
+765ab28cb00d2b3ae37908a9458c3a9c5a5ebd85  Graphics/Levels/Game Saves/akbah.xrg
+12cc3e8598bad7fc21fa9f6bc1bdb259b1c0c924  Graphics/Levels/Game Saves/epheremy_aircastle_transform.xpl
+9d7c97a7c0b86d2a095a3b1c57d4dc3c4ab9a49e  Graphics/Levels/Game Saves/epheremy_aircastle_transform.xrg
+b6971f2b4902563ca6490895c93f0654b5e19b69  Graphics/Levels/Game Saves/epheremy_intro.xpl
+e902c76902fe93e9a9dd03789308540d325d717a  Graphics/Levels/Game Saves/epheremy_intro.xrg
+1e2e7faafa0625b21f79bb1355754baf2d8d6cd2  Graphics/Levels/Game Saves/golem_city.xpl
+495c1615a70ea30a9ca6a1ce5e6d06ce9e00dad1  Graphics/Levels/Game Saves/golem_city.xrg
+00b83d60ef2943976801711b70b6888aaeba6b0e  Graphics/Levels/Game Saves/slave_intro.xpl
+8ade3db8facb84d7ed0b5ed407330e9f4eceac36  Graphics/Levels/Game Saves/slave_intro.xrg
+3cc7986af262716de4bd34674a1970ca4b02a5f2  Graphics/Levels/Game Saves/slave_island_palace.xpl
+87518dfb0c840cc5e677f62db32991d405bc99c0  Graphics/Levels/Game Saves/slave_island_palace.xrg
+074c8949525ec465d958da84956334d2992c9c42  Graphics/Levels/Game Saves/slave_island_pit.xpl
+a229df61230740d6a0d45582248b41853f453825  Graphics/Levels/Game Saves/slave_island_pit.xrg
+c0bdf520ed0aadf572a5850a6303e6e337ab985f  Graphics/Levels/Saves/demo0000.GDG
+bc50853a4c6c1f68ffe1c0765029e0a8bf8e585a  Graphics/Levels/Saves/demo0000.dem
+b82dd293923287dfabf864186aac50b0ff028ad3  Graphics/Levels/Saves/demo0001.GDG
+a40b3cf77b4e07ef5ae67cca5f667dc470051b30  Graphics/Levels/Saves/demo0001.dem
+17fb57c3f2a3a7dadb6c807986496a6974abb419  Graphics/Levels/Saves/demo0002.GDG
+60d0ffe133e49291e9e5e2ef1b9921994c37873c  Graphics/Levels/Saves/demo0002.dem
+153fafc9d6b3b73c6657831026b84a6bc9b67aa8  Graphics/Levels/Saves/demo0003.GDG
+b9bd499c2d1468c4019c258ef5a53091f10f4463  Graphics/Levels/Saves/demo0003.dem
+6eb428a2d99834a83a9cf4af7cbe82dca3d484ac  Graphics/Levels/Saves/demo0004.GDG
+1f76695fd2a0c2201a8a66da4c9bfc5fe12db228  Graphics/Levels/Saves/demo0004.dem
+1da7a7ccad15cf1d829d9491b014f8d04b60e64f  Graphics/Levels/Saves/demo0005.GDG
+8803db2f2b8e2f4a716a29d4a415fe96494f1080  Graphics/Levels/Saves/demo0005.dem
+503e887c79044e20142a98f0357cbd16f2013206  Graphics/Textures/DX/splash0000.tga
+ec7e3f77db96972fe0099e1fd687cade91dffa2d  Graphics/Textures/DX/splash0001.tga
+61877746473e4e9eb2ff58a82f8869d4bcd9cac6  Graphics/Textures/DX/splash0002.tga
+e813831df74d28dcd9c0ac14331815abe4eb229a  Graphics/Textures/DX/splash0003.tga
+fb25aec222211ba10a3cfb37ef1052b506662355  Resources/AIBrains.pkg
+d0ef394f5db6b08db95f37844835b02351503a65  Resources/Animations.pkg
+9a5b1422a80acfbea4eef51fbec538c7cf6b5829  Resources/EnglishSpeechXB.pkg
+3254852a3c2880146fbcbd7ee8918f0fe87ee5d4  Resources/Fonts.pkg
+c9abc241d9e2e60a1082e134cba184097f5c254e  Resources/FrenchSpeechXB.pkg
+216f9ae2d56bc8727cdefe826279796ce77c7a08  Resources/GeneralSoundsXB.pkg
+bf2ff9dc5521e101b9f41089c5cf5e2302036bf2  Resources/GeometryModels.pkg
+bd17ebcc2d7b7890dd12db2588e360d15e679770  Resources/GermanSpeechXB.pkg
+b2b09f7ad836bc66bf60e6233baa0bc9e18f864e  Resources/Materials.pkg
+d4cc10011c4cf0cd8483740526ba16fee32bfbd4  Resources/MusicXB.pkg
+ad177032f29e566cc38041d749f94cdfbb571c94  Resources/Particles.pkg
+33bbca741c7cfac7562daf62d831fc40c744551a  Resources/SoundMaterials.pkg
+fac8f68c2d0b4a00b48cdead11be9b09bbb1a577  Resources/TextEnglish.pkg
+f8d1a6479900a9bcfac735f8fa6ffd7467adf729  Resources/TextFrench.pkg
+38aee9f783bd5bc25841b301dd27321046d50f7f  Resources/TextGerman.pkg
+7ee4a6623fe94905ddce7a4ec0327af2fefc0c70  Resources/TexturesDX.pkg
+d3668bcd278e09693109a9bfc5dfc708c11b5f0b  Resources/TimeBars.pkg
+9de916c6cdcce970f2924e5d3e21324144cdb6b1  Resources/xbox.cfg
+a4f474e48bd368ef2ceb4ed2c2a7becc7276ebca  SaveImages/A0.xbx
+118f1f075dc98015b410aa54e0144a197f61a174  SaveImages/A1.xbx
+fa9b9ab4bc57a8ab998fd66d5ff66a3341828311  SaveImages/A2.xbx
+def48f16f29dc2b513bf2cfe67d804935cd58ff8  SaveImages/A3.xbx
+66c5d9e6c5a0c6916f71bed8af154e1ff25a7e51  SaveImages/A4.xbx
+15d79b99eae177e81fdbfdf71869848e57ab4122  SaveImages/A5.xbx
+2de19bcf436b41214081f372aa9682a105d662a0  SaveImages/A6.xbx
+890166cbca25cb52b467c19bf29eb62233e8916d  SaveImages/A7.xbx
+4852efde5cb2486dfd5cb58c27a0d48061a4bdb2  SaveImages/AT.xbx
+0ecd36af6f2ffb4e299e34618e36f757d75efda1  SaveImages/B0.xbx
+2ec8b33b4fda92e3e6546d6227251b39fcd918cc  SaveImages/B1.xbx
+cb436ca040ada72261f479ef4ecb85865566bf00  SaveImages/B2.xbx
+5620137e34f6dcee70ed49a837fed10c7825579a  SaveImages/B3.xbx
+923128956dc15a2f70d61bd762968e5d82228535  SaveImages/B4.xbx
+a2bed73ed96fdae76cc83ca2738e140304748f27  SaveImages/B5.xbx
+70563f1380f4d5118550d4050e9e723332ca9943  SaveImages/B6.xbx
+2577c617a9a276af1f84b39cba49b4378dac0fb1  SaveImages/B7.xbx
+83d10f9393c265aeb6d314e877a15ea75187c452  SaveImages/BT.xbx
+1f0e2c050e6ddbd5074aac9d40f8c5ccd8f7f482  SaveImages/C0.xbx
+2205167b0c94dea9fb50c2a9bdb5e513b57e83f0  SaveImages/C1.xbx
+b012d073fa047487c808bb3b4fc8842f94c8f43e  SaveImages/C2.xbx
+7fb6686bc8eed225048b178a5ebf0205b441025a  SaveImages/C3.xbx
+3b1223de054ca0b76d22b4071bcc0f36dd9d7f03  SaveImages/C4.xbx
+38b40b79ea10051a3ed48e013abd3edccdf4daba  SaveImages/C5.xbx
+15b7ca6f83a7cec5e081d79ed60bb72c6ab38da6  SaveImages/C6.xbx
+57b8b9b65ca62f15bf71aeb73c06c3a5fc929d63  SaveImages/C7.xbx
+dee7271e2d6a18397dc8246b4af7beb2bf8bef10  SaveImages/CT.xbx
+fbcf85e28de890b0995370bdc21f6b5caa058991  default.xbe
+107c12953acde1e615b17001f3e91b4192fa34c2  galleon.bin
+85f835d5cd1598adaddfcd8993d269893c554e44  galleon.man
