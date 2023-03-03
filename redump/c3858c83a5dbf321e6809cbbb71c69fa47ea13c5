@@ -1,0 +1,17 @@
+cf8435870b4107bd7e8ada44aad794e420ef29f0  GAME.PAK
+27946a1b509e12ed76092ae3b4d9c1c68b35ed60  default.xbe
+dfb96766eefb6049305cc49c55060a062f944586  media/dsstdfx.bin
+bec83ec82cf101cbf2c1c6b59572356d5dfa7423  setup_InSettingsTool.ini
+f98ba8902da17054f19bfea3402915da1031699f  stream/AMBIANCE/W07/A_07S01.fss
+fd49b877e4b9095d45bd1d8d27f8c22d1d39172b  values_InSettingsTool.ini
+de24b9b837f919967e72305c00204e671d755418  video/INTRO_RW.pss
+0284e067d494128b6a1b0924022ba778d43e034b  video/controls.pss
+1435d757f895bc48acedb555554a9cdd55b96b88  video/gameOver.pss
+8ceaa36a42772c881eda2f26623e55a40f3f7db7  video/intro.pss
+ffff052e23461f254c4c217d0527c12b70fb91e8  video/lg_namco.pss
+db2a275ae88572b567e0a555e72448a6aaed0beb  video/lg_wsg.pss
+bf4d86f769ba1cb8c455fd32a1d1a190e63631d5  video/menu.pss
+b22da4f1c012f8b9f999092e76a6f6bcd60cac9e  video/menu_bkg.pss
+8c8db487cd0ae29cb3548ef8f2858cc1e69b2113  video/promo.pss
+52735069f27831e844eb5bd5103b225888fadd42  xbox.cfg
+3a1056f8c8e05f5de6234402052efb2929b78bd2  xbox.ini

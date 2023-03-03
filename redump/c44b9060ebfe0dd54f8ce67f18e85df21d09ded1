@@ -1,0 +1,2028 @@
+1ff21a2ff80cfdfb5e74bf46d51318c427784c92  Animations/Alpine_Shutters.ukx
+a72436ea8ee7e3e1450cd91832e5d96bd266235f  Animations/Billboard_UKX.ukx
+d73270f1843414160a9117d3dcc261bc8fc839b4  Animations/Garage_Car_UKX.ukx
+8b1859302ac9deb88229e8da4c5a2f3d2c3a5015  Animations/Garage_FallingCar_UKX.ukx
+14158d2b55685c87163bd5f12f0f8e22a85bac4a  Animations/R61stAssault_UKX.ukx
+1a20bfc809bedc3bccfbfbcc8f463301b6450a3c  Animations/R61stGrenade_UKX.ukx
+5a95ea610e8bf183779e74ec36dcda4e03da70e2  Animations/R61stHands_UKX.ukx
+6884a396ed3abb4ce3325c41dd355ce848fc82fd  Animations/R61stItems_UKX.ukx
+d8a24fd4e1e5c395ba528fd443dd60d675b3c7d7  Animations/R61stLMG_UKX.ukx
+d81866838d78157c8ec112ed975b95eccbd92893  Animations/R61stPistol_UKX.ukx
+65671cdb49bee0842d68a92b89a814950839be18  Animations/R61stShotgun_UKX.ukx
+5d7bf1da28eeac663c00058a39e4c11b177429d1  Animations/R61stSniper_UKX.ukx
+43862f54cc11e04eff805816feade06a12ad174f  Animations/R61stSub_UKX.ukx
+b23aae2b75ddcdecf53c904e0f857c871a6780ee  Animations/R6BlackHawk_UKX.ukx
+54032bb773d8a276636b7dbc0fa2e0a4997459ce  Animations/R6Hostage_UKX.ukx
+9161d2385d97824eed826a491e03c6cd9caa3116  Animations/R6Kamov_UKX.ukx
+2fd5e2a7e62016e94c4af2b00a3278fb7a2fd564  Animations/R6Rainbow_UKX.ukx
+2622fdf0c40f39a32b201744f06beec68bf461e5  Animations/R6Terrorist_UKX.ukx
+cfa7f9c25d695c113ff328ab62014954ebc922bb  Animations/R6table_UKX.ukx
+d9a78e55980c6db61d46edbbfb4fd3589c1089c6  CDXMEDIA/ARIALUNI.TTF
+5d4ed78d1dd5be7e6f0aa485f3543ecac2b1ff17  CDX_LIVE/CDX.XBE
+eb3a632d2d52ad4af3d62624220ea2bb80141874  CDX_LIVE/CDXMEDIA/CDX.INX
+64d7e4da503a939dc3fb5078c61f8beca76a0206  CDX_LIVE/CDXMEDIA/CDX.XPR
+ce383f12f3110038049472ce71d6f5d3f37b134f  CDX_LIVE/CDXMEDIA/CDX.XSB
+eec5a758c0e19f0219ccba2d84da7ff702e912a8  CDX_LIVE/CDXMEDIA/CDX.XWB
+5f120000e5a52ac843616e4d5cfca892a4033ea0  CONTENT/Arx Fatalis/ArxFatalis_(14)TheTem/UDATA/44430002/1424CEAF6D02/GSAVE.DDS
+5ac41250e6addef774773bb3506f61f1fe413f39  CONTENT/Arx Fatalis/ArxFatalis_(14)TheTem/UDATA/44430002/1424CEAF6D02/GSAVE.SAV
+1fa82e5afb58f9d5b4602505160df198044e1a93  CONTENT/Arx Fatalis/ArxFatalis_(14)TheTem/UDATA/44430002/1424CEAF6D02/SaveMeta.xbx
+3c70cf7833d1607084555c27e755ca35ef2d1454  CONTENT/Arx Fatalis/ArxFatalis_(14)TheTem/UDATA/44430002/1424CEAF6D02/saveimage.xbx
+4e5c207a5e70ca9c8fcc63bc8c6b9c63f9dc4aba  CONTENT/Arx Fatalis/ArxFatalis_(14)TheTem/UDATA/44430002/TitleImage.xbx
+246be850042629ddd394889d99f0a88f30964438  CONTENT/Arx Fatalis/ArxFatalis_(14)TheTem/UDATA/44430002/TitleMeta.xbx
+3ccc0c985dd9dcb302776a67d1aca37789fbe257  CONTENT/Arx Fatalis/ArxFatalis_(19)Krahoz/UDATA/44430002/05FAA5508666/GSAVE.DDS
+2ce518f379ccc7fa22b659c0c583a039b2c49da7  CONTENT/Arx Fatalis/ArxFatalis_(19)Krahoz/UDATA/44430002/05FAA5508666/GSAVE.SAV
+273dd05a08c7ceb5ede6a22272262b9f2b959708  CONTENT/Arx Fatalis/ArxFatalis_(19)Krahoz/UDATA/44430002/05FAA5508666/SaveMeta.xbx
+3c70cf7833d1607084555c27e755ca35ef2d1454  CONTENT/Arx Fatalis/ArxFatalis_(19)Krahoz/UDATA/44430002/05FAA5508666/saveimage.xbx
+4e5c207a5e70ca9c8fcc63bc8c6b9c63f9dc4aba  CONTENT/Arx Fatalis/ArxFatalis_(19)Krahoz/UDATA/44430002/TitleImage.xbx
+246be850042629ddd394889d99f0a88f30964438  CONTENT/Arx Fatalis/ArxFatalis_(19)Krahoz/UDATA/44430002/TitleMeta.xbx
+044b360e6a732419182a0a5838719ea3626ae815  CONTENT/Arx Fatalis/ArxFatalis_(26)TheInv/UDATA/44430002/39FF36805512/GSAVE.DDS
+2c99ce5eb66435ca63250a199ca1601ec000cbaa  CONTENT/Arx Fatalis/ArxFatalis_(26)TheInv/UDATA/44430002/39FF36805512/GSAVE.SAV
+83ac5e457514ac8c6a97ee6c5af7081419ec5d4b  CONTENT/Arx Fatalis/ArxFatalis_(26)TheInv/UDATA/44430002/39FF36805512/SaveMeta.xbx
+3c70cf7833d1607084555c27e755ca35ef2d1454  CONTENT/Arx Fatalis/ArxFatalis_(26)TheInv/UDATA/44430002/39FF36805512/saveimage.xbx
+4e5c207a5e70ca9c8fcc63bc8c6b9c63f9dc4aba  CONTENT/Arx Fatalis/ArxFatalis_(26)TheInv/UDATA/44430002/TitleImage.xbx
+246be850042629ddd394889d99f0a88f30964438  CONTENT/Arx Fatalis/ArxFatalis_(26)TheInv/UDATA/44430002/TitleMeta.xbx
+888155ea9a0b63eab95cfe465d8f6b20a0b44d33  CONTENT/Arx Fatalis/ArxFatalis_(28)TheUlt/UDATA/44430002/45E5593CC5C5/GSAVE.DDS
+858304920efc33158839fc797f64a7faa7d630a8  CONTENT/Arx Fatalis/ArxFatalis_(28)TheUlt/UDATA/44430002/45E5593CC5C5/GSAVE.SAV
+0cbb1b1f346f6c6ac44774ea9aaa81f038417323  CONTENT/Arx Fatalis/ArxFatalis_(28)TheUlt/UDATA/44430002/45E5593CC5C5/SaveMeta.xbx
+3c70cf7833d1607084555c27e755ca35ef2d1454  CONTENT/Arx Fatalis/ArxFatalis_(28)TheUlt/UDATA/44430002/45E5593CC5C5/saveimage.xbx
+4e5c207a5e70ca9c8fcc63bc8c6b9c63f9dc4aba  CONTENT/Arx Fatalis/ArxFatalis_(28)TheUlt/UDATA/44430002/TitleImage.xbx
+246be850042629ddd394889d99f0a88f30964438  CONTENT/Arx Fatalis/ArxFatalis_(28)TheUlt/UDATA/44430002/TitleMeta.xbx
+dbcfd10922e976fcb957b15fcf2b121f3edce997  CONTENT/Arx Fatalis/ArxFatalis_(36)Akbaa/UDATA/44430002/BD3FEE21A179/GSAVE.DDS
+359c8e642b31eeec04e42447a47fec51d3eeb1ce  CONTENT/Arx Fatalis/ArxFatalis_(36)Akbaa/UDATA/44430002/BD3FEE21A179/GSAVE.SAV
+b33c956ee8012602ddff991a52cd812ef2dbcd8e  CONTENT/Arx Fatalis/ArxFatalis_(36)Akbaa/UDATA/44430002/BD3FEE21A179/SaveMeta.xbx
+3c70cf7833d1607084555c27e755ca35ef2d1454  CONTENT/Arx Fatalis/ArxFatalis_(36)Akbaa/UDATA/44430002/BD3FEE21A179/saveimage.xbx
+4e5c207a5e70ca9c8fcc63bc8c6b9c63f9dc4aba  CONTENT/Arx Fatalis/ArxFatalis_(36)Akbaa/UDATA/44430002/TitleImage.xbx
+246be850042629ddd394889d99f0a88f30964438  CONTENT/Arx Fatalis/ArxFatalis_(36)Akbaa/UDATA/44430002/TitleMeta.xbx
+a5e09c8c5d5d7236424d68c439fe8d41eecdfd4d  CONTENT/Arx Fatalis/ArxFatalis_(7)TheTrol/UDATA/44430002/B956920AC226/GSAVE.DDS
+e60b63b93a2faa71aba00a060c81fda07db5afbf  CONTENT/Arx Fatalis/ArxFatalis_(7)TheTrol/UDATA/44430002/B956920AC226/GSAVE.SAV
+c1f7995297f2cadc23094b7ee1acac77962542fb  CONTENT/Arx Fatalis/ArxFatalis_(7)TheTrol/UDATA/44430002/B956920AC226/SaveMeta.xbx
+3c70cf7833d1607084555c27e755ca35ef2d1454  CONTENT/Arx Fatalis/ArxFatalis_(7)TheTrol/UDATA/44430002/B956920AC226/saveimage.xbx
+4e5c207a5e70ca9c8fcc63bc8c6b9c63f9dc4aba  CONTENT/Arx Fatalis/ArxFatalis_(7)TheTrol/UDATA/44430002/TitleImage.xbx
+246be850042629ddd394889d99f0a88f30964438  CONTENT/Arx Fatalis/ArxFatalis_(7)TheTrol/UDATA/44430002/TitleMeta.xbx
+2e01cba25dbbef69b29e8e555ff3f042cce5358a  CONTENT/JP/JurassicPa_Park15Nov3/UDATA/5656000a/B0662129325C/Data/SaveGame/JPSave.s00
+a2f4ee18b89e8fe0e6b98502938e443a73953bb5  CONTENT/JP/JurassicPa_Park15Nov3/UDATA/5656000a/B0662129325C/Data/SaveGame/JPSave.s01
+84c133ef832f9088c7eb710c7ecf0385f0c967f8  CONTENT/JP/JurassicPa_Park15Nov3/UDATA/5656000a/B0662129325C/Data/SaveGame/JPSave.s02
+c4eaed527664dbb0a5e6b5b9be49cb0bf046ed1b  CONTENT/JP/JurassicPa_Park15Nov3/UDATA/5656000a/B0662129325C/Data/SaveGame/JPSave.sav
+30e3e3b89f807a7e59d445a6d4fa8402e910c45c  CONTENT/JP/JurassicPa_Park15Nov3/UDATA/5656000a/B0662129325C/SaveMeta.xbx
+e985384e88700b73ddfd06ba7d1c0baad82cec07  CONTENT/JP/JurassicPa_Park15Nov3/UDATA/5656000a/B0662129325C/saveimage.xbx
+6c0e2932eb112d55a03346a622b2c9b378b64778  CONTENT/JP/JurassicPa_Park15Nov3/UDATA/5656000a/TitleImage.xbx
+132858750a4196c0be4ff8a2f773ed2ae32d9f18  CONTENT/JP/JurassicPa_Park15Nov3/UDATA/5656000a/TitleMeta.xbx
+d9127e0bfe6992b20926e207c862cabf146b84df  CONTENT/RainbowSix_CHAVEZ/UDATA/55530037/0FC710DD0F55/SaveMeta.xbx
+21392fbfcd63a3a029010e8674ac80dfd6251fbd  CONTENT/RainbowSix_CHAVEZ/UDATA/55530037/0FC710DD0F55/profile.sav
+db051f5eaf1c2499b3b0f3615ac42e5ce6ce141d  CONTENT/RainbowSix_CHAVEZ/UDATA/55530037/0FC710DD0F55/saveimage.xbx
+416d094070fa5aac853ab138aca9e774d3da3378  CONTENT/RainbowSix_CHAVEZ/UDATA/55530037/TitleImage.xbx
+51e0a2328d6a83d769ebb41924543297f71a80a9  CONTENT/RainbowSix_CHAVEZ/UDATA/55530037/TitleMeta.xbx
+fcf88c3b90810892a97d013e3cec903dbe68583b  CONTENT/Riddick_NOFEAR/UDATA/56550026/123F12761074/01.Escape
+799bc09cc31f6027a0d68770354f6413596aa4ad  CONTENT/Riddick_NOFEAR/UDATA/56550026/123F12761074/02.The Arrival
+3ed6fc36d46f0e1bda187b23f1d955f931569b9c  CONTENT/Riddick_NOFEAR/UDATA/56550026/123F12761074/03.Prison Yard
+6d3e827a68b287baf1bec318422e98e76fffc1c3  CONTENT/Riddick_NOFEAR/UDATA/56550026/123F12761074/04.Aquila Territory
+91084f8a715d892fa1cd169cef67762537a04271  CONTENT/Riddick_NOFEAR/UDATA/56550026/123F12761074/05.Infirmary
+8ecf74a84b6a2ee10a7c45b1aa313e025be58053  CONTENT/Riddick_NOFEAR/UDATA/56550026/123F12761074/06.Mainframe
+f05cf973b650558a9910fec1afbb18d91ae64e63  CONTENT/Riddick_NOFEAR/UDATA/56550026/123F12761074/07.Prison Yard Riot
+741131da88e43ad570708bc1a7afe9e98009a07d  CONTENT/Riddick_NOFEAR/UDATA/56550026/123F12761074/08.The Pit
+2f43979f1e2c0c600b33a79b436de8f9c78f45d7  CONTENT/Riddick_NOFEAR/UDATA/56550026/123F12761074/09.Pope Joe's Den
+2fe5e0a704e3e755a12bf0a0f81719c77c7accfe  CONTENT/Riddick_NOFEAR/UDATA/56550026/123F12761074/10.Dark Tunnels
+842f202fb6751ba2d95b8ede1382f57ee1e54571  CONTENT/Riddick_NOFEAR/UDATA/56550026/123F12761074/11.Showers
+ffc2cb146e6cb85cf1305c15b08f8229b001a141  CONTENT/Riddick_NOFEAR/UDATA/56550026/123F12761074/12.Guard Quarters
+78d831742bcdcbe7629950e821478b053fc9c853  CONTENT/Riddick_NOFEAR/UDATA/56550026/123F12761074/13.Abbott
+c0712c62ba48868f2b67bdd95ed165aa97e71a4b  CONTENT/Riddick_NOFEAR/UDATA/56550026/123F12761074/14.Tower 17
+3cf3af60d48885c750a7ba0115e433f76d553299  CONTENT/Riddick_NOFEAR/UDATA/56550026/123F12761074/15.Tower 17 Base
+5ca6b721050765a91bc0337658cdb1f0267de087  CONTENT/Riddick_NOFEAR/UDATA/56550026/123F12761074/16.Recreation Area
+e7ddac67b9f16bb05af472a499b9522419c09349  CONTENT/Riddick_NOFEAR/UDATA/56550026/123F12761074/17.Feed Ward
+0acf48c28b8ecd11af84ba7acb7af20a70574232  CONTENT/Riddick_NOFEAR/UDATA/56550026/123F12761074/18.Work Pass
+323d4008c706beec116b63413efc1f31aad16a6e  CONTENT/Riddick_NOFEAR/UDATA/56550026/123F12761074/19.Mine Entrance
+ddff6fb1985c43a206edfeb6ccfd572687a5200e  CONTENT/Riddick_NOFEAR/UDATA/56550026/123F12761074/20.Security Checkpoint
+23b31c40adeee60ca46b83efed2d83494dfd434d  CONTENT/Riddick_NOFEAR/UDATA/56550026/123F12761074/21.Upper Mines
+c25b4f9a644b9e9d4b4026e0705284e0e1cc5a8c  CONTENT/Riddick_NOFEAR/UDATA/56550026/123F12761074/22.Cargo Transport
+e63afdb7d6852fe6f67dacfc3db67cf3e39f5389  CONTENT/Riddick_NOFEAR/UDATA/56550026/123F12761074/23.Mining Core
+058db55f44da87895fdc0f880d61a71def30e3ac  CONTENT/Riddick_NOFEAR/UDATA/56550026/123F12761074/24.Tower 19
+9e626f9e20e76c02dbf17c1ae4e5f8046017b6b7  CONTENT/Riddick_NOFEAR/UDATA/56550026/123F12761074/25.Container Router
+471907dc24fc9dde799143af06ed1fea5478e919  CONTENT/Riddick_NOFEAR/UDATA/56550026/123F12761074/26.Crash Site
+688dc2319ffc520ab6775c03ed665fe8a4060486  CONTENT/Riddick_NOFEAR/UDATA/56550026/123F12761074/27.Abandoned Equipment Center
+c599577997cbf9aef958edf23115d3429f279506  CONTENT/Riddick_NOFEAR/UDATA/56550026/123F12761074/28.Central Storage
+70953b6cfbfe40918abbd58565aaa57841a55e21  CONTENT/Riddick_NOFEAR/UDATA/56550026/123F12761074/29.Loading Docks
+45e105f04db237f55041bc9d372a21728e36b3bc  CONTENT/Riddick_NOFEAR/UDATA/56550026/123F12761074/30.Fuel Transport
+b79dc94b327ab053e5b5a526d5527a6efe3819ff  CONTENT/Riddick_NOFEAR/UDATA/56550026/123F12761074/31.Hangar
+72a3fb56ca7f49750dd6389b066799a526465e9f  CONTENT/Riddick_NOFEAR/UDATA/56550026/123F12761074/32.Exercise Area
+2f2f9bf6be125c29257c6c32afc5254bb4b9b2ef  CONTENT/Riddick_NOFEAR/UDATA/56550026/123F12761074/33.Cryo Pyramids
+5059b90c2e74898a56d8324b58468222d33a999d  CONTENT/Riddick_NOFEAR/UDATA/56550026/123F12761074/34.Facility Control
+d8f63ccf8c49c14f211e43f9417f3f14d45aaee7  CONTENT/Riddick_NOFEAR/UDATA/56550026/123F12761074/35.Corporate Office
+4fbe444e02f6fe0f8febe88ba90bb0affc5a4755  CONTENT/Riddick_NOFEAR/UDATA/56550026/123F12761074/36.Take Off Platform
+cb8eac1bde987ce529e2bb4196a9722056c18105  CONTENT/Riddick_NOFEAR/UDATA/56550026/123F12761074/Checkpoint
+d10c778a0d48b7279fe4924ea3a620f3b41536c2  CONTENT/Riddick_NOFEAR/UDATA/56550026/123F12761074/SaveMeta.xbx
+61a4c785d31410d794a00a1b75a66e3776945e1c  CONTENT/Riddick_NOFEAR/UDATA/56550026/123F12761074/_filler000
+64c67944882dd9f5d36456757241e4335fde7a18  CONTENT/Riddick_NOFEAR/UDATA/56550026/123F12761074/_profile
+560a6cf36ea316ba14e02d52110cdc71040f4a70  CONTENT/Riddick_NOFEAR/UDATA/56550026/123F12761074/saveimage.xbx
+81073be867952399096e489ec36d3745d0afeffa  CONTENT/Riddick_NOFEAR/UDATA/56550026/TitleImage.xbx
+c1d03e038516a5930f6ca5fba33bfd69aa901001  CONTENT/Riddick_NOFEAR/UDATA/56550026/TitleMeta.xbx
+41d3f9421b54d6a081f3527059793e91d0e41c05  CONTENT/TheReturno_SaveGames/UDATA/4541003e/2ECC5651910B/SaveMeta.xbx
+38b4c70ba477b77344d918e6e2486fa97d9ab2e1  CONTENT/TheReturno_SaveGames/UDATA/4541003e/2ECC5651910B/rotk
+d38392591f9910e05f5e1710eed703901461d2ca  CONTENT/TheReturno_SaveGames/UDATA/4541003e/SaveImage.xbx
+668abd6743e50f4dc556923ca33bb052d0fdf053  CONTENT/TheReturno_SaveGames/UDATA/4541003e/TitleImage.xbx
+918893bfe53e9b3a72dcc69c2dcd8ed92a63ab59  CONTENT/TheReturno_SaveGames/UDATA/4541003e/TitleMeta.xbx
+7dd4e800ad6411e78bffcbaf9b43309ae586f483  EN_GS/CDX.XBE
+f672f93db21eaaa052e54ddb3c049ce8dc59ccc3  EN_GS/CDXMEDIA/CDX.INX
+19bb9b7471b2cc552dec4c200feb7a67eaf9dcc4  EN_GS/CDXMEDIA/CDX.XPR
+ce383f12f3110038049472ce71d6f5d3f37b134f  EN_GS/CDXMEDIA/CDX.XSB
+eec5a758c0e19f0219ccba2d84da7ff702e912a8  EN_GS/CDXMEDIA/CDX.XWB
+eb291d883e03db591710a51513b2a0791e9309fc  FR_GS/CDX.XBE
+f672f93db21eaaa052e54ddb3c049ce8dc59ccc3  FR_GS/CDXMEDIA/CDX.INX
+1f9d9c22ae2b97232ed2f7ddcadee19da8e3edd0  FR_GS/CDXMEDIA/CDX.XPR
+ce383f12f3110038049472ce71d6f5d3f37b134f  FR_GS/CDXMEDIA/CDX.XSB
+eec5a758c0e19f0219ccba2d84da7ff702e912a8  FR_GS/CDXMEDIA/CDX.XWB
+fb1664e81981059868219356e6fe5231a4e523d9  FightClub/Ark/Players/common.ark
+aae2e7568cc14bf4aa4cfd58270c34675977b504  FightClub/Ark/Players/jack.ark
+693ee4e99fd739008e68123ff00d045e06b64dfd  FightClub/Ark/Players/jack2.ark
+08aa0ea69ae0d00e2332ff4b761e1ce2e99a8f10  FightClub/Ark/Players/tyler.ark
+fcdf5264c0762dc8a34b857c4cc93ef1a7d4d39b  FightClub/Ark/Players/tyler2.ark
+1a04bc28774a17db159bdf477dc862a1e65d61e3  FightClub/Ark/Shell/BS.ark
+83ac2b0da21efba816e7d83d03a74a4d83177c1d  FightClub/Ark/Shell/Backend.ark
+cf377cf4e62f5878e2cc705127758f5a5c3e2313  FightClub/Ark/Shell/Bootup.ark
+af90faa9d38a965dfbe479f3d334585a22328cfc  FightClub/Ark/Shell/ER.ark
+63e157050f684a7bf2aaf31762cb4a1da75d059e  FightClub/Ark/Shell/Frontend.ark
+8857365694bd7e657fe37c67a7f317a9f712723e  FightClub/Ark/Shell/MainMenu.ark
+baa869db4cfe1677039c88e3d6aae637612b2033  FightClub/Ark/Shell/R1.ark
+a8b458723d31f1006b0c6d711aa8aabd0054b363  FightClub/Ark/Shell/R2.ark
+da9d8274255cc4f6e3ab1e13de82423c93fb76d8  FightClub/Ark/Shell/TS.ark
+23f3516dcd048ae5e0ec1918c8f25da5345a0a69  FightClub/Ark/Shell/Training.ark
+df4bc8c9526384a422d7a31bdc8c960413a7547a  FightClub/Ark/Sound/FC_dspfx.bin
+adf34f7a0967166dd9deb48897c48e615adae1e2  FightClub/Ark/Sound/common.xsb
+a9f00c7163fbeff240cb3edf304f4aa3fa44ffc4  FightClub/Ark/Sound/common.xwb
+6e1b46f800c8877381b39232bf29389564aaa741  FightClub/Ark/Sound/jack.xsb
+19f689456cab731cc4ff508f34fb957717d5b5df  FightClub/Ark/Sound/jack.xwb
+d6d1d9b9c5240d06c5895b5406e9f1a70596da14  FightClub/Ark/Sound/loc1.xsb
+7c3fde0a26716b6bcd947b678bd18fcd46aa9b9e  FightClub/Ark/Sound/loc1.xwb
+88d5c9e489aeb4274d5050edd5f2b6020c041d62  FightClub/Ark/Sound/shared.xsb
+b0c3a4e73f3434d2bf497ba6803cdc9c716e047d  FightClub/Ark/Sound/shared.xwb
+b03a5f7f58e90113b1a83e3209724b83f3171268  FightClub/Ark/Sound/tyler.xsb
+91bf4c251bce3fd364d345158b4c2559e89afeb5  FightClub/Ark/Sound/tyler.xwb
+8a8790934ae454ddd6afbe92aa0764ca8d64328c  FightClub/Ark/Sound/vssver.scc
+ae59b27fb70f59a3a673d5431973585a97b2b094  FightClub/Ark/Tracks/trk01_01.wma
+4e6b63097a575b3d7e072f3ff874566401299e42  FightClub/Ark/Tracks/trk01_04.wma
+edc76e6e78b7c99ccab8450150094b49d7f07ef9  FightClub/Ark/Tracks/trk03_03.wma
+65c1aac1e239412263a81e2d0244e11745283d5f  FightClub/Ark/VUGlogo.xmv
+f739bf78f3857cf3ac2a1e94f87005c5290e7da9  FightClub/Ark/common.ark
+fd43c6579e547f3a93b7b6ffbc187d177157815a  FightClub/Ark/ecommon.ark
+b4fa47588b01a676f54507afb144941a72d59cfb  FightClub/Ark/intro.xmv
+969d5dfb8aabcf545c059b2014a0517b369ec67a  FightClub/Ark/level1.ark
+86d6160edcbebd7c623ab59da13fe2680f20018a  FightClub/Ark/levels/Arena1.ark
+8bee091b21f42384120bd680af95395a8dfd72df  FightClub/Ark/levels/Arena1a.ark
+7c900d519ac94d8446e396b091481b776725ab3d  FightClub/Ark/levels/Arena1b.ark
+a6940cb7eaec7bad6e8b58afa512f90e0b8265b5  FightClub/Ark/save.ark
+a82da07be1ff8612842286be50b7c7d1720fb6ab  FightClub/Ark/test.ark
+eae5dd615e5e0ab8e4dd81790309322cc190d34f  FightClub/Ark/viewer.ark
+9eebe5dcf8e482481c6350c7cc95dbbdc5709c60  FightClub/default.xbe
+bf88ce50e65445919ee7781f62586b7852a92906  FightClub/fc.png
+b36ae1efbb9d4f7ddc11b95fcb6e462ffb3d3d71  GE_GS/CDX.XBE
+f672f93db21eaaa052e54ddb3c049ce8dc59ccc3  GE_GS/CDXMEDIA/CDX.INX
+71e8dbfa4641944842d4fe4c701f05bf2ebdcc32  GE_GS/CDXMEDIA/CDX.XPR
+ce383f12f3110038049472ce71d6f5d3f37b134f  GE_GS/CDXMEDIA/CDX.XSB
+eec5a758c0e19f0219ccba2d84da7ff702e912a8  GE_GS/CDXMEDIA/CDX.XWB
+1da300458a5a0517b14ad561af6052c28bad6aa3  IT_GS/CDX.XBE
+f672f93db21eaaa052e54ddb3c049ce8dc59ccc3  IT_GS/CDXMEDIA/CDX.INX
+bdab089b3d0db0548a46a4a6a33c0e7812504889  IT_GS/CDXMEDIA/CDX.XPR
+ce383f12f3110038049472ce71d6f5d3f37b134f  IT_GS/CDXMEDIA/CDX.XSB
+eec5a758c0e19f0219ccba2d84da7ff702e912a8  IT_GS/CDXMEDIA/CDX.XWB
+27b6072e6a18a83d07102c644cf85f8d72c726d8  KarmaData/MediumMesh.PSK
+f8fd124a41b8c571a538ec059dd47f3b85bb9b1b  KarmaData/R6Terrorist.PSK
+583254d30e7c10aea0e2d8ad937e0c6990d19ec5  KarmaData/r6skel.kaw
+a2230ec5d25b7ebd3c602beb7b2b8a883854d023  KarmaData/ragdoll.ka
+ea38df2665e3503288f6f93f27f2abece2853bf6  LoadingScreens/HourGlass_00.tga
+bac9ce210d901422df67e85baf7eac035b74df2d  LoadingScreens/HourGlass_01.tga
+d6137df26a146ac55eda9c6b42a79fc5dfa83b32  LoadingScreens/HourGlass_02.tga
+314e36be12319706f4932dfbe40780bdb5a89b9f  LoadingScreens/HourGlass_03.tga
+0883c7174a0743b5c561a0d6a7a37181063ad4c5  LoadingScreens/HourGlass_04.tga
+4ab707312ff6edb3b6051631136d2964a3e991c8  LoadingScreens/HourGlass_05.tga
+7a25fe518a3ac3325bb34e5eb35981746d933d71  LoadingScreens/HourGlass_06.tga
+93494be1574824be0b110438d050b0b00ed0a6f9  LoadingScreens/HourGlass_07.tga
+134dd28a85ab0e60bd424b747a72986f014c3d08  LoadingScreens/HourGlass_08.tga
+4c36b690c492a4f074aa95f22c83b92d3f8ed9b7  LoadingScreens/HourGlass_09.tga
+c318f75b1dcd8385df2be436ddb7ae3c1e6be36f  LoadingScreens/HourGlass_10.tga
+f899646407e4450a433e88dc223af837f92e8018  LoadingScreens/HourGlass_11.tga
+aeb6759061b848cdc24dd83d2280d8b3e1f0e3f7  LoadingScreens/HourGlass_12.tga
+2e331c9cb2462d5cfa83cc56d4afc9f8a2a2a47a  LoadingScreens/HourGlass_13.tga
+577d92bda560d3dc6aeff78587848cbe53fbd321  LoadingScreens/HourGlass_14.tga
+0918282a69a39ae24dced1861212d3f29448340b  LoadingScreens/HourGlass_15.tga
+9e66945bd7472f1c940ef3cda6bbc44ba48b6af4  LoadingScreens/int/AssaultAK47.TGA
+d83a9a737795c625a3e407c41e41f076dec0dcd8  LoadingScreens/int/AssaultAUG.TGA
+c6b0ce6899ee7fd1b7bfbe7f0872a4afd758d7b3  LoadingScreens/int/AssaultFAMASG2.TGA
+b4b02aa16bd6a8a9d8143bccbc737ef6b94fb9d1  LoadingScreens/int/AssaultG36K.TGA
+573ff18be4b89633d5b69704f593cc0bec8fd54d  LoadingScreens/int/AssaultG3A3.TGA
+281b020098185758a3c743d30d14cfeae61d64fd  LoadingScreens/int/AssaultGalilARM.TGA
+8c5562d91abcdf09347dc470e5d84525b7567860  LoadingScreens/int/AssaultL85A1.TGA
+64922e32334ed764195e97b42a04434da2e96eb6  LoadingScreens/int/AssaultM16A2.TGA
+851a82130e2d5cc022eed27fc6220cc939385d6e  LoadingScreens/int/AssaultM4.TGA
+840b8064107e4b89ee0c9c5ae37aea91e6317de8  LoadingScreens/int/AssaultTAR21.TGA
+5350fa528cb72aaa792e47a1818fd2647d7fb36d  LoadingScreens/int/LMGM249.TGA
+88f4407221b606ffa43bddc280549cdb150fd223  LoadingScreens/int/LMGM60E4.TGA
+105c7873903038d4fc94444df0a3ffe823ae3b0d  LoadingScreens/int/Pistol92FS.TGA
+4bc6e4fcc1f1d6c8d778ffb830677f2604d81ebf  LoadingScreens/int/PistolDesertEagle50.TGA
+7c8083fbd15ef4c0f626d174c89e51101905c44b  LoadingScreens/int/PistolMac119.TGA
+a9a528e8f13dbb32de10e66b0aaed152ca2fb076  LoadingScreens/int/PistolMk23.TGA
+06e9ea4d9562e1dd58992b2e80c67ab8b924a4d7  LoadingScreens/int/PistolSR2.TGA
+c50a74501c8382e5a8d6d44e465165e3c598b337  LoadingScreens/int/PistolUSP.TGA
+d6bb8c0fb6ffe658836bb0abe51da9c5ba62feb6  LoadingScreens/int/R6BreachingChargeGadget.TGA
+0be8defe23f3f5d35c418e8d1943b4076699803d  LoadingScreens/int/R6ClaymoreGadget.TGA
+2ed1144d07b9d7fcce3e9d4dffaf208572791542  LoadingScreens/int/R6FlashBangGadget.TGA
+a24f9cd7b6aa7ebfd2ce52db148ca77c4b5488ee  LoadingScreens/int/R6FragGrenadeGadget.TGA
+ec0bed356565ee9ba9858be2afad4c31ae6f4448  LoadingScreens/int/R6GasMask.TGA
+b711b3efac78bc6fee1a30168cd30d6afc7a82fa  LoadingScreens/int/R6GrenadeLauncherCS.TGA
+c26b0f081f287a806260510cc499932374261db1  LoadingScreens/int/R6GrenadeLauncherHE.TGA
+7bf29c0de6fe5ca8412a735c9364bcbd9164738d  LoadingScreens/int/R6GrenadeLauncherRP.TGA
+3f4e818867cdaef3b02d4a71752a84766a0102f1  LoadingScreens/int/R6GrenadeLauncherSmoke.TGA
+ef7cae5bb5ee482a60591fb8b350a018253b0bb0  LoadingScreens/int/R6PhosphorusGrenadeGadget.TGA
+761e8f6483e137b6220a71c7339e30809c0d98c9  LoadingScreens/int/R6RemoteChargeGadget.TGA
+f564354802b95f8c5107384c097bec0553d72c81  LoadingScreens/int/R6SmokeGrenadeGadget.TGA
+313b126bf8f9202925a550c58ff4d132ae1821cd  LoadingScreens/int/R6TearGasGrenadeGadget.TGA
+7daf321b0be285fcf6ef7a34088997bb648873eb  LoadingScreens/int/ShotgunM1.TGA
+015a452e918b45a9d774f32a0f1f6f6e797178c5  LoadingScreens/int/ShotgunUSAS12.TGA
+f01ac5894f97f52aff5403f0a23b0d577826267f  LoadingScreens/int/SniperAWCovert.TGA
+04c42037666ce2d9caa5b014a292b277368d9fe3  LoadingScreens/int/SniperDragunov.TGA
+3a4207719918a4c748b9c914953179f3dee5d8b5  LoadingScreens/int/SniperPSG1.TGA
+ad32d601174706a4703b3dda33b0171a7cc041e3  LoadingScreens/int/SubMP5A4.TGA
+d2aaa8fe71c24ae9223c318931fa90f01d910d75  LoadingScreens/int/SubMP5SD5.TGA
+c9a504980ce18c4a776c7a44617d7657e170f6c0  LoadingScreens/int/SubMac119.TGA
+9495f4ddc679af2f3a5103a6f56469a0d6b4e96b  LoadingScreens/int/SubP90.TGA
+1d6c2e9af40fbdeb3dc6d1a66391d0b7eaec037f  LoadingScreens/int/SubSR2.TGA
+00ff2081155b4c93b1e481b4c86acd0d484f7684  LoadingScreens/int/SubTMP.TGA
+e93afe5f76b6513095ba744eb44159ff6c48de41  LoadingScreens/int/SubUMP.TGA
+3b937f4001575eec1fdcc3f277418d5dd1246a58  MENU.INI
+875d2da3cfb9c16981589c972264235070409400  Magma/Data/Authentication.mgm
+42381c64e3677f91aa740c4cbea275fc966e1b89  Magma/Data/Clans.mgm
+b3f5eb607d98c3cda81a700255d2f38d5ef80240  Magma/Data/Common.mgm
+3ee51d546c41e5320a77fab441c1a4ca3a222588  Magma/Data/Community.mgm
+3c4b0cba1d0945a0b3cceab7bc67f8f4e329fa6e  Magma/Data/CommunityPregame.mgm
+6166eede15f1d185dd2398d5a181c73d76b713c7  Magma/Data/Competition.mgm
+6be1a8b9f006766a02d2aa3a62b36eb23b7ace45  Magma/Data/CompetitionIngame.mgm
+15c9e32f7868ff0e0b5b426e5890b112792d7709  Magma/Data/Fonts/bankgothic md bt medium 18.mft
+3439d193d6783ad1f381c73683a4bafda5378b8c  Magma/Data/Fonts/bankgothic md bt medium 22.mft
+e262806d8d67561618d4dbdf2c6bdf7a8941e4f1  Magma/Data/Fonts/hooge 05_53 regular 17.mft
+4e89aefe3cd3bfca6bdd39b0400a077173c7bae1  Magma/Data/Fonts/rainbow6 regular 14.mft
+531f6373a2e9917f19363afb8634ff75e03237e2  Magma/Data/Fonts/rainbow6 regular 16.mft
+0d696501fb3b294af2277eb9a1696fec02df9e4c  Magma/Data/Fonts/rainbow6 regular 17.mft
+57db803da5595ea8b234605eac5bd198856e431e  Magma/Data/Fonts/rainbow6 regular 18.mft
+ebcccc2d695799998390d497d369fdd1048dd1c6  Magma/Data/Fonts/rainbow6 regular 24.mft
+bb0f446c609b9836a8f7d231827b4eecd1b93bdf  Magma/Data/Fonts/rainbow6 regular 28.mft
+dde719727742adcb9ae81c5e20290188fe864a58  Magma/Data/Fonts/rainbow6 regular 36.mft
+3a9b214f3c5445ed29d119d70549922602a2b8a2  Magma/Data/GearRoom.mgm
+44e5eb6588b356e4fdc7987aec40b20b08cb6d59  Magma/Data/Options.mgm
+618fe0b5c0727b3986e4664a49106ccd4e20756e  Magma/Data/R6IngameMPMenus.mgm
+905faf90fd36df1e861cfb7b1f4fa10efc04125d  Magma/Data/R6IngameMenus.mgm
+25e1af51d521cceca43cf5056b0a1b3618b91890  Magma/Data/R6Menus.mgm
+d8cd68ea6f78996e6a692ec6ba222a513f5ee4f7  Magma/Data/SplitScreen.mgm
+80e1fafe72546443e70a38d42e672142deb27c70  Magma/Data/Statistics.mgm
+768691e10518dad473b5860b9d151716d0b3d94d  Magma/Data/System.mgm
+d986bfd0490ad72f912368613754d5fb77057dcf  Magma/Data/Textures/BG/BGInGame.dds
+e00d0df304db968a3b34fe2ac5fcd18bb41e71f3  Magma/Data/Textures/BG/BG_Start_Left.dds
+e46c8558b8130984c63dee68dc35088a6927f6bf  Magma/Data/Textures/BG/BG_Start_Right.dds
+3590b6db9c6d151284112aeeef555d356ef8052d  Magma/Data/Textures/BG/P_Common/BGInGame.dds
+016f2d1bfd4c2de089a8ce70e2f6081eca6333ad  Magma/Data/Textures/BG/P_Common/List_Footer.dds
+6a31f5c62e40f0d36997db7de00d08d85f846381  Magma/Data/Textures/BG/P_Common/List_Footer_512.dds
+eebed4b595ef2ed6e38a42b314e22a904a6cf807  Magma/Data/Textures/BG/P_Common/List_Footer_header_large.dds
+7f616b091d1c62126a10491d1d0a4c7c8f74d74e  Magma/Data/Textures/BG/P_Common/List_Header.dds
+f7ce9770b2be01009e33dc1e2fb4864880a1f846  Magma/Data/Textures/BG/P_Common/List_Header_512.dds
+a6b53df2b58dab0d996827856ab611da0118d246  Magma/Data/Textures/BG/P_Common/Selector.dds
+edd7353c59088723f015132c36bd731fa58e89ff  Magma/Data/Textures/BG/P_Common/Selector_512.dds
+faa900797733fd84454d8a6de49c0946aaaed434  Magma/Data/Textures/BG/P_Common/Selector_512_2.dds
+4ab0f2bf1d6548cdb5c4df9d5087d3c80d34d2dd  Magma/Data/Textures/BG/P_Common/Selector_512_2gizmos.dds
+c27e95f311418100292c3f4bd678eab03297551f  Magma/Data/Textures/BG/P_Common/Selector_leftmenu.dds
+c020ca756b0393c7dd0fa4e7c2730d36a549179b  Magma/Data/Textures/BG/P_Community/SelectorDetails.dds
+5f37f415fd46b629273eb25be6cc7d4b6502f775  Magma/Data/Textures/BG/P_CreateMatch/creatematch_down_list.dds
+7f3f90ca01c8b18095fec3a045cda508db8eb4f1  Magma/Data/Textures/BG/P_CreateMatch/creatematch_down_right_list.dds
+aca050cf723223aa27d163fe41fc9226f4592caf  Magma/Data/Textures/BG/P_CreateMatch/creatematch_top_list.dds
+9c51f2483a738939018651bf8606a234ed72432e  Magma/Data/Textures/BG/P_CreateMatch/creatematch_top_right_list.dds
+d040526e578de758512d9651af951acdfb34ae29  Magma/Data/Textures/BG/P_CustomMission/D_Elite.dds
+eae8a23e5b5876755f236be7ead9b7a54984009c  Magma/Data/Textures/BG/P_CustomMission/D_Recruit.dds
+df2779c341cdaf4cfe3cf24c70c39264a0cb2fa3  Magma/Data/Textures/BG/P_CustomMission/D_Veteran.dds
+2bd68652a5e87152a822db8755fedeaa783effce  Magma/Data/Textures/BG/P_CustomMission/GT_LoneRush.dds
+71dcb062e412e768d4abb3a0469c2a449bf2ebab  Magma/Data/Textures/BG/P_CustomMission/GT_Practice.dds
+b7bece555c4c6cf12ee0fc6691e84ed2215958b4  Magma/Data/Textures/BG/P_CustomMission/GT_TerroHunt.dds
+1c0b46968a068bc33548b84eafadc754045885a3  Magma/Data/Textures/BG/P_Debriefing/Life_Meter_Unit_BG.dds
+4dafca3a690cfe66f210e89619c78a4ec9155c6a  Magma/Data/Textures/BG/P_Debriefing/stroke1pix.dds
+e0703bab540f1f52629a6d381e791c525829c82d  Magma/Data/Textures/BG/P_Demo/Option_Controller.dds
+febe993a56c8f774a6921501b54b520f243e62c5  Magma/Data/Textures/BG/P_Demo/Stick_L_LEFTRIGHT.dds
+2610f203cc8df1c336a44f4613ea16ab0548fc25  Magma/Data/Textures/BG/P_Demo/controller_left.dds
+c09effc85cd79fa8a9f8ed1fae815413c687b48a  Magma/Data/Textures/BG/P_Demo/controller_right.dds
+e4174a2a3d0d8c3d125deff086c608a5759868a9  Magma/Data/Textures/BG/P_Features/GhostRecon.dds
+c8a83376a986eeda386dbf5686f230b8bfb9c8fe  Magma/Data/Textures/BG/P_Features/RS_Intro.dds
+d6bc3edd72a574bbe880387da6545939e5a9ab87  Magma/Data/Textures/BG/P_Features/RS_Outro.dds
+178eaa404a614bf72b3cd3ed0eb7536d0da09a31  Magma/Data/Textures/BG/P_Features/X13.dds
+812ec38753233732eb7c917c708d24d2bde9a4da  Magma/Data/Textures/BG/P_Features/bink_logo.dds
+b9ec34c2456fc34b0bbc10ab609ebb1b5dc6ff7b  Magma/Data/Textures/BG/P_FriendsList/Selector_friends.dds
+3b6598f0d2383db6f0f27fc50c4c4b1172cdfa9d  Magma/Data/Textures/BG/P_FriendsList/ic_ObjectifA.dds
+75b7a1da6b6b1f35f363192d1bc385b3f9fc6ef5  Magma/Data/Textures/BG/P_FriendsList/ic_ObjectifB.dds
+ae18f57b92ff3b29fb968d669b4bea3a81eba499  Magma/Data/Textures/BG/P_FriendsList/ic_ObjectifC.dds
+5e2465e04d7f276032f7d851b3f03426300e7222  Magma/Data/Textures/BG/P_FriendsList/icon_admin.dds
+eac36223982b896677c004c622b3663f65df3881  Magma/Data/Textures/BG/P_FriendsList/icon_camp.dds
+eac36223982b896677c004c622b3663f65df3881  Magma/Data/Textures/BG/P_FriendsList/icon_capture.dds
+bd858817512d7d5bdecb3cb07de45727a6ec5e6f  Magma/Data/Textures/BG/P_FriendsList/icon_competition.dds
+0b88b7953dc25e67d4dc5e91b1e55e689cb2f947  Magma/Data/Textures/BG/P_FriendsList/icon_competition_invite.dds
+4856221890b0b5551c0313ab0b945b69084d0162  Magma/Data/Textures/BG/P_FriendsList/icon_flag.dds
+3f9ac86d21d3ed6331536717b107dfe25b80ec8d  Magma/Data/Textures/BG/P_FriendsList/icon_floorabove.dds
+93f6ed6d4a0f34d9fdeaa81974280d312b5fc86e  Magma/Data/Textures/BG/P_FriendsList/icon_floorbelow.dds
+e4f387d283d8072abd2362f1d066fdad0d4ac8cf  Magma/Data/Textures/BG/P_FriendsList/icon_friendOnlyhearyou.dds
+87b3dfcce9d641971e73320ad76ffd5ded3acdc3  Magma/Data/Textures/BG/P_FriendsList/icon_friendmessage.dds
+00843ad62e78886d4699f92a0540747203a302aa  Magma/Data/Textures/BG/P_FriendsList/icon_friendonline.dds
+6189e72c86352fe77e61135b81a915c1471a83fd  Magma/Data/Textures/BG/P_FriendsList/icon_friendreceivedinvite.dds
+0cb460d9993a8e2d39c9cb9a5c4a672fc253c54d  Magma/Data/Textures/BG/P_FriendsList/icon_friendreceivedrequest.dds
+93f86849172ed60a666e85bfbd08ff2cacdf4884  Magma/Data/Textures/BG/P_FriendsList/icon_friendsentinvite.dds
+7501f8d319d7fc32dfec54b9eb987bd9860f19be  Magma/Data/Textures/BG/P_FriendsList/icon_friendsentrequest.dds
+f2a2652c9494e041f77e71ecbb632ee8183feaaa  Magma/Data/Textures/BG/P_FriendsList/icon_friendtalkall.dds
+6743e302eb6831fde4674e3acbaca39cf2efd28b  Magma/Data/Textures/BG/P_FriendsList/icon_friendvoicemute.dds
+f6c6bfd229bfe34231b3c8a5de816f0f9c1e78e1  Magma/Data/Textures/BG/P_FriendsList/icon_friendvoiceon.dds
+0cb460d9993a8e2d39c9cb9a5c4a672fc253c54d  Magma/Data/Textures/BG/P_FriendsList/icon_msg_from_friend.dds
+b8eab8f11cf94db04de1c92e556f2cd1c61d2f86  Magma/Data/Textures/BG/P_FriendsList/icon_msg_from_team.dds
+ea3b1c148f5b09e5462fb2946561dabcc1422653  Magma/Data/Textures/BG/P_FriendsList/icon_normaluser.dds
+11015ae2b1757b035a44acca1e6063794d392845  Magma/Data/Textures/BG/P_FriendsList/icon_poweruser.dds
+f08ce50815510df0f9a75dd518e50d321ad45d5f  Magma/Data/Textures/BG/P_FriendsList/icon_recruitinvite.dds
+ab9900689c412496710c73de1218f14ab05cf313  Magma/Data/Textures/BG/P_FriendsList/icon_spawn.dds
+0f06eb132cc9f73b0b79a07e45ed3ef3dae1e619  Magma/Data/Textures/BG/P_FriendsList/icon_squadmembermessage.dds
+077f8593f41a9dc1867fdb585267574bba9064a8  Magma/Data/Textures/BG/P_FriendsList/icon_superpoweruser.dds
+7f3385a1938d93fe13e8395a5b5d163e60e3fec7  Magma/Data/Textures/BG/P_FriendsList/icon_teaminvite.dds
+6a06e08cf5340507d04d9176d482f2493137bcfa  Magma/Data/Textures/BG/P_FriendsList/icon_voicemessage.dds
+6b0ded44ae451f62f7f398d827887143e6246d24  Magma/Data/Textures/BG/P_FriendsList/icon_yougotmail1.dds
+9e0ba6e4b9b45a88b099cf025bb6f9ef628b9c14  Magma/Data/Textures/BG/P_FriendsList/icon_yougotmail2.dds
+0fa3e97f43ba7ab6f2792ca90a0b651a66387843  Magma/Data/Textures/BG/P_Gear/Box_Preview.dds
+63bf818de58d0a7cf1e113b292352aaff7fbbaff  Magma/Data/Textures/BG/P_Gear/Box_Preview_corner01.dds
+441daecdcc63e84bec083cba544f65ceccbc8319  Magma/Data/Textures/BG/P_Gear/Box_Preview_corner02.dds
+093c985c6cf0fc71473a5f637b188408f28ed9dd  Magma/Data/Textures/BG/P_Gear/Gear_None.dds
+716559911e7a4ff6809a0cf18b887ee18afcfab7  Magma/Data/Textures/BG/P_Gear/bar_empty.dds
+21eaf7f1ca2adadab920d9d334b57684bf8dba42  Magma/Data/Textures/BG/P_Gear/bar_full.dds
+acc8b792f5baae70b44b04cfcfe7f1dd037968da  Magma/Data/Textures/BG/P_Gear/box_gear_Footer.dds
+6363f1388970cdeaa900c483287772535732ec68  Magma/Data/Textures/BG/P_Gear/box_gear_Header.dds
+152ca0018c1c6e07cba59fc962a96ce00b0d2f8b  Magma/Data/Textures/BG/P_Gear/box_gear_icons.dds
+cf1bd34a64f38cfaa26dd4042a363ed10488f726  Magma/Data/Textures/BG/P_Gear/box_gear_selection.dds
+257f1891b9b050e81a3e1667057dd9c529ae3c2b  Magma/Data/Textures/BG/P_Gear/box_gear_selector.dds
+da869f5b8b9a111150272bbe0f91bd112c67c001  Magma/Data/Textures/BG/P_Keyboard/But_L.dds
+35d3f66ad9c9920a57700ed3e18c43e5cd2a1893  Magma/Data/Textures/BG/P_Keyboard/But_R.dds
+06a03738eff1424cfdcfc3483e24e7dc8ec3ba9b  Magma/Data/Textures/BG/P_Keyboard/KB_cursor.dds
+5251fb0fb40093fd3494e852874699eee823a79d  Magma/Data/Textures/BG/P_Keyboard/KB_logo.dds
+912ad6b735ec99d2fd03487c89a65e530b6d039b  Magma/Data/Textures/BG/P_Keyboard/VR_Overlay.dds
+cdfac32295ca114048fe8d11521e39556c997a87  Magma/Data/Textures/BG/P_Keyboard/VR_slider.dds
+369228fcc308c76596416d6d7a3c5542f5e8d766  Magma/Data/Textures/BG/P_Keyboard/VR_slider_tile.dds
+fe6b510d77ba1120f0364e55554457ecd9ed4eef  Magma/Data/Textures/BG/P_Lobby/MPlobby_iconhost.dds
+6b89b261f8fa1ce3696f7b4ab664ed3ed567a6de  Magma/Data/Textures/BG/P_Lobby/PrivateRoom_MapBack.dds
+9ab1b88afb7f159a06c81092ada09e43c3f0fe16  Magma/Data/Textures/BG/P_Lobby/icon_life.dds
+0d808c04316632e68a6b576d3b8ece1002b65fd0  Magma/Data/Textures/BG/P_Lobby/icon_life_border.dds
+6f04f26e5ee4afc059d36b075e8d22e5b24a77d7  Magma/Data/Textures/BG/P_Lobby/icon_ready.dds
+dd77b402d2fc68bca59bb40fcda2521a56afe188  Magma/Data/Textures/BG/P_Lobby/icon_sound.dds
+10eea434e2159b231b6391adfe153a4267b4e142  Magma/Data/Textures/BG/P_Lobby/icon_talkall.dds
+9735314d80d4333591c7724be77cf8b101b07756  Magma/Data/Textures/BG/P_Lobby/icon_talkteam.dds
+61b2717ec52fe17d79d82955f785aa92239f8dc3  Magma/Data/Textures/BG/P_Lobby/icon_you.dds
+c560b4a82bb355182939dd17a28fb5dac35cdb03  Magma/Data/Textures/BG/P_Lobby/img_button.dds
+ac976c8217e81801ed91ce5ea95969d6cc8b5ffa  Magma/Data/Textures/BG/P_Lobby/img_buttonsel.dds
+add1577d8dfa1c07422016599056c5d6456ed066  Magma/Data/Textures/BG/P_Main/Select_Screen.dds
+d6dcbc6f0e4b2a6d56826440896b5f5342b66379  Magma/Data/Textures/BG/P_Main/arrows_download.dds
+2df9825629d4185b37f2de8d6c927418e4eeec99  Magma/Data/Textures/BG/P_Main/logo_live.dds
+12bf91aab8a1c8a5632582f61471cf02493e42c2  Magma/Data/Textures/BG/P_Optimatch/arrow_scroll.dds
+5b7b3c87edeaef0bf91ffd6396664b96d4e5cdd4  Magma/Data/Textures/BG/P_Optimatch/matchlist_bottom_list.dds
+bcace5b2bbb6ff7af72e33f3e6ffaac64be4a37d  Magma/Data/Textures/BG/P_Optimatch/matchlist_top_list.dds
+f9e48eb77f914830912bd1c289969fb071088d2e  Magma/Data/Textures/BG/P_Optimatch/scroll.dds
+b9affeb22afe00a285493a00f3cb910a47ad48e5  Magma/Data/Textures/BG/P_Optimiser/BG_ingame_Left.dds
+b2681ea0662b1234b2ac60811688dc29cd7dd105  Magma/Data/Textures/BG/P_Optimiser/BG_ingame_Right.dds
+fe19c9a54aedd87c99060a7761951d7a2f08e596  Magma/Data/Textures/BG/P_Optimiser/B_Special.dds
+9ba5710aac2748436b0917005bcf3ed043f3638c  Magma/Data/Textures/BG/P_Optimiser/CP_fond.dds
+559afed0eb46aeb89641fa9be1cca51d2b2d25f3  Magma/Data/Textures/BG/P_Optimiser/Icon_Accuracy.dds
+f716dc68410f0b727f37d75ed9f39d4342312ce3  Magma/Data/Textures/BG/P_Optimiser/Icon_Bullet.dds
+dd7261ec6188710cdb39aebd2561ec91089d84bf  Magma/Data/Textures/BG/P_Optimiser/Icon_Health.dds
+9222d7c3eacec358dc7725b052861574fb2eefa2  Magma/Data/Textures/BG/P_Optimiser/Icon_Target.dds
+87d93507ef53e54d877c1d71cce2911ce24a5467  Magma/Data/Textures/BG/P_Optimiser/MPlobby_boxcorner.dds
+82c2585f1c0405545efe7352e72640e0057cad54  Magma/Data/Textures/BG/P_Optimiser/MPlobby_boxcorner_black.dds
+b3288805c2ea28541c0c58b6f75a6c03b97963d6  Magma/Data/Textures/BG/P_Optimiser/MPlobby_boxcorner_stroke.dds
+27146d72a51563e50af01ba2b553048b9e03fc2a  Magma/Data/Textures/BG/P_Optimiser/MPlobby_icon_dead.dds
+cb8389eed2eff849d4b1451f1a392d3030f7a074  Magma/Data/Textures/BG/P_Optimiser/MPlobby_icon_killer.dds
+bd8b075253c5dcd7a4cf36725c5bb43a3a3040d6  Magma/Data/Textures/BG/P_Optimiser/MPlobby_icon_ping.dds
+de89b0f05c1de7a81974ede13da51ea7f54ac499  Magma/Data/Textures/BG/P_Optimiser/MPlobby_icon_player.dds
+56229d28b463e05a02106fcaee4b83dd2b2928f8  Magma/Data/Textures/BG/P_Optimiser/MagmaWhite.dds
+3ee3ab72eb70e9d857aa7d43c8457a6f4e0581e6  Magma/Data/Textures/BG/P_Optimiser/box_infos_server.dds
+933d351408e0d2d6c5b0588a2f6b41453f6fc219  Magma/Data/Textures/BG/P_Optimiser/box_list_Down.dds
+327ff8170a5e352dba04f8ab9bd3cfd82a3305f8  Magma/Data/Textures/BG/P_Optimiser/box_list_Tile.dds
+c975ef86aebfc7fffa1530d2c4ecabdcebd2f650  Magma/Data/Textures/BG/P_Optimiser/box_list_up.dds
+7fd697751d5b81181a78f785eac82e3b2bee429f  Magma/Data/Textures/BG/P_Optimiser/com_border_top.dds
+5e9ffc10489486eb9e8cd375bf094971b0850767  Magma/Data/Textures/BG/P_Optimiser/com_box_angledcorner.dds
+51de6fe639cfbb0dfe774aa520f2ed243a2c45d6  Magma/Data/Textures/BG/P_Optimiser/com_box_border_hor.dds
+86afe14c6e49fc65c1af0440a2bc819c45a7d254  Magma/Data/Textures/BG/P_Optimiser/com_box_border_ver.dds
+bbb3de35cfaf2f8fe3994214d9a3dcaa7aa51969  Magma/Data/Textures/BG/P_Optimiser/com_box_cornerbottom.dds
+bef719f0316f2ed54a989b949366f38daf0549d0  Magma/Data/Textures/BG/P_Optimiser/com_box_fond.dds
+cf34a746c9adbc24e6943df2e67ad89054cd8a04  Magma/Data/Textures/BG/P_Optimiser/com_circlelogo2.dds
+5c8484a41bd0d5de814b2297292ab9cecfe09a52  Magma/Data/Textures/BG/P_Optimiser/corner_title.dds
+273f88548c799379dd07759a88986e90301fa3ce  Magma/Data/Textures/BG/P_Optimiser/icon_nospeed.dds
+c5e0e50629ffb1dc60aadbd4cb67d5e34a0c8490  Magma/Data/Textures/BG/P_Optimiser/icon_speed.dds
+abb67eff79162190143fcc6f0903fab26b04f61d  Magma/Data/Textures/BG/P_Optimiser/info_Border.dds
+43a0b0ea6d6f4c1772e13890e5e7109d8063454c  Magma/Data/Textures/BG/P_Optimiser/info_BorderH.dds
+77ba8f3f94341792a06631650923c4db26344090  Magma/Data/Textures/BG/P_Optimiser/info_blue.dds
+497912408572f59e3c655f341b2b41e5ad84de28  Magma/Data/Textures/BG/P_Optimiser/info_corner.dds
+a8de025936ebc1ea569c021c29aef299467fe97c  Magma/Data/Textures/BG/P_Optimiser/info_corner01.dds
+92af5defa34f9a6c4863dd5095fab1cf0c18ffd2  Magma/Data/Textures/BG/P_Optimiser/info_corner02.dds
+c86a1d878db6828090cf4ab5d2b4153dd944c46e  Magma/Data/Textures/BG/P_Optimiser/info_corner04.dds
+7cd9dbc7b6528de31c1b79ca6b1e23f0fd20cd09  Magma/Data/Textures/BG/P_Optimiser/info_corner06.dds
+3671e6e31b0dddc14bc0e413aa0ddc9fc459593c  Magma/Data/Textures/BG/P_Optimiser/info_corner07.dds
+3229515ff08a637bb7baa69690c493d44c3b26a1  Magma/Data/Textures/BG/P_Optimiser/info_corner08.dds
+d29c154aaa9ccec13b48a5a1aaa35ea43724c166  Magma/Data/Textures/BG/P_Optimiser/info_corner09.dds
+16f56d108779017f4993e1a869264d5cdb49def9  Magma/Data/Textures/BG/P_Optimiser/info_corner10.dds
+83246004f5d52c1b26d6b35566e7d2920737f21f  Magma/Data/Textures/BG/P_Optimiser/info_line.dds
+71e75dbd88cee2c75780333a6d40007549003044  Magma/Data/Textures/BG/P_OptionsLive/Main_preview.dds
+4228f545f5ecb369439ce4595aaf6c43d9bcb06d  Magma/Data/Textures/BG/P_OptionsLive/Main_preview2.dds
+4ffd0521ff898701e9befcd01fe9aaf942fd63fd  Magma/Data/Textures/BG/P_OptionsLive/Part_bg.dds
+a68106a6986c2805ca820f8c23cb770c6de83e8d  Magma/Data/Textures/BG/P_OptionsLive/Passeport.dds
+8004e58a209af6dd00558875c07d2aa8d2e84a26  Magma/Data/Textures/BG/P_OptionsLive/controller.dds
+d0285827303ebda7a60f6fdf593afb16178eb307  Magma/Data/Textures/BG/P_OptionsLive/controller_buttons.dds
+30e43f1290ea334e7da17bb0cb045d0a6f02e6d2  Magma/Data/Textures/BG/P_OptionsLive/controller_tumbstick.dds
+028935923053bed09983e3969c52705a7edb4afe  Magma/Data/Textures/BG/P_OptionsLive/zoom_head_0.dds
+45772f83b51f0da323749e59e8d1caeb507fdd37  Magma/Data/Textures/BG/P_OptionsLive/zoom_head_1.dds
+e35543cdff2220e13e77f4ac22b598ce421a70a6  Magma/Data/Textures/BG/P_OptionsLive/zoom_head_2.dds
+a1ffa1c20b416e73853eb492e48b483cc3d25a25  Magma/Data/Textures/BG/P_OptionsLive/zoom_head_3.dds
+19243707e9d126e337ffe043545991252fbc127d  Magma/Data/Textures/BG/P_OptionsLive/zoom_head_4.dds
+7f1859ad08b142b23e83d59c966597efda391b9a  Magma/Data/Textures/BG/P_OptionsLive/zoom_head_5.dds
+ff0d36ebbc78f53cbf06879cb0c1e0c31b9a4280  Magma/Data/Textures/BG/P_OptionsLive/zoom_head_6.dds
+b0d5535af4db10adae8fab414dddcbf34d3124b3  Magma/Data/Textures/BG/P_OptionsLive/zoom_head_7.dds
+66409080a6db503f950b4076b6f054f1344df895  Magma/Data/Textures/BG/P_PressStart/StartLeft.dds
+83cc392492730574b7821a326226b1afdf8a0342  Magma/Data/Textures/BG/P_PressStart/StartRight.dds
+1443e5f61f37e920aaaec367624f6705c50bf06b  Magma/Data/Textures/BG/P_QuickMatch/box_infos_quickmatch_left.dds
+03b241e2c9c77e3a0a5443c1610f1de75efeb8ba  Magma/Data/Textures/BG/P_QuickMatch/box_infos_quickmatch_right.dds
+d09057348116e445b1a6c447d1329f6e7274f6c3  Magma/Data/Textures/BG/P_Sign_in/box_code.dds
+3c6c6efc4fa0df4b4ce7c1725d57da5859c6c44c  Magma/Data/Textures/BG/P_Sign_in/logo_anim.dds
+0675eece085a905962cb819e372d96bbd862a9b8  Magma/Data/Textures/BG/P_SlideShow/textbox_bottom_corner.dds
+17e00709b4b4c2fc421ac044ad1a9b5961c4e107  Magma/Data/Textures/BG/P_SlideShow/textbox_bottom_tile.dds
+7f6250bed51d6ba6d0cf65ac0e7edbc7c2892604  Magma/Data/Textures/BG/P_SlideShow/textbox_top_corner.dds
+51ca535153a03dd2a4e95c402854d8daa4019560  Magma/Data/Textures/BG/P_SlideShow/textbox_top_tile.dds
+2a4f9ec2bdc3afa78aa222ca90830e85922404f0  Magma/Data/Textures/BG/P_Statistics/Selector_544_adverserial_left.dds
+5b7e42fdc1ee01a65a6b76ba87c8ca04338766bd  Magma/Data/Textures/BG/P_Statistics/Selector_544_adverserial_right.dds
+b39f1fbb9c24783a88238cfb1d205d6ea76060cb  Magma/Data/Textures/BG/P_Statistics/stats_bottomlist_left.dds
+ae37a69b84ea6969b2d78f20a78aad86b784e690  Magma/Data/Textures/BG/P_Statistics/stats_bottomlist_right.dds
+77b1e6395d98a4f1b69fdd34ef731ca378976afb  Magma/Data/Textures/BG/P_Team/Loiselle.dds
+9c32dec582e3f59b5aefb9f6ad1e5b6b224ac48a  Magma/Data/Textures/BG/P_Team/Price.dds
+48fb0336e4dde54ce17507d0941734fdbf26efa6  Magma/Data/Textures/BG/P_Team/Team_bg.dds
+dbdd599831905ff1beb89ada7fc6a0a42de8d4f2  Magma/Data/Textures/BG/P_Team/Weber.dds
+4562baf3328614798b358e2a342c711eb3ad4d30  Magma/Data/Textures/BG/Panel/A_Button.dds
+24b2c8074a8c465611d53be429422734252f1444  Magma/Data/Textures/BG/Panel/B_Button.dds
+e1ba6ab32ef102a7d9eea4cdd9c6945cbee3da76  Magma/Data/Textures/BG/Panel/But_L_LOC.dds
+e1ba6ab32ef102a7d9eea4cdd9c6945cbee3da76  Magma/Data/Textures/BG/Panel/But_L_LOC_deu.dds
+fb5c2de52c47e776dc923b0d9c8e30f380ea8745  Magma/Data/Textures/BG/Panel/But_L_LOC_esp.dds
+3a1f53f6025fc183529798aa074f3ad4e885c542  Magma/Data/Textures/BG/Panel/But_L_LOC_fra.dds
+e1ba6ab32ef102a7d9eea4cdd9c6945cbee3da76  Magma/Data/Textures/BG/Panel/But_L_LOC_int.dds
+3bdb63a16b9526dd905407a250b35e807faa6130  Magma/Data/Textures/BG/Panel/But_L_LOC_ita.dds
+4837f6c3ec1609b1779da3570488ea5229ccd40a  Magma/Data/Textures/BG/Panel/But_R_LOC.dds
+4837f6c3ec1609b1779da3570488ea5229ccd40a  Magma/Data/Textures/BG/Panel/But_R_LOC_deu.dds
+0d6adc35814addbcc38ccd26d5e6a346a65f2b5d  Magma/Data/Textures/BG/Panel/But_R_LOC_esp.dds
+0d6adc35814addbcc38ccd26d5e6a346a65f2b5d  Magma/Data/Textures/BG/Panel/But_R_LOC_fra.dds
+4837f6c3ec1609b1779da3570488ea5229ccd40a  Magma/Data/Textures/BG/Panel/But_R_LOC_int.dds
+e3c77445d2f8fdd36c52910fc872f7e0018c19ae  Magma/Data/Textures/BG/Panel/But_R_LOC_ita.dds
+902d223a27eef8cb9e078ad9cfda556cbb19754d  Magma/Data/Textures/BG/Panel/But_black.dds
+119f434c0ac662091be771df27fa59b2ee056601  Magma/Data/Textures/BG/Panel/But_grey.dds
+f2dc0bfcf43d1d651d5158e745322b8c3fdf4085  Magma/Data/Textures/BG/Panel/But_white.dds
+d9f5e229665ed0a882a6bd2f6eb826062e9861ba  Magma/Data/Textures/BG/Panel/Invite.dds
+46a538e195f09906a0501bf760e4c16411b6ecfb  Magma/Data/Textures/BG/Panel/Live_on.dds
+3c82593656b6f8699b13d29e29f6d7cb3b9025bf  Magma/Data/Textures/BG/Panel/X_Button.dds
+a20e03c06cc558744e11862a3e9da88c651c4674  Magma/Data/Textures/BG/Panel/Y_Button.dds
+bd858817512d7d5bdecb3cb07de45727a6ec5e6f  Magma/Data/Textures/BG/Panel/icon_competition.dds
+0b88b7953dc25e67d4dc5e91b1e55e689cb2f947  Magma/Data/Textures/BG/Panel/icon_competition_invite.dds
+c178202ea6ae655802c39bc2150c46057ad2adae  Magma/Data/Textures/BG/Panel/mail.dds
+accbdb542e76038a0dbee003b763f10ff0de22b5  Magma/Data/Textures/BG/Panel/mail_border.dds
+a672f7abaa8bc93bd53c455dc95e895309a0063d  Magma/Data/Textures/BG/Panel/panel_middle.dds
+6373066057ba6b3269745b1150a350ead0a3d660  Magma/Data/Textures/BG/Panel/panel_middle_angle.dds
+700ed8a579ace54e3162e713075c9a1782b97f1b  Magma/Data/Textures/BG/Panel/panel_middle_up.dds
+9d66627617b2fb8bd88859716fccb6414ffd441d  Magma/Data/Textures/BG/Panel/panel_side.dds
+d82a4db332b55f28fdbe06b71d7fa36a34180f88  Magma/Data/Textures/Logo/BaseLogo.dds
+e8778c607fec086b0942d920257a72529f420375  Magma/Data/Textures/Logo/Basics/1.raw
+b21371da17d1074c115c17e01b165a0f1b6df161  Magma/Data/Textures/Logo/Basics/10.raw
+5f2b75d594edbdd10b6af34df535566dd1a8c526  Magma/Data/Textures/Logo/Basics/11.raw
+0c4f7910200cfc126656ae98e8d4a06796969d4e  Magma/Data/Textures/Logo/Basics/12.raw
+3cb115ffc5d229c76febba35cf1ae7ac57b75522  Magma/Data/Textures/Logo/Basics/2.raw
+7fc9b76e5122e92d3d17fd7a805f54ccf71d02ba  Magma/Data/Textures/Logo/Basics/3.raw
+6d9aa05add6db63225b20610055fd4337f8a1082  Magma/Data/Textures/Logo/Basics/4.raw
+d1eb47aaa1ed2ba0e00d200acfbdad996725c360  Magma/Data/Textures/Logo/Basics/5.raw
+d7dba8639729dc2753d93bb8fb97e97a3026119d  Magma/Data/Textures/Logo/Basics/6.raw
+fb50727862c78b46fb073337f2146424e611f2ee  Magma/Data/Textures/Logo/Basics/7.raw
+024bfcf25a223b045eed7773575e5bcbe495b6bc  Magma/Data/Textures/Logo/Basics/8.raw
+ba060d2f700acdad0207ed729bc8d8a21227c977  Magma/Data/Textures/Logo/Basics/9.raw
+ce208c31c03955d7cd93b9c2e38b7166358f67d1  Magma/Data/Textures/Logo/Patterns/1.raw
+1bff4017117fc20d7e492294ed946b210fc02308  Magma/Data/Textures/Logo/Patterns/10.raw
+cd84e65582f15b40ccffe21ae6cd9ff15824e98a  Magma/Data/Textures/Logo/Patterns/11.raw
+f79c92d8133791fc2a8e1d8eea5c408e7729d215  Magma/Data/Textures/Logo/Patterns/12.raw
+e0063fe54b70a60a1a302c52889f82c805b889d3  Magma/Data/Textures/Logo/Patterns/13.raw
+780cd3e64a90cba7ce5c818f0fe5b7906968389c  Magma/Data/Textures/Logo/Patterns/14.raw
+09654867dad05ac60cb51d4cb8955a163c688dfa  Magma/Data/Textures/Logo/Patterns/15.raw
+613bc1fd86fe35c5bf2e6d351b2ea10a2b95e87d  Magma/Data/Textures/Logo/Patterns/16.raw
+cb9ef86a14595ff8b5240eb502bc4fd66ec9fc04  Magma/Data/Textures/Logo/Patterns/17.raw
+73ba34583d68fbe9e9245223a72c4cb52d484def  Magma/Data/Textures/Logo/Patterns/18.raw
+62d86266f3ef4465ec4719b49269d915c39be4c8  Magma/Data/Textures/Logo/Patterns/19.raw
+b44f6d0ab7a85cd022af906c1926faa55a269e5f  Magma/Data/Textures/Logo/Patterns/2.raw
+43ba773d12856c6733f176bd8cac83f987c77fdb  Magma/Data/Textures/Logo/Patterns/20.raw
+7c460586712e7b751b4c0b026b611cdb0340b977  Magma/Data/Textures/Logo/Patterns/21.raw
+07a26d635787e958bcfa407c1331ba611a5af615  Magma/Data/Textures/Logo/Patterns/22.raw
+94c48f951f09ff6586ff5c9905c8ee07177d0a7a  Magma/Data/Textures/Logo/Patterns/3.raw
+a80e10e17c8d0017aa374429eda98cb3afe521f6  Magma/Data/Textures/Logo/Patterns/4.raw
+feb52d1b41db26b7789a28ec0d60e24768c3c045  Magma/Data/Textures/Logo/Patterns/5.raw
+208b2d5391afe07be67540554a9bab9267c0eb53  Magma/Data/Textures/Logo/Patterns/6.raw
+9e46733e444248c38c35109c04defbbad65a376f  Magma/Data/Textures/Logo/Patterns/7.raw
+8aa2f7722db51f558b837f62e571ba9642c183e4  Magma/Data/Textures/Logo/Patterns/8.raw
+a17d94034db177d051d5509fdfc61bb05b818832  Magma/Data/Textures/Logo/Patterns/9.raw
+07a26d635787e958bcfa407c1331ba611a5af615  Magma/Data/Textures/Logo/Symbols/1.raw
+937d31fc399d0d6c262a4ee6b1d9257dbb0c97a4  Magma/Data/Textures/Logo/Symbols/10.raw
+605b03a8c0c3e02c7213367004104a9c1cc319d3  Magma/Data/Textures/Logo/Symbols/11.raw
+95549f789838c7d8ef1caefce9027827e9d801c8  Magma/Data/Textures/Logo/Symbols/12.raw
+1b6eb1047d0b5426ca86aaabf5959c0c96105007  Magma/Data/Textures/Logo/Symbols/13.raw
+165a2363631683d5b974c00218a6ca89e4e31c5f  Magma/Data/Textures/Logo/Symbols/14.raw
+dffc3377a34832ffb0c15fa7237e27142389f11e  Magma/Data/Textures/Logo/Symbols/15.raw
+ddc9e2b3478344d40a7b6124b375ff05213f6f58  Magma/Data/Textures/Logo/Symbols/16.raw
+83b4701ff34020ada1a16e1aeaa31e538a4ae466  Magma/Data/Textures/Logo/Symbols/17.raw
+42557de8757e490299253a1368d29ac10ac13d54  Magma/Data/Textures/Logo/Symbols/18.raw
+09464c6ac354810119b87222fa0377ff36b8702f  Magma/Data/Textures/Logo/Symbols/19.raw
+f88fe6719dd573ae79eb4a13a8aa3cdf9831e6a8  Magma/Data/Textures/Logo/Symbols/2.raw
+b820322b36886f17726a73fcdf1ee06998743126  Magma/Data/Textures/Logo/Symbols/20.raw
+1f908209318a329e5e6e49add86c47e09a761b32  Magma/Data/Textures/Logo/Symbols/21.raw
+e406e719343baea29fcf965125682263b5ac292c  Magma/Data/Textures/Logo/Symbols/22.raw
+c663f2b15b81641d990110c32a5c37fa26ed8c05  Magma/Data/Textures/Logo/Symbols/23.raw
+d0354c4610a1f5e4d36371d291fb27e7289e3615  Magma/Data/Textures/Logo/Symbols/24.raw
+6a07ef4ce35d52bf83238767efd3c2ae113b0110  Magma/Data/Textures/Logo/Symbols/25.raw
+d9098e805c0ca9c32140fb3be682eb5fcca60ff1  Magma/Data/Textures/Logo/Symbols/26.raw
+100769be1786f75a3d1b92d418ac548fa959c33b  Magma/Data/Textures/Logo/Symbols/27.raw
+b6a4ae13c3961d78c28f2ced7cf2c8359bc98ad7  Magma/Data/Textures/Logo/Symbols/28.raw
+e29fd7f9300b0615cb24fe5fb2340d995c107858  Magma/Data/Textures/Logo/Symbols/29.raw
+fe77f771c4bed5725ca5e95174aebc622414cd98  Magma/Data/Textures/Logo/Symbols/3.raw
+7e427c4014e46a188ee0700b339442ee924c771f  Magma/Data/Textures/Logo/Symbols/30.raw
+5fa9c6e54e290b86dee93caa17d54553f5bccbc7  Magma/Data/Textures/Logo/Symbols/31.raw
+0ca450ef84ae5fc40c647f50fe55001c80faafb0  Magma/Data/Textures/Logo/Symbols/32.raw
+0fae81f4a5455a412bb2bb489d38fb08b94b39a1  Magma/Data/Textures/Logo/Symbols/33.raw
+665c0bb191724223e4019f669e32204b0cb80a56  Magma/Data/Textures/Logo/Symbols/34.raw
+8d6c05021f17b579c2189a18a582461d1d47472a  Magma/Data/Textures/Logo/Symbols/35.raw
+a70cbcf8fec87e6c59eb171963eaa78d4ed1cd4e  Magma/Data/Textures/Logo/Symbols/36.raw
+8cf54a6188535684d6c34b324da4ff27b2abe26e  Magma/Data/Textures/Logo/Symbols/37.raw
+09343464bf34cf8d1ee0525d7d35341b64647e2c  Magma/Data/Textures/Logo/Symbols/38.raw
+22c63f8ac481491e98985df7cccef924bd33a839  Magma/Data/Textures/Logo/Symbols/39.raw
+cc6dff2eeb81a74a2651f6a2d43cec6e40ddfd41  Magma/Data/Textures/Logo/Symbols/4.raw
+541e42ad42bb288b30981ad43cdcc9fce15482d3  Magma/Data/Textures/Logo/Symbols/40.raw
+72c9d9dab9e88ece1e08ef8436902b49411c75d6  Magma/Data/Textures/Logo/Symbols/41.raw
+a251a6a82325ea29c0388676d77836ad84855c68  Magma/Data/Textures/Logo/Symbols/42.raw
+2792055383751e4b9bcebdeea347d54f855f0cdc  Magma/Data/Textures/Logo/Symbols/43.raw
+bb73e5a3d3f878a5e57db1d3a9ada2d73008156e  Magma/Data/Textures/Logo/Symbols/44.raw
+64a338e8283455ca249b0a228d2c8e01e6104208  Magma/Data/Textures/Logo/Symbols/45.raw
+c7734506d6f30ac1a76f49c9b3f6449a90d5bcc2  Magma/Data/Textures/Logo/Symbols/46.raw
+0815c39c70a8ca569ffe25c31a49939d8e98553d  Magma/Data/Textures/Logo/Symbols/47.raw
+498256ccdf9ace7af6bd1498f72b497276620f83  Magma/Data/Textures/Logo/Symbols/48.raw
+56d29c7275a0c6ca1431dcd039f77d3be117dae1  Magma/Data/Textures/Logo/Symbols/49.raw
+3a38fe5ab484610bc6384d5de402f1f575fc03e0  Magma/Data/Textures/Logo/Symbols/5.raw
+7b394037c11076222025494dd5b5e71e15e9327d  Magma/Data/Textures/Logo/Symbols/50.raw
+0cac11882974e95611e8028895ea5998f4fe61c9  Magma/Data/Textures/Logo/Symbols/51.raw
+948b73ce7fd90e1836a7816f43a6eff72231b148  Magma/Data/Textures/Logo/Symbols/52.raw
+3162150e4d31b1a1e89cc9a4470ea7384567385e  Magma/Data/Textures/Logo/Symbols/53.raw
+a2426688db1219b151f00a432b512eb4839a6275  Magma/Data/Textures/Logo/Symbols/54.raw
+b2ca31c601eab9fd74093797ded6520259365c66  Magma/Data/Textures/Logo/Symbols/55.raw
+5a593c95500923187f6d5cc6346ab95b02842231  Magma/Data/Textures/Logo/Symbols/56.raw
+0a8f3410be04e7134d64f1d3b4f1f6c6ed80986a  Magma/Data/Textures/Logo/Symbols/57.raw
+dbe6bc2ae78c327473a7e5355553867cf798caa3  Magma/Data/Textures/Logo/Symbols/58.raw
+dd75e9ff890c2ab1cc9bec1a1ce2cdfd5b5a5f81  Magma/Data/Textures/Logo/Symbols/59.raw
+63b52ad605afa38ee022483b180bc68bce9d5ec5  Magma/Data/Textures/Logo/Symbols/6.raw
+ac18b9cac7a10c7215c857ecfba1510bd718f4f2  Magma/Data/Textures/Logo/Symbols/60.raw
+1b9f6c56481fd5af70913263a18ba27522141a26  Magma/Data/Textures/Logo/Symbols/61.raw
+8387a71b9baf7bb1ba8adbe9c10876afe1fe7e56  Magma/Data/Textures/Logo/Symbols/7.raw
+e541b85de27131da4f3fdf7e99fff42346777091  Magma/Data/Textures/Logo/Symbols/8.raw
+e79865f4fa2dd9f0b65cee9d3bb49d4fdd6ccbc7  Magma/Data/Textures/Logo/Symbols/9.raw
+caabcaf8f5c0c7e42489bc0844039c3c9824c6db  Magma/Data/Textures/Maps/Oil_Refinery.dds
+0fa66113c5d69244fc934d0dbd02e7118ae83e72  Magma/Data/Textures/gear/leftpanel/leftbg.dds
+837c303a17f9947cec523620fcb46976c776a514  Magma/Data/Textures/gear/logo.dds
+dc40c950f3f6cd69e140585c243eea0e51436ba3  Magma/Data/Textures/gear/rightpanel/colorbar.dds
+9a9adffe8f210fd8b60a59bfbba4a38f0752bd44  Magma/Data/Textures/gear/rightpanel/downarrow.dds
+737e0f9cfcc43e9e3bc4ce8adb2474dc2ead47c5  Magma/Data/Textures/gear/rightpanel/flash.dds
+219dde161f7afeba3b128d8f3e2b60fc4e70dc69  Magma/Data/Textures/gear/rightpanel/frag.dds
+1484dca172904c1140976b32c86259f959fd5e1f  Magma/Data/Textures/gear/rightpanel/mp5.dds
+a942d2a1e83dc0e65a91cd0a95fd74c37c5a9d46  Magma/Data/Textures/gear/rightpanel/numericfield.dds
+29cd8fa3c6c1608e06ae5eda47ff8e8f9d03b19a  Magma/Data/Textures/gear/rightpanel/pistol.dds
+073b64a4bb2764b67b739ccb98f1131525416aba  Magma/Data/Textures/gear/rightpanel/redline.dds
+c369a8359da3e8462f2659c98745ff62ae479445  Magma/Data/Textures/gear/rightpanel/rightbg.dds
+3fc3a57b0000658e8c3ef2dd12af9af55d448f79  Magma/Data/Textures/gear/rightpanel/uparrow.dds
+ab2d6f03dd958a19ee8cdb3fbeb35a5fc2858e5f  Magma/Data/Textures/gear/rightpanel/whiteline.dds
+907c1ebe9be60a2129d1bfdd3671c593ed9d20b4  Magma/Data/Textures/smile.dds
+880a564f59871cea2c9fac77ff5a6894288af060  Magma/Data/Textures/sunset.bmp
+f7c526b8d9082f21df7daefb16d165058a39fa5c  Magma/Data/XboxLive.mgm
+75cf94dd1cf5e43d8d9987fa5b94c9f814384596  Maps/Agora.ini
+39a44d0c0ce6d446594daea7700e8b6200719c42  Maps/Agora.rsm
+ca7f51fbb5dd806faa25eae3eea6245c130550ae  Maps/Agora.xbx
+9764f21bd876385fdce72610d581661fc396caa4  Maps/Agora_MP.ini
+39a44d0c0ce6d446594daea7700e8b6200719c42  Maps/Agora_MP.rsm
+746d32ed85ddc8a9e7da28ab784201ae4beace5a  Maps/Airport_MP.ini
+39a44d0c0ce6d446594daea7700e8b6200719c42  Maps/Airport_MP.rsm
+79de81d2ca237eebccedb3555ca1212f7b2aebe9  Maps/Autoplay.ini
+5b9e645211517105178f54523e1667a0891ff085  Maps/Bac_MP.ini
+39a44d0c0ce6d446594daea7700e8b6200719c42  Maps/Bac_MP.rsm
+e8745b47faed26a05bd2c480ce51e16efe152650  Maps/Bac_SP.ini
+597e27f12eb4fe11e94904fe21abcb47b9d9b810  Maps/Bac_SP.rsm
+32b0b9b5579a5d13c067daf29eded6d985ce4dbe  Maps/Bac_SP.xbx
+d538f3451ffc40fc7f40aaa59dd7bce2273933a3  Maps/Bas_MP.ini
+39a44d0c0ce6d446594daea7700e8b6200719c42  Maps/Bas_MP.rsm
+f4f478f71757569efb2f6a5b071a8738ea2b96c4  Maps/Base_SP.ini
+39a44d0c0ce6d446594daea7700e8b6200719c42  Maps/Base_SP.rsm
+977b1e4fdc4b6ae3198f1bb0053fb1a0af75e298  Maps/Base_SP.xbx
+a2f2e066591f5b546fd051ba1a64758564c3c501  Maps/Caf_MP.ini
+39a44d0c0ce6d446594daea7700e8b6200719c42  Maps/Caf_MP.rsm
+58bcfbd3b4f2c7bb5c6a37b1eb2b76818468f807  Maps/Castle.ini
+39a44d0c0ce6d446594daea7700e8b6200719c42  Maps/Castle.rsm
+7f7b247a11cd0f2e51d7dacf326521adaba669a7  Maps/Castle.xbx
+2e74665a2588bec55a01a41d2f379aecc52c4cf1  Maps/Castle_MP.ini
+39a44d0c0ce6d446594daea7700e8b6200719c42  Maps/Castle_MP.rsm
+c8e77811b16c4f7968a8ad8c480b105933880615  Maps/DefaultLoading.tga
+59d49dfe4b6e105d877716bd64fc2ae685fe93a0  Maps/Entry.rsm
+790fb94b6ddba0065f3fac14088fd5b87c05c32f  Maps/Fer_MP.ini
+39a44d0c0ce6d446594daea7700e8b6200719c42  Maps/Fer_MP.rsm
+8ca2e9d6d14481a08097dbd2d3dbcf8e41e97fd8  Maps/Garage_MP.ini
+39a44d0c0ce6d446594daea7700e8b6200719c42  Maps/Garage_MP.rsm
+c29965e02fbf3bcb102deea3edf90d6efb17d3f2  Maps/Hotel.ini
+39a44d0c0ce6d446594daea7700e8b6200719c42  Maps/Hotel.rsm
+abc87b4f427121371639fedb89e5abb4d0a16235  Maps/Hotel.xbx
+14fcce5d0110323f4fec903ee209e7e8f3dada16  Maps/Hotel_MP.ini
+39a44d0c0ce6d446594daea7700e8b6200719c42  Maps/Hotel_MP.rsm
+ac39b7635d8dff5c7e201f1bc0ee38af08e8a0aa  Maps/Kes_MP.ini
+39a44d0c0ce6d446594daea7700e8b6200719c42  Maps/Kes_MP.rsm
+d19bf9575e8cfc676164d92c6a80569fab56a773  Maps/NuclearR.ini
+39a44d0c0ce6d446594daea7700e8b6200719c42  Maps/NuclearR.rsm
+3c33b37599cf075292ff628198df40c72e325dd7  Maps/NuclearR.xbx
+d025d1ecf98a9fb852b84b319095872e154dfba8  Maps/NuclearR_MP.ini
+39a44d0c0ce6d446594daea7700e8b6200719c42  Maps/NuclearR_MP.rsm
+6a4b107d3f15b3a6916a4cb14d0830d72cabf71c  Maps/Obs_MP.ini
+39a44d0c0ce6d446594daea7700e8b6200719c42  Maps/Obs_MP.rsm
+78b80da0e73ed31c12b2a4ee45cc81898c249c3a  Maps/Peaks_MP.ini
+39a44d0c0ce6d446594daea7700e8b6200719c42  Maps/Peaks_MP.rsm
+4cf5b46e489ea305199d8a37a6cfa1ffa4129c4a  Maps/Presidio_MP.ini
+39a44d0c0ce6d446594daea7700e8b6200719c42  Maps/Presidio_MP.rsm
+79324d4fafd571d6f6177ab5d93f7a0138e8c1b7  Maps/Roc_MP.ini
+39a44d0c0ce6d446594daea7700e8b6200719c42  Maps/Roc_MP.rsm
+5a7d96dc8aac8ad5f4fd34e3421d99b8c8dac5a7  Maps/Roc_SP.ini
+39a44d0c0ce6d446594daea7700e8b6200719c42  Maps/Roc_SP.rsm
+3bb474f9551bb7584daf0fb0f37363ba6060e475  Maps/Roc_SP.xbx
+5a3ab203ccd16d6d106be9757364c9e67b1afac4  Maps/Ruins.ini
+39a44d0c0ce6d446594daea7700e8b6200719c42  Maps/Ruins.rsm
+9036a50d27b6e38bf2dface7b7d366205f18e024  Maps/Ruins.xbx
+43e801a8a47ea5208d8bddf24f77166d526bc0d6  Maps/Ruins_MP.ini
+39a44d0c0ce6d446594daea7700e8b6200719c42  Maps/Ruins_MP.rsm
+71236e0f2007615723d6d80a898f8bb75c0115ac  Maps/Station.ini
+39a44d0c0ce6d446594daea7700e8b6200719c42  Maps/Station.rsm
+60daecb2f383580daea580be94ef1cf9686326e7  Maps/Station.xbx
+8e94452dd75a298c1a91b177a30bcceb77023de3  Maps/Station_MP.ini
+39a44d0c0ce6d446594daea7700e8b6200719c42  Maps/Station_MP.rsm
+4fd7f081da35126e8bc094a9c8ca3a623bf026cc  Maps/Str_MP.ini
+39a44d0c0ce6d446594daea7700e8b6200719c42  Maps/Str_MP.rsm
+1b3e316bbea71b796b277379fea62940095d3732  Maps/Str_SP.ini
+39a44d0c0ce6d446594daea7700e8b6200719c42  Maps/Str_SP.rsm
+747fcf2999f1e6939948f1facadbc040f95d45bb  Maps/Str_SP.xbx
+8e1c82e94405066dbc941e6d14bded41d938b3c7  Maps/Training_Team.rsm
+db051f5eaf1c2499b3b0f3615ac42e5ce6ce141d  Maps/Training_Team.xbx
+6f30164e2d85277def7e33b7e7f6475d1514870c  Maps/Training_basics.ini
+0a95169c216e4344ad03dfd340766b9ea984f346  Maps/Training_basics.rsm
+822c9654ed0bf35e9a2f2311827feea9ac87b2c7  Maps/Training_basics.xbx
+785598b9fc0cea10873d8af88b3b0fc364ef0110  Maps/Training_shooting.ini
+4f7233b46b86609cd8457aa4bb90e990f479e449  Maps/Training_shooting.rsm
+7ecf7bc46034fcc0810a95648320ee25c6b19d98  Maps/Training_shooting.xbx
+ec4f0019b21ffcd114a4ac1969fd126378eafd6c  Maps/Training_team.ini
+119aab45abd9f88560c3b956ee2da5f253fe1155  Maps/_debug.ini
+7fabfd4d9dd95bd520a461465ecb63ceea1c171e  Maps/int/Bac_SP.tga
+cffe0a001e30ea1af4f3c987186bf2967a9a4c9b  Maps/int/GameplayTipLoading.tga
+4ff0fe5195609d75fcdd20cf051f257a170bf6bf  Maps/r6menu.ini
+b0a08f557da2f3e5d1553d86bfd7ba0d53ae7ef1  Maps/r6menu.rsm
+fe7d8d3e6488815339c74c8f7dcd498d24cc93a5  PICS/Riddick_cdx.bmp
+7b681736bdba88f0b466422340c480998c2db972  PICS/arx_cdx.bmp
+c77aa27ae848e662ad0391c2326a811f11cdc7d9  PICS/black_arrow.bmp
+dbc1338fc26b9d5e5e7ac10aa2d1ec636ecb66b7  PICS/black_arrow_cdx.bmp
+1b88ed3cac0b2aef940a38ee4ca240fed9f3ad88  PICS/blank.bmp
+90287b34104bd7ab5d94514de33d1b13de4b970e  PICS/doa_ultimate.bmp
+49e8393fcbf7bf682de95e7ec64bca2dbba9a0f3  PICS/dukes.bmp
+3aca7b4f6801a6be6179fdee108e019b70886597  PICS/fc.bmp
+a28e09a56882cd9e34640da53c50d7210532b9f5  PICS/fifa.bmp
+a69cf95a6dfc5086d0b0bb087c3ff9dac5bd66d1  PICS/jp_cdx.bmp
+01675b244a17c4146183c2208c2700f915b32c0e  PICS/lotr_cdx.bmp
+69ca33efc260c0ea6353940677a1e784dc71e51e  PICS/rocky.bmp
+90b967d7950b8e413264390d9281491db3447163  PO_GS/CDX.XBE
+f672f93db21eaaa052e54ddb3c049ce8dc59ccc3  PO_GS/CDXMEDIA/CDX.INX
+0eb7fd6237c5ff8f9e7d093661e3496e5765c265  PO_GS/CDXMEDIA/CDX.XPR
+ce383f12f3110038049472ce71d6f5d3f37b134f  PO_GS/CDXMEDIA/CDX.XSB
+eec5a758c0e19f0219ccba2d84da7ff702e912a8  PO_GS/CDXMEDIA/CDX.XWB
+cceca1b3cece0b04ff089d06ec64e9e68f6a0d48  Rocky legends/Arenas/Docks/Docks.PAK
+9fd19ef25d11e2e82af462e55986da01e8be1a01  Rocky legends/Arenas/Olympiad/Olympiad.PAK
+e7b5c8d4251abde1929f4d5a088f96ae2e1ede12  Rocky legends/Boxers/Clubber/Clubber.PAK
+f9a9dd30afbeea1c517482e8c046b4e62474e737  Rocky legends/Boxers/Fullmer/Fullmer.PAK
+5fe48037cf8d4255bf44c898f1e44c2a6d11988a  Rocky legends/Boxers/Rocky3/Rocky3.PAK
+015bd83674845921d1b0e950f512cc1b9f5229c4  Rocky legends/Boxers/_ANNO/Anno15/Anno15.PAK
+9212b18efd89f374fb146c243e808a14456d327d  Rocky legends/Boxers/_ANNO/Anno16/Anno16.PAK
+645e9ac2cf03de4c8666c5d3ee901770df9c2939  Rocky legends/Boxers/_CARD/Adidas/Adidas.PAK
+d934e3bcbff82b5be0d8259f1a71aa8a219086a6  Rocky legends/Boxers/_CARD/Plain/Plain.PAK
+b717d9ae3dd8ff5a8b218765c8f260b73473a012  Rocky legends/Boxers/_CARD/RCGirl07/RCGirl07.PAK
+f43a4f689a145a13300df8070f2c8cd80f5f8dd1  Rocky legends/Boxers/_CARD/RCGirl09/RCGirl09.PAK
+9dfbe8f98b95df8be04ef86fa57076dcb0260b09  Rocky legends/Boxers/_CORNER/CrnNeuB1/CrnNeuB1.PAK
+5f706d301861ec1ae378749ec8c60857a9d0f476  Rocky legends/Boxers/_CORNER/CrnNeuB5/CrnNeuB5.PAK
+f84c85087d056cb5fb2da36a7bbc240a6660a90c  Rocky legends/Boxers/_CORNER/CrnNeuB6/CrnNeuB6.PAK
+b773c83a4c1ff23ecf525943d6c3a0faefc17bcb  Rocky legends/Boxers/_CORNER/CrnNeuB7/CrnNeuB7.PAK
+a995e80d51f22e2880831c690d10976cbeb85c8d  Rocky legends/Boxers/_CORNER/CrnNeuB8/CrnNeuB8.PAK
+f67ac0357484b020fbe288249242936c6b7ed69a  Rocky legends/Boxers/_CORNER/CrnNeuB9/CrnNeuB9.PAK
+add07b50f12b32c324077dc79cb1ca12dfc1f436  Rocky legends/Boxers/_CORNER/CrnNeuPa/CrnNeuPa.PAK
+8dc11e23f68325dbb607a6e18b092146784d9c42  Rocky legends/Boxers/_CORNER/CrnNeuW1/CrnNeuW1.PAK
+a43da68af2d0916ba4cdac5e28c342a73418b2df  Rocky legends/Boxers/_CORNER/CrnNeuW2/CrnNeuW2.PAK
+a6012bbd4893d4b85631db3017d2bafa093ff306  Rocky legends/Boxers/_CORNER/CrnNeuW5/CrnNeuW5.PAK
+719fa84a6c99ad7fdd6c84d6dce924411cca8b6a  Rocky legends/Boxers/_CORNER/CrnNeuW6/CrnNeuW6.PAK
+19248417bef031f2e0cdd54cfe3eed3590d91c38  Rocky legends/Boxers/_CORNER/CrnNeuW7/CrnNeuW7.PAK
+21c355416eb5ca21f4463051ca2b522f138ef950  Rocky legends/Boxers/_CORNER/CrnNeuW8/CrnNeuW8.PAK
+e97e85bbc56b19ad898fea487e34702ba9761eee  Rocky legends/Boxers/_CORNER/CrnNeuW9/CrnNeuW9.PAK
+063d95517a4c9cc76d9bb949335abd5654f94ce8  Rocky legends/Boxers/_Eyeballs_/_Eyeballs_.PAK
+1bd1dec238c3a88fedd03f07f26d1bd2ccc5d41d  Rocky legends/Boxers/_MISC/ShadCard/ShadCard.PAK
+9d039c8373b81f0e2ebeae545519b90a3d2406ec  Rocky legends/Boxers/_MISC/ShadGirl/ShadGirl.PAK
+4ba21c4d3099f2c3ce73c7c710148543eec2747e  Rocky legends/Boxers/_MISC/shadow/shadow.PAK
+9c9df153a409970ff34d16607550d7234228ddae  Rocky legends/Boxers/_MISC/shadow2/shadow2.PAK
+dec030eb9a2d46f7128d1bf00c9d2f900fa2868f  Rocky legends/Boxers/_REFEREE/Ref11/Ref11.PAK
+65357bce49a1f9f19fbcab45059cc06872df9ca5  Rocky legends/Boxers/_REFEREE/Ref13/Ref13.PAK
+f6678522578d73b14ff824f36fcf81e59d9c6ee2  Rocky legends/Boxers/_TRAINER/TrnNeuB1/TrnNeuB1.PAK
+997d0f850e156972e80380c45cce5c1ee44ce647  Rocky legends/Boxers/_TRAINER/TrnNeuB2/TrnNeuB2.PAK
+62fb8b600d6aa2f12cef14262ece6407684ec677  Rocky legends/Boxers/_TRAINER/TrnNeuB5/TrnNeuB5.PAK
+695ef71c3ab33dc7295102364ad4b619b11a9c2d  Rocky legends/Boxers/_TRAINER/TrnNeuB6/TrnNeuB6.PAK
+2a20d7909c1b2b469aa2b6091b6717897ac90f23  Rocky legends/Boxers/_TRAINER/TrnNeuB7/TrnNeuB7.PAK
+9e96da6abfeca24e9069d3b0ce1fcb426d0938e4  Rocky legends/Boxers/_TRAINER/TrnNeuB8/TrnNeuB8.PAK
+99d0a66c1f7a6c23172df943259173af55f61426  Rocky legends/Boxers/_TRAINER/TrnNeuB9/TrnNeuB9.PAK
+f3651077a781c04400477fb381a5032e090d2622  Rocky legends/Boxers/_TRAINER/TrnNeuMK/TrnNeuMK.PAK
+f99af4e4f5e08a9a0cb976de5f947f2ee640015e  Rocky legends/Boxers/_TRAINER/TrnNeuW1/TrnNeuW1.PAK
+3a019bc823b2308dd05f2f2b50246da1e4c236e7  Rocky legends/Boxers/_TRAINER/TrnNeuW2/TrnNeuW2.PAK
+2a76680acafb4b27d8b7bc8ee454467ae9580095  Rocky legends/Boxers/_TRAINER/TrnNeuW5/TrnNeuW5.PAK
+d923d9d21d07199c4c926fa9eeb23d86b95e4fea  Rocky legends/Boxers/_TRAINER/TrnNeuW6/TrnNeuW6.PAK
+908c245d3244eebebef5956e27fa6e646c9bd1d3  Rocky legends/Boxers/_TRAINER/TrnNeuW7/TrnNeuW7.PAK
+18a4487e5f650cd3297ba17e4eaee11fd9f54c30  Rocky legends/Boxers/_TRAINER/TrnNeuW8/TrnNeuW8.PAK
+6cabf70312070d2398f6afdab3dd1ed4521c9f9f  Rocky legends/Boxers/_TRAINER/TrnNeuW9/TrnNeuW9.PAK
+5f9fe3b7e8c5dd978e50772ab2aa16fcdf7d1fab  Rocky legends/Boxers/_TRAINER/_TRAINER.PAK
+782bf713d463e214d6673d1e27d9227df4947658  Rocky legends/Data/Data.PAK
+ae6f67d4077bdfc93e1b4e3203e07226f255262b  Rocky legends/Fend/ArenaImg/ArenaImg.PAK
+6dc6fd3fdddcf4e4ec4848cc0eb0a051cc8f2014  Rocky legends/Fend/BoxerImg/BoxerImg.PAK
+018d7f77709a72f39bfa22154a73089ac598deeb  Rocky legends/Fend/BoxerImg/_spar/_spar.PAK
+32bbcf0ab15975ccdaa9c14c3ce72b0ba9b70af2  Rocky legends/Fend/Fend.PAK
+f5b8bb1a149a44c0c1b8cc64efbcd9422108f9a9  Rocky legends/Fend/Icons/optsicon.xbx
+cae75ef3052d8948620744e826425e30c8aab049  Rocky legends/Fend/Icons/replicon.xbx
+ff28830feac4991bc62bada28914a9c3cea2b525  Rocky legends/Fonts/Fonts.PAK
+eb749789ce06083b22cf6c5016fe3d3f5e59dd9c  Rocky legends/Models/Models.PAK
+98f93534ac00aaf0b3ac9e67989356af1265a980  Rocky legends/Newcrowd/Crowdmdl/Crowdmdl.PAK
+6765a7aaf68828c7426de82adf39b0c376af54d8  Rocky legends/Newcrowd/anims/PS2Sit/PS2Sit.PAK
+492b9cac880daec0515419508a4a9e94c3bf475f  Rocky legends/Newcrowd/anims/PS2Stand/PS2Stand.PAK
+aae0caa96c6cfdd8d47a2b0716ae3da4ebd880be  Rocky legends/Newcrowd/anims/Sitting/Sitting.PAK
+623b5a504894c63542d7207fde0001ed0fcf9b10  Rocky legends/Newcrowd/anims/Standing/Standing.PAK
+d69d0a2c80db3be68603b1ceb81af41d0ed93a17  Rocky legends/Shaders/Shaders.PAK
+7cbfb0fce35d9379f527d3945ef9b8446337fb3b  Rocky legends/Subtitle/English/Subtitle/subtitle.PAK
+21376c73add5932547d4f8b4692f104adb81c081  Rocky legends/Textures/HUD/English/English.PAK
+9b8f499d248e8aea8846238d97ad7d7590dab4da  Rocky legends/Textures/HUD/HUD.PAK
+3f61f18a20400431cc50c5483fd8d6df698ff609  Rocky legends/Textures/Skycubes/Skycubes.PAK
+ee0ecb938f21132fb27eec0ecc4039ce3ef2378a  Rocky legends/Textures/Textures.PAK
+ba04a50ae4ed688ba49d0aaf94f605710067183f  Rocky legends/Textures/Water/Water.PAK
+7e54180225cf5969b66bed1f83c1b218e0aaf9b5  Rocky legends/Walkins/inmatch/inmatch.PAK
+466c792497dfabe91f7531bcefca36d488fc7c98  Rocky legends/XBAUDIO/Arenas/Large/LARGE.PLJ
+94f75a345ea15ca947aec15428a0aa43e0a19dfd  Rocky legends/XBAUDIO/Arenas/Large/LARGE.XLF
+e7ba27bd96f97727ba932a905da0d16642913e82  Rocky legends/XBAUDIO/Arenas/Large/LARGE.XLI
+79e30607d2cd4adf1442fa60a94d3a5333c87bc5  Rocky legends/XBAUDIO/Arenas/Large/LARGE.sff
+466c792497dfabe91f7531bcefca36d488fc7c98  Rocky legends/XBAUDIO/Arenas/Medium/MEDIUM.PLJ
+66abb6d72fc10f48dc38933b4d39f6fa41c5bf33  Rocky legends/XBAUDIO/Arenas/Medium/MEDIUM.XLF
+584564ce8e79be6d0922f3425160acbcb301fd6e  Rocky legends/XBAUDIO/Arenas/Medium/MEDIUM.XLI
+79e30607d2cd4adf1442fa60a94d3a5333c87bc5  Rocky legends/XBAUDIO/Arenas/Medium/medium.sff
+466c792497dfabe91f7531bcefca36d488fc7c98  Rocky legends/XBAUDIO/Arenas/Small/SMALL.PLJ
+667fa6998c63485525c13c858eba2ebf3adf80ba  Rocky legends/XBAUDIO/Arenas/Small/SMALL.XLF
+e4c32d49e1bdf88961013b0160aa5d16e6372b62  Rocky legends/XBAUDIO/Arenas/Small/SMALL.XLI
+f39de8f7e6083be18ec96f310be44f296303a34a  Rocky legends/XBAUDIO/Arenas/Small/SMALL.sff
+19b6ae9b30c7e8dc36753c60ae8d69254263e1fc  Rocky legends/XBAUDIO/ENGLISH/Clubber/TNTCLUB1.PLJ
+31855e2c126565eca3e26e3e4497b266b2c687aa  Rocky legends/XBAUDIO/ENGLISH/Clubber/TNTCLUB1.XLF
+a75d5a7927b76ccba3e477efd8e3d52fe86e2669  Rocky legends/XBAUDIO/ENGLISH/Clubber/TNTCLUB1.XLI
+8f7c0d0b46d6347eeedf04ac66fabd0db5acada8  Rocky legends/XBAUDIO/ENGLISH/Clubber/TNTCLUB2.PLJ
+d226668754b30c776da4ec916b2cfd5b06be0238  Rocky legends/XBAUDIO/ENGLISH/Clubber/TNTCLUB2.XLF
+16b0162d2f8e1fdf8768d3039b968de610366db2  Rocky legends/XBAUDIO/ENGLISH/Clubber/TNTCLUB2.XLI
+5971dba9e34a37c7efde6b5e1253629664eaffeb  Rocky legends/XBAUDIO/ENGLISH/Clubber/TNTCLUB3.PLJ
+fc944c0024aa1ee4536e2b53478ff348e5259185  Rocky legends/XBAUDIO/ENGLISH/Clubber/TNTCLUB3.XLF
+4be673497f137727ac9754c622261ccaa91e2e0b  Rocky legends/XBAUDIO/ENGLISH/Clubber/TNTCLUB3.XLI
+644921386602d8e235533606f83bf0b0d7c862b1  Rocky legends/XBAUDIO/ENGLISH/FULL/TNTFULL.PLJ
+9a4ad7f9b54fefa7bcafc9a688dd43daff0a8462  Rocky legends/XBAUDIO/ENGLISH/FULL/TNTFULL.XLF
+a088422ec3855a2e3af81d6a3cfb190c4c32d252  Rocky legends/XBAUDIO/ENGLISH/FULL/TNTFULL.XLI
+946d86ead051b16cdb7fcc8fc9979fd74cb1070f  Rocky legends/XBAUDIO/ENGLISH/Rocky1/TNTROCK1.PLJ
+a37d2e9be2fb06bc5a9d10891fb8fadd939627dc  Rocky legends/XBAUDIO/ENGLISH/Rocky1/TNTROCK1.XLF
+f8e2570d5d5bd01b48ed4f1c88c9412c0b716754  Rocky legends/XBAUDIO/ENGLISH/Rocky1/TNTROCK1.XLI
+c0793a02114066e15f89837ea22eb8ac7f23c5b0  Rocky legends/XBAUDIO/ENGLISH/Rocky1/TNTROCK2.PLJ
+58041701d05e9a835218acb204edea9a216bcfdc  Rocky legends/XBAUDIO/ENGLISH/Rocky1/TNTROCK2.XLF
+20344962d9df8fef473f8e0e5e64466a8765252b  Rocky legends/XBAUDIO/ENGLISH/Rocky1/TNTROCK2.XLI
+901fcf7aba274cf18e3a85ca102725ecedc1af1b  Rocky legends/XBAUDIO/ENGLISH/Rocky1/TNTROCK3.PLJ
+400e72e81d1490e84ba0772ac0aed20777dcafa8  Rocky legends/XBAUDIO/ENGLISH/Rocky1/TNTROCK3.XLF
+45be64788a6670c7e5e4a637cc9bddd729025310  Rocky legends/XBAUDIO/ENGLISH/Rocky1/TNTROCK3.XLI
+b5fbef0a7ea3a149d9bdc64c8d360a194a200cb5  Rocky legends/XBAUDIO/ENGLISH/announc.dat
+0ea239fe59e817bf27ddc14241c9b64554b7b840  Rocky legends/XBAUDIO/ENGLISH/announce/ano4/ANO4CLAA.XBA
+ed922f9b732af69ba22dc60ba6907a0c2cc5af3d  Rocky legends/XBAUDIO/ENGLISH/announce/ano4/ANO4CLAA.jw2
+5794f465f2bf9f9de7059b825ac03f5d95cab817  Rocky legends/XBAUDIO/ENGLISH/announce/ano4/ANO4CLAB.XBA
+9d5c61ff976a2af5a9da4af08f89fd99ce7910bf  Rocky legends/XBAUDIO/ENGLISH/announce/ano4/ANO4CLAB.jw2
+0dff5fe6672eb0eff19be9c32d24d0e546d73ea3  Rocky legends/XBAUDIO/ENGLISH/announce/ano4/ANO4DCK1.XBA
+9f6fa2146bed803c73f14f154c06ce7d10084990  Rocky legends/XBAUDIO/ENGLISH/announce/ano4/ANO4DCK1.jw2
+29957d99a383a566d6fb85e329d31d5adb6884ba  Rocky legends/XBAUDIO/ENGLISH/announce/ano4/ANO4DCK2.XBA
+428331d0883ee1a1978d404e6c3120e474240b2b  Rocky legends/XBAUDIO/ENGLISH/announce/ano4/ANO4DCK2.jw2
+de77441089576429533899f58882654391f49bb9  Rocky legends/XBAUDIO/ENGLISH/announce/ano4/ANO4DRAW.XBA
+30fb3ad840b704b2f7516520f6ad6343e892fc47  Rocky legends/XBAUDIO/ENGLISH/announce/ano4/ANO4DRAW.jw2
+ee531ae8d47ae71b4baefcc7498d999319eb3f1d  Rocky legends/XBAUDIO/ENGLISH/announce/ano4/ANO4FULA.XBA
+2db4c6b3820db63d79083ef24c809be0c1dbfb4f  Rocky legends/XBAUDIO/ENGLISH/announce/ano4/ANO4FULA.jw2
+f55f96fe80b8054eefeb5c1aad08068c84c2b3ed  Rocky legends/XBAUDIO/ENGLISH/announce/ano4/ANO4FULB.XBA
+4a6dafd1311aeeadc98c44b6f5c52bcf3b3d5ac2  Rocky legends/XBAUDIO/ENGLISH/announce/ano4/ANO4FULB.jw2
+6315c1220274a7622d21c01113c00736e62c015b  Rocky legends/XBAUDIO/ENGLISH/announce/ano4/ANO4RK3A.XBA
+6ae77918d4538e32be889d63eed15e11adbc6010  Rocky legends/XBAUDIO/ENGLISH/announce/ano4/ANO4RK3A.jw2
+ca2ac1756de6aaee17ee9b41dfe463646cdf5bd3  Rocky legends/XBAUDIO/ENGLISH/announce/ano4/ANO4RK3B.XBA
+83490cac8650fc1d3e486bc04ebcccf626c9a34e  Rocky legends/XBAUDIO/ENGLISH/announce/ano4/ANO4RK3B.jw2
+052f6bec3825346c6a555d7df903da59dc2f2504  Rocky legends/XBAUDIO/ENGLISH/announce/ano4/ANO4WINP.XBA
+dfee4910be3ed554d900818ca7f78306b524293b  Rocky legends/XBAUDIO/ENGLISH/announce/ano4/ANO4WINP.jw2
+231d91f070c9ff7e69d31aaeee12df7a8ebd406c  Rocky legends/XBAUDIO/ENGLISH/announce/ano4/ANO4WINS.XBA
+93ea08c5cd5945dc2642648ac4cdd4408c93dedb  Rocky legends/XBAUDIO/ENGLISH/announce/ano4/ANO4WINS.jw2
+020658d1282880ee19afba8b914888af36bc8eea  Rocky legends/XBAUDIO/ENGLISH/announce/ano4/ANO4WNKO.XBA
+5b385f8ba502541ab75607dce6cbe663d3d19ed0  Rocky legends/XBAUDIO/ENGLISH/announce/ano4/ANO4WNKO.jw2
+22ccae9dcb7668a8cafbcdc291daf4651cdfec87  Rocky legends/XBAUDIO/ENGLISH/announce/ano4/ANO4WTKO.XBA
+b22a692341f164a77f34798a797b053200266361  Rocky legends/XBAUDIO/ENGLISH/announce/ano4/ANO4WTKO.jw2
+d472b69579b58ee2d51c72fca4371b528ba0ef6a  Rocky legends/XBAUDIO/ENGLISH/announce/ano5/ANO5CLAA.XBA
+6d6240c2d35cb3684212d4b9136fc41c6af61de2  Rocky legends/XBAUDIO/ENGLISH/announce/ano5/ANO5CLAA.jw2
+00371cd7d26bfca00817940ec70a20c0383f5101  Rocky legends/XBAUDIO/ENGLISH/announce/ano5/ANO5CLAB.XBA
+be0f30961850b1ca7cbda1518a33ecb337f7fb46  Rocky legends/XBAUDIO/ENGLISH/announce/ano5/ANO5CLAB.jw2
+d2be309173672be645aad9e54750235dbde553a7  Rocky legends/XBAUDIO/ENGLISH/announce/ano5/ANO5DRAW.XBA
+acc4e401b486da7dbcf4a751bc2ad30f8b2d88c4  Rocky legends/XBAUDIO/ENGLISH/announce/ano5/ANO5DRAW.jw2
+002da07adad34dc953eb1f55fc981b0652de58d9  Rocky legends/XBAUDIO/ENGLISH/announce/ano5/ANO5FULA.XBA
+3d1c5c06edaf1d719b09d3484eee9bb529d100b2  Rocky legends/XBAUDIO/ENGLISH/announce/ano5/ANO5FULA.jw2
+215955d07933bed76b89d999220c22528c19d6d0  Rocky legends/XBAUDIO/ENGLISH/announce/ano5/ANO5FULB.XBA
+d34d79cce673e0aaf8e410cff241f1c4c09cb4cd  Rocky legends/XBAUDIO/ENGLISH/announce/ano5/ANO5FULB.jw2
+6b95f70f55a674df95204ebd60ed9aef070a1296  Rocky legends/XBAUDIO/ENGLISH/announce/ano5/ANO5HNG1.XBA
+2b71b0ffb94361e49cb17d2b74d0f5ecdf7d99db  Rocky legends/XBAUDIO/ENGLISH/announce/ano5/ANO5HNG1.jw2
+af01684ce3931f7579244bdb0aabc10fd16785f7  Rocky legends/XBAUDIO/ENGLISH/announce/ano5/ANO5HNG2.XBA
+bf76d5dc2015bd725574a9515a41f06d4e1636b9  Rocky legends/XBAUDIO/ENGLISH/announce/ano5/ANO5HNG2.jw2
+4b69499d8fac32e198fcff926406c717afab9ba0  Rocky legends/XBAUDIO/ENGLISH/announce/ano5/ANO5RK3A.XBA
+6af0db7d5069419ab8f4e0c1a8fdb30bd67af013  Rocky legends/XBAUDIO/ENGLISH/announce/ano5/ANO5RK3A.jw2
+8be7e98253dcf14af0d81f8204eed03b43403a00  Rocky legends/XBAUDIO/ENGLISH/announce/ano5/ANO5RK3B.XBA
+104159f0677e86b3180a6b785170f704c43f9e65  Rocky legends/XBAUDIO/ENGLISH/announce/ano5/ANO5RK3B.jw2
+ccbf2c8cedd8e01378f8f7d8a5d4edc0e37cb93f  Rocky legends/XBAUDIO/ENGLISH/announce/ano5/ANO5WINP.XBA
+65c5cd3220fac29ed59cf313ca9ad3cd0bede795  Rocky legends/XBAUDIO/ENGLISH/announce/ano5/ANO5WINP.jw2
+c2c861ba2049fba1cf3f4733973029ed12dc269f  Rocky legends/XBAUDIO/ENGLISH/announce/ano5/ANO5WINS.XBA
+46c45f356a83e2e786472cc5824086b454f332be  Rocky legends/XBAUDIO/ENGLISH/announce/ano5/ANO5WINS.jw2
+96d36868ab19ba5bdb0f1079b8860329f33b917d  Rocky legends/XBAUDIO/ENGLISH/announce/ano5/ANO5WNKO.XBA
+e586798045cda2281928fb931629dba4b9199317  Rocky legends/XBAUDIO/ENGLISH/announce/ano5/ANO5WNKO.jw2
+cc392f20b8aee9dc8e925631c047f6e49464c33c  Rocky legends/XBAUDIO/ENGLISH/announce/ano5/ANO5WTKO.XBA
+dabe4d9e9b1db270ac4d69d68824c952b23815d8  Rocky legends/XBAUDIO/ENGLISH/announce/ano5/ANO5WTKO.jw2
+8751f68632b17829e3ab822a18bc037db5065954  Rocky legends/XBAUDIO/ENGLISH/announce/ref1/REF01.jw2
+92f8d51b429eec7d89af62ca9ece451f78db4852  Rocky legends/XBAUDIO/ENGLISH/announce/ref1/REF02.jw2
+57759747d8db62697918d35117f5c7fc66eb0f4a  Rocky legends/XBAUDIO/ENGLISH/announce/ref1/REF03.jw2
+4faf26e6a2c5ad73a351815d0b94872641122148  Rocky legends/XBAUDIO/ENGLISH/announce/ref1/REF04.jw2
+ccb59c63312476ab77d1e5ff6efa2caea781e96e  Rocky legends/XBAUDIO/ENGLISH/announce/ref1/REF05.jw2
+1ffd9fa6c4c06ec34ce06c2d871f1b455173c03e  Rocky legends/XBAUDIO/ENGLISH/announce/ref1/REF06.jw2
+5d03516637c6e8fbc14e66e675618884682d88fb  Rocky legends/XBAUDIO/ENGLISH/announce/ref1/REF07.jw2
+b595d340adada9e2f17dd4c215ead1f0daf618c1  Rocky legends/XBAUDIO/ENGLISH/announce/ref1/REF08.jw2
+2b957039a89705cce7b6c7f302331c0bd87aacd0  Rocky legends/XBAUDIO/ENGLISH/announce/ref1/REF09.jw2
+46f2c3dbd30d669487df3970cbeb41d8076e06c3  Rocky legends/XBAUDIO/ENGLISH/announce/ref1/REF1.PLJ
+85795b08ca061da08b3b360fc8ee3cc55b7a33e6  Rocky legends/XBAUDIO/ENGLISH/announce/ref1/REF1.XLF
+d8bf932bf51457bc3010e9a44f6f8054d4cd5918  Rocky legends/XBAUDIO/ENGLISH/announce/ref1/REF1.XLI
+219243190ff2e86a24308356e05e97e022fc12a8  Rocky legends/XBAUDIO/ENGLISH/announce/ref1/REF10.jw2
+a206d1b06116affa2075ecd65391c19036210d28  Rocky legends/XBAUDIO/ENGLISH/announce/ref1/REFCUT.jw2
+7a176dc6997103235608b99088a0638df24b1163  Rocky legends/XBAUDIO/ENGLISH/announce/ref1/REFFIGHT.jw2
+ed0640f8a1a727089816415d2aa9c016b8a7bb8b  Rocky legends/XBAUDIO/ENGLISH/announce/ref1/REFFINAL.jw2
+7c24fa7fdb60aade5e81f8410f7c6d003e9a654b  Rocky legends/XBAUDIO/ENGLISH/announce/ref1/REFKO.jw2
+74ad0956cb0faa72a79957f9cde02d9026529aa4  Rocky legends/XBAUDIO/ENGLISH/announce/ref1/REFOK.jw2
+0bb57abed200ec54974eacd3ecdb1c30eba0d409  Rocky legends/XBAUDIO/ENGLISH/announce/ref1/REFOKF.jw2
+76299ace78d9288f124650543c41acc002141b02  Rocky legends/XBAUDIO/ENGLISH/announce/ref1/REFOUT.jw2
+5157e66fb98dea5f4d7e3da90be37eb17d0e91bc  Rocky legends/XBAUDIO/ENGLISH/announce/ref1/REFOVER.jw2
+4db7c841d3269c9e9cfeab93be66e129512bc13c  Rocky legends/XBAUDIO/ENGLISH/announce/ref1/REFR01.jw2
+b0ce491259d7b7a2d39f29014dbf4e5e50aa8b26  Rocky legends/XBAUDIO/ENGLISH/announce/ref1/REFR02.jw2
+92dd2a2663dfd706f5b19a4bdd8d2e151067c39c  Rocky legends/XBAUDIO/ENGLISH/announce/ref1/REFR03.jw2
+7a1e6e04cf4f4677c7e97afa3d07ea0dbf393fa5  Rocky legends/XBAUDIO/ENGLISH/announce/ref1/REFR04.jw2
+5ecfb4c79d8ef1d69d47ddffd7a847840ddc623a  Rocky legends/XBAUDIO/ENGLISH/announce/ref1/REFR05.jw2
+ac4a1c004382d829d77c7f0012e46bc2c45ff495  Rocky legends/XBAUDIO/ENGLISH/announce/ref1/REFR06.jw2
+c2469bde9cd141aff0b12c109f3539622dbbb1e3  Rocky legends/XBAUDIO/ENGLISH/announce/ref1/REFR07.jw2
+688a8f90312236d00544975b49e6f8aed137ec37  Rocky legends/XBAUDIO/ENGLISH/announce/ref1/REFR08.jw2
+edd7b6098e9f9cdb485e6d1fad1812f13bcffd47  Rocky legends/XBAUDIO/ENGLISH/announce/ref1/REFR09.jw2
+990e6c2e6825e7f37d3043d676bceac91a98e304  Rocky legends/XBAUDIO/ENGLISH/announce/ref1/REFR10.jw2
+feed28666bfc2981883d7f5dc19fbcee8d32c48e  Rocky legends/XBAUDIO/ENGLISH/announce/ref1/REFR11.jw2
+fc1bd3c526b6950f51544c51a7a03b6d62499f2e  Rocky legends/XBAUDIO/ENGLISH/announce/ref1/REFR12.jw2
+99c310fe0ad2dfda9c70993e7a16db7181d57f51  Rocky legends/XBAUDIO/ENGLISH/announce/ref1/REFR13.jw2
+7d0c0095ee04f2b81e7108342d28968477548409  Rocky legends/XBAUDIO/ENGLISH/announce/ref1/REFR14.jw2
+d5b28d0b2fe18515631859000c5ebe925a7a4d5b  Rocky legends/XBAUDIO/ENGLISH/announce/refR/REF01.jw2
+4fd863539695e46b541a5f844d4ea13d9203c492  Rocky legends/XBAUDIO/ENGLISH/announce/refR/REF02.jw2
+374dc5414e354b46c3802f99976d4e93385c6f57  Rocky legends/XBAUDIO/ENGLISH/announce/refR/REF03.jw2
+70b2a9630c52a68f43b1a275d53ee5ab522ba993  Rocky legends/XBAUDIO/ENGLISH/announce/refR/REF04.jw2
+20cb85a5492f28a857b7f5a8132f2fa4bca157b9  Rocky legends/XBAUDIO/ENGLISH/announce/refR/REF05.jw2
+2ceba5c731dedfd06ba01a266b3c4ca72dcce0da  Rocky legends/XBAUDIO/ENGLISH/announce/refR/REF06.jw2
+f6b41abebfed35ed64f2c4270bf2a977d710c8d0  Rocky legends/XBAUDIO/ENGLISH/announce/refR/REF07.jw2
+e15e456c490a9ca5a96605b31a7cf039594e41f1  Rocky legends/XBAUDIO/ENGLISH/announce/refR/REF08.jw2
+7e7fc7655273df4f6acad4feb1cb5b7e24a6e158  Rocky legends/XBAUDIO/ENGLISH/announce/refR/REF09.jw2
+200159dffe02677c10fe08110ff6fc853b82840f  Rocky legends/XBAUDIO/ENGLISH/announce/refR/REF10.jw2
+f21f68e82db6a8520cc4c21be529ece80dd809e6  Rocky legends/XBAUDIO/ENGLISH/announce/refR/REFCUT.jw2
+ce5efdbed82a5e14e95a20d944f5a56b4d181821  Rocky legends/XBAUDIO/ENGLISH/announce/refR/REFFIGHT.jw2
+76bd62951a068357aeb1d8ee19dd925c907e216d  Rocky legends/XBAUDIO/ENGLISH/announce/refR/REFFINAL.jw2
+9222cc60cce1841ecf6173aabd6c27a99a7dc4f7  Rocky legends/XBAUDIO/ENGLISH/announce/refR/REFKO.jw2
+6e4dfc3ae5b20cc41ca89822140fa978cb0f48cb  Rocky legends/XBAUDIO/ENGLISH/announce/refR/REFOK.jw2
+b8b815172928491aeb31daf03979a13b4d318acd  Rocky legends/XBAUDIO/ENGLISH/announce/refR/REFOKF.jw2
+fcd264fa405acda1879555be3cc63f2a2107a4a5  Rocky legends/XBAUDIO/ENGLISH/announce/refR/REFOUT.jw2
+c3ff46495b49b1f9af6d92880afd2c8203d3644d  Rocky legends/XBAUDIO/ENGLISH/announce/refR/REFOVER.jw2
+03bb38c362c3407b8d350b6c99411a2d69c5a1c5  Rocky legends/XBAUDIO/ENGLISH/announce/refR/REFR.PLJ
+61edcfd67ac0fe08a7705e244dc8c6dcb2ed35d1  Rocky legends/XBAUDIO/ENGLISH/announce/refR/REFR.XLF
+1dbcc13cdc0acdc5b46a6179981be568b44b9c55  Rocky legends/XBAUDIO/ENGLISH/announce/refR/REFR.XLI
+9426e00122cf702f4369296aebce54f8e4cc6f90  Rocky legends/XBAUDIO/ENGLISH/announce/refR/REFR01.jw2
+60bcc83b65b2f62f3b83af79aa02b3f892f5ff83  Rocky legends/XBAUDIO/ENGLISH/announce/refR/REFR02.jw2
+cb80f60f4ca5eed3a8319b22fa4920002b96a51b  Rocky legends/XBAUDIO/ENGLISH/announce/refR/REFR03.jw2
+6b2ff6f35bb9752c1ed0c653d9df83c055e323bd  Rocky legends/XBAUDIO/ENGLISH/announce/refR/REFR04.jw2
+2847bc0d2f80bca3ab0d4c8f853b87472935b2b0  Rocky legends/XBAUDIO/ENGLISH/announce/refR/REFR05.jw2
+819cd1562bbd65f87a65d1bcd6ae4077a46b3766  Rocky legends/XBAUDIO/ENGLISH/announce/refR/REFR06.jw2
+3a72769065f2ba775d32d3949f5e0e315ba51053  Rocky legends/XBAUDIO/ENGLISH/announce/refR/REFR07.jw2
+961d7d2e444f6888396f2a314a7a27078d8602dc  Rocky legends/XBAUDIO/ENGLISH/announce/refR/REFR08.jw2
+ebfad22ddf5e7c47e324964e55551054ce022d5e  Rocky legends/XBAUDIO/ENGLISH/announce/refR/REFR09.jw2
+a0ccd5659fc6f401b0f8e88d8aa76da00213466d  Rocky legends/XBAUDIO/ENGLISH/announce/refR/REFR10.jw2
+e265db7f8a1f74dafe725c247ed3cb54f99203a6  Rocky legends/XBAUDIO/ENGLISH/announce/refR/REFR11.jw2
+a8959a90fa8631baafb6778b73458d65bf942b75  Rocky legends/XBAUDIO/ENGLISH/announce/refR/REFR12.jw2
+1eb1ec06441a868a1d1f613e58d787f88ba978bc  Rocky legends/XBAUDIO/ENGLISH/announce/refR/REFR13.jw2
+fb4f28395ab71b17d8cdc9fd44976ebc9751aa7f  Rocky legends/XBAUDIO/ENGLISH/announce/refR/REFR14.jw2
+b53e2161aa5a70fcabfbd8022cc3d17602ded68d  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLADRA01.XBA
+a5fc3b5638163bb486d590a5d06c3f91f1374098  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLADRA01.jw2
+6f6bafbab90226f70e4128b8094c04d91d5fda2c  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLADRA02.XBA
+8bb8f7aa4c05d4545b56e2a99566cbe14b727d81  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLADRA02.jw2
+eef4981d82b80125eeff7ac2a9ec045e27849e49  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLADRA03.XBA
+2a57d7dbe26c4751fc68adcb743de07442e437ae  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLADRA03.jw2
+665c61c083cd7177ebc76459e5be4c7d8d7d6e86  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLADRA04.XBA
+e5390b0256f595d0711aecd32790ff3b91ba51a1  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLADRA04.jw2
+93b8141c7085a3ee99ec9e31e496527fd18dc72a  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLADRA05.XBA
+eb01d5eb196185fd75bd4b7279c1a9fd03ac8d8a  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLADRA05.jw2
+a60d7925699fce30eef8ddb50f06c9e03c75af41  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLADRA06.XBA
+6dfd7ed8001d5c0084f2bd5ecc5fee1893603adc  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLADRA06.jw2
+db3580aedf8c26b98de1c11d0c7304435b46ae88  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLADRA07.XBA
+3b0a85d6b7e3bcb1f2419da57f645ef94270f5eb  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLADRA07.jw2
+ff5caaa5816bfd12fc1d7cc05c036f3b6124593c  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLADRA08.XBA
+781bfc88505506f7410b6153b4df9f8f47ac6c48  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLADRA08.jw2
+821b567f86e52b42b1eb71821d20b3c243ba6bca  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLADRA09.XBA
+97c089fb712bdb008c682bafe44eba617e616e25  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLADRA09.jw2
+b5c2b734d0aa7e13647f49bb9035ca06427162d3  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLADRA10.XBA
+d6b44bb1afe528f2e686b4c7db041b70b4f7ce5e  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLADRA10.jw2
+579dd38a1718426b6ea0961f5402e81c233f6d8c  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLALOS01.XBA
+65cb31265a6b7fc74bc638a7e4db1f1bd35743f7  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLALOS01.jw2
+33d2bb257bfe8dca2162e7c19d192c3d253adf75  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLALOS02.XBA
+3936e7e36bf6289f85039ca61978728fa419074a  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLALOS02.jw2
+5e0f98bbe49c05795f0271543345e77ba0e8fc7a  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLALOS03.XBA
+ba6c88ee6368259dd781b6bb268f4ef8ae95e59c  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLALOS03.jw2
+732e57844c978467dd990fc0451b7ead0027968d  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLALOS04.XBA
+aaabc27de8186f5cfb579c670797e8dfae066015  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLALOS04.jw2
+0f43324684e7993184aed1dc625345e661821d11  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLALOS05.XBA
+56ba1678744ed905de33798a6d8a418b31233da5  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLALOS05.jw2
+15bbf0a6f21ecac08842eb538fc698fc71c916e2  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLALOS06.XBA
+19246dc44ba2d1bf73b7e4b6be36edb6a7219623  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLALOS06.jw2
+da17d722c29a4c66a1344a72896f40c9da96ed74  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLALOS07.XBA
+adef8adc378f99ce9158a4a87b4c546532be5ed5  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLALOS07.jw2
+9700ecf37d5cc36bfb718d518d4661682e3f0958  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLALOS08.XBA
+04287b83f895ce46c6207cadc0783efeb54288c3  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLALOS08.jw2
+4e792bbf246be93874d17a767e17341f805251e4  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLALOS09.XBA
+cdbf9f6f60bebb0cf07ab1294ae16dfb9152f611  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLALOS09.jw2
+7d658d3fe3886f0785e7a0b1e74f288900992a13  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLALOS10.XBA
+42ae8a704e24621d935262aa28d85e86a2ba4ad0  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLALOS10.jw2
+892057678bbe3ce175a8c45a173072ea52cea469  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLALOS11.XBA
+7518312f6087e6227512e737d0ad6650bf86517e  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLALOS11.jw2
+8f5203058f740b515077128ba928b44ba76c9a7c  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLALOS12.XBA
+e2b9095b2bcb012893a2165ac294154d71a2e7fe  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLALOS12.jw2
+9bf23cec69fe5e855db63a66e4f33c043e541b48  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLALOS13.XBA
+c7bcf214c8c10b91a7c2d0495c98dc19e5eb1e8f  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLALOS13.jw2
+4c42b59f9f0806c0ca96ce24e768105694d6aa87  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLAWIN01.XBA
+bfc4cfc347365307bb1150faaecf96aaa189699c  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLAWIN01.jw2
+ec78517fa87af22aeb95b91f78b7a2f5b64b669d  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLAWIN02.XBA
+30c75bd0037949bc8fcfb6e5185172c2a6bb582a  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLAWIN02.jw2
+8f1cae315e86324480272a5f94db7463119001e5  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLAWIN03.XBA
+9a0b5fb23ad9cc8f3d8b9534850590409adfe646  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLAWIN03.jw2
+60350d057c18cf138637d974d00a9bb5cb3bb987  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLAWIN04.XBA
+83062bb377812d724f5b51ee251a147111305d98  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLAWIN04.jw2
+3f51e8b05ba0f424b2ff921dea164704d282f6ea  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLAWIN05.XBA
+c846e08940a8de9aad6f4c17cac36ef555e16672  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLAWIN05.jw2
+2fa155aa950991efe7303b4cd21324ab5b9adc2c  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLAWIN06.XBA
+a8cb0c3ff162d3c5472b73766b0b84e336d60656  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLAWIN06.jw2
+2c1f5497de7716b8df810e9b58459fea7e0993c6  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLAWIN07.XBA
+096fd6d594def93ebd7fd44313faa6d95452b830  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLAWIN07.jw2
+b267d257bbee33bd312f4e21adf4f290a3425493  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLAWIN08.XBA
+5944688e4344c62d8ba4844645b248e058d3de32  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLAWIN08.jw2
+ddde8b068fee2799f909c0d08da03352637ff452  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLAWIN09.XBA
+76673627324ed48cc9f3d2b327b672586a1f5330  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLAWIN09.jw2
+efc1f27e8f66d50453e22dd5422c81ba140058e9  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLAWIN10.XBA
+f38debc238184e4e92f56d56ebb1b10ccd1c7952  Rocky legends/XBAUDIO/ENGLISH/crnbla/BLAWIN10.jw2
+a3a60f0b0e1bb88ec904e4ed71cb26f26032fbdb  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKDRA01.XBA
+ed8650f43c39868ef2412b91197c07b24558ad47  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKDRA01.jw2
+6bd23352ce29088500b634f07d61db6b357ddc00  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKDRA02.XBA
+ff36f5db981df91f9ec0cf0398f656a9e16ace10  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKDRA02.jw2
+d67dbf55f7ad7e9c5ef4f58d798f2297759e7419  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKDRA03.XBA
+6f9b94c8c596867b992e255fd343188c11ff808a  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKDRA03.jw2
+82183c48e36d03a8d97e1aaf551968d1162622f8  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKDRA04.XBA
+965c0841945e42b787eb330cb731c397576f0a47  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKDRA04.jw2
+fec549f4337ed2ad4f59af6f1ffe947813eac0d0  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKDRA05.XBA
+35e0b515b5ec8fcee3ba5eece83cfce7c574bd7d  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKDRA05.jw2
+f14b76fdf3f3b757961c2c01f7b48f911eb4d645  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKDRA06.XBA
+e843fa9e40354cefeee17cba6ee99418b3d0a170  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKDRA06.jw2
+028f915b21934724daae52ac59f4985a48e856c4  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKDRA07.XBA
+24536bb818aeaf67817a5414212f45074b61c34a  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKDRA07.jw2
+d7381766c97f5cf3323a7cd7f61e405a03a616bd  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKDRA08.XBA
+c08bb1c97eb0460a0c2d25c3376bdff3959521be  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKDRA08.jw2
+3c8d7a60ee03bdd9fc56dc85450afc19c2cf16de  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKDRA09.XBA
+fabba233d10fa5f718502492d044adc27ccd1a9b  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKDRA09.jw2
+86381cd4ac1f5b246094fd089dcce1b687ffcb97  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKDRA10.XBA
+1b9108a17ee8782d5d1430e2da8e4394059ff1ea  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKDRA10.jw2
+8a537f24fd0d1b4ee2350280f54b3c180fac4b0f  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKDRA11.XBA
+12d8070771bf08e5bc64fda52faf8d146aaf5b6e  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKDRA11.jw2
+172fb2066e5c1d5aefcce8e387f88fe1ecc746af  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKDRA12.XBA
+4c63008c70b6ebf98872b6345badbb98e2ba3c32  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKDRA12.jw2
+3341d702bcf1e1ab64bf0e8c6423e5116598a2c8  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKDRA13.XBA
+11b05993f505ef5aa1d9379d617babf8825863ce  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKDRA13.jw2
+f636be5ada1b7b9cf92bf0651e0a94d5fadb6515  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKDRA14.XBA
+7c67cb9aae41b40922d69a3a954197ee917fce1f  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKDRA14.jw2
+476f65d7ede3afc9943b5ae621bfd4b349b607c1  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKDRA15.XBA
+d5b046f2312df9b6c7375e900f06d01759b157f9  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKDRA15.jw2
+8897a3137194f5eb776b7f5b14d002038c26cd79  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKLOS01.XBA
+aebb2dd9764760eec0c1b6fb3737acf93a148ab7  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKLOS01.jw2
+16257d04fe63d78bdbe1ec58b3f2133737e09d51  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKLOS02.XBA
+36d7547fbc41371cf968fbb997f42eb3a8495d92  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKLOS02.jw2
+b791b395ef7a2a859eb69ea08ba8c640ccb6e9f6  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKLOS03.XBA
+587b70e5ade620a3ca3e5fcef0b660183df438e7  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKLOS03.jw2
+169ad6b095dd6d8b6a844611dc89ecda634128b3  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKLOS04.XBA
+978bc37b98ed4fef8273914c2be7488524f98b18  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKLOS04.jw2
+cb876fecc211fdec88a8b3556ea393679973b5a8  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKLOS05.XBA
+a579c2c1d4c81a54fae8242b53a4f9ee7e53512b  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKLOS05.jw2
+444542a70cfebdabe0c648736dbe89df95ef2703  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKLOS06.XBA
+730b272d6e82e6b2c880c22f2cfd17ade9f6dc37  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKLOS06.jw2
+17bf83f8d090edee16dafe848dbb944aa227f699  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKLOS07.XBA
+6a6cb2e303092e6b4789b475f331b333c2dfc2bb  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKLOS07.jw2
+de5452ddc401f5d0d4eb541a9adcfc224d90c41a  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKLOS08.XBA
+73c13f34e93195ed1a19a1b7c32ff5d9de42579f  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKLOS08.jw2
+dbac4a287ca5565462d7631d267ebdf777965368  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKLOS09.XBA
+25135264b6008d633ab5a63713bf627507250bd4  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKLOS09.jw2
+9e8b335052896d448c76f61749df7a9b55cea5a4  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKLOS10.XBA
+a9fdf0650b0f159ae57e072ad3f624b62ae191ec  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKLOS10.jw2
+70e8cba313d55dea53f8bb7fd7fabe9bd093d943  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKLOS11.XBA
+362fc359a6a4ea345c12efb59e1f08150713b1d8  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKLOS11.jw2
+74016ab1769113a93b1e3f285d7e6513fa90170c  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKLOS12.XBA
+59d2372149fac5c68f6e4d4f9957e237c27bf220  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKLOS12.jw2
+19a1a12de88745ef96fb28d76b4e7e7d61c390d6  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKLOS13.XBA
+86302f28a2f9c4be2f4d230b74a59fc34c9913b1  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKLOS13.jw2
+ac99611d3153c5ee7c882b2fec4c7b565eeb9102  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKWIN01.XBA
+c099a2f7b9915a430111b78e6aaede6fbf89895e  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKWIN01.jw2
+3ebcf7f9135e2f7eb6a1302018eee876ca021a99  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKWIN02.XBA
+cafc51c3fd0915700ddcc4d0dcca5433391273f0  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKWIN02.jw2
+831daa077ee425dbba0aa026db12f900221994b6  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKWIN03.XBA
+40133b17e7a5e1f64e1618706e683aa7c5c98ada  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKWIN03.jw2
+cf8b7141a2b1142b33b9fbff3cdba1ea41a372ea  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKWIN04.XBA
+f7e3b7003e129db38deee444c32e31b71fafac0c  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKWIN04.jw2
+ee8c514f9a3bb3af3ec847498c1f9b9d3ce38755  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKWIN05.XBA
+8cb523ce9623de47bc2381c1623650da4bb65a47  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKWIN05.jw2
+859b148183c539aa3bbf55c4e66a6278d9d8cd78  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKWIN06.XBA
+555119829429186f7b928cafbb54306e5b5e066e  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKWIN06.jw2
+fb5888d8d7290b8c846e0076b66f3fa269638633  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKWIN07.XBA
+7aa83be610b8600da5c5f21fcfd537875327b670  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKWIN07.jw2
+9379f70a30af1a3610be3c2a5cf358ca7220bfc2  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKWIN08.XBA
+5decad3f0cd95b4eb93a501f4661ca95e8b9eb4e  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKWIN08.jw2
+d4d4bdd5e497de91ea5c91e1b6ea46ec53ddd756  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKWIN09.XBA
+709e1ef2b740fdfb7fc24a9cda1823cd000c08ba  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKWIN09.jw2
+bc894f6056146d431a094c47bdf4260c69581c98  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKWIN10.XBA
+7438516eb8319e99930b6bf95370b60ab40c8086  Rocky legends/XBAUDIO/ENGLISH/crnmik/MIKWIN10.jw2
+47dd0fb2ff1d7aff4609bc4227ad8e1563caa9c1  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHIDRA01.XBA
+8e85a32df42e3c8fcc298042dbd241e445e07497  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHIDRA01.jw2
+6fcb5bdad75ac3ea2fa263d689526889f8f61dfb  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHIDRA02.XBA
+e90d27f9cea2e2f562866679eee2359c3a450451  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHIDRA02.jw2
+4aec9265f376562f07532761d9b04d1222c017bc  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHIDRA03.XBA
+4d2a69e25d4ae84bc4f42cbc5febb8120c70b793  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHIDRA03.jw2
+650459d645cca4f95c98c8760549e5a54e83e1cd  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHIDRA04.XBA
+b1291667123013ec4e0d539effe87d52d9fe9796  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHIDRA04.jw2
+0105315a34879b434d54457fab97f50d0289773a  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHIDRA05.XBA
+3f10a4ed55e9e7be0e0c5f431cb9ec314d8700ba  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHIDRA05.jw2
+cf2792ac61662ea2b3800fbfdf1991ac392a664a  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHIDRA06.XBA
+b8899e86f3c2e0944042b03b2bf555c178db73c3  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHIDRA06.jw2
+3926cc9f22e6012e0d9ed58a2fdd953b19b8e67e  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHIDRA07.XBA
+5f04aa5024b5ebb23117e8faf514462e54e5aa9a  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHIDRA07.jw2
+4417a75eb22afda76a549c11d3862ccba7b4ae9c  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHIDRA08.XBA
+028ec6c9de1966cf36b7092487c598c0dc842a11  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHIDRA08.jw2
+3d45efda924faaaba01811353ceba9b738368ded  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHIDRA09.XBA
+c5bbde83ddced58f90c1bba1ef3bfdcbc6dd9e90  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHIDRA09.jw2
+6aa605ff06552956f33c776284de308dd56a6d7b  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHIDRA10.XBA
+16a4a53234b540fdbef460688bc80c27a1818018  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHIDRA10.jw2
+3e2e2f29426272806c932e42627f8fbc7f38e6c8  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHILOS01.XBA
+99bf7328b72d3f730f01bcd5957b340e8a548b42  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHILOS01.jw2
+4f004c4ea96ccaafa1809fac72e046f77f0adcd9  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHILOS02.XBA
+ff76b199677ac5464ba579eefc02dbf738d7e0f1  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHILOS02.jw2
+3a8109cbbc902b45072356917f9204e3bb39a192  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHILOS03.XBA
+b64e2ec661331281cd8e7b24b8cc8c02c6f25f14  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHILOS03.jw2
+dbdd054d67b16fdf36e6e3a29a8ec0c5fb5b4d1f  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHILOS04.XBA
+5789fdfb0ef614f0d7aa1c55a665283a38235928  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHILOS04.jw2
+d2ba8c80094fd5bec99f6ffa16af9b5e4024f89a  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHILOS05.XBA
+e4044e70bc10b4c2799e08fae1403357cffc6445  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHILOS05.jw2
+64b30b96dff1220ab4635fd996fd42558373d772  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHILOS06.XBA
+7bf88c2c966fbc57102a8aa75ac4e2e33dc184e4  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHILOS06.jw2
+cd89b7cdf9fe6ea25eae4a93b66d79e2652bb24c  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHILOS07.XBA
+624d7e74ff95d35cfc2cedea6fe52b529b1409a2  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHILOS07.jw2
+78e54e91056828f6192e83a0f32eb5b5063317e7  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHILOS08.XBA
+9326bce0bac2fc82984b58064d481c82b82da8bc  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHILOS08.jw2
+1132ece77b7ba12cb1b26c49a466820412873a31  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHILOS09.XBA
+8f3190c1b487ee4bd3404c6da109115353f0ba4d  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHILOS09.jw2
+aa32415b03d823ed5acb64e7ff6e2ca08bbc2e62  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHILOS10.XBA
+fec8ada394eb375e3460c839fcc98d41c33729be  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHILOS10.jw2
+8051b9b70afee2eacef5d4a8d339582b12a041c8  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHILOS11.XBA
+988b13fede025315a54b6c94666f38802d34f713  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHILOS11.jw2
+93a8c75f132969218c732517b2ce1a0be46e46ab  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHILOS12.XBA
+81cbc4256cb3fd0ef4ae7caf24fc3ea65b74b76c  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHILOS12.jw2
+07274620d6e980c4a48f11ba2bea78ff7d965f83  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHILOS13.XBA
+e5492f3d7f5dce24bb5c5b52b4ba115235ae53a7  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHILOS13.jw2
+0215e457ec86ae2ca93f73393a3fb9874f7205f6  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHIWIN01.XBA
+cdfc514ca5d9b5055fe511acfa826d0a9f7efc34  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHIWIN01.jw2
+31d5e5abfc0b60df0fae4a9aabdf106f033a45b6  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHIWIN02.XBA
+e2edec9d54e6719bfa74156051502efecc9e8336  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHIWIN02.jw2
+79fc88701ce4d57e894cf432e43eca72615e79c5  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHIWIN03.XBA
+edb10584018db5a05294bd1b998c831dd0eb6257  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHIWIN03.jw2
+3c0ecc38b61bf0e51db0dab0802f37eaec72a068  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHIWIN04.XBA
+5eb295b89eec5d52e4f1d5746746c0e7b066fa8a  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHIWIN04.jw2
+4f0c6a1e50dd4449c11fee30e159793bef8acbad  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHIWIN05.XBA
+454af1c4f5244639f62a1794f85ce5e31c755c83  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHIWIN05.jw2
+a12eaff8ff9dbfc963e240122b91f1e000624fb7  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHIWIN06.XBA
+e84b90de9b30a80d800eed02b51f37fda427c0af  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHIWIN06.jw2
+a37e6e308255eff3d8ca48f096b21697ad971de9  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHIWIN07.XBA
+a0e352242787ea6a5032febf8ebc287cbf571cdb  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHIWIN07.jw2
+4de31fe03391e3fddb044da90cfa7ef8cb7ef330  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHIWIN08.XBA
+2e4454071c3a236981f3efdb7747de9c240436d0  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHIWIN08.jw2
+f981b80073ad81fa77791c7d944824ee3115c63c  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHIWIN09.XBA
+fc996aeb82db53d470ad9bb4aff9bb9300ee7296  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHIWIN09.jw2
+7aa77b75a480aec80038701142a6d3fd75eaf49f  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHIWIN10.XBA
+609da78b91c8e8555a76bff1b4b82687469bd7b5  Rocky legends/XBAUDIO/ENGLISH/crnwhi/WHIWIN10.jw2
+466c792497dfabe91f7531bcefca36d488fc7c98  Rocky legends/XBAUDIO/SFX/DEMTHEME.PLJ
+62e87747d20935e38e9a5d2c45b1b4a228b6ff8c  Rocky legends/XBAUDIO/SFX/DEMTHEME.XLF
+6ccb849980dd4c77315ad6106bddc76edb09a577  Rocky legends/XBAUDIO/SFX/DEMTHEME.XLI
+466c792497dfabe91f7531bcefca36d488fc7c98  Rocky legends/XBAUDIO/SFX/DUMMY.PLJ
+f56bb429ec2e6547139f8984458679a4a505ad98  Rocky legends/XBAUDIO/SFX/DUMMY.XLF
+e2366aec572d57f60a1a951c8acfb3f16897c587  Rocky legends/XBAUDIO/SFX/DUMMY.XLI
+f9d530d7f0a2e307661345f2108cdb4b59843ca0  Rocky legends/XBAUDIO/SFX/DemTheme.sff
+466c792497dfabe91f7531bcefca36d488fc7c98  Rocky legends/XBAUDIO/SFX/FEND.PLJ
+36b81de614c44efda698e49711528f1b3a41f733  Rocky legends/XBAUDIO/SFX/FEND.XLF
+975bc0a9b6f1098819493f62c9b6164856ce6961  Rocky legends/XBAUDIO/SFX/FEND.XLI
+94d7bb49921b225421ef70f0a7f4643e7af717e6  Rocky legends/XBAUDIO/SFX/FEND.sff
+466c792497dfabe91f7531bcefca36d488fc7c98  Rocky legends/XBAUDIO/SFX/FIGHT2.PLJ
+08db8fc46c7cb86cab861c05d04ac05a8e8aef5f  Rocky legends/XBAUDIO/SFX/FIGHT2.XLF
+dbbfdcc8d30981c826841f43132fd0932f64f456  Rocky legends/XBAUDIO/SFX/FIGHT2.XLI
+466c792497dfabe91f7531bcefca36d488fc7c98  Rocky legends/XBAUDIO/SFX/INRING.PLJ
+54a5cb50a9fc4125b455b3d79261fa0e4f2e9fe1  Rocky legends/XBAUDIO/SFX/INRING.SFF
+610adfe5ac1310dcd89d173c5adfef6aa632e39c  Rocky legends/XBAUDIO/SFX/INRING.XLF
+ef50940eb44603af9016deb34f2fe8064c2b73ee  Rocky legends/XBAUDIO/SFX/INRING.XLI
+c2c59a3b30d188adbe4b034807091105aacbfbf1  Rocky legends/XBAUDIO/SFX/MIME.PLJ
+a7f81fd05ab72d1f73764e7ff894a1ff5278531d  Rocky legends/XBAUDIO/SFX/MIME.XLF
+27e367643a0817ed3cb19e065bb39071c0ebea4b  Rocky legends/XBAUDIO/SFX/MIME.XLI
+466c792497dfabe91f7531bcefca36d488fc7c98  Rocky legends/XBAUDIO/SFX/THEME.PLJ
+c3c78555cdb7a595cb71aac90a29194727523646  Rocky legends/XBAUDIO/SFX/THEME.XLF
+581bac31fe865d5e98420541789c92bdb7713800  Rocky legends/XBAUDIO/SFX/THEME.XLI
+b89f36fd73fbb0e507d23c0fdf2a72de933a5bfb  Rocky legends/XBAUDIO/SFX/Theme.sff
+466c792497dfabe91f7531bcefca36d488fc7c98  Rocky legends/XBAUDIO/SFX/WALKON.PLJ
+c03a2cfcf4aeb5beebe8ea4a7fd2a3810f087851  Rocky legends/XBAUDIO/SFX/WALKON.SFF
+cda72a93ebdd6a412ffb40ea94728f26f97eed4c  Rocky legends/XBAUDIO/SFX/WALKON.XLF
+d4a9c010f5eabe3e9feca3623c49ad3526db9c95  Rocky legends/XBAUDIO/SFX/WALKON.XLI
+6aac8857e685bb7aa2039acd74ab8c0000817e5b  Rocky legends/XBAUDIO/SFX/dummy.sff
+016c37b6f257200ebbc46c848f2f244904bca1a7  Rocky legends/XBAUDIO/SFX/fight.PLJ
+005d417cd372e19a5bb58ba35f075898f30f3b19  Rocky legends/XBAUDIO/SFX/fight.XLF
+78988a8529651b8b5df085f0d0bc41c6a7245d85  Rocky legends/XBAUDIO/SFX/fight.XLI
+5387bba275376d916357cc7b7716d552d4dfbe1f  Rocky legends/XBAUDIO/SFX/fight.sff
+0dd146e0f613547009c881428cd88efb6da4636a  Rocky legends/XBAUDIO/SFX/fight2.sFF
+dd418798cc8fc9efde684b176691fa1e557286f9  Rocky legends/XBAUDIO/SFX/mime.sff
+3577c5733a80be39dae38dd50ad094f2e76b852e  Rocky legends/XBAUDIO/Taunts/TntFULL.sff
+48d4175601c28fc70918a12a43395ddc5f2dca8d  Rocky legends/XBAUDIO/Taunts/tntclub.sff
+fa7e54131285fb9c6c4533611bd681aee0d4fa71  Rocky legends/XBAUDIO/Taunts/tntrock1.sff
+6aac8857e685bb7aa2039acd74ab8c0000817e5b  Rocky legends/XBAUDIO/dummy.sff
+162a7ec53952c9f649e11fbc725c953d54eb16f2  Rocky legends/XBAUDIO/ref.sff
+945c9c9da13660fb47bb8f7c72386f18e8268638  Rocky legends/XBAUDIO/streams/ApolMenu.XBA
+f2c73bd23263a642788aacfc46df18ae0b6d1ee2  Rocky legends/XBAUDIO/streams/Clubber.XBA
+3574c02ffa980ebf875dbb57116a50cb7859dc52  Rocky legends/XBAUDIO/streams/Clubmenu.XBA
+d9687c60ddcd0d131f738b2b6fb7169f91ae10f8  Rocky legends/XBAUDIO/streams/DockBOO.XBA
+5a0a8f6bd29ac1c681e62cd1f4bfc0d47cecf0cb  Rocky legends/XBAUDIO/streams/DockHIGH.XBA
+1653040388d2f70cea73f0705871f70f6d6943f1  Rocky legends/XBAUDIO/streams/DockLOW.XBA
+39d3dc16af3f90283be6e1f149c32febc77c0d6a  Rocky legends/XBAUDIO/streams/DockMED.XBA
+9c3dae147b4f7afb56982efb75322b17401efb30  Rocky legends/XBAUDIO/streams/DragMenu.XBA
+143a38c7b57c9660a8919033f9f674503fc405c0  Rocky legends/XBAUDIO/streams/Fanfare.XBA
+ff5c563cbfb632321d57d11366872ded27415efb  Rocky legends/XBAUDIO/streams/Full.XBA
+56a1554128a66a16e157a457932bb20b5754a844  Rocky legends/XBAUDIO/streams/GTDist.XBA
+847a8d4fb4fd7772bcd1ffb31ea645e210a8b4b8  Rocky legends/XBAUDIO/streams/MMontage.XBA
+58471323606a971776771b65fff09a58ccb24ec1  Rocky legends/XBAUDIO/streams/ROCKMENU.XBA
+ec8b37b7f96a06c05a8e2d07fbb2263c9c0f7fc5  Rocky legends/XBAUDIO/streams/TMontage.XBA
+0a84cd64bb1843aec0232b86e0543cbf26f5f745  Rocky legends/XBAUDIO/streams/cdmdEX.XBA
+1021f6707edc524178b30f1f0242afab39c8e473  Rocky legends/XBAUDIO/streams/cdmdMD.XBA
+4a87a09f9c6500e3711887d04b9331c2212502c7  Rocky legends/XBAUDIO/streams/cdmdboo.XBA
+c69e4d892d5ea87d7c1d066d0688689abfa0a80d  Rocky legends/XBAUDIO/streams/trrk.XBA
+a2115ad6bd907331115e7b38c618defc5e05158a  Rocky legends/anims/fighting/fighting.PAK
+2db71e1643d9a8703535e39a33d640855c73cf54  Rocky legends/anims/intros/intangry/intangry.PAK
+fede24ca4de837d4f8e8b941afc3992a54a89c58  Rocky legends/anims/intros/intbow/intbow.PAK
+143e32a69cc8685f8eca1657852965d2d3d5c3f9  Rocky legends/anims/intros/intbox01/intbox01.PAK
+86e1397e2ba28ca34211a8a9beda440f718b8374  Rocky legends/anims/intros/intbox02/intbox02.PAK
+684a1c0ff9b986f6b45ce170f6967dd3d88fa458  Rocky legends/anims/intros/intches2/intches2.PAK
+87bf2c9cb63f5ec7c0562d1d5c641ba4e8a92617  Rocky legends/anims/intros/intchest/intchest.PAK
+4d35e32b35469ee65271898cacec04c9cf3d84b5  Rocky legends/anims/intros/intcross/intcross.PAK
+a24a1a2da32b1cd300d91bd89a7ea0d525a05d94  Rocky legends/anims/intros/intdice/intdice.PAK
+9b82c2d4452c9d4eda929b822267db2bf9740d82  Rocky legends/anims/intros/intglove/intglove.PAK
+ddced8aa47cfe2d11e3c75bf6896b585aaea9461  Rocky legends/anims/intros/intgrrr/intgrrr.PAK
+1f51351042aa13fe04994a231df9451f36b02958  Rocky legends/anims/intros/inthair/inthair.PAK
+f5dc3415c077c8a2c76894486a398e114aebe01c  Rocky legends/anims/intros/inthands/inthands.PAK
+7bb26f010fdd3b0a9af3682d147d00f45b2f433d  Rocky legends/anims/intros/inthips/inthips.PAK
+fb86955071982a46f586be50f19e393d7166c521  Rocky legends/anims/intros/intjump/intjump.PAK
+5f352b32bd6f9fb0c8d67e6d51c53c976cd91c8a  Rocky legends/anims/intros/intkiss/intkiss.PAK
+ba8456f64deb01895906b281edf34b5856ea42f8  Rocky legends/anims/intros/intkiss2/intkiss2.PAK
+874a83f79e7caeea603e5f300f7106c7fe099e96  Rocky legends/anims/intros/intlean/intlean.PAK
+e6657dcd90da2361c17f12cadc245772ba159a30  Rocky legends/anims/intros/intlift/intlift.PAK
+3c504daed199cedebd4019ea7ab4ffba62013e9b  Rocky legends/anims/intros/intmill/intmill.PAK
+296e744769ceea5d4b1e8b1e7b86f62a0945d328  Rocky legends/anims/intros/intmill2/intmill2.PAK
+2837f63d219d8a20ebc2447b7f96670aaab1b745  Rocky legends/anims/intros/intmill3/intmill3.PAK
+3bd07b4b8e50f496712faa3da6c46b884d8d2139  Rocky legends/anims/intros/intneck/intneck.PAK
+0d41316a8ed9a255efcfb7ea20affde3b232835f  Rocky legends/anims/intros/intpoint/intpoint.PAK
+8ecbe2cb5125dedf327cfcaa49511b69335e75aa  Rocky legends/anims/intros/intraise/intraise.PAK
+42767449ccb7f025d23c276ebe41806d1469224c  Rocky legends/anims/intros/intrhaa/intrhaa.PAK
+0910fa9fb4e352ca692976c467df2fae1ecb10ee  Rocky legends/anims/intros/intshrug/intshrug.PAK
+cdb59f8bcfcad5a16b221ba184c432efef7f1f97  Rocky legends/anims/intros/intslam2/intslam2.PAK
+840a305ab2bfde23c9c2ea06dc734c58f0777411  Rocky legends/anims/intros/intslap/intslap.PAK
+01c1fc9e72845ad7ef80305a75c19ae1ecfe5665  Rocky legends/anims/intros/inttwist/inttwist.PAK
+cb65ed8293bc74b2192c00d456072e00f30f94c1  Rocky legends/anims/intros/intwhoop/intwhoop.PAK
+2b9e834be7aeee3a8f0b28f5f52c4d02617dcaae  Rocky legends/anims/ringside/ringside.PAK
+afeb22e986ff5c14fe98260388c0ff23310fa372  Rocky legends/anims/shoshare/shoshare.PAK
+1a2362f14db0778f2d405a1cc93d05eeadd38a85  Rocky legends/anims/showtime/showtime.PAK
+c98e98d7df9d5db531cd8efec5fb224de5f3f3f9  Rocky legends/anims/timeout/timeout.PAK
+279cab65715c3ceff458e4983c5b628cd8ff9405  Rocky legends/anims/training/chikctch/chc_mick/chc_mick.PAK
+279cab65715c3ceff458e4983c5b628cd8ff9405  Rocky legends/anims/training/chikctch/chc_misc/chc_misc.PAK
+73dd73579106234552491a3d2e99989498247a61  Rocky legends/anims/training/chikctch/chikctch.PAK
+ba34b46f1dbaaf9866e87a3aa54ee4984072984f  Rocky legends/anims/training/chinups/chinups.PAK
+a61c699324107b1237c028512026fdfb3c5c5c57  Rocky legends/anims/training/chinups/mik_chin/mik_chin.PAK
+c5c533e172f97aed235c25841cc4b650c9b4043a  Rocky legends/anims/training/chinups/trn_chin/trn_chin.PAK
+f3f8fa99ee69c99d9836e119ecdb5fab8dd4c5cb  Rocky legends/anims/training/generic/generic.PAK
+8ca8c148f6ee7c9b25f51b964af9eb9b1b6ab04a  Rocky legends/anims/training/hvbag/hv_apol/hv_apol.PAK
+1facef5f101b6968782e6ce3605a279e6d449ac9  Rocky legends/anims/training/hvbag/hv_mick/hv_mick.PAK
+bc40f4ae181477c050670fc5b2e2ef646e906df4  Rocky legends/anims/training/hvbag/hv_tony/hv_tony.PAK
+4ad3381af4747dc98773c701867055a0ba0d254f  Rocky legends/anims/training/hvbag/hvbag.PAK
+145e914730d31712c610b7af78c3a1e329978401  Rocky legends/anims/training/punchmit/pm_apol/pm_apol.PAK
+fc7b3cfb86d662e56d4ad24d689ac2bf7d326318  Rocky legends/anims/training/punchmit/pm_mick/pm_mick.PAK
+145e914730d31712c610b7af78c3a1e329978401  Rocky legends/anims/training/punchmit/pm_tony/pm_tony.PAK
+85b45aeb1f26185255ecb82695dfac1bdec9c705  Rocky legends/anims/training/punchmit/punchmit.PAK
+a61c699324107b1237c028512026fdfb3c5c5c57  Rocky legends/anims/training/situps/mik_situ/mik_situ.PAK
+f907816c8a1b1343b045218e44d625f4381f8515  Rocky legends/anims/training/situps/situps.PAK
+c5c533e172f97aed235c25841cc4b650c9b4043a  Rocky legends/anims/training/situps/trn_situ/trn_situ.PAK
+8ca8c148f6ee7c9b25f51b964af9eb9b1b6ab04a  Rocky legends/anims/training/skipping/sk_apol/sk_apol.PAK
+1facef5f101b6968782e6ce3605a279e6d449ac9  Rocky legends/anims/training/skipping/sk_mick/sk_mick.PAK
+bc40f4ae181477c050670fc5b2e2ef646e906df4  Rocky legends/anims/training/skipping/sk_tony/sk_tony.PAK
+a7bf375bac170f4ac6bce515b0d3f68835ed1e1b  Rocky legends/anims/training/skipping/skipping.PAK
+a61c699324107b1237c028512026fdfb3c5c5c57  Rocky legends/anims/training/sparring/mik_spar/mik_spar.PAK
+c5c533e172f97aed235c25841cc4b650c9b4043a  Rocky legends/anims/training/sparring/trn_spar/trn_spar.PAK
+a61c699324107b1237c028512026fdfb3c5c5c57  Rocky legends/anims/training/speedbag/mik_spbg/mik_spbg.PAK
+81d3f2faad49320d07792568fb588324e585f75c  Rocky legends/anims/training/speedbag/speedbag.PAK
+c5c533e172f97aed235c25841cc4b650c9b4043a  Rocky legends/anims/training/speedbag/trn_spbg/trn_spbg.PAK
+a61c699324107b1237c028512026fdfb3c5c5c57  Rocky legends/anims/training/squatpsh/mik_squt/mik_squt.PAK
+f39110c064705054a31d5865759957682eed1bd8  Rocky legends/anims/training/squatpsh/squatpsh.PAK
+c5c533e172f97aed235c25841cc4b650c9b4043a  Rocky legends/anims/training/squatpsh/trn_squt/trn_squt.PAK
+e27ebbaa18af9d99eab424e5b32e3ef32e7bdc31  Rocky legends/anims/visemes/visemes.PAK
+d68f8ed33b84bb46c517c09a0e99a3ca82cae26f  Rocky legends/demo.xbe
+33682a5c53e33f65d1a7ad0fc1ba5a8277d6cdb8  Rocky legends/videos/VENUEVID/Docks.bik
+6db4093db42cee471e5b7c0c85f3e86c82db4071  Rocky legends/videos/VENUEVID/olympiad.bik
+a4cdd2417e11fbe036da1ea48bffa90226012f37  Rocky legends/videos/febg/fetest.bik
+494b247261ccb51c7c43993fa4d24f5b50c95ebd  Rocky legends/videos/febg/fewide.bik
+14047ae2a39e0e3c19c6b68b4b3623d18463c1cb  Rocky legends/videos/febg/trailers.bik
+a3fbb508852954f2c0d0d94e86cdc3693398be7e  Rocky legends/videos/intros/mgmlogo.bik
+99d2e557f6a1249b90c8dbf3acc9dac8713d9a56  Rocky legends/videos/intros/ubilogo.bik
+9b36f83eeab8f6b59401a572862da50e35593e52  SP_GS/CDX.XBE
+f672f93db21eaaa052e54ddb3c049ce8dc59ccc3  SP_GS/CDXMEDIA/CDX.INX
+b80e938b5a63a88b864c59905ceb5e0a23d93da4  SP_GS/CDXMEDIA/CDX.XPR
+ce383f12f3110038049472ce71d6f5d3f37b134f  SP_GS/CDXMEDIA/CDX.XSB
+eec5a758c0e19f0219ccba2d84da7ff702e912a8  SP_GS/CDXMEDIA/CDX.XWB
+107ca7082262785c5a7c4029b329e0e6ac3318ab  Sounds/Ambiences_BackAlley.SB2
+8a1324f6244bc72cd133b7f1ab1cce723015252b  Sounds/Ambiences_BackAlley.uax
+48fa4840110e96585e7cd5ca6f60f02009050eb4  Sounds/Ambiences_Menus.SB2
+91406199aaecbbd61fb74b1a06ed94cb8c066aa6  Sounds/Ambiences_Menus.uax
+b07177a605245fcf5b3728ddbed09883c37b1126  Sounds/Ambiences_Ruins.SB2
+389da7519fee47346cb1d09a527ccd0c067593ef  Sounds/Ambiences_Ruins.uax
+4fcfd8a6c8bcbb9a6ab9da8878f68d588b1764d6  Sounds/Assault_AK47.SB2
+1f063a6ecf51ce110fb352616c08d8d62927f08b  Sounds/Assault_AK47.uax
+a88d3d7b825cb10cd92d1990c1b7df5675ebe8ad  Sounds/Assault_AK47_Reloads.SB2
+60820f92299e5b42511f67e75083b8f943b7dd6f  Sounds/Assault_AK47_Reloads.uax
+555eef50c536f2f22e94f61140aa8f350433d789  Sounds/Assault_AUG.SB2
+963587f875c5ab401a9432344cd355fe45287137  Sounds/Assault_AUG.uax
+faa7a3c2bcde08d3e85940ef091ed97f158a5f37  Sounds/Assault_AUG_Reloads.SB2
+88ea0acd7e84006563e845a194b1a95df7eb668f  Sounds/Assault_AUG_Reloads.uax
+a6a15181280be378de359d41a214ce60cf0e78bd  Sounds/Assault_FMASG2.SB2
+0bed69b3155dff65b3cbc09ddd31d4e95b23027f  Sounds/Assault_FMASG2.uax
+22402f6635c8410216403c793776f2023a215ca3  Sounds/Assault_FMASG2_Reloads.SB2
+2022d973be08fb75c02eb38f3dfa8e075f77f4da  Sounds/Assault_FMASG2_Reloads.uax
+5c26eb12d9a466b06f67540c6991df0133ab7d55  Sounds/Assault_G36K.SB2
+d88192056417f055971eb79ca8bc9eb38d604d4f  Sounds/Assault_G36K.uax
+27490433f9fb376489e83e008e89addc0f718665  Sounds/Assault_G36K_Reloads.SB2
+9e6328ce891b2fa9fc470a5b93e4e9ab04f9804c  Sounds/Assault_G36K_Reloads.uax
+f1f6b43639a5102b84aa5283de9c6cb20829cc69  Sounds/Assault_G3A3.SB2
+c0fdecdf792bae70063c96c21820484c59bb3491  Sounds/Assault_G3A3.uax
+21c9d934fb9df24cd74fc0df00d2391b52d6e4c7  Sounds/Assault_G3A3_Reloads.SB2
+8af143a178506d308d393d9da8ecbc050bb4d1ca  Sounds/Assault_G3A3_Reloads.uax
+f86257743b34899534f1f12a21e9e0ff9c4e427c  Sounds/Assault_Galil.SB2
+d2af2c043525a42cc6a84ae831f38439a7d3dd19  Sounds/Assault_Galil.uax
+29f11118c1f5d2d741005450d74793af98338c81  Sounds/Assault_Galil_Reloads.SB2
+b2309955e9eb25523e69d0c9770f61dc58b789e5  Sounds/Assault_Galil_Reloads.uax
+4746728853779641e910ebc8700c5a31899851df  Sounds/Assault_L85A1.SB2
+7a2dc18b36f0d1f4b80e01b4c08310e1193d0b48  Sounds/Assault_L85A1.uax
+fa210590bb9d1d24e4fe4aead478ad88261a473f  Sounds/Assault_L85A1_Reloads.SB2
+b436b488269620df235636a43c6d166b1b633f1c  Sounds/Assault_L85A1_Reloads.uax
+67c5df0c07f8d122de632c44c1df5f1567cb8044  Sounds/Assault_M16A2.SB2
+412dced17201a07e5a1d3e1caa03164f9b80f25f  Sounds/Assault_M16A2.uax
+0f403da757d6983fc54b1d6731919f70b467ac6b  Sounds/Assault_M16A2_Reloads.SB2
+449366acf2ae8656a752f2342d8429c32736a19d  Sounds/Assault_M16A2_Reloads.uax
+75d5008e1291833b2dd2f50a9263f858ba0c6c84  Sounds/Assault_M4Carb.SB2
+a37354e9bade0e87644cb1ab37d34e02f60ea007  Sounds/Assault_M4Carb.uax
+ce327d670b01043c29e843699b6405c415a18557  Sounds/Assault_M4Carb_Reloads.SB2
+230c6388b334481bc15ef95d5cbd9058e67e01f0  Sounds/Assault_M4Carb_Reloads.uax
+23853773c799cda951f0c05e9de0fcbd13fc706f  Sounds/Assault_TAR21.SB2
+4124941ca258bfdd0197e502ef45655e02b0e2e7  Sounds/Assault_TAR21.uax
+fe67c932e273062a2fac0eb1c0079f193e27deaa  Sounds/Assault_TAR21_Reloads.SB2
+16a9fee27b8196839b0a330efa46aaa3295e7a38  Sounds/Assault_TAR21_Reloads.uax
+60c21496d737dd3c9ef5a884428c2baf0c6fc8c1  Sounds/BackAlley.SS2
+80e517d8d27b83caf957065528de90e1fdcde313  Sounds/BlackHawk.SS2
+f52a58d6df91dba1ed9dcc2eb3861502844b1546  Sounds/Bullet_Impacts.SB2
+1b7c5d954305266a0d6dbc1ccf4b67e0f423038b  Sounds/Bullet_Impacts.uax
+974b7d491051e833a439df791e6a0759d03b3743  Sounds/Bullet_PassBys.SB2
+2c160c223807d6cd601fb237387f0ab83a92896b  Sounds/Bullet_PassBys.uax
+f9725af5c51b657da892324e1171c097261d0496  Sounds/Bullet_Riccochets.SB2
+5b8ce108442394b9872e3021d9a2efca19a0cbe3  Sounds/Bullet_Riccochets.uax
+18e9f40764bf6452c8a8532c058d3dbacfb9f26b  Sounds/CommonAssaultRiffles.SB2
+455f06577a01c96b08f6f72a9da736b1bc4ab0e0  Sounds/CommonAssaultRiffles.uax
+aec847209455d7765a2df6e58592f2629a9dab0a  Sounds/CommonGadget_Explosion.SB2
+bc85c050a91ad75a1b9ba27968b5b064e8c65689  Sounds/CommonGadget_Explosion.uax
+6f2b458fa2b05a908be3a47a4383df963c55769a  Sounds/CommonLMGs.SB2
+e2828cf9c5555d39cf2d61eff02ba99c854fdc58  Sounds/CommonLMGs.uax
+75a6162606d39f15197ff78ee8c00d181967464f  Sounds/CommonPistols.SB2
+60f1a9c42bb1b423c4c2cc2dd2d9a040e4176f70  Sounds/CommonPistols.uax
+01795eb6821c5c0f234949475c27723e290cdd1e  Sounds/CommonSMG.SB2
+7938b9e8adf390178853e9d5f7b7c5ce37c1ba6c  Sounds/CommonSMG.uax
+4dd54138add9d51c3b904c8eb63605ad43e0784c  Sounds/CommonShotguns.SB2
+3de6ead886019df62d364c27496e8bd5915cbf93  Sounds/CommonShotguns.uax
+b4b01d402c28907bff56343537a5c6d269099248  Sounds/CommonSniper.SB2
+81e50f5ff3cf135a0bdc9965de14498c36bb1a26  Sounds/CommonSniper.uax
+2e486f13d340fe3df9b8361f422208f267abd537  Sounds/CommonWeapons.SB2
+4498cf9100adf38cb50fac588332a4c991b9f5c5  Sounds/CommonWeapons.uax
+35e99a0d17330e73065d6894ee5e9d238f351da0  Sounds/Explosive_Barrels.SB2
+9be864fc8a97dbec324ef28bc7b3bfed51280c11  Sounds/Explosive_Barrels.uax
+e3c3c1638848e237691ca69895d92d8f06a0961f  Sounds/Foley_AirportRainbowMovement.SB2
+3a47396f5276611bcf43ec98f9be71674d4ff2ae  Sounds/Foley_AirportRainbowMovement.uax
+221971bb14c6390efbfd1e12ed1918922dfc6759  Sounds/Foley_Bomb.SB2
+fe883151f7059166f080168793520733b12277a7  Sounds/Foley_Bomb.uax
+9cf35753fcd7d27d76743b50524446f27f88f6d3  Sounds/Foley_Claymore.SB2
+c53bf37e825d255a3b0a8b21a722ad5f38a47dfa  Sounds/Foley_Claymore.uax
+27b158c42e2765c330a3c1c5fe6a69f8c08552d5  Sounds/Foley_CommonGrenade.SB2
+e84303342f3597bac8aee9d85d8998bdec1a3250  Sounds/Foley_CommonGrenade.uax
+3fc3b45ebb6c959dcec56cb8d0023cc195e28381  Sounds/Foley_FragGrenade.SB2
+b3d16f8653d888ab53b3481d565322e1a8a512bf  Sounds/Foley_FragGrenade.uax
+26489b3cc27386cd4fb25adf66bb5e99eea3e902  Sounds/Foley_GarageRainbowMovement.SB2
+841de39abe48dfd9d51606c726818a0d92f1dbc8  Sounds/Foley_GarageRainbowMovement.uax
+8b29166b6a67bdaa39b8b40cd370749aff821619  Sounds/Foley_HandExplosives.SB2
+2b5305cba0e650ee54b2de39eab0d4840bcf10dc  Sounds/Foley_HandExplosives.uax
+7ef4869345d2290e36a296d785b82637a65f53fe  Sounds/Foley_MetalLadder.SB2
+110361c15fd796c6ec436698a0a2f94b02c9df9a  Sounds/Foley_MetalLadder.uax
+338a6b68c6ee884abe16622b4ec6671d80b0c2bd  Sounds/Foley_NPC_BackAlley.SB2
+a8f9f1c9b8ffb0286495a39837be3920b5652f98  Sounds/Foley_NPC_BackAlley.uax
+5c304dff887422a4fa1223dfd4bd0e09d5dafe4e  Sounds/Foley_NPC_Ruins.SB2
+c8f8d802b70b8bddca530fb72045be2477812048  Sounds/Foley_NPC_Ruins.uax
+d7c360c9834e18fbdb7566d1e5eecaaf3cc32df2  Sounds/Foley_NightVision.SB2
+fe5bea6d409cdce54faace32f407485791ad86eb  Sounds/Foley_NightVision.uax
+6f19ff3966f9ee810511ce13010db972b2603ae6  Sounds/Foley_PeaksRainbowMovement.SB2
+011c14f12178b909b1cca70af7fb228462e6d9f9  Sounds/Foley_PeaksRainbowMovement.uax
+0ab1d5650f8c198ea71d85790093a5becb083c8a  Sounds/Foley_PresidioRainbowMovement.SB2
+50004923edfc69d771c95c1249b94705e0e32889  Sounds/Foley_PresidioRainbowMovement.uax
+79274bbdd3f8b7a8a61a900d65a167305da2366b  Sounds/Foley_RainbowClothesLight.SB2
+d2ef16d676e95c77e3ad1a67a481c10c68545d60  Sounds/Foley_RainbowClothesLight.uax
+a7fa05cc3a8aadb6b4401a5047382887175cab32  Sounds/Foley_RainbowGear.SB2
+0009a1d8ab278f408b447ce0ccc61fa9d0fc44aa  Sounds/Foley_RainbowGear.uax
+8edeef3873a874668f5fccc9d832b718d06b4a58  Sounds/Foley_RainbowMovementBackAlley.SB2
+545853dbe65de3182d14a8ef155a47a48e40f017  Sounds/Foley_RainbowMovementBackAlley.uax
+b77fc79976197db83138d63c2994945d6f10a462  Sounds/Foley_RainbowMovementRuins.SB2
+6db48780980677a1018344bcfc96e5c4b679e100  Sounds/Foley_RainbowMovementRuins.uax
+64d61cba4f45a608e9ca3ae066e6189a95f80380  Sounds/Foley_SmokeGrenade.SB2
+a83f459d177ed85354adf4860f6310bd4307b98d  Sounds/Foley_SmokeGrenade.uax
+5f4bc58f38499e34a61b22b74744ef8d7ca4956a  Sounds/Foley_TrainingRainbowMovement.SB2
+99dba5a6621b4792eb459fe9970ca19edcef527e  Sounds/Foley_TrainingRainbowMovement.uax
+f4a952502537687effb3cbc6aedbf956aa2f30c5  Sounds/Foley_TrainingSPRainbowMovement.SB2
+561c2947cc8cd41a346708763dba4ba4d50e80a1  Sounds/Foley_TrainingSPRainbowMovement.uax
+ad3470e8a2994ca14265d11fc26af07fad454ae3  Sounds/Foley_WoodLadder.SB2
+ba765e284479b284949c415f4001e6d6a3b9633a  Sounds/Foley_WoodLadder.uax
+8664534cc5e7bd6cefc82ca1952023b27d395675  Sounds/Gadget_BreachingCharge.SB2
+3787f7d141e51391162b9fd22a755687d8fe1a4d  Sounds/Gadget_BreachingCharge.uax
+a062a669f9992610271cfafd46aa63665ea8a750  Sounds/Gadget_Claymore.SB2
+82abeb6d8b68a330aea4a17528d97d81446a958a  Sounds/Gadget_Claymore.uax
+74cbe95ac33b4db6ff4fadc1a768101be53a1a05  Sounds/Gadgets_NightVision.SB2
+a981d50066bef12012a499d9703c513b848be446  Sounds/Gadgets_NightVision.uax
+f4cfcc9e32677070573d3df0e8691536396fbd8b  Sounds/Grenade_Flashbang.SB2
+0e41a37ad0404a6665dca2bbff69cb2fb9c3bee0  Sounds/Grenade_Flashbang.uax
+131e3bfe01bda56e0186458fb0a0852378e88e7f  Sounds/Grenade_Frag.SB2
+20190080a147964a64b94ba4066eeec3e09ec5fe  Sounds/Grenade_Frag.uax
+4cb506803fde63fcf60b6422f60368f7412e96a9  Sounds/Grenade_Gas.SB2
+e6c72a54b44022b21dac10901e59f5e4cf163df9  Sounds/Grenade_Gas.uax
+54974b13ff0c866406cdfdfb98b696c5e6a7bbc1  Sounds/Grenade_Smoke.SB2
+533f07d6262996f9d1ca30a50d572d4967e9bffb  Sounds/Grenade_Smoke.uax
+192c3489b10ec83015534f50434b4ce93b43852f  Sounds/HD_Music.SS2
+b9a4be9c5890b45e99fa69e6c40ee39c33cb3b95  Sounds/HD_Stream.SS2
+813ac499df164659e96a522fa5d9e6d2f8d38636  Sounds/Interact_Doors.SB2
+0080adbb7f4e258666c025c14396e7dd7a38f915  Sounds/Interact_Doors.uax
+c8969afdfcbf9184e25b667e0c5c33d2f20b9f99  Sounds/Kamov.SS2
+fb1696af8d5565efd5c27d9cf23d6267d6bad362  Sounds/MPCommon.SS2
+fc976dfb3df8397118997f299155fb02027af0e0  Sounds/MacArthur.SP2
+94d81095ca26802bf68f3aad2b3b9d5bfc0d35cc  Sounds/Mach_M249.SB2
+a06fb3027027eb7e201b06f2f93c7b274577d345  Sounds/Mach_M249.uax
+d3475f272adcc3fc971298a5d3b865f5aa0d94f1  Sounds/Mach_M249_Reloads.SB2
+719d882ceec061509d35794d1039202f4f49ea38  Sounds/Mach_M249_Reloads.uax
+bded222d82eb0d4d11dee157e89b3271693b8a36  Sounds/Mach_M60.SB2
+2c0432e47e9caffccc334b54b4dc4ee87e4ebfc9  Sounds/Mach_M60.uax
+fa4b42ce9e05e8f65c7059fa28846538af9807ac  Sounds/Mach_M60_Reloads.SB2
+0db97d83ba865b595b033fffab2bdf6c8629d074  Sounds/Mach_M60_Reloads.uax
+5c1e17ecd517474ebaa85d9506fd68bc4bf8e531  Sounds/Movers_BackAlley.SB2
+2d3664e5dcf5d31a35a844be9e21a1d45a1938fa  Sounds/Movers_BackAlley.uax
+0ebe137f7c65ed4d4b8deeac7cfcdb13b70f7996  Sounds/Movers_CommonDoors.SB2
+de53e53a92eb55972f0edb7fcfb4fdaed77da1ea  Sounds/Movers_CommonDoors.uax
+292df19d5186e11adc4502eadf521f1605018a4e  Sounds/Mult_Mac11.SB2
+7d9cde69489a4c170736a0f8e21a6d22065b3d22  Sounds/Mult_Mac11.uax
+8546362771fbb5fac8ef7f82256c78ca4611471c  Sounds/Mult_Mac11_Reloads.SB2
+4fe141927cce701f3d7949ef601cf4110c6db06e  Sounds/Mult_Mac11_Reloads.uax
+ea6095567d2d806882d26205d248fc5819a236cb  Sounds/Mult_Mac11_Silenced.SB2
+222738ccd27f997442cca24ca9d8e07dff029be8  Sounds/Mult_Mac11_Silenced.uax
+23b7fc223375217887f1d18abbd1ecead67d6979  Sounds/Mult_SR2MP.SB2
+e5976e20506d190d63d5fe8ef29cc54e941a50f2  Sounds/Mult_SR2MP.uax
+339fbd78672feff7ec2cef604f92152fe5e1431e  Sounds/Mult_SR2MP_Reloads.SB2
+7060fd64b243c97e9e2b366b8bdfc5dd641b1341  Sounds/Mult_SR2MP_Reloads.uax
+9d0560287b6a29b9cb1e34c73d7255d37b9dca9f  Sounds/Music.SB2
+8827f920e24910e7d692470e28ffe9be30787ab9  Sounds/Music.uax
+2d87bd2283e10098e8fc9afea14b553768bc9cf9  Sounds/Objects_LargeWindows.SB2
+7b40e02dde00b1df04fe077bab19465dbe3174e1  Sounds/Objects_LargeWindows.uax
+9593f6a9c0dffe7bc695f72abefd5cdbe5c2957f  Sounds/Objects_MediumWindows.SB2
+9ca6cbd7cf7dbd9fb30a7d31bdf17957a6d69ff2  Sounds/Objects_MediumWindows.uax
+a71830d09d77c3fa972756aeaf47d23abf052b9d  Sounds/Objects_SmallWindows.SB2
+27cc64c1db4e65811e0fb9c70d142fd16b481ef9  Sounds/Objects_SmallWindows.uax
+30b4ce4c1308453a1e64322f60fb1d502393ac11  Sounds/Pistol_92FS_Reloads.SB2
+4e0d8b3f64ccc54c628c24f7c5c2931302f8f6f8  Sounds/Pistol_92FS_Reloads.uax
+a645b365c7a2f95162b998dfc6e9bbc4dae54575  Sounds/Pistol_92FS_Silenced.SB2
+ac9bb1b8503a1b93e16d1648ab779576d503f859  Sounds/Pistol_92FS_Silenced.uax
+0410fa9c221c66f272993576951f55e9dc873766  Sounds/Pistol_Des50.SB2
+68eef43d72063eff0380d8eb7c3fe550b7f55b90  Sounds/Pistol_Des50.uax
+60edcf03e009ee1136902ff06fa8a66971787165  Sounds/Pistol_Des50_Reloads.SB2
+649024882e4ae406f17d857a1223ca160c6646a9  Sounds/Pistol_Des50_Reloads.uax
+a2c82fa7edd7735c96d06138d12aac56869f9a9c  Sounds/Pistol_MK23_Reloads.SB2
+303c90ffd1c2cc6ac71042bfc9c3f04cc6b352e4  Sounds/Pistol_MK23_Reloads.uax
+8c0db65d8987aeb55014de521cf323f2083fe814  Sounds/Pistol_Mk23_Silenced.SB2
+e9037fc0906dd2aad0813366b24781bf9f67b3c0  Sounds/Pistol_Mk23_Silenced.uax
+d6dd8ed872e677262b294a093bc248e3a022900e  Sounds/Pistol_USP.SB2
+2ab5b18907f2c292610ebcb51bf800ec24fbc4e9  Sounds/Pistol_USP.uax
+d00afb609a0829e22e776bfc3beaa56e91d2ef7d  Sounds/Pistol_USP_Reloads.SB2
+bcad333f33343b8ddae80160eec9bc5126b520de  Sounds/Pistol_USP_Reloads.uax
+e3ba11d4794e8996639d8a105dfffecd090ac295  Sounds/Ruins.SS2
+420094d188f8256544613f542d509f224337f2bd  Sounds/SFX_BlackHawk.SB2
+1c77aa33b6208308dce1a6c631fd948faa938e9d  Sounds/SFX_BlackHawk.uax
+a797ae0c467e5cd54fe036f7df6b353ae1e4abf1  Sounds/SFX_BugPhone.SB2
+9a16fdee1e3403e5217cd6da00f449eb1ba28853  Sounds/SFX_BugPhone.uax
+38b2bed09902db97573cdd00b28c448872d06591  Sounds/SFX_Kamov.SB2
+1d06df30f56dd1090d1eaee123d5a82ed2fa1f12  Sounds/SFX_Kamov.uax
+95904389bbd9c56984b6f8375059fde111f28042  Sounds/SFX_Keyboard.SB2
+2d9263115368d76c9d93b2da8729afb99ed23c67  Sounds/SFX_Keyboard.uax
+b8386f1db11a7ce4b0b7983b9f6749e417719672  Sounds/SFX_MP_Common.SB2
+1d942e9585df3057f430172a75cc961bdb418e2f  Sounds/SFX_MP_Common.uax
+bae83f9207f1a87a2888018bbec4be8127cc829b  Sounds/SFX_MapBackAlley.SB2
+72469200ab28ba8093604b5a558b55e9e2367fe6  Sounds/SFX_MapBackAlley.uax
+550a9985e4047d864993e7659fc85aaad846eb76  Sounds/SFX_MapRuins.SB2
+eb4f4387deb0648e76c0d43ff7f7b1e4e30e235a  Sounds/SFX_MapRuins.uax
+6086eccf64c83e296310927e52dcb85525663e1d  Sounds/SFX_Menus.SB2
+4eb21baecc3e2fd4999d8820bbd684e5ae24efb1  Sounds/SFX_Menus.uax
+88fc769befb8bb2272622b8de5e972738b21574c  Sounds/SFX_PlantExplosive.SB2
+c9f54ee8e8a69841db9a191e2cd7f52bdf87949d  Sounds/SFX_PlantExplosive.uax
+13d6d7c8e134094a21196f933ef1b0c31009e5f9  Sounds/SFX_ThePresidio.SB2
+a6c0526951563b0c3b970e8410c630fea13c19d8  Sounds/SFX_ThePresidio.uax
+7405422e689ec49403c99ff05c0de384f4eff158  Sounds/STREAM.SS2
+7bfaf0c493d48dfa73b71344264457c4a5f0a6c8  Sounds/Shotgun_M1.SB2
+7796c3f2782b58dd5e1c83bfda59ffc8f4077901  Sounds/Shotgun_M1.uax
+f6b3dd991a1ace04d37f033f21b10fbc119c75db  Sounds/Shotgun_M1_Reloads.SB2
+af2c1789be407157aaadca7fd2324102f733dd95  Sounds/Shotgun_M1_Reloads.uax
+c7bda0bf571e21bb6d9f413b56785afc90f0c84b  Sounds/Shotgun_SPAS12_Reloads.SB2
+2444bc522f2bb94d8d39aebd93c4fa87942d00ef  Sounds/Shotgun_SPAS12_Reloads.uax
+7ce8d632187278db2b2d21b02710747013e90e11  Sounds/Shotgun_USAS12.SB2
+fa6aeaeb7ec7b88836196b5e85dcb0ddd0b8844d  Sounds/Shotgun_USAS12.uax
+f0c00163abd6b21d83b39f9e767906eb55bf8c55  Sounds/Shotgun_USAS12_Reloads.SB2
+0f0bfddb4fe48d31cbc83d775e7e6c1d16f5ac78  Sounds/Shotgun_USAS12_Reloads.uax
+5340398120bab4fa0e9ad9fdf8eef5a8cde89c96  Sounds/Sniper_AWCovert.SB2
+4e72bdee9d00a0d904b4c5e54db5f26fd3934757  Sounds/Sniper_AWCovert.uax
+ad89b9501ac1202156054bae0679526b391556a7  Sounds/Sniper_AWCovert_Reloads.SB2
+51794be64c9a302e4c233d1156111efa7558ab2c  Sounds/Sniper_AWCovert_Reloads.uax
+7dd965ec7cb5fec77881782981fc6f29ba70f8eb  Sounds/Sniper_M82A1.SB2
+b342cebb2424488523e0f66dadf07404212b8aba  Sounds/Sniper_M82A1.uax
+b2d05d2055130e36e6f04b3b84fbdca564cc86d5  Sounds/Sniper_M82A1_Reloads.SB2
+08a80a960cc8910ba692b0545482d7848da1fcf5  Sounds/Sniper_M82A1_Reloads.uax
+8deb5cb2317e7dcb2f6d9da3f5f512b4923beb0f  Sounds/Sniper_PSG1.SB2
+83fa70fef97c46302c73049c02f7bb89815458b1  Sounds/Sniper_PSG1.uax
+a8bb1d7125fbb54eb582dc8af611dd3f6abe4fe5  Sounds/Sniper_PSG1_Reloads.SB2
+82dabd4b361adbacddb9b41dc90bc4c28ad2ad26  Sounds/Sniper_PSG1_Reloads.uax
+f6fa4b310765d168eef87ad4cdc9a0193a55a5f8  Sounds/Sub_MP5A4.SB2
+13fe938fbfdbfaf9bc0a568310c0ef68d3e2d1dc  Sounds/Sub_MP5A4.uax
+aeb95c1b575c9404e79e4a12c9d3091ccf1c01fb  Sounds/Sub_MP5A4_Reloads.SB2
+3445572b2ae61089e397cb3a0bbf9322fb754af2  Sounds/Sub_MP5A4_Reloads.uax
+4c0dcfcdc38344885209b23a90caa89229b0221f  Sounds/Sub_MP5_SD5.SB2
+b37baa099efdf5bff6f65050cf5a23844b45dac7  Sounds/Sub_MP5_SD5.uax
+afeb797cfe4c8faea4eab0121946c4ceb008a5a0  Sounds/Sub_MP5_SD5_Reloads.SB2
+ca4d10090d89beb410faa788d6b7596797da42b3  Sounds/Sub_MP5_SD5_Reloads.uax
+f16ff661e19cc606b569f253a2ba0548437fa400  Sounds/Sub_P90.SB2
+415f318d8422a7f86fa68cfb1ee63f515860c8dc  Sounds/Sub_P90.uax
+5aec30ae739bcc462db63029538c240fbd89f4f0  Sounds/Sub_P90_Reloads.SB2
+ed6c2ed1c3b10d31b8c971fe874216d21fdf8227  Sounds/Sub_P90_Reloads.uax
+380bc154e8924b88f558a808a90a72ce20b26c23  Sounds/Sub_TMP_Reloads.SB2
+782d896181e55c9c5d4b8711b2d95ce38d469a41  Sounds/Sub_TMP_Reloads.uax
+d85f28916ba8c9f8883469c8f2f60cdde960c091  Sounds/Sub_TMP_Silenced.SB2
+1c879954a69fc0d6d77beaad51cd546a354033cb  Sounds/Sub_TMP_Silenced.uax
+a24bf43c58a2951600bbc23b5c361938fca49c99  Sounds/Sub_UMP45.SB2
+6c3df40eea89b57ff30bfa9f15e1ff178a333a09  Sounds/Sub_UMP45.uax
+153dd8591c001aba17bbac48483e30c9e7863f1b  Sounds/Sub_UMP45_Reloads.SB2
+fd24fe1ec6f92bb56d3e190fbcfb6ae3c1d26654  Sounds/Sub_UMP45_Reloads.uax
+3fee3c789d26eebdf74cb36521423ac17255df47  Sounds/Voices_Clark_Common.uax
+ad25c9bc8c893043fa86204ec9395ed0ea62a156  Sounds/Voices_Control_Multiplayer.uax
+4918952a9ed25992069d667f7f1c6d8dc7861139  Sounds/X_Comm.SB2
+0fde255ab31b470991a2421397983fe333ceb196  Sounds/X_Comm.uax
+48ca99e5e5f9c967d866f853c6fccdf6be350354  Sounds/X_DSP.SB2
+eb789fbdf1d98ef927ab11d9d9983a3bd8fec6d4  Sounds/X_DSP.uax
+3cc12249dc459f61b9aa4ccbb9b770e9b8679863  Sounds/X_Gadget_GrenadeLauncher.SB2
+a9fc2b9037122d56e07a5772897931cf32ccca37  Sounds/X_Gadget_GrenadeLauncher.uax
+bff98930c80d0be59e4c797449a8b580d6447e6b  Sounds/X_Gadget_Molotov.SB2
+e7388a622e287c1857af3ce655b40bcbe9144bef  Sounds/X_Gadget_Molotov.uax
+5c405659f792f8ba9195380403692b2bfc2af908  Sounds/X_Gadget_Phosphorous.SB2
+4be4704f939da24f8d61696e9a36796877813500  Sounds/X_Gadget_Phosphorous.uax
+83726c6e470eea535107eb1161157a6ddb16621d  Sounds/X_SFX_SoftBodies.SB2
+0cffb212e6df89c760b59b0d380352d369ff507d  Sounds/X_SFX_SoftBodies.uax
+1433d7a8797659f0a902f2903ad820b76a3ccf34  Sounds/X_Terro_RPG.SB2
+7302c73a50481e8a592c4c0d4537a77f810585f7  Sounds/X_Terro_RPG.uax
+e760a96ff09dd9b426790648505b6c41b1fdaa92  Sounds/X_Voices_Castle_Tour.uax
+13b10de80dfac3197c1b61d8aab644a8b0808724  Sounds/X_Voices_Clark_Briefs.uax
+4b333885e9edb7d8b3a2fc1f0c8970975c2b9cb6  Sounds/X_Voices_Clark_DebriefM01.uax
+c8aa9e7f8974319f19ac23395a212c923b94acc1  Sounds/X_Voices_Clark_DebriefM02.uax
+f5fe6724a2a9c01f93f799397d36c80fe772907f  Sounds/X_Voices_Clark_DebriefM03.uax
+e6446883e7edcb921b0aa12420ad33164426218e  Sounds/X_Voices_Clark_DebriefM04.uax
+34392e87cc287d1c47b165d4cd33154c957099e3  Sounds/X_Voices_Clark_DebriefM05.uax
+db92efa383ddd4ec80dc20bb20f9f74e034bfca3  Sounds/X_Voices_Clark_DebriefM06.uax
+d096edc4c7810e5bc04ae483ed6462ed468dce21  Sounds/X_Voices_Clark_DebriefM07.uax
+e66b2bb800de52855ebeb1e931784f77565e2056  Sounds/X_Voices_Clark_DebriefM08.uax
+e034eaa64bba4238f9db87384ecacfd9c84b9a0a  Sounds/X_Voices_Clark_DebriefM09.uax
+06d2f965871efa8220f3ee71c557577a571727b3  Sounds/X_Voices_Clark_DebriefM10.uax
+a72097e907d0e4a7957faf14123ef680694a2512  Sounds/X_Voices_Clark_Generic.uax
+1817f1824984a93a0cf4b0a7eb47104bb1587dcb  Sounds/X_Voices_Clark_M00.uax
+2faafd7759f1be18ef0b808a1b0e3b25b4540162  Sounds/X_Voices_Hostage1_M01.uax
+3d1ad4ebf568c4a4f4643b9efdb147f029ca9c36  Sounds/X_Voices_Hostage1_M02.uax
+19b703f3182aa7dff1a655354d83474444480b93  Sounds/X_Voices_Hostage1_M04.uax
+7cc0e05d6c060242d26bedf5a7c1b209f4b37396  Sounds/X_Voices_Hostage1_M06.uax
+dd46231165622c7fd2d8e4d1668c32bbc18eaa4d  Sounds/X_Voices_Hostage1_M10.uax
+e9b4942bfc7de7a34a39c872b05ee94694509add  Sounds/X_Voices_Hostage2_M01.uax
+13f642bae127300d53ff7ff7404fb525f152ac92  Sounds/X_Voices_Hostage2_M02.uax
+2e198db912f4c1c5a3227ee28eebab2f9e806221  Sounds/X_Voices_Hostage2_M04.uax
+5f65d6b1d9c71abe8a7763099f576fcf8569dc9c  Sounds/X_Voices_Hostage2_M06.uax
+dca8bb4f9f1cd5a3474f0bc366bff3a751bb8b6c  Sounds/X_Voices_Loiselle.uax
+6219f819c514cabef39350fb6eb1bafe5eae9a99  Sounds/X_Voices_Price.uax
+d9e76cafac8c0156b203c7c4a9270d0d68b48478  Sounds/X_Voices_Script_M01_.uax
+f57e79eecc5f293bc2539a079b8874ab486648ba  Sounds/X_Voices_Script_M02_.uax
+ff41afd64d390f51058ee06c573c04bf1d53b060  Sounds/X_Voices_Script_M03_.uax
+9ea59d40ac143321989384807134e601da48b531  Sounds/X_Voices_Script_M04_.uax
+69032b59912ac94a0eba4d3b94aba3d900e1f5fd  Sounds/X_Voices_Script_M05_.uax
+94a5ae897421720101eb369b7418cac54b563e13  Sounds/X_Voices_Script_M06_.uax
+c1803657b9e10f0cc2a7b709a6411eb8d517f7a2  Sounds/X_Voices_Script_M07_.uax
+097e8a52d21c2022ea4028ea5bcde0e0c7b78e88  Sounds/X_Voices_Script_M08_.uax
+b39922b68909b16a9e3b7127eb1da5d7eb4121bf  Sounds/X_Voices_Script_M09_.uax
+64136dd9955bdc3369ae78d5b84323db758d4101  Sounds/X_Voices_Script_M10_.uax
+ca0797b28fd162eade3b8c002113dae4711ab6f4  Sounds/X_Voices_Terro_EnglishSpeaking1.SB2
+4dfeed82d01e259918f50f770892af208ea47d51  Sounds/X_Voices_Terro_EnglishSpeaking1.uax
+b763211aace44228727d28f30bd035787cc49184  Sounds/X_Voices_Terro_EnglishSpeaking2.SB2
+b5f22235ff2d54bdccb1c44ce40b66a37c81e6c9  Sounds/X_Voices_Terro_EnglishSpeaking2.uax
+dad9f28c0de76d54ac9e96ebc290ed084bb7e0c7  Sounds/X_Voices_Terro_EnglishSpeaking3.SB2
+415b27a9b4e6ba03b56a34dc20ec41dd21d0e0a9  Sounds/X_Voices_Terro_EnglishSpeaking3.uax
+c45d2bdbdb192ab88af01d9bedce4e3c1a3ad5ab  Sounds/X_Voices_Terro_EnglishSpeaking4.SB2
+323b3fcabaab9e52ca3c2f1c6f6f9ef88a84a1a0  Sounds/X_Voices_Terro_EnglishSpeaking4.uax
+1818fefe0d557666797b576a2548792f5c4690ec  Sounds/X_Voices_Terro_ItalianSpeaking1.SB2
+eae45e4acaa71d56b81d43b24e349626c8bdcce9  Sounds/X_Voices_Terro_ItalianSpeaking1.uax
+bc4711b9cb3c399338efce0ebd3dca485d85bd75  Sounds/X_Voices_Terro_ItalianSpeaking2.SB2
+6a2b673089b266eb6450b916ba714f521266721c  Sounds/X_Voices_Terro_ItalianSpeaking2.uax
+741338ed34baec97c90f05c00e70937d603ee49d  Sounds/X_Voices_Terro_ItalianSpeaking3.SB2
+96db1a6c2202153a35e236868ac1a6dea0aa4121  Sounds/X_Voices_Terro_ItalianSpeaking3.uax
+adf6204abaf3c4f016c0a4ad322562318d579ac1  Sounds/X_Voices_Terro_ItalianSpeaking4.SB2
+c1a0e0ab8273a8016bad857cd9450c63d0c7b943  Sounds/X_Voices_Terro_ItalianSpeaking4.uax
+fb134d730c09287a8f679cf7c992ddbe6a99132e  Sounds/X_Voices_Terro_RussianSpeaking1.SB2
+e5ae3064f7ac7ba3108ffbb113d228b31f05e0ce  Sounds/X_Voices_Terro_RussianSpeaking1.uax
+fc23baab555921deb64669d861729770d063e620  Sounds/X_Voices_Terro_RussianSpeaking2.SB2
+59407dffde33efd05ee90e5547e96276d224a809  Sounds/X_Voices_Terro_RussianSpeaking2.uax
+53b9966007b73477677ea746886f78af0aece3dc  Sounds/X_Voices_Terro_RussianSpeaking3.SB2
+2f52b9b8cd24a9cf592a76243f4f7776ebcbc3b0  Sounds/X_Voices_Terro_RussianSpeaking3.uax
+daf2a65a8bbbd2933edc78aa0dfbdd9f4e27997b  Sounds/X_Voices_Terro_RussianSpeaking4.SB2
+74933afb9f14edc32557a5e3de1d537601199c68  Sounds/X_Voices_Terro_RussianSpeaking4.uax
+0ef2df3d830371b69a8436867b452bebff6c3995  Sounds/X_Voices_Training_Basics.uax
+06853dadcbd60523a6493bf28cb20e1c19634bf9  Sounds/X_Voices_Training_Shooting.uax
+6bc837154fa4f939e3fab89d0f7756aafd34338a  Sounds/X_Voices_Weber.uax
+df4bc8c9526384a422d7a31bdc8c960413a7547a  Sounds/dsstdfx.bin
+f11210fcdec8910a7a687022abbb57d7a3ee3ae4  Sounds/int/BackAlley.LS2
+e077b2dc78087bdd9d7b277e059a76257f0ffe07  Sounds/int/HD_Music.LS2
+5f800f316cecf3a73b879f3569e2079b18dde637  Sounds/int/HD_Stream.LS2
+3e551b94a83ec9c33e93922bab5cfed83d4757a3  Sounds/int/Ruins.LS2
+9c57ff8d283231a5d1f3e7727ea7d440ab2423c2  Sounds/int/Voices_Clark_Common.SB2
+787b116e0e5fa0ca2439f5dfde67cd92178c35f5  Sounds/int/Voices_Control_Multiplayer.SB2
+e5c390b18cf99a02aa64a0a18eafb952fe05ffcc  Sounds/int/X_Voices_Castle_Tour.SB2
+06bd09d26ecddf33e659b66db2c3991454e3d3d1  Sounds/int/X_Voices_Clark_Briefs.SB2
+d245b12dc32d1cb074a79267b92d69e46d75445e  Sounds/int/X_Voices_Clark_DebriefM03.SB2
+b446a3298c3003ec1a8b8b5fbfa753db013bf1fb  Sounds/int/X_Voices_Clark_Generic.SB2
+5022f13998951c46139ef2bf3c4792f1e3d963c8  Sounds/int/X_Voices_Clark_M00.SB2
+11a6e803796f9f16a00636a25df145bb2644bb22  Sounds/int/X_Voices_Hostage1_M01.SB2
+896674f1c045de58d03b71467ff6ad803083720a  Sounds/int/X_Voices_Hostage1_M02.SB2
+89e3cc609fba1a624ce4018121268f9ea5fa561b  Sounds/int/X_Voices_Hostage1_M04.SB2
+7e674ccebf7fe2f1377321bc5a43314e70a9647a  Sounds/int/X_Voices_Hostage1_M06.SB2
+e887b0224284f220e80ec6906df6eb2eaa1d70fc  Sounds/int/X_Voices_Hostage1_M10.SB2
+7cfd1c1cc73281f075f595d858da9f7da42578eb  Sounds/int/X_Voices_Hostage2_M01.SB2
+cd1317f6eb026890672a8da050d1299173d02fe8  Sounds/int/X_Voices_Hostage2_M02.SB2
+ca42d3e0eca11a0ee8f034058fe37aef9d0eef87  Sounds/int/X_Voices_Hostage2_M04.SB2
+665e70d9186afe35c34747bc326951f723b0daf0  Sounds/int/X_Voices_Hostage2_M06.SB2
+39abff57288b4c8c5b0058ddf5e29d21d3c96849  Sounds/int/X_Voices_Loiselle.SB2
+3f34069703d5220e3612ac5f85d7775fa5e92961  Sounds/int/X_Voices_Price.SB2
+4825dd4ad5c9971d4c01755b1cbaa648b7710c38  Sounds/int/X_Voices_Script_M03_.SB2
+6db537a1c77787f5da4dfa14d5cebaf7c78523a6  Sounds/int/X_Voices_Weber.SB2
+17415868c9bb8b1e23edd9d0b4a561ecadaddd8b  Splash.tga
+17415868c9bb8b1e23edd9d0b4a561ecadaddd8b  Splash_INT.tga
+453d854e64f17ee1c74c8da9e78374a4b5fd8297  StaticMeshes/Bac_MP_SM.usx
+d9af10d623af924aed666cc3acf80374968c42c4  StaticMeshes/C4_Bomb_SM.usx
+4fac22b9ffac54ce34dcf2e3bdbe1a0071708325  StaticMeshes/Common_SM.usx
+20ce9974711e03af30aaf695c0e63ad09561cbdb  StaticMeshes/Game_Mod_Objects_SM.usx
+4c5b3c39755591a69c718c41db7df00363f198f7  StaticMeshes/Khamov.usx
+489b2dc3192391993a14cf7b5a505bcfaaa02f1b  StaticMeshes/Laser.ASE
+b43d9d0141283d553cc228a8020da650b6914568  StaticMeshes/Placeholder.usx
+2e47634d88074c973960f0ccaf0b1fdb4e60f349  StaticMeshes/R61stWeapons_SM.usx
+82012bda4eb3a390cb07da10f7f9a6986187218d  StaticMeshes/R63rdWeapons_SM.usx
+674cc3073d44f14e15b3352b5ecf99955a8445ab  StaticMeshes/R6ActionObjects.usx
+0bab814b213b28ee68cad3b0e1c3be3527734d6f  StaticMeshes/R6BlackHawk_SM.usx
+f38c72b115b305a6022ac32fddfd0c0da84d0814  StaticMeshes/R6Characters_SM.usx
+7951a9c83211b3b353349c64dcd62d3987ab7b25  StaticMeshes/R6SFX_SM.usx
+e80ed99a2e5f240eef060aa3431a35e9a1657240  StaticMeshes/R6THeadAttachment_SM.usx
+25ed02f80fcea2dff973247b62c9c8effc97e613  StaticMeshes/R6_Mission_SFX_SM.usx
+a179cf0c4e2c4fde866380c0d53b7d41fc38b302  StaticMeshes/TrainingBasics_SM.usx
+5767d7ef27319e2b96977576202de83c0d649969  StaticMeshes/TrainingSP_SM.usx
+4730e0169a84a7a1912928a3d104158f18cc48c3  StaticMeshes/TrainingSP_SM_Custom.usx
+d5cf910155034ab72a7ee0bcaecdbe108ae71421  StaticMeshes/TrainingSP_SM_CustomMade.usx
+eff0f4fb7547d96dd17f8b7d41f01d2fd2868a3d  StaticMeshes/Training_SM_Custom.usx
+73d2735dabd9e75bdc0c3484aa9aa6b772442841  StaticMeshes/training_SM.usx
+0c8d26b6f1eac5dff7ac7849ad6c4206cb5857bf  System/Bac_SP.lin
+9a43f789be573bfb628c6bd50f171ca44904539e  System/Bac_SP_mission_skins.lin
+4bc07d6b0556ae6b008587b5c417b961c1449b95  System/Bac_SP_multi.lin
+6543b75e026fa925fe0346976326fa752e4bc5eb  System/Bac_SP_multi_mission_skins.lin
+0f07e12bd162958f59de9dee38ee7bab5e49413f  System/Common.lin
+cf06529be4625717fff3e09c5a516880fc1c4914  System/InGameMPMenu.lin
+a0e4f4a78fe6b31d1e9eba419c13b6fffa02f649  System/InGameMenu.lin
+6d5a7260e886a2bd01d741a1a1daabc31447db7f  System/MainMenu.lin
+2e9c849b8014a5526c2270257cfcf0d6a7626dab  System/RainbowSix3Xbox.ini
+bc7ef6511cacc1e09e97aafaa7e7aba6aad5e46d  System/User.ini
+81223a5941d88d0c7c28650d00dc3cbe893a6180  System/xboxdynamic.umd
+7c8ff3453b92fc93700a3ed2312cbd3e499da186  Template/Ago-H-AK47-50M.tpt
+ef99827af3d2ea149d2dec78c4ace515908d4962  Template/Ago-H-AK47-G-M.tpt
+da7b331bc6cd043f8f5628fabc90bd32c0bdc530  Template/Ago-H-AK47-Gas.tpt
+da7b331bc6cd043f8f5628fabc90bd32c0bdc530  Template/Ago-H-AK47-Grenade.tpt
+da7b331bc6cd043f8f5628fabc90bd32c0bdc530  Template/Ago-H-AK47-Grenade2.tpt
+d9ad2b85f940b9c76aa31d46d970225ccdfa6a10  Template/Ago-H-AK47-Smoke.tpt
+6812a9822697af9f85c4ca19ae3cc1a470cec965  Template/Ago-H-AK47.tpt
+88e7018e0a836bc75e4945b69b34a479c3dcd3cc  Template/Ago-H-Eagle-G.tpt
+db40c8ea7f217cb28b03c79c7775ea652f80032b  Template/Ago-N-AK47-G.tpt
+5795736cdf182fe656e46e6cdaf8510990005607  Template/Ago-N-AK47-GRD.tpt
+f58d85ed9f2f6d185dd0e4fdd4a9adc1c3800174  Template/Ago-N-AK47.tpt
+eed0420a998456f73e0fa44e2ad6ad3b8c9411e3  Template/Ago-N-AUG-M.tpt
+3c2b837bbec2604e954e79a71095a854b32bdb40  Template/Ago-N-GalilArm-G.tpt
+4ecaf2d0c5861c7ea89fcc0a9062d43297ea3a0e  Template/Ago-S-AK47.tpt
+23c29c28da78316b27097002d675959f5de695e2  Template/Ago-S-AUG.tpt
+c110853b4c4b278ed7d9a17c549682f0c0f14389  Template/Ago-S-Dragunov.tpt
+b7e75f1d0edd00558447722b6fc9e2968640d0ae  Template/Ago-THT.tpt
+f1b5b46dcb283995d43ad50639b0c2892fc1d0ae  Template/Bac-BossFinal.tpt
+ba2256b952910f831a4309fcf2acda991dde5e98  Template/Bac-CloseE-F.tpt
+28bfed355c5705b2ad99347b36e0884365f63769  Template/Bac-CloseE.tpt
+8b7ff8dbb765af5ef1338a994a1ff543d9244440  Template/Bac-CloseH-T.tpt
+f139a275bc82fb5173ad8979f95289a904baa378  Template/Bac-CloseH.tpt
+337a1f225b4a22a098e0d7f8ad3ade8ee41d7d3d  Template/Bac-LongE-M.tpt
+4e92eecb4b60fe1cc1586df8d216b921ed3f9dcc  Template/Bac-LongE-S.tpt
+b9a0d2d392592b340d44608a7168cda16d764458  Template/Bac-LongE.tpt
+c5b18d1aed2e410b13d47349fad8202a626b349a  Template/Black.tpt
+8bcbc96843bca6529a77aa59c910b4a9a8f6409c  Template/Cas-H-G36K.tpt
+3c94afb1d9fceecd23b40d9b5b508c43fab66e4f  Template/Cas-H-PSG1.tpt
+ff92bf2f58b353e473c11dda92e64874f2af6de6  Template/Cas-N-AK47-G-Flashbang.tpt
+d7bcb7821aff2588495da3ee374bf7fcfde03d97  Template/Cas-N-AK47-G-Teargas.tpt
+4d8a919c9cef141320dcabccb2cc319dfec5743b  Template/Cas-N-AK47-G.tpt
+44662cc06e45a0d99ae976d04687f968419e65e7  Template/Cas-N-AK47-Molotov.tpt
+8e30189ecd3065efab8c18f1f1c96a76abb8ed73  Template/Cas-N-AK47.tpt
+43386be97756c48e1f7b660b7ed9390810cf6875  Template/Cas-N-MP5.tpt
+338d17d9c82d2d6b8a0efb8421ea6f4447f07bd1  Template/Cas-THT.tpt
+762177ea9b554220f92935c23f5b820080fa857f  Template/E3-CloseE.tpt
+4e3f142336f43321f3f365156f6b658f95eed082  Template/E3-CloseH-F.tpt
+9df04719c7d60a627a0ed01ee651b0640555f7df  Template/E3-CloseH.tpt
+26b2dba2322a0cc42cf5f276f5b6952216942570  Template/E3-Guard.tpt
+f71a9dd83b279af8f38a0ceee82c687b1417c3a5  Template/E3-LongE.tpt
+669447a20eefc619d1020d32b6811adfe15ad39a  Template/E3-LongH.tpt
+07aba7bba74c5c86237e62f48163de96205c5439  Template/E3-Toilette.tpt
+f302ee23897f185f7df99a5dbb6e7777186677c7  Template/Hot-Coward.tpt
+fc65b3518e49f220b0e81e16d495ce9205006df7  Template/Hot-N-AK47-F.tpt
+2f1b65f4d24c9c57650bac69cd4ce410accc03be  Template/Hot-N-AK47-Mol.tpt
+1d4abdfb714098cbdb3202d28277f4ea270aa658  Template/Hot-N-AK47.tpt
+f21e6752e6d13d10a8790f065584b88e42249049  Template/Hot-N-Eagle-Gmol.tpt
+527858b17e66dd891e5a08625d0b34d93061faec  Template/Hot-N-M1.tpt
+338cdcbc18b6c02976485b9f7d40f6fe9b7b1058  Template/Hot-N-M60.tpt
+7d6a9bfd5261091f37265e0e8bded5c0779821c5  Template/Hot-N-Mac-G.tpt
+aa6537cf4e25a3a3d6e8c74c21c8b1bdac4a76b0  Template/Hot-N-Mac-Gas.tpt
+a846f95fb3103d110220a6f5369220f1f2169d3c  Template/Hot-N-Mac.tpt
+453767ccd8c625d3099ebdf7c2aee51f827427b9  Template/Hot-Pistol.tpt
+be9ed93ba5dc50ee5f2e2e7c70371e4b9bc6c835  Template/Hot-leader.tpt
+93ea3c9fd19bccabdc28aee6c561c52bbd486b16  Template/Hot_THT.tpt
+a528429349633f838f542dc5a585a17cc8f68561  Template/Mission00-01.tpt
+81a0b660df7d3161a76322349ab600d5610a0737  Template/Normal.tpt
+fc0f14a34147f14bfe5a7e0458560b33b624b4c5  Template/Nuc-H-FAMASS-Flash.tpt
+5145b4e59350dd7ecbc233f2f3059c4cfb41b1d6  Template/Nuc-H-FAMASS-TEAR.tpt
+1c484dec543aec24698e1711505b3a0ab57a692e  Template/Nuc-H-FAMASSG2-AK47.tpt
+284d2089973c0a7bf095a87af843742e6ac1b6f3  Template/Nuc-H-FAMASSG2-G.tpt
+5145b4e59350dd7ecbc233f2f3059c4cfb41b1d6  Template/Nuc-H-FAMASSG2-Gas.tpt
+0026e33a40a7677d16b71a3d84f206f40f21b73b  Template/Nuc-H-FAMASSG2-Grenade3.tpt
+b272aa5bbc31a677d8bdd1fc7407e040cdd796f5  Template/Nuc-H-FAMASSG2.tpt
+820e40f528a77bf8d7d39d7167251133665b6eae  Template/Nuc-N-SubMac119-G.tpt
+7ab4435526c2a6a3fbd75b3c58a4eb7882990795  Template/Nuc-N-SubMac119.tpt
+5a524b43dade9037bf4f55ee454a27d468a031b5  Template/Nuc-S-AK47-G.tpt
+93129adf6cfae74b19b005297746a04796c77877  Template/Nuc-S-AK47-M.tpt
+41e8999d94b98fb62a8c9e67e38566cef6a37ecb  Template/Nuc-S-AK47.tpt
+daa9fbab4f38e78f6b45e4e39998c1a0bb6845a1  Template/Nuc-S-Dragunov.tpt
+618803f55962cc2a1797fdcfe5bce730e336befc  Template/Nuc-S-G3A3.tpt
+b03b19970fceacab30418b593a8a73039c0aa3d3  Template/Nuc-S-M82A1-G.tpt
+a71cfd639d86daa3e88286ceee305c0bec617ce2  Template/Nuc-SN-G3A3.tpt
+657113a7c1c41cc275cb12342291e5c9597cf884  Template/Nuc-THT.tpt
+c45d406cca154eb1019d8b6e92beba6dec3fc2c8  Template/Roc-Boss.tpt
+46026464a0208970c115d91bcc4276f734a4fa12  Template/Roc-CloseE.tpt
+078c9932cec30221f3417bd337ff37c746f3a691  Template/Roc-CloseH.tpt
+306e9b6baf29fc3f15b1ee56e380fb742f7c89fe  Template/Roc-Coward.tpt
+94a0481df95dc04017fd7c02b8a5938dd676b904  Template/Roc-Grenade.tpt
+c45d406cca154eb1019d8b6e92beba6dec3fc2c8  Template/Roc-HostageTaker.tpt
+5e6ed1a03d33fc120e7edbe1662d051a97611ecf  Template/Roc-LongE.tpt
+c6458b67e411b35559c9d9eb840dc5904a84729e  Template/Roc-LongEMask.tpt
+6a6def39f96c36c742505eeea616bc0d2f25ef48  Template/Roc-LongH.tpt
+b682cdb95eb85d737f33b2a44114041a81380f0c  Template/Roc-MolotovE.tpt
+b26df5b7a4202a69152d4eec5483aaa1ff0638a9  Template/Roc-MolotovEMask.tpt
+ba6832de5088cc07c25833c560c831dd2214dcb6  Template/Roc-RPG.tpt
+235f815b07a24c5f562372de6cf1ccd8f2239a43  Template/Roc-Sniper.tpt
+6cbebfb27946941aa216d97fc276cb121c46df6f  Template/Roc-THT.tpt
+88af46e3f56f704ed6e5169a5833f68bc965aaff  Template/Rui-H-LMG249.tpt
+18e3a1e565cd2ca395835d4dea220c8853de5a23  Template/Rui-H-M60-G.tpt
+7478bee72095beb8dc6a368d0d15dc35e8a91983  Template/Rui-N-AK47-G.tpt
+5b23f6db150b5fe2d60278cc34f9890b6235770d  Template/Rui-N-AK47-Mol.tpt
+8e73371c704a616327ed406c4d54467d50a87bc2  Template/Rui-N-AK47-Smoke.tpt
+447dce5e69f6ae473e90550afc30940027dc3cdd  Template/Rui-N-AK47-teargas.tpt
+af4e8d0de44fba9bcb810ae384028063ed84ee06  Template/Rui-N-AK47.tpt
+1c905fb612a3fda01a594d5ee9925f1b6eab0d45  Template/Rui-Pistol.tpt
+6491dcbcf012e57d7923f153bf626ef0e22c0b7e  Template/Rui-S-AK47.tpt
+fce6e77f4523aa59438ad11037282c0b7e0cb62e  Template/Rui-Sniper.tpt
+952fba42fd5ed80477844854f406257081a62ef4  Template/Rui_THT.tpt
+455382a159de0f2fb72e27308c50bf3a62138c94  Template/Sta-HostageHolders.tpt
+395f75730dc364509063584b81e40cb403b14b92  Template/Sta-N-AK47-Mol.tpt
+e8691d0e97715dffb89b734e2d723cc630d11d18  Template/Sta-N-AK47.tpt
+b9e43bfb7cc8025849d6c82909b1ba9dd851c0c0  Template/Sta-N-M60.tpt
+619bc9a9dbf7c89fcf46babad9af7acfe69c2009  Template/Sta-N-Mp5-G.tpt
+84f2512282209a57ee52aae98e20a0161f3171f4  Template/Sta-N-Mp5-Smoke.tpt
+d547fdc7bc48f610923d4a3158adcd06a39b4fa3  Template/Sta-N-Mp5-TearGas.tpt
+d8e9f22298b87a29ca64ac02939d3b79149de3b0  Template/Sta-N-Mp5.tpt
+f665b0e7ba9024c71c0663a3b4714e130fa390ab  Template/Sta-N-SR2.tpt
+cce1719b4a249c828bd9fcde4475651ab0968018  Template/Sta-Sniper.tpt
+a5b0e465eb81947aaf55afadce9cbeea63eff896  Template/Sta-THT.tpt
+7791f09288a940afda428207bc34b115b612c878  Template/Str-Grunt.tpt
+c46f21cf7bf48fbfc2263eb89c72215f1f185e92  Template/Str-Leader.tpt
+b56cf7e60735cbb1010581cb5e4794f5d082e1b2  Template/Str-Sentry.tpt
+943e1137e569403997c0432710897ed8c208b2f3  Template/Str-Sneak.tpt
+c8d03f64f72ba75e71039dbc8e78a6747709781d  Template/Str-Support.tpt
+bd4d1ecd1612b4bcdda853a404e2bccc48eef642  Template/Str-THT.tpt
+a75eadf4114578084c794bd260f0c2ff7c75f66e  Template/THT_base.tpt
+ba9e371e9ddbe7b5f0a3f6721c8c27bc2e28e2da  Template/THT_str.tpt
+3840bcd7a4a26749c92a3c63dc3021ea3e38a90a  Template/Training-1.tpt
+2570953d35f4a5dc31d831e32110fc155d3975a5  Template/Training-2.tpt
+c7a660c2c1c0cda728bc4da03cb4039a252723e7  Textures/2P_Streets_T.utx
+2fde512ccf98df54f674958050ffc66085121ca2  Textures/Agora_T.utx
+2baab1532e1d1f8186f014269d70a68521210a02  Textures/Agora_TSM.utx
+0c476999896a3a180b868cddc7bdbd9d68131b87  Textures/Airport_T.utx
+cbe8f0211f349c5f4bb23c262ea4eaf7f6e6cb37  Textures/Airport_TSM.utx
+c9313d25b74898874c571c3cf51495109d26eb5e  Textures/Airport_shader.utx
+bbf2ddc8738dc80c259be2f328d4db051848a3ec  Textures/Alpine_TSM.utx
+aea191654398e0bc57f19df85e29ccf5e41102ef  Textures/Alpines_T.utx
+18eba3fc851f16b227334af937dae9fbc617ae37  Textures/Bac_MP_T.utx
+23f0bdfe562a09a46225b95d47627737f6a1ed67  Textures/Bac_MP_TSM.utx
+856080a3332403390695d3691269fd230c059e0f  Textures/Bas_T.utx
+b35af6a601ec444b0f1e971a6ebf8ab2e6b76170  Textures/Bas_TSM.utx
+6f19fe28025be0a09beb924dd7cf78336175b334  Textures/C4_Bomb_TsM.utx
+a6cc9d5ba9650b6cee603d50fbdbdb19eeb3d34b  Textures/Caf_MP_T.utx
+9fc12691f8a2164cb0e72a590e82dbd456d8bc60  Textures/Caf_MP_TSM.utx
+e3af5ac6d61642988a0c15ef8247650b01cdc949  Textures/Castle_T.utx
+729382b45dd5a916e575f6b07fdd20bc17af7ef8  Textures/Castle_TSM.utx
+6ae56513b88c9ea008a89d16db1879df5bfd1893  Textures/CityStreet_shader.utx
+53bf84661b39030a985c7d4f53aea7026788332b  Textures/Color.utx
+12b68e9e60aaec1bb8a1c906f7635fa9ca7ff378  Textures/Common_TSM.utx
+6127953c355670b1699157a1b2b60a122914c9c4  Textures/CubeMaps.utx
+ec3ab4eff9d529ef22d291ff87c29ab3bb2e6ab7  Textures/DetailTexture.utx
+68614712c8a9492992e3156b9d672c47f6a11487  Textures/Fer_MP_T.utx
+22e596a81b2d5b23deb0935fbccd9bd45b4cfca6  Textures/Fer_MP_TsM.utx
+7f65b63aa7d10ecf72770099cc993bbee928d670  Textures/Game_Mod_Object_TSM.utx
+80d88fa4a5de44918828ef9c816f65336e532650  Textures/Garage_T.utx
+3ba59c531b4af5a81f2a7bef238bebd592a26ef4  Textures/Garage_TSM.utx
+db9ff640b569a4fe883e5d5c409cdb36b4158c68  Textures/Garage_shader.utx
+f51d33323300154fdc0ae5351cd1d76d3749cc54  Textures/Hotel_T.utx
+ac9eb0fc9d410778d33ab52b61a9db693431ac09  Textures/Hotel_TSM.utx
+d6c1f07b031b891b9f81428dcb1ecbbf100be827  Textures/Inventory_t.utx
+0efac67fdc8a69139512d46dce8212adfb3f4f4c  Textures/Kam_TSM.utx
+ee1ec2df34521958a0e97ac51bf89894ba411865  Textures/Kes_MP_T.utx
+24ef75ae08359350ed91ac6f22ba0988c3b587d7  Textures/Kes_MP_TSM.utx
+9d08cdc6152feae79e7df5379b86d351cf55850b  Textures/Mountain_high_shader.utx
+792347980828398592058182098f993c513a45ee  Textures/NuclearR_T.utx
+ba30b5ec00fa7b0dabea5e362a4bc194359473cd  Textures/NuclearR_TSM.utx
+8a409119a761be94d7d3c333f539576be65c4556  Textures/Obs_MP_T.utx
+d48b45ec652e73fe3f8dee8b06d1fe6c4365b6c0  Textures/Obs_MP_TSM.utx
+ec3b553ba9e73d7d3c5be185e43e1c8496a32a96  Textures/Office_Complex_T.utx
+2641d87944cf5e9b14b846f05224394e47edc8ff  Textures/Office_Complex_TSM.utx
+955a016b1dcac8314f882df298b92d8b69f3c0a6  Textures/Oil_Refinery_shaders.utx
+a57cc7dbae9f666cd059122cb904e90f5632d5c4  Textures/Peaks_T.utx
+139346eabbf735938f1842d0c8136936843098fc  Textures/Peaks_TSM.utx
+e689fbf14623c0eba560bc78c3520aeeea72b954  Textures/R61stWeapons_T.utx
+d09e398ff0980fdb6f4dff057fe4a0e4160b73c9  Textures/R63rdWeapons_t.utx
+b2baf49d1760e1745ec885c2acd5e22947339c4c  Textures/R6AlpineStaticMeshes.utx
+4154bfe2a81859ee292fbab6fd41b6931a7861ee  Textures/R6BlackHawk_T.utx
+ad95f801120317ff635f39603cd723cebeb82d73  Textures/R6BlackSnow.utx
+09543e3d7c30e218a92bd99f833e591cb169d28f  Textures/R6Characters_T.utx
+d9f167bb5ee14664864a63b9808ffcf41d81f3a7  Textures/R6Common_T.utx
+979c3a342afa25cc9b75617ed4ed7e016dcdc948  Textures/R6Engine_T.utx
+f342c996f7ae7322196e44c385175c0e87edf88d  Textures/R6FactoryEquipment.utx
+ad4db70ac92e7f4d5e1fd76e962b28bf2e37c2a3  Textures/R6Font.utx
+12e9f0cf7ca318515ae0a9a823a272938c3c4ecf  Textures/R6FontAsian.utx
+befdac231935a624199a74706ebbce6595b4eeaf  Textures/R6Grenades.utx
+23fd7833530d834dda5ba0e51668f8a4afd11d57  Textures/R6HUD.utx
+4197375bf0e6827bdf2ae396b0fdf1adf892aa31  Textures/R6JapCtrl.utx
+394226f622a5db30511c0a694553ed4c20756eaf  Textures/R6MenuBG.utx
+cb8025384f61bd4e50060d06cd8734742bb1b460  Textures/R6MenuOperative.utx
+23cd20f6ec4f285bf031153cc795ee3a835623aa  Textures/R6Planning.utx
+15161b29000d8901ca042493fa2fd807efe48621  Textures/R6SFX_T.utx
+05d1ba986e9b23790fdb2382b69402a6cfabd442  Textures/R6THeadAttachment_TSM.utx
+a888c99d2c8594218ad26cea446e67aa39259e13  Textures/R6TexturesReticule.utx
+da184450435c3b326600048e85ff289a5c04fbb9  Textures/R6Weapons_T.utx
+61d55ccf7df27c5f03bd63d0969073dca04080a9  Textures/R6_Common.utx
+7f8591e1bfabaab39fff0d75dd811ea039831a69  Textures/R6_Mission_SFX_TSM.utx
+9f1695dad9a0d75c057dfcbb487a4a48824ce201  Textures/R6_Textures_ActionObject.utx
+ecc7cba11f3b0dcfbb7a00ec26995881217156b9  Textures/R6_swiss_alpines.utx
+2a1091d3d221dbccea853cca8f3bdd95d3ee82bf  Textures/RS3Menus.utx
+53465f8b55b7270c7ed89b55229b6b9c04554c1b  Textures/Roc_T.utx
+c22b7b12f2c57dfb52e59cbf90f8eb8c4ec5569b  Textures/Roc_TSM.utx
+c6faa32e47f819d6f31fa733d9679edb42ad47b2  Textures/Ruins_T.utx
+22cfdab2b7923122e22780ebb170453d3be4073f  Textures/Ruins_TSM.utx
+dc82d14dcce675f9a98f520de8ff0cf8e7074194  Textures/Station_T.utx
+790deb764bd78baedd5de73102225c9efb2c0628  Textures/Station_TSM.utx
+dfc45a6b592c4cc5571cd19e7c320400c7fc8b0b  Textures/Str_MP_T.utx
+ae3f3d87b4c4f0fa771c14028a34b1bbe1519852  Textures/Str_MP_TSM.utx
+a195510dfe1699df637f27059b06984cf53c08b4  Textures/Streets_TSM.utx
+29d448808b80cb9a5c1c62b59e33b21de68ea5fb  Textures/SwissAlpine_shader.utx
+2d00fbe41f173cd60f6480279c07cd8663ba1f62  Textures/Test_ladder.utx
+b542bc6858b0e56c956819b7eddb68589929674c  Textures/TrainingBasics_T.utx
+bfb439732070fdef0e45459247e96cf5c7197d62  Textures/TrainingBasics_TSM.utx
+0986aa36ae07a02bafa6a23c3d9e40bec128f598  Textures/TrainingBasics_shader.utx
+687756796f7b50069c19c7200cd01277b80de22e  Textures/TrainingSP_SM_Custom.utx
+c689226a409c6a6c0e5c579cf4dcf9b8c1e31a96  Textures/TrainingSP_T.utx
+ba5fb8aefe43a15b162201f82226967abc1408da  Textures/TrainingSP_TSM.utx
+3d98cf9b1fc365a2882640db6f54769c16166d5f  Textures/Training_T.utx
+af804b72a2bbabb015550271bdac4345b641e1b0  Textures/Training_TSM_Custom.utx
+0a6eb7dc496918bdc8d2db59a620cb2ef41ba553  Textures/Warehouse_T.utx
+4a6bd3b312d58366153152831543df2d9aacdbc4  Textures/training_TSM.utx
+5a5e07e84f86ea9cf7ecfeb93e9385347a892c09  VIDEO/b_burn.xmv
+705e8722bd6e0a956588103b6dc42ebf80862872  VIDEO/b_close.xmv
+3b8c9c0eff5def27066e8cda03d1f1693e162465  VIDEO/b_crash.xmv
+cfe00a7cd3dc5d94fc42638184ee991ce20b51e1  VIDEO/b_ms3_xbox_uncom.xmv
+49c1259d106e4fc91f4d8ec7da8b871d23507ddb  VIDEO/b_nfs.xmv
+f2d4ebf187b21a225050bfda62effa88c47277ac  VIDEO/b_oddworld-50.xmv
+e45d5b21ab4a23845f0a10e75fe75c8270b673b0  VIDEO/b_outlaw_golf.xmv
+2c018c6e38b76ed3316274a745dd427af96dcfbb  VIDEO/b_pm-1-osky.xmv
+a3fae7f97a66bdf9a488ad8e38796dd87c35ff3c  VIDEO/b_pm-2-sr.xmv
+c9de11af7605fcd718b59ecfbdd482fb69aeedb2  VIDEO/b_pm-3-ac.xmv
+0b34f6c832f8af2b8c79709d2226018384033b39  VIDEO/b_pm-4-am.xmv
+57fb50b81569cd4180db42b9745993aa9c8d5ce4  VIDEO/b_pm-5-ms.xmv
+395e4acfc763d6c5ac6e27aa9d34980d8d36edea  VIDEO/b_pm-6-gk.xmv
+f9af4c82ecfa6207e4a97ba5fbc5ac5085182689  VIDEO/b_pm-7-dm.xmv
+f7a851a694f128d2c3f7b46cc72f32d41407a2d7  VIDEO/b_pm-8-halo.xmv
+3cd4d341a7887183b48a121877b928a69eafaee1  VIDEO/b_tronkillerapp081904.xmv
+25ebcfbb0a6bb391ea511e39ca3112690c82cb69  VIDEO/s_burn.xmv
+461a46a93e7ebf215bb8074234082f84f51cc0d1  VIDEO/s_close.xmv
+abdcf820a7520657983755e91d98b12499bf5b46  VIDEO/s_crash.xmv
+48dd42d9fab707be73be6e1c7b9e5da2668a375f  VIDEO/s_ms3_xbox_uncom.xmv
+9881d1eab64d79162784aae1efdd4e0725574a7c  VIDEO/s_nfs.xmv
+7e553f4be5edc5adc77f165e4d59d42ad20efa68  VIDEO/s_oddworld-50.xmv
+bb76a72495e5b64cac09f63d06940b1557dca77a  VIDEO/s_outlaw_golf.xmv
+dfb66b9f16912507b65577f508e87742c6f078fb  VIDEO/s_playmore_bb.xmv
+eaf764907b749388aba08c7f9ce7f271251ae24f  VIDEO/s_tronkillerapp081904.xmv
+ad57abacb430d99d651874f0eab8c3b2445dd688  Videos/P_Main/BG_MainMenu.bik
+fb16e9f1a6eaccdbf0ff0e56bd0021524a817e07  Videos/P_Menus/BG_briefing.bik
+92ad45ae16086448baf107254fd0e52d80444307  Videos/P_Menus/BG_features.bik
+fb16e9f1a6eaccdbf0ff0e56bd0021524a817e07  Videos/P_Menus/BG_multiplayer.bik
+09f04d80dffac151e9b71f50e31fe49e9fd04154  Videos/P_Menus/BG_options.bik
+e3ebf69e2a01a022763c1596e7a13942859b6bbf  Videos/P_Menus/BG_profiles.bik
+09f04d80dffac151e9b71f50e31fe49e9fd04154  Videos/P_Menus/BG_statistics.bik
+209cfe3f15761184b8b71324948bd8f665180d58  Videos/P_Menus/GHOSTRECON.bik
+d3eee7f09a4db74b3d11c603f5c3a0d33885378b  Videos/P_Menus/video_back_menu3.bik
+e248384f3ffdd77edc4e82a52e04b28a372d3974  Videos/P_SlideShow/mission_03_01.bik
+5aacb6fd8fb22fe3b11f1991a64c5b191cf9fb69  Videos/P_SlideShow/mission_03_02.bik
+054aba3cd92fa30b42b1cb6f9ec53b9cc8995a49  Videos/P_SlideShow/mission_03_03.bik
+c02c6770f40d032afae532afc1f6f8a42f0161e9  Videos/P_SlideShow/mission_03_04.bik
+8a34a21e1d8bbd37e097c9654296b5239ffac4c7  Videos/P_SlideShow/mission_03_05.bik
+917e67630d3baaba01f64a6a92e200106f50da07  Videos/P_SlideShow/mission_03_06.bik
+06b492340e2721a8be19a9d6de5715b4e4a1cd2c  Videos/REDSTORM_LOGO.bik
+c57d9be746f25ce8c2340f69c77c8123807a55ce  Videos/UBI_LOGO.bik
+c5b18d1aed2e410b13d47349fad8202a626b349a  Videos/r63_P.bik
+6c22a445fdb36707ca93b4f9e82f7f6fa7794435  VoiceRec/XVoiceRecognitionBank_esp.xsr
+9390576869fe1b310dc7285089f0ed412494e38b  VoiceRec/XVoiceRecognitionBank_fra.xsr
+c810f432c24fcaf18c9351aa05524e11d2f1a035  VoiceRec/XVoiceRecognitionBank_int.xsr
+4662fedf2e76585a28ce7cdde9f8c6e04c8bcca9  dashupdate.xbe
+d385ea10ffb9e06f12390b69d34ed968dcc726b9  default.xbe
+973fa17d84489e5e3d1ef0dc4288fdf3353c87cc  demos/fifa/alocale/eal_dutp.mad
+1d0541a84eadfd831f0b5fba92676ba38e88d649  demos/fifa/alocale/eal_engp.mad
+59a2aad5fe78f839d7345415889c7ed5974bb330  demos/fifa/alocale/eal_frep.mad
+2a0250416b89d75754d1873a94dfcb14d53e8add  demos/fifa/alocale/eal_gerp.mad
+c2a07add5306a77cc69de3381c5b4a9825c0a748  demos/fifa/alocale/eal_itap.mad
+4b7fd69e939b26d27c39fa71d32f74a7cd2e8500  demos/fifa/alocale/eal_spap.mad
+b08c91ff787e556df2bd31d7f15667e7f9b9aace  demos/fifa/alocale/wn_engp.mad
+c5c6bf8f89894221e02da6956016168df88af1ea  demos/fifa/alocale/wn_frep.mad
+f7019449b9635d78dee6a1ca78e57e92e6e384af  demos/fifa/config.dat
+c7773de48940070bfac15be7c53c5d58c8b56d00  demos/fifa/data/audio/aemsbank.big
+f0f98fa3162a29908d6b0d238786b349904dcf1d  demos/fifa/data/audio/aemsstrm.big
+767616b90938486e49207fd8c01323e9bd447520  demos/fifa/data/audio/chants.big
+861a71a12bb6537122dbc9be27ec530c9efaa067  demos/fifa/data/audio/chants.bin
+f1adf0b7305fcf86880a5a45910676b1a84fd2ec  demos/fifa/data/audio/dat_eng.big
+974c2b140bf3f6f30c770de853a60fee9dbce85b  demos/fifa/data/audio/dat_fre.big
+513b459cf5ce35584a208b6b3b47d9d08393932f  demos/fifa/data/audio/hdr_eng.big
+c6695f5970cc237e8ec3f8073faf4e52146431d8  demos/fifa/data/audio/hdr_fre.big
+423b2b61dc42047b809d48bb056e1f5302c2e92b  demos/fifa/data/audio/mix_mot.ini
+2636aeb0b81c49e3975398dfad10345842acf962  demos/fifa/data/audio/music/PaulOak.asf
+43fb58189d4eb85eb994f565051784833f5ade60  demos/fifa/data/audio/music/songlist.bin
+5983649cd3aebf4b9ccc5147ead27d1a8faf4ea4  demos/fifa/data/audio/pbp_eng.evt
+3f3d1883ed014ea59c684b929e405d20086764aa  demos/fifa/data/audio/pbp_fre.evt
+5ce1a8a94360261bc6bb3904ad8f104de7c1140f  demos/fifa/data/bescene.cs
+94fd73ecd98da80db0533eae3aaa21f83c94d986  demos/fifa/data/cl.bin
+92bd85d0f13d4a668575a781e9b94d8c0b4ea738  demos/fifa/data/cmn/be/flag.ebo
+5541e7ff5837af61b78e2ea5169b9fc962a635c2  demos/fifa/data/cmn/be/iconperm.bin
+a9fd87200d34d12dc14ca936b2e66dacd7de3e90  demos/fifa/data/cmn/be/iconrela.bin
+6873ca6e5669f769f602d73138e4c8635491e0e5  demos/fifa/data/cmn/be/micndata.bin
+12097ff2bec1f291a6f71fecb6e4786ecd577f20  demos/fifa/data/cmn/be/motion.big
+b9c403cb597c99716861af6c021a075db86efd7a  demos/fifa/data/cmn/be/replayd.bin
+619c929e5f1615df38885026e42cad8357a1b6e8  demos/fifa/data/cmn/be/replayz.bin
+1a7843297f1312cc5e0ada285250a5c426fbc417  demos/fifa/data/cmn/be/script.bin
+b7ea49cfd80dd0c1aae11084b841423101debb0a  demos/fifa/data/cmn/be/sicndata.bin
+997f7b1357e1446a864364f88aed2b8f9e9f8cb0  demos/fifa/data/cmn/be/sim.bin
+9b1cb41e98f982d51ce3e1a48bd5c5fedbfaebfa  demos/fifa/data/cmn/be/tidbgawy.bin
+44a4f55ecadc2daa2b3c49ef5e552ac72c9c4657  demos/fifa/data/cmn/be/tidbghom.bin
+2ddb59077b45e8d34ce6f9cf8e21747f0f6fb5ee  demos/fifa/data/cmn/fe/dut.db
+09844df2a4aadbee61d037fa6adf0201940e095e  demos/fifa/data/cmn/fe/eng.db
+51abcd93b090c8b84d490a7567f575dc4fb2fd30  demos/fifa/data/cmn/fe/fre.db
+c731f140cddfd773b6142c35e5e2bdc7a53dafd8  demos/fifa/data/cmn/fe/ger.db
+08f158e711c003eda2b6bbe6ac2f2bde82ca8327  demos/fifa/data/cmn/fe/ita.db
+46a9b0358dee93fca0d14c1521bf04c9db3ce3b8  demos/fifa/data/cmn/fe/spa.db
+97424115360af7917da7607df5a84bde080147ff  demos/fifa/data/cmn/fifa.db
+b796bb06131c339a0bc4374d1e199f65329a933d  demos/fifa/data/cmn/ini.big
+0a180a1f5f4b7557c94e84d3af3d976edabd61ee  demos/fifa/data/cmn/ini_xbox.big
+a52470420dd7697b10d86242e8487eff9a41d973  demos/fifa/data/cmn/meta.db
+afd15c607f4bde2991696e49a33d906489810be4  demos/fifa/data/eaglrm.big
+8876bc2923714d4196f0704bd53b62900f5ac7b6  demos/fifa/data/fifa.fat
+5a956d3d64b8ac6cc20b0ebe19411d7e4ea74052  demos/fifa/data/gui/assets.big
+cfb62281dadde8f847d64f80d18ac22c7411c0e2  demos/fifa/data/gui/ea05_bod.ttf
+440facc325c50efaa0f69a83cadeb3f660baddd0  demos/fifa/data/gui/ea05_tit.ttf
+288f210593a7ae6f14f5a276971ad2f0aefc8e6a  demos/fifa/data/gui/easn.big
+933c4717e9c3f948845d443380b828ddf4ab7238  demos/fifa/data/gui/easnloc.big
+e9fd9c06eee12ea8ba64f493b82ce882944c75c0  demos/fifa/data/gui/fe_pre.big
+ebde0b4007926e2b10fd918f39f92fbdafc3de4c  demos/fifa/data/gui/gui.big
+92af3f3302f56ec07f5cfb0f7fa3c7f84641ca5e  demos/fifa/data/gui/preload2.big
+4865ed2f593c86a61040bd7762c40a5400ee361f  demos/fifa/data/zdata_01.bh
+546e3b82bfaf0d19aaf204e573d6446dd8fda9d6  demos/fifa/data/zdata_01.big
+d72810368f96c041ea47850e089d879eef712bee  demos/fifa/data/zdata_02.bh
+5aefcab5ef65cf80ae9a2ba54931c47f5efba83d  demos/fifa/data/zdata_02.big
+c3ed6aa45d9b7b5f1074e9ea7f999168d88d65f5  demos/fifa/data/zdata_04.bh
+9a5bbb80de5d42664c3756e4f9973a3091a4ad7a  demos/fifa/data/zdata_04.big
+0a06848237d42bd63cbc502e81e88f6c9ece2bf8  demos/fifa/data/zdata_05.bh
+6adf66936e2c02228fafba6b44edc75eb0b2f228  demos/fifa/data/zdata_05.big
+583fb997578f7fa4721f4b584acd1716e60e7f9b  demos/fifa/default.xbe
+b5bbd53b6173812d29e1148d95b6021f0d7591ee  doau/DOA2/2_VI_WIDE_B.sfd
+3ec5aaa2f31df6bb11b597e63cf8d7aeaf8b5a90  doau/DOA2/4_VI_STD_B.sfd
+0516455709f795499153bbf807cd2262cac5f40a  doau/DOA2/bgm.afs
+cf09d7534c6bc6ffd028895be6476e08b3666b0a  doau/DOA2/bgm.alg
+92b4ba3aa607f6411b27bb9524e0d2c9b3991f61  doau/DOA2/datadvd.afs
+74f1b6d6d2db04c9bb464237c95b9f390f30b345  doau/DOA2/datadvd.alg
+9dbd2bd85ac0353683a8cdea26b24ff170c186fa  doau/DOA2/datahdd.afs
+fea1c00756cd84ed34b71c42cc897fcf5ecf3d47  doau/DOA2/datahdd.alg
+90893337926ea9b51c99fd2069dee9182f1881ce  doau/DOA2/ninja.aix
+fc3ae549bf9d199b0b8a80895d4fffa2767fd6b0  doau/DOA2/voice.afs
+5dc0d607360c69acca052efbedae70ea53354ab8  doau/DOA2/voice.alg
+d9a78e55980c6db61d46edbbfb4fd3589c1089c6  doau/Media/ArialUni.Ttf
+d239cd6c71430a431a4a1d7e6ef878c695bd6aca  doau/Media/Fonts/Font.xpr
+026fc8656e31a60ad55e1273c26245396998c893  doau/Media/Sound.xsb
+ffdf72d1aae5c28f80d02665981fb540e8a1b998  doau/Media/Wave.xwb
+0fe600b4e9a2d8dc6b2c156387e5a825788c1eac  doau/Media/dlcustom.xpr
+28a1998bca087c9dd4d0cfec6bd4ff6cc0b02c67  doau/doa2.xbe
+c9ced797c38e9d965495ac98cebbc8f73485cc1d  doau/doau.png
+0ea3223b0fc733af7d2f2c0b35d4a06e21fadaf1  doau/doau.xbx
+ebb14a2dbf51f85bb9e85bc505b468c66ab55d9b  doau/doau20001.sim
+305c22a529433d4d9c769c646aa56972df2361ff  doau/doau20002.sim
+19ee0dd1d923a046ca155ad53ebc2d5eae8785b8  doau/xtalkamp.bin
+0de8c42daf086e27c1abfde1c5b5c91bd1aa2df4  dukes/async.big
+53f94a4018bb6d4982a6ab6d7264f26be217279f  dukes/dukes.png
+b460504206288d3d303aa3e2c0f09241b45dc6d3  dukes/dukes.xbe
+886a0b77862312f00cfd2cc837efbb2a688808cc  dukes/pre/xbox/intro/1i.pre
+d62a81437f6cf753b928bcb37f1d5942c57d2aa7  dukes/pre/xbox/misc/101112b.pre
+6d69c6f91a7ba3dcb0299f35722616ef39ad0cd7  dukes/pre/xbox/misc/default.pre
+831bff3a5974b3d3ee0d8ae1fddf92ad6ac9df53  dukes/pre/xbox/misc/frontend.pre
+4415e8688da24f3e6629e5bfe78921df5dcdad65  dukes/pre/xbox/misc/global.pre
+95e5dd9858b7a7dcbeb8b44d036cb07806f84888  dukes/pre/xbox/misc/lang.pre
+2329ec9f3c974e03c548d0971fb48da8586ece97  dukes/pre/xbox/misc/marketin.pre
+0267413472cc8a2bb235e84f75378fc9390e596a  dukes/pre/xbox/misc/uicommon.pre
+c5a86265855da494a0864952beab36623eec8eea  dukes/pre/xbox/mission/10.pre
+190ea7112c6a000b4c70b34868fdd45febfec7dc  euro36_meta.xbx
+0df8f6a120828f2fc1fc125075089f25a3dbfdaa  log_dukes.txt
+d9a78e55980c6db61d46edbbfb4fd3589c1089c6  media/ArialUni.ttf
+6a2c8a630fc0232ed579183fc733d3abf10086f1  media/Resource.xpr
+026fc8656e31a60ad55e1273c26245396998c893  media/Sound.xsb
+ffdf72d1aae5c28f80d02665981fb540e8a1b998  media/Wave.xwb
+a67a138be06c23f1d691ce54377cedc94c279344  media/data.gnd
+6256847d0685d78825283148bb25d7580db95dcb  media/dlcustom.xpr
+b27e258f1f1f4c080f9e1f6551b63189b8395dbb  media/dlres.xpr
+c476d95caf0ae40800f665835be91e72cbb389e5  media/dspimage.bin
+c476d95caf0ae40800f665835be91e72cbb389e5  media/dsstdfx.bin
+aa48accccf4843006fbcff1cd6932cac1d602c70  media/music.wma
+11ff60dfde3826dfc28cf6e845446509a2b42c30  media/reviews.csv
+7bf02ae786884613c6d5ece74a84debe36c2c504  r6demo.xbe
+8fc6ff727a82d965343ee5e5e4e8643351ac4475  update.xbe
+924390c518c7f709bc72292b57bde523ea8a33f8  xbedump.log
+0ffd99a34f7efe65330990069dabc2268c14ae63  xlogo_save.dds
+a4e048ab90ea9c5c92e23876e72dcbf96a0b6b28  xlogo_title.dds
